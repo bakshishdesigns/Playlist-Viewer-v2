@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Playlist Viewer</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to the CSS file -->
+</head>
+
+<body>
+    <div id="container">
+        <!-- Left pane for playlist selection -->
+        <div id="playlistContainer">
+            <h3>Playlists</h3>
+            <!-- Playlists will be loaded here dynamically -->
+        </div>
+
+        <!-- Right pane for song display -->
+        <div id="songContainer">
+            <!-- Top section for playlist name and sorting options -->
+            <div id="options">
+                <h2 id="playlistTitle">Select a Playlist</h2>
+                <!-- Dropdown for sorting options -->
+                <select id="sortOrder">
+                    <option value="nameAsc">Name (A-Z)</option>
+                    <option value="artistAsc">Artist (A-Z)</option>
+                    <option value="skipAsc">Skip Count (Ascending)</option>
+                    <option value="skipDesc">Skip Count (Descending)</option>
+                    <option value="playAsc">Play Count (Ascending)</option>
+                    <option value="playDesc">Play Count (Descending)</option>
+                </select>
+                <!-- Sort button -->
+                <button onclick="sortSongs()">Sort</button>
+            </div>
+            <!-- Container for displaying songs -->
+            <div id="songList"></div>
+        </div>
+    </div>
+    <script src="script.js"></script> <!-- Link to the JavaScript file -->
+</body>
+
+</html>

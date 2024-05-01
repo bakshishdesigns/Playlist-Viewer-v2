@@ -1,0 +1,1785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:23:10Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6391</key>
+		<dict>
+			<key>Track ID</key><integer>6391</integer>
+			<key>Name</key><string>Under the Bridge</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, John Frusciante, Chad Smith &#38; Flea</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10097302</integer>
+			<key>Total Time</key><integer>273657</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2017-05-21T19:24:47Z</date>
+			<key>Date Added</key><date>2017-09-05T08:45:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>124</integer>
+			<key>Play Date</key><integer>3756426901</integer>
+			<key>Play Date UTC</key><date>2023-01-12T22:25:01Z</date>
+			<key>Skip Count</key><integer>13</integer>
+			<key>Skip Date</key><date>2021-09-04T05:53:28Z</date>
+			<key>Release Date</key><date>1991-09-24T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Greatest Hits</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Under the Bridge</string>
+			<key>Persistent ID</key><string>32C8944D25D0B4E1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6445</key>
+		<dict>
+			<key>Track ID</key><integer>6445</integer>
+			<key>Name</key><string>Drive Home</string>
+			<key>Artist</key><string>Steven Wilson</string>
+			<key>Album Artist</key><string>Steven Wilson</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>The Raven That Refused to Sing (and Other Stories) [Deluxe Edition]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15749125</integer>
+			<key>Total Time</key><integer>457250</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2017-05-21T19:24:53Z</date>
+			<key>Date Added</key><date>2017-05-22T04:55:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>123</integer>
+			<key>Play Date</key><integer>3756480876</integer>
+			<key>Play Date UTC</key><date>2023-01-13T13:24:36Z</date>
+			<key>Skip Count</key><integer>27</integer>
+			<key>Skip Date</key><date>2021-01-20T11:16:11Z</date>
+			<key>Release Date</key><date>2013-02-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Raven That Refused to Sing (and Other Stories) [Deluxe Edition]</string>
+			<key>Sort Artist</key><string>Steven Wilson</string>
+			<key>Sort Name</key><string>Drive Home</string>
+			<key>Persistent ID</key><string>F14B0954C56EFAE8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6447</key>
+		<dict>
+			<key>Track ID</key><integer>6447</integer>
+			<key>Name</key><string>The Watchmaker</string>
+			<key>Artist</key><string>Steven Wilson</string>
+			<key>Album Artist</key><string>Steven Wilson</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>The Raven That Refused to Sing (and Other Stories) [Deluxe Edition]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>24512998</integer>
+			<key>Total Time</key><integer>702004</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2017-05-21T19:24:53Z</date>
+			<key>Date Added</key><date>2017-05-29T18:47:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>112</integer>
+			<key>Play Date</key><integer>3757602894</integer>
+			<key>Play Date UTC</key><date>2023-01-26T13:04:54Z</date>
+			<key>Skip Count</key><integer>26</integer>
+			<key>Skip Date</key><date>2022-06-17T04:18:49Z</date>
+			<key>Release Date</key><date>2013-02-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Raven That Refused to Sing (and Other Stories) [Deluxe Edition]</string>
+			<key>Sort Artist</key><string>Steven Wilson</string>
+			<key>Sort Name</key><string>Watchmaker</string>
+			<key>Persistent ID</key><string>95468C411BC20CB6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6449</key>
+		<dict>
+			<key>Track ID</key><integer>6449</integer>
+			<key>Name</key><string>The Raven That Refused to Sing</string>
+			<key>Artist</key><string>Steven Wilson</string>
+			<key>Album Artist</key><string>Steven Wilson</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>The Raven That Refused to Sing (and Other Stories) [Deluxe Edition]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>16313822</integer>
+			<key>Total Time</key><integer>477104</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2017-05-21T19:24:53Z</date>
+			<key>Date Added</key><date>2017-05-22T04:47:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>82</integer>
+			<key>Play Date</key><integer>3756433250</integer>
+			<key>Play Date UTC</key><date>2023-01-13T00:10:50Z</date>
+			<key>Skip Count</key><integer>37</integer>
+			<key>Skip Date</key><date>2023-01-13T13:16:12Z</date>
+			<key>Release Date</key><date>2013-02-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Raven That Refused to Sing (and Other Stories) [Deluxe Edition]</string>
+			<key>Sort Artist</key><string>Steven Wilson</string>
+			<key>Sort Name</key><string>Raven That Refused to Sing</string>
+			<key>Persistent ID</key><string>4467185F56006F32</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6693</key>
+		<dict>
+			<key>Track ID</key><integer>6693</integer>
+			<key>Name</key><string>Stairway to Heaven</string>
+			<key>Artist</key><string>Led Zeppelin</string>
+			<key>Album Artist</key><string>Led Zeppelin</string>
+			<key>Composer</key><string>Jimmy Page &#38; Robert Plant</string>
+			<key>Album</key><string>Led Zeppelin IV (Remastered)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>18806984</integer>
+			<key>Total Time</key><integer>482830</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2017-05-27T15:15:53Z</date>
+			<key>Date Added</key><date>2017-05-27T15:15:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>46</integer>
+			<key>Play Date</key><integer>3738300054</integer>
+			<key>Play Date UTC</key><date>2022-06-17T03:10:54Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2021-03-19T19:04:11Z</date>
+			<key>Release Date</key><date>1971-11-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Led Zeppelin IV (Remastered)</string>
+			<key>Sort Artist</key><string>Led Zeppelin</string>
+			<key>Sort Name</key><string>Stairway to Heaven</string>
+			<key>Persistent ID</key><string>C97E5AB584F5E0E8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6737</key>
+		<dict>
+			<key>Track ID</key><integer>6737</integer>
+			<key>Name</key><string>Pariah (feat. Ninet Tayeb)</string>
+			<key>Artist</key><string>Steven Wilson</string>
+			<key>Album Artist</key><string>Steven Wilson</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>To the Bone</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9794093</integer>
+			<key>Total Time</key><integer>286225</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-06-05T18:27:45Z</date>
+			<key>Date Added</key><date>2017-06-05T18:27:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>283</integer>
+			<key>Play Date</key><integer>3760986051</integer>
+			<key>Play Date UTC</key><date>2023-03-06T16:50:51Z</date>
+			<key>Skip Count</key><integer>34</integer>
+			<key>Skip Date</key><date>2022-10-05T17:52:46Z</date>
+			<key>Release Date</key><date>2017-05-09T12:00:00Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>To the Bone</string>
+			<key>Sort Artist</key><string>Steven Wilson</string>
+			<key>Sort Name</key><string>Pariah (feat. Ninet Tayeb)</string>
+			<key>Persistent ID</key><string>AFDC2EAF70C00DBC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6915</key>
+		<dict>
+			<key>Track ID</key><integer>6915</integer>
+			<key>Name</key><string>Breathe Me</string>
+			<key>Artist</key><string>Sia</string>
+			<key>Album Artist</key><string>Sia</string>
+			<key>Composer</key><string>Sia Furler &#38; Dan Carey</string>
+			<key>Album</key><string>Colour The Small One</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9963233</integer>
+			<key>Total Time</key><integer>272800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2017-06-19T18:52:52Z</date>
+			<key>Date Added</key><date>2017-06-19T18:52:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>74</integer>
+			<key>Play Date</key><integer>3756433754</integer>
+			<key>Play Date UTC</key><date>2023-01-13T00:19:14Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2023-01-26T12:53:11Z</date>
+			<key>Release Date</key><date>2004-01-19T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Colour The Small One</string>
+			<key>Sort Artist</key><string>Sia</string>
+			<key>Sort Name</key><string>Breathe Me</string>
+			<key>Persistent ID</key><string>074C9C5580AA01EE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7131</key>
+		<dict>
+			<key>Track ID</key><integer>7131</integer>
+			<key>Name</key><string>The Spirit Carries On</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>James LaBrie, John Myung, John Petrucci, Jordan Rudess &#38; Mike Portnoy</string>
+			<key>Album</key><string>Greatest Hit (...and 21 Other Pretty Cool Songs) [Remastered]</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14751671</integer>
+			<key>Total Time</key><integer>399960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-07-20T20:05:54Z</date>
+			<key>Date Added</key><date>2017-07-20T20:05:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3745288034</integer>
+			<key>Play Date UTC</key><date>2022-09-06T00:17:14Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-12-08T13:29:17Z</date>
+			<key>Release Date</key><date>1999-10-26T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Greatest Hit (...and 21 Other Pretty Cool Songs) [Remastered]</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Spirit Carries On</string>
+			<key>Persistent ID</key><string>172D4A907BE54F40</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7145</key>
+		<dict>
+			<key>Track ID</key><integer>7145</integer>
+			<key>Name</key><string>Another Day</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Images and Words</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9882619</integer>
+			<key>Total Time</key><integer>263120</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2017-07-22T06:24:29Z</date>
+			<key>Date Added</key><date>2017-07-22T06:24:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3747777601</integer>
+			<key>Play Date UTC</key><date>2022-10-04T19:50:01Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2019-08-10T11:20:05Z</date>
+			<key>Release Date</key><date>1992-07-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Images and Words</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Another Day</string>
+			<key>Persistent ID</key><string>2E8848B8843FBD86</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7153</key>
+		<dict>
+			<key>Track ID</key><integer>7153</integer>
+			<key>Name</key><string>Wither</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Black Clouds &#38; Silver Linings (Special Edition)</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11557316</integer>
+			<key>Total Time</key><integer>325912</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2017-07-22T06:24:43Z</date>
+			<key>Date Added</key><date>2017-07-22T06:24:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>112</integer>
+			<key>Play Date</key><integer>3757591206</integer>
+			<key>Play Date UTC</key><date>2023-01-26T09:50:06Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2023-01-17T15:24:22Z</date>
+			<key>Release Date</key><date>2009-06-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Clouds &#38; Silver Linings (Special Edition)</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Wither</string>
+			<key>Persistent ID</key><string>7EAA2D728B200761</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7545</key>
+		<dict>
+			<key>Track ID</key><integer>7545</integer>
+			<key>Name</key><string>To Be with You</string>
+			<key>Artist</key><string>Mr. Big</string>
+			<key>Album Artist</key><string>Mr. Big</string>
+			<key>Composer</key><string>David Grahame &#38; Eric Martin</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7606531</integer>
+			<key>Total Time</key><integer>206973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2019-04-03T09:32:19Z</date>
+			<key>Date Added</key><date>2019-04-03T09:32:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>50</integer>
+			<key>Play Date</key><integer>3748310440</integer>
+			<key>Play Date UTC</key><date>2022-10-10T23:50:40Z</date>
+			<key>Release Date</key><date>1991-03-26T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Greatest Hits</string>
+			<key>Sort Artist</key><string>Mr. Big</string>
+			<key>Sort Name</key><string>To Be with You</string>
+			<key>Persistent ID</key><string>223499F65EBEE4D3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7703</key>
+		<dict>
+			<key>Track ID</key><integer>7703</integer>
+			<key>Name</key><string>Still Loving You</string>
+			<key>Artist</key><string>Scorpions</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Rudolf Schenker</string>
+			<key>Album</key><string>Rock Clássico</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14637097</integer>
+			<key>Total Time</key><integer>402613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>79</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2019-04-18T02:58:03Z</date>
+			<key>Date Added</key><date>2019-04-18T02:58:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3745278470</integer>
+			<key>Play Date UTC</key><date>2022-09-05T21:37:50Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-12-03T19:14:33Z</date>
+			<key>Release Date</key><date>1984-03-27T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rock Clássico</string>
+			<key>Sort Artist</key><string>Scorpions</string>
+			<key>Sort Name</key><string>Still Loving You</string>
+			<key>Persistent ID</key><string>1D7F28825B032881</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8441</key>
+		<dict>
+			<key>Track ID</key><integer>8441</integer>
+			<key>Name</key><string>Police Station</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>I'm with You</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12873198</integer>
+			<key>Total Time</key><integer>335894</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-07-18T06:29:53Z</date>
+			<key>Date Added</key><date>2019-07-18T06:29:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3745280071</integer>
+			<key>Play Date UTC</key><date>2022-09-05T22:04:31Z</date>
+			<key>Release Date</key><date>2011-08-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I'm with You</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Police Station</string>
+			<key>Persistent ID</key><string>866756A3FF5AFA85</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8453</key>
+		<dict>
+			<key>Track ID</key><integer>8453</integer>
+			<key>Name</key><string>Encore</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>The Getaway</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8815913</integer>
+			<key>Total Time</key><integer>254880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-07-18T06:32:24Z</date>
+			<key>Date Added</key><date>2019-07-18T06:32:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3726524700</integer>
+			<key>Play Date UTC</key><date>2022-01-31T20:15:00Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-06-13T21:47:05Z</date>
+			<key>Release Date</key><date>2016-06-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Getaway</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Encore</string>
+			<key>Persistent ID</key><string>E032D9FFB496CD64</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8463</key>
+		<dict>
+			<key>Track ID</key><integer>8463</integer>
+			<key>Name</key><string>Tearjerker</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Dave Navarro &#38; Flea</string>
+			<key>Album</key><string>One Hot Minute (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9266227</integer>
+			<key>Total Time</key><integer>259098</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2019-07-18T06:33:51Z</date>
+			<key>Date Added</key><date>2019-07-18T06:33:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>90</integer>
+			<key>Play Date</key><integer>3756833929</integer>
+			<key>Play Date UTC</key><date>2023-01-17T15:28:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-11-02T22:43:59Z</date>
+			<key>Release Date</key><date>1995-09-12T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>One Hot Minute (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Tearjerker</string>
+			<key>Persistent ID</key><string>51A3E3D1C413EF20</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9505</key>
+		<dict>
+			<key>Track ID</key><integer>9505</integer>
+			<key>Name</key><string>How Deep Is Your Love</string>
+			<key>Artist</key><string>Bee Gees</string>
+			<key>Album Artist</key><string>Bee Gees</string>
+			<key>Composer</key><string>Barry Gibb, Robin Gibb &#38; Maurice Gibb</string>
+			<key>Album</key><string>Greatest</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9910259</integer>
+			<key>Total Time</key><integer>245200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2019-08-15T11:28:53Z</date>
+			<key>Date Added</key><date>2019-08-15T11:28:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>46</integer>
+			<key>Play Date</key><integer>3745276439</integer>
+			<key>Play Date UTC</key><date>2022-09-05T21:03:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-08-23T08:20:06Z</date>
+			<key>Release Date</key><date>1977-09-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Greatest</string>
+			<key>Sort Artist</key><string>Bee Gees</string>
+			<key>Sort Name</key><string>How Deep Is Your Love</string>
+			<key>Persistent ID</key><string>2476028230B9A834</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9689</key>
+		<dict>
+			<key>Track ID</key><integer>9689</integer>
+			<key>Name</key><string>It's Time (feat. Sia, Diplo &#38; Labrinth)</string>
+			<key>Artist</key><string>LSD</string>
+			<key>Album Artist</key><string>LSD</string>
+			<key>Composer</key><string>Timothy Mckenzie, Sia &#38; Thomas Wesley Pentz</string>
+			<key>Album</key><string>LABRINTH, SIA &#38; DIPLO PRESENT... LSD</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7302750</integer>
+			<key>Total Time</key><integer>209704</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-09-13T18:55:33Z</date>
+			<key>Date Added</key><date>2019-09-13T18:55:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>49</integer>
+			<key>Play Date</key><integer>3752192540</integer>
+			<key>Play Date UTC</key><date>2022-11-24T22:12:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-03-08T20:45:18Z</date>
+			<key>Release Date</key><date>2019-04-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>LABRINTH, SIA &#38; DIPLO PRESENT... LSD</string>
+			<key>Sort Artist</key><string>LSD</string>
+			<key>Sort Name</key><string>It's Time (feat. Sia, Diplo &#38; Labrinth)</string>
+			<key>Persistent ID</key><string>53103C3C2901533E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11703</key>
+		<dict>
+			<key>Track ID</key><integer>11703</integer>
+			<key>Name</key><string>The Same Asylum As Before</string>
+			<key>Artist</key><string>Steven Wilson</string>
+			<key>Album Artist</key><string>Steven Wilson</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>To the Bone</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11475205</integer>
+			<key>Total Time</key><integer>314479</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2021-02-01T06:00:20Z</date>
+			<key>Date Added</key><date>2021-02-01T06:00:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3745287306</integer>
+			<key>Play Date UTC</key><date>2022-09-06T00:05:06Z</date>
+			<key>Release Date</key><date>2017-08-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>To the Bone</string>
+			<key>Sort Artist</key><string>Steven Wilson</string>
+			<key>Sort Name</key><string>Same Asylum As Before</string>
+			<key>Persistent ID</key><string>C5EB76BE5E671372</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11729</key>
+		<dict>
+			<key>Track ID</key><integer>11729</integer>
+			<key>Name</key><string>Serotonia</string>
+			<key>Artist</key><string>Highly Suspect</string>
+			<key>Album Artist</key><string>Highly Suspect</string>
+			<key>Composer</key><string>Johnny Stevens, Richard Meyer &#38; Ryan Meyer</string>
+			<key>Album</key><string>The Boy Who Died Wolf</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12435813</integer>
+			<key>Total Time</key><integer>353827</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2021-02-12T05:33:34Z</date>
+			<key>Date Added</key><date>2021-02-12T05:33:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3745281764</integer>
+			<key>Play Date UTC</key><date>2022-09-05T22:32:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-06-13T21:51:17Z</date>
+			<key>Release Date</key><date>2016-03-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Boy Who Died Wolf</string>
+			<key>Sort Artist</key><string>Highly Suspect</string>
+			<key>Sort Name</key><string>Serotonia</string>
+			<key>Persistent ID</key><string>1906824D7F0DEEA4</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>13345</key>
+		<dict>
+			<key>Track ID</key><integer>13345</integer>
+			<key>Name</key><string>Castle Of Glass</string>
+			<key>Artist</key><string>Linkin Park</string>
+			<key>Album</key><string>Living Things</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8776654</integer>
+			<key>Total Time</key><integer>205479</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2013-01-24T20:31:58Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>87</integer>
+			<key>Play Date</key><integer>3756831206</integer>
+			<key>Play Date UTC</key><date>2023-01-17T14:43:26Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2022-02-02T05:05:39Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>78B372196F7554B2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13357</key>
+		<dict>
+			<key>Track ID</key><integer>13357</integer>
+			<key>Name</key><string>Powerless</string>
+			<key>Artist</key><string>Linkin Park</string>
+			<key>Album</key><string>Living Things</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9535414</integer>
+			<key>Total Time</key><integer>224548</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-12-22T10:25:36Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>91</integer>
+			<key>Play Date</key><integer>3752248984</integer>
+			<key>Play Date UTC</key><date>2022-11-25T13:53:04Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2022-02-02T05:03:02Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>688348FA8352043C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13397</key>
+		<dict>
+			<key>Track ID</key><integer>13397</integer>
+			<key>Name</key><string>State of Grace</string>
+			<key>Artist</key><string>Liquid Tension Experiment</string>
+			<key>Album</key><string>Liquid Tension Experiment</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12082866</integer>
+			<key>Total Time</key><integer>301923</integer>
+			<key>Date Modified</key><date>2012-12-22T08:49:04Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>145</integer>
+			<key>Play Date</key><integer>3759768764</integer>
+			<key>Play Date UTC</key><date>2023-02-20T14:42:44Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-06-27T20:22:37Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>32AB8A8A50A8B21F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>14011</key>
+		<dict>
+			<key>Track ID</key><integer>14011</integer>
+			<key>Name</key><string>but it rained</string>
+			<key>Artist</key><string>Parikrama</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6990305</integer>
+			<key>Total Time</key><integer>425195</integer>
+			<key>Date Modified</key><date>2013-01-26T18:14:12Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Play Count</key><integer>61</integer>
+			<key>Play Date</key><integer>3748292813</integer>
+			<key>Play Date UTC</key><date>2022-10-10T18:56:53Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2021-01-25T09:49:07Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E8CF9EDB0B4AF93C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>14207</key>
+		<dict>
+			<key>Track ID</key><integer>14207</integer>
+			<key>Name</key><string>Mellotron Scratch</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>Deadwing</string>
+			<key>Genre</key><string>Progressive Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10012069</integer>
+			<key>Total Time</key><integer>417097</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2009-05-23T12:34:00Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3745285011</integer>
+			<key>Play Date UTC</key><date>2022-09-05T23:26:51Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-08-08T10:10:27Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F4FD60C694C19B8F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>14327</key>
+		<dict>
+			<key>Track ID</key><integer>14327</integer>
+			<key>Name</key><string>The Sound of Muzak</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>In Absentia</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4851313</integer>
+			<key>Total Time</key><integer>299102</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-10-31T15:51:40Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Comments</key><string> 00000000 00000210 000008A0 0000000000C93A50 00000000 0048F8D2 00000000 00000000 00000000 00000000 00000000 00000000</string>
+			<key>Play Count</key><integer>90</integer>
+			<key>Play Date</key><integer>3759910394</integer>
+			<key>Play Date UTC</key><date>2023-02-22T06:03:14Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2022-05-29T08:58:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Sound of Muzak</string>
+			<key>Persistent ID</key><string>7EF434A6AB9778E1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>14331</key>
+		<dict>
+			<key>Track ID</key><integer>14331</integer>
+			<key>Name</key><string>Gravity Eyelids</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>In Absentia</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7696704</integer>
+			<key>Total Time</key><integer>476786</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-10-31T15:51:46Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Comments</key><string> 00000000 00000210 0000072C 000000000140CCC4 00000000 00745A20 00000000 00000000 00000000 00000000 00000000 00000000</string>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3748308856</integer>
+			<key>Play Date UTC</key><date>2022-10-10T23:24:16Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2022-09-06T13:58:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3855CD26B5075EA5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>14701</key>
+		<dict>
+			<key>Track ID</key><integer>14701</integer>
+			<key>Name</key><string>Piano Lessons</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Stupid Dream</string>
+			<key>Genre</key><string>Progressive Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7041848</integer>
+			<key>Total Time</key><integer>262556</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2012-11-08T15:51:28Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>214</integer>
+			<key>Comments</key><string>please support small labels</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3738302520</integer>
+			<key>Play Date UTC</key><date>2022-06-17T03:52:00Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-12-08T08:03:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4A877D9CACE4B2FE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>14729</key>
+		<dict>
+			<key>Track ID</key><integer>14729</integer>
+			<key>Name</key><string>Baby Dream is Cellophane</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Stupid Dream</string>
+			<key>Genre</key><string>Progressive Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5345373</integer>
+			<key>Total Time</key><integer>193253</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-01-24T21:27:02Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>221</integer>
+			<key>Comments</key><string>please support small labels</string>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3745336723</integer>
+			<key>Play Date UTC</key><date>2022-09-06T13:48:43Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-01-28T05:27:04Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>55EDE30B960A7F16</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>14733</key>
+		<dict>
+			<key>Track ID</key><integer>14733</integer>
+			<key>Name</key><string>Stranger by The Minute</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Stupid Dream</string>
+			<key>Genre</key><string>Progressive Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7249576</integer>
+			<key>Total Time</key><integer>270654</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-01-24T20:32:00Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>214</integer>
+			<key>Comments</key><string>please support small labels</string>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3757603165</integer>
+			<key>Play Date UTC</key><date>2023-01-26T13:09:25Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D694FBF08B5EF310</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>15231</key>
+		<dict>
+			<key>Track ID</key><integer>15231</integer>
+			<key>Name</key><string>Snow (Hey Oh)</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album</key><string>Stadium Arcadium</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8101403</integer>
+			<key>Total Time</key><integer>334759</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-01-27T14:48:07Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Comments</key><string>Ripped By WiGGELS!</string>
+			<key>Play Count</key><integer>77</integer>
+			<key>Play Date</key><integer>3748297381</integer>
+			<key>Play Date UTC</key><date>2022-10-10T20:13:01Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2022-01-26T05:17:36Z</date>
+			<key>Normalization</key><integer>6261</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1FAC6145F0CD1556</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>18207</key>
+		<dict>
+			<key>Track ID</key><integer>18207</integer>
+			<key>Name</key><string>Routine</string>
+			<key>Artist</key><string>Steven Wilson</string>
+			<key>Album Artist</key><string>Steven Wilson</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>Hand. Cannot. Erase. (Deluxe Edition)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>18404511</integer>
+			<key>Total Time</key><integer>538048</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2017-09-01T17:11:58Z</date>
+			<key>Date Added</key><date>2017-09-01T17:11:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3745280609</integer>
+			<key>Play Date UTC</key><date>2022-09-05T22:13:29Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-02-01T14:44:51Z</date>
+			<key>Release Date</key><date>2015-02-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hand. Cannot. Erase. (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Steven Wilson</string>
+			<key>Sort Name</key><string>Routine</string>
+			<key>Persistent ID</key><string>4334F69B20838C64</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18419</key>
+		<dict>
+			<key>Track ID</key><integer>18419</integer>
+			<key>Name</key><string>Octavarium</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>James LaBrie, John Myung, John Petrucci, Jordan Rudess &#38; Mike Portnoy</string>
+			<key>Album</key><string>Octavarium</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>51956448</integer>
+			<key>Total Time</key><integer>1440013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:29Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3747777337</integer>
+			<key>Play Date UTC</key><date>2022-10-04T19:45:37Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-09-27T20:36:30Z</date>
+			<key>Release Date</key><date>2005-06-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Octavarium</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Octavarium</string>
+			<key>Persistent ID</key><string>A5EBB5EE9CC5BCFC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18505</key>
+		<dict>
+			<key>Track ID</key><integer>18505</integer>
+			<key>Name</key><string>Scene Eight: The Spirit Carries On</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Dream Theater</string>
+			<key>Album</key><string>Metropolis, Pt. 2: Scenes from a Memory</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14652181</integer>
+			<key>Total Time</key><integer>398267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:43Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>47</integer>
+			<key>Play Date</key><integer>3746532642</integer>
+			<key>Play Date UTC</key><date>2022-09-20T10:00:42Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-02-23T12:11:26Z</date>
+			<key>Release Date</key><date>1999-10-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Metropolis, Pt. 2: Scenes from a Memory</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Scene Eight: The Spirit Carries On</string>
+			<key>Persistent ID</key><string>21F984D9F6BE0467</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18513</key>
+		<dict>
+			<key>Track ID</key><integer>18513</integer>
+			<key>Name</key><string>Peruvian Skies</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Dream Theater &#38; John Petrucci</string>
+			<key>Album</key><string>Falling Into Infinity</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14443850</integer>
+			<key>Total Time</key><integer>403067</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:54Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3752340438</integer>
+			<key>Play Date UTC</key><date>2022-11-26T15:17:18Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2020-03-04T05:13:04Z</date>
+			<key>Release Date</key><date>1997-09-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Falling Into Infinity</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Peruvian Skies</string>
+			<key>Persistent ID</key><string>8509586B4524F4D2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18515</key>
+		<dict>
+			<key>Track ID</key><integer>18515</integer>
+			<key>Name</key><string>Hollow Years</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Dream Theater, John Myung, John Petrucci, Labrie &#38; Sherinian</string>
+			<key>Album</key><string>Falling Into Infinity</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13783783</integer>
+			<key>Total Time</key><integer>353867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:54Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>66</integer>
+			<key>Play Date</key><integer>3745282878</integer>
+			<key>Play Date UTC</key><date>2022-09-05T22:51:18Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-10-03T02:42:10Z</date>
+			<key>Release Date</key><date>1997-09-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Falling Into Infinity</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Hollow Years</string>
+			<key>Persistent ID</key><string>8E259287BB77D1E9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18717</key>
+		<dict>
+			<key>Track ID</key><integer>18717</integer>
+			<key>Name</key><string>...Like Clockwork</string>
+			<key>Artist</key><string>Queens of the Stone Age</string>
+			<key>Album Artist</key><string>Queens of the Stone Age</string>
+			<key>Album</key><string>…Like Clockwork</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11100846</integer>
+			<key>Total Time</key><integer>324312</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2017-09-09T02:58:21Z</date>
+			<key>Date Added</key><date>2017-09-09T02:58:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>84</integer>
+			<key>Play Date</key><integer>3759749511</integer>
+			<key>Play Date UTC</key><date>2023-02-20T09:21:51Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-12-17T08:00:07Z</date>
+			<key>Release Date</key><date>2013-05-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>…Like Clockwork</string>
+			<key>Sort Artist</key><string>Queens of the Stone Age</string>
+			<key>Sort Name</key><string>...Like Clockwork</string>
+			<key>Persistent ID</key><string>C3D9CE2336A5E918</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19213</key>
+		<dict>
+			<key>Track ID</key><integer>19213</integer>
+			<key>Name</key><string>Arriving Somewhere But Not Here</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Deadwing</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>25199442</integer>
+			<key>Total Time</key><integer>722200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-10-07T10:11:34Z</date>
+			<key>Date Added</key><date>2017-10-07T10:11:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3745277161</integer>
+			<key>Play Date UTC</key><date>2022-09-05T21:16:01Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2019-11-15T17:54:50Z</date>
+			<key>Release Date</key><date>2005-03-28T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Deadwing</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Arriving Somewhere But Not Here</string>
+			<key>Persistent ID</key><string>F046A25E04F69103</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19437</key>
+		<dict>
+			<key>Track ID</key><integer>19437</integer>
+			<key>Name</key><string>Lune</string>
+			<key>Artist</key><string>Periphery</string>
+			<key>Album Artist</key><string>Periphery</string>
+			<key>Composer</key><string>Misha Mansoor, Matt Halpern, Adam Getgood, Mark Holcomb, Jake Bowen &#38; Spencer Sotelo</string>
+			<key>Album</key><string>Periphery III: Select Difficulty</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>16083417</integer>
+			<key>Total Time</key><integer>467013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-11-05T05:36:17Z</date>
+			<key>Date Added</key><date>2017-11-05T05:36:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>175</integer>
+			<key>Play Date</key><integer>3761241908</integer>
+			<key>Play Date UTC</key><date>2023-03-09T15:55:08Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2018-09-17T13:04:47Z</date>
+			<key>Release Date</key><date>2016-07-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Periphery III: Select Difficulty</string>
+			<key>Sort Artist</key><string>Periphery</string>
+			<key>Sort Name</key><string>Lune</string>
+			<key>Persistent ID</key><string>F2878339CC403821</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19457</key>
+		<dict>
+			<key>Track ID</key><integer>19457</integer>
+			<key>Name</key><string>Lazarus</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven John Wilson, Richard Barbieri, Colin Edwin Balch &#38; Gavin Richard Harrison</string>
+			<key>Album</key><string>Deadwing</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9358233</integer>
+			<key>Total Time</key><integer>258587</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-12-07T11:16:16Z</date>
+			<key>Date Added</key><date>2017-12-07T11:16:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>67</integer>
+			<key>Play Date</key><integer>3756423874</integer>
+			<key>Play Date UTC</key><date>2023-01-12T21:34:34Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-02-01T05:03:46Z</date>
+			<key>Release Date</key><date>2005-03-28T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Deadwing</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Lazarus</string>
+			<key>Persistent ID</key><string>EC2DB9CE788FFA5B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19655</key>
+		<dict>
+			<key>Track ID</key><integer>19655</integer>
+			<key>Name</key><string>The Brain Dance</string>
+			<key>Artist</key><string>Animals As Leaders</string>
+			<key>Album Artist</key><string>Animals As Leaders</string>
+			<key>Album</key><string>The Madness of Many</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15321561</integer>
+			<key>Total Time</key><integer>420747</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-12-29T13:40:42Z</date>
+			<key>Date Added</key><date>2017-12-29T13:40:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>338</integer>
+			<key>Play Date</key><integer>3761242629</integer>
+			<key>Play Date UTC</key><date>2023-03-09T16:07:09Z</date>
+			<key>Skip Count</key><integer>22</integer>
+			<key>Skip Date</key><date>2022-03-16T02:29:49Z</date>
+			<key>Release Date</key><date>2016-11-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Madness of Many</string>
+			<key>Sort Artist</key><string>Animals As Leaders</string>
+			<key>Sort Name</key><string>Brain Dance</string>
+			<key>Persistent ID</key><string>B6E7E6E7D2BE8FBC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19991</key>
+		<dict>
+			<key>Track ID</key><integer>19991</integer>
+			<key>Name</key><string>The Fletcher Memorial Home</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>A Foot In the Door: The Best of Pink Floyd</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8956690</integer>
+			<key>Total Time</key><integer>251373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-01-27T19:39:50Z</date>
+			<key>Date Added</key><date>2018-01-27T19:39:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3753070358</integer>
+			<key>Play Date UTC</key><date>2022-12-05T02:02:38Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-08-29T06:33:04Z</date>
+			<key>Release Date</key><date>1983-03-21T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Foot In the Door: The Best of Pink Floyd</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Fletcher Memorial Home</string>
+			<key>Persistent ID</key><string>C3E1D33AFE36E650</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20005</key>
+		<dict>
+			<key>Track ID</key><integer>20005</integer>
+			<key>Name</key><string>Janie's Got a Gun</string>
+			<key>Artist</key><string>Aerosmith</string>
+			<key>Album Artist</key><string>Aerosmith</string>
+			<key>Composer</key><string>Steven Tyler &#38; Thomas Hamilton</string>
+			<key>Album</key><string>Big Ones</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11422622</integer>
+			<key>Total Time</key><integer>329627</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2018-01-27T19:45:34Z</date>
+			<key>Date Added</key><date>2018-01-27T19:45:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>63</integer>
+			<key>Play Date</key><integer>3748293339</integer>
+			<key>Play Date UTC</key><date>2022-10-10T19:05:39Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2021-02-01T15:03:06Z</date>
+			<key>Release Date</key><date>1989-09-12T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Ones</string>
+			<key>Sort Artist</key><string>Aerosmith</string>
+			<key>Sort Name</key><string>Janie's Got a Gun</string>
+			<key>Persistent ID</key><string>B3FC9C5D836527DE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20017</key>
+		<dict>
+			<key>Track ID</key><integer>20017</integer>
+			<key>Name</key><string>Slow Cheetah</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Stadium Arcadium</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11987534</integer>
+			<key>Total Time</key><integer>319933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>28</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-01-27T19:53:51Z</date>
+			<key>Date Added</key><date>2018-01-27T19:53:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3745284593</integer>
+			<key>Play Date UTC</key><date>2022-09-05T23:19:53Z</date>
+			<key>Release Date</key><date>2006-05-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stadium Arcadium</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Slow Cheetah</string>
+			<key>Persistent ID</key><string>F91A86094A263FA7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21743</key>
+		<dict>
+			<key>Track ID</key><integer>21743</integer>
+			<key>Name</key><string>Stadium Arcadium</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Stadium Arcadium</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11337692</integer>
+			<key>Total Time</key><integer>315674</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>28</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-08-13T09:08:43Z</date>
+			<key>Date Added</key><date>2018-08-13T09:08:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>53</integer>
+			<key>Play Date</key><integer>3752247263</integer>
+			<key>Play Date UTC</key><date>2022-11-25T13:24:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-12-18T12:37:52Z</date>
+			<key>Release Date</key><date>2006-05-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stadium Arcadium</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Stadium Arcadium</string>
+			<key>Persistent ID</key><string>6BCA8E2754C18A82</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21891</key>
+		<dict>
+			<key>Track ID</key><integer>21891</integer>
+			<key>Name</key><string>The Great Gig in the Sky</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Richard Wright &#38; Clare Torry</string>
+			<key>Album</key><string>A Foot In the Door: The Best of Pink Floyd</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9929572</integer>
+			<key>Total Time</key><integer>284027</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-09-09T06:54:59Z</date>
+			<key>Date Added</key><date>2018-09-09T06:54:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>137</integer>
+			<key>Play Date</key><integer>3759757282</integer>
+			<key>Play Date UTC</key><date>2023-02-20T11:31:22Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-05-17T22:52:49Z</date>
+			<key>Release Date</key><date>1973-03-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Foot In the Door: The Best of Pink Floyd</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Great Gig in the Sky</string>
+			<key>Persistent ID</key><string>89EB42EF3A8DF6D7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21895</key>
+		<dict>
+			<key>Track ID</key><integer>21895</integer>
+			<key>Name</key><string>Broken (iTunes Originals Version)</string>
+			<key>Artist</key><string>Seether</string>
+			<key>Album Artist</key><string>Seether</string>
+			<key>Composer</key><string>Seether</string>
+			<key>Album</key><string>iTunes Originals: Seether</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9600069</integer>
+			<key>Total Time</key><integer>254347</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>26</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-09-10T10:00:28Z</date>
+			<key>Date Added</key><date>2018-09-10T10:00:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3757603672</integer>
+			<key>Play Date UTC</key><date>2023-01-26T13:17:52Z</date>
+			<key>Release Date</key><date>2008-08-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>iTunes Originals: Seether</string>
+			<key>Sort Artist</key><string>Seether</string>
+			<key>Sort Name</key><string>Broken (iTunes Originals Version)</string>
+			<key>Persistent ID</key><string>DB2B6FDC9808F3F8</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21899</key>
+		<dict>
+			<key>Track ID</key><integer>21899</integer>
+			<key>Name</key><string>The Sound of Silence</string>
+			<key>Artist</key><string>Disturbed</string>
+			<key>Album Artist</key><string>Disturbed</string>
+			<key>Composer</key><string>Paul Simon</string>
+			<key>Album</key><string>Immortalized</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8746975</integer>
+			<key>Total Time</key><integer>248487</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-09-11T05:06:57Z</date>
+			<key>Date Added</key><date>2018-09-11T05:06:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>50</integer>
+			<key>Play Date</key><integer>3757603417</integer>
+			<key>Play Date UTC</key><date>2023-01-26T13:13:37Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-02-14T09:21:14Z</date>
+			<key>Release Date</key><date>2015-08-21T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Immortalized</string>
+			<key>Sort Artist</key><string>Disturbed</string>
+			<key>Sort Name</key><string>Sound of Silence</string>
+			<key>Persistent ID</key><string>BC1D511BFA98B21F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22027</key>
+		<dict>
+			<key>Track ID</key><integer>22027</integer>
+			<key>Name</key><string>She Talks To Angels</string>
+			<key>Artist</key><string>The Black Crowes</string>
+			<key>Album Artist</key><string>The Black Crowes</string>
+			<key>Composer</key><string>Christopher Robinson &#38; Richard S. Robinson</string>
+			<key>Album</key><string>Greatest Hits 1990-1999: A Tribute To A Work In Progress...</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12097224</integer>
+			<key>Total Time</key><integer>329600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2018-09-15T19:31:02Z</date>
+			<key>Date Added</key><date>2018-09-15T19:31:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>82</integer>
+			<key>Play Date</key><integer>3749925999</integer>
+			<key>Play Date UTC</key><date>2022-10-29T16:36:39Z</date>
+			<key>Release Date</key><date>1990-01-24T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Greatest Hits 1990-1999: A Tribute To A Work In Progress...</string>
+			<key>Sort Album Artist</key><string>Black Crowes</string>
+			<key>Sort Artist</key><string>Black Crowes</string>
+			<key>Sort Name</key><string>She Talks To Angels</string>
+			<key>Persistent ID</key><string>A946BBB48B16F7FC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22157</key>
+		<dict>
+			<key>Track ID</key><integer>22157</integer>
+			<key>Name</key><string>The Vampyre of Time and Memory</string>
+			<key>Artist</key><string>Queens of the Stone Age</string>
+			<key>Album Artist</key><string>Queens of the Stone Age</string>
+			<key>Album</key><string>…Like Clockwork</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7683995</integer>
+			<key>Total Time</key><integer>214587</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-09-29T20:46:54Z</date>
+			<key>Date Added</key><date>2018-09-29T20:46:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>130</integer>
+			<key>Play Date</key><integer>3759768320</integer>
+			<key>Play Date UTC</key><date>2023-02-20T14:35:20Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-06-28T07:11:03Z</date>
+			<key>Release Date</key><date>2013-05-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>…Like Clockwork</string>
+			<key>Sort Artist</key><string>Queens of the Stone Age</string>
+			<key>Sort Name</key><string>Vampyre of Time and Memory</string>
+			<key>Persistent ID</key><string>7E29238D53427B2F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Turtle Lamborghini</string>
+			<key>Description</key><string>Slow songs from not so slow artists </string>
+			<key>Playlist ID</key><integer>44300</integer>
+			<key>Playlist Persistent ID</key><string>BBC1D30E0855C1E1</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>14729</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14733</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14331</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8453</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15231</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8463</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21743</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6737</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21891</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22027</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6449</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14011</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21895</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18717</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13397</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19655</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21899</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6693</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13357</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20005</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6915</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19991</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14701</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11729</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18419</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

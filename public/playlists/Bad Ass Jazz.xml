@@ -1,0 +1,2867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:07:12Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>20561</key>
+		<dict>
+			<key>Track ID</key><integer>20561</integer>
+			<key>Name</key><string>Norwegian Wood</string>
+			<key>Artist</key><string>Buddy Rich</string>
+			<key>Album Artist</key><string>Buddy Rich</string>
+			<key>Composer</key><string>John Lennon &#38; Paul McCartney</string>
+			<key>Album</key><string>Big Swing Face</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8793143</integer>
+			<key>Total Time</key><integer>222933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-03-04T17:16:11Z</date>
+			<key>Date Added</key><date>2018-03-04T17:16:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3626086140</integer>
+			<key>Play Date UTC</key><date>2018-11-26T08:39:00Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Swing Face</string>
+			<key>Sort Artist</key><string>Buddy Rich</string>
+			<key>Sort Name</key><string>Norwegian Wood</string>
+			<key>Persistent ID</key><string>A142CE983F8EC23A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20563</key>
+		<dict>
+			<key>Track ID</key><integer>20563</integer>
+			<key>Name</key><string>Big Swing Face</string>
+			<key>Artist</key><string>Buddy Rich</string>
+			<key>Album Artist</key><string>Buddy Rich</string>
+			<key>Composer</key><string>Bill Potts</string>
+			<key>Album</key><string>Big Swing Face</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12498705</integer>
+			<key>Total Time</key><integer>334427</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-03-04T17:16:11Z</date>
+			<key>Date Added</key><date>2018-03-04T17:16:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3651242280</integer>
+			<key>Play Date UTC</key><date>2019-09-13T12:28:00Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-03-08T08:49:17Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Swing Face</string>
+			<key>Sort Artist</key><string>Buddy Rich</string>
+			<key>Sort Name</key><string>Big Swing Face</string>
+			<key>Persistent ID</key><string>E711DA875A0F0025</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20565</key>
+		<dict>
+			<key>Track ID</key><integer>20565</integer>
+			<key>Name</key><string>Monitor Theme</string>
+			<key>Artist</key><string>Buddy Rich</string>
+			<key>Album Artist</key><string>Buddy Rich</string>
+			<key>Composer</key><string>Giant, Baum &#38; T. Kaye</string>
+			<key>Album</key><string>Big Swing Face</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6726153</integer>
+			<key>Total Time</key><integer>164533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-03-04T17:16:11Z</date>
+			<key>Date Added</key><date>2018-03-04T17:16:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3678284517</integer>
+			<key>Play Date UTC</key><date>2020-07-22T12:11:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-03-08T15:24:02Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Swing Face</string>
+			<key>Sort Artist</key><string>Buddy Rich</string>
+			<key>Sort Name</key><string>Monitor Theme</string>
+			<key>Persistent ID</key><string>08E33ABFEF87107C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20567</key>
+		<dict>
+			<key>Track ID</key><integer>20567</integer>
+			<key>Name</key><string>Wack Wack</string>
+			<key>Artist</key><string>Buddy Rich</string>
+			<key>Album Artist</key><string>Buddy Rich</string>
+			<key>Composer</key><string>Isaac Holt, Don Storball, Hysear Don Walker &#38; Eldee Young</string>
+			<key>Album</key><string>Big Swing Face</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7724646</integer>
+			<key>Total Time</key><integer>196467</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-03-04T17:16:11Z</date>
+			<key>Date Added</key><date>2018-03-04T17:16:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3651226667</integer>
+			<key>Play Date UTC</key><date>2019-09-13T08:07:47Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-03-05T17:36:01Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Swing Face</string>
+			<key>Sort Artist</key><string>Buddy Rich</string>
+			<key>Sort Name</key><string>Wack Wack</string>
+			<key>Persistent ID</key><string>2DE54B721A9D1DDE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20569</key>
+		<dict>
+			<key>Track ID</key><integer>20569</integer>
+			<key>Name</key><string>Love for Sale</string>
+			<key>Artist</key><string>Buddy Rich</string>
+			<key>Album Artist</key><string>Buddy Rich</string>
+			<key>Composer</key><string>Cole Porter</string>
+			<key>Album</key><string>Big Swing Face</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11359521</integer>
+			<key>Total Time</key><integer>291457</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-03-04T17:16:11Z</date>
+			<key>Date Added</key><date>2018-03-04T17:16:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3651226475</integer>
+			<key>Play Date UTC</key><date>2019-09-13T08:04:35Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Swing Face</string>
+			<key>Sort Artist</key><string>Buddy Rich</string>
+			<key>Sort Name</key><string>Love for Sale</string>
+			<key>Persistent ID</key><string>DE5D82A35AF32E55</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20571</key>
+		<dict>
+			<key>Track ID</key><integer>20571</integer>
+			<key>Name</key><string>Mexicali Nose</string>
+			<key>Artist</key><string>Buddy Rich</string>
+			<key>Album Artist</key><string>Buddy Rich</string>
+			<key>Composer</key><string>Harry Betts</string>
+			<key>Album</key><string>Big Swing Face</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6831938</integer>
+			<key>Total Time</key><integer>172400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-03-04T17:16:11Z</date>
+			<key>Date Added</key><date>2018-03-04T17:16:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3643117706</integer>
+			<key>Play Date UTC</key><date>2019-06-11T11:38:26Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Swing Face</string>
+			<key>Sort Artist</key><string>Buddy Rich</string>
+			<key>Sort Name</key><string>Mexicali Nose</string>
+			<key>Persistent ID</key><string>FF989B552B7B6A8F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20573</key>
+		<dict>
+			<key>Track ID</key><integer>20573</integer>
+			<key>Name</key><string>Willowcrest</string>
+			<key>Artist</key><string>Buddy Rich</string>
+			<key>Album Artist</key><string>Buddy Rich</string>
+			<key>Composer</key><string>Bob Florence</string>
+			<key>Album</key><string>Big Swing Face</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10145227</integer>
+			<key>Total Time</key><integer>256667</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-03-04T17:16:11Z</date>
+			<key>Date Added</key><date>2018-03-04T17:16:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3626969755</integer>
+			<key>Play Date UTC</key><date>2018-12-06T14:05:55Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Swing Face</string>
+			<key>Sort Artist</key><string>Buddy Rich</string>
+			<key>Sort Name</key><string>Willowcrest</string>
+			<key>Persistent ID</key><string>605C565D11878F6B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20575</key>
+		<dict>
+			<key>Track ID</key><integer>20575</integer>
+			<key>Name</key><string>The Beat Goes On</string>
+			<key>Artist</key><string>Buddy Rich</string>
+			<key>Album Artist</key><string>Buddy Rich</string>
+			<key>Composer</key><string>Sonny Bono</string>
+			<key>Album</key><string>Big Swing Face</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12107988</integer>
+			<key>Total Time</key><integer>340573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-03-04T17:16:11Z</date>
+			<key>Date Added</key><date>2018-03-04T17:16:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3645715778</integer>
+			<key>Play Date UTC</key><date>2019-07-11T13:19:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-11-07T16:12:19Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Swing Face</string>
+			<key>Sort Artist</key><string>Buddy Rich</string>
+			<key>Sort Name</key><string>Beat Goes On</string>
+			<key>Persistent ID</key><string>F3B8204E05779868</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20577</key>
+		<dict>
+			<key>Track ID</key><integer>20577</integer>
+			<key>Name</key><string>Bugle Call Rag</string>
+			<key>Artist</key><string>Buddy Rich</string>
+			<key>Album Artist</key><string>Buddy Rich</string>
+			<key>Composer</key><string>Billy Meyers, Elmer Schoebel &#38; Jack Pettis</string>
+			<key>Album</key><string>Big Swing Face</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11879613</integer>
+			<key>Total Time</key><integer>306493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-03-04T17:16:11Z</date>
+			<key>Date Added</key><date>2018-03-04T17:16:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3643117543</integer>
+			<key>Play Date UTC</key><date>2019-06-11T11:35:43Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Swing Face</string>
+			<key>Sort Artist</key><string>Buddy Rich</string>
+			<key>Sort Name</key><string>Bugle Call Rag</string>
+			<key>Persistent ID</key><string>42FAA9E49F75000B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20653</key>
+		<dict>
+			<key>Track ID</key><integer>20653</integer>
+			<key>Name</key><string>Standing Up in a Hammock</string>
+			<key>Artist</key><string>Buddy Rich</string>
+			<key>Album Artist</key><string>Buddy Rich</string>
+			<key>Composer</key><string>Bill Potts</string>
+			<key>Album</key><string>Big Swing Face</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6614190</integer>
+			<key>Total Time</key><integer>158573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-03-04T17:16:11Z</date>
+			<key>Date Added</key><date>2018-03-04T17:16:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3665033892</integer>
+			<key>Play Date UTC</key><date>2020-02-20T03:28:12Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Swing Face</string>
+			<key>Sort Artist</key><string>Buddy Rich</string>
+			<key>Sort Name</key><string>Standing Up in a Hammock</string>
+			<key>Persistent ID</key><string>E35250E2D5B38D3F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20655</key>
+		<dict>
+			<key>Track ID</key><integer>20655</integer>
+			<key>Name</key><string>Chicago</string>
+			<key>Artist</key><string>Buddy Rich</string>
+			<key>Album Artist</key><string>Buddy Rich</string>
+			<key>Composer</key><string>Fred Fisher</string>
+			<key>Album</key><string>Big Swing Face</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7128881</integer>
+			<key>Total Time</key><integer>178800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-03-04T17:16:11Z</date>
+			<key>Date Added</key><date>2018-03-04T17:16:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3665034071</integer>
+			<key>Play Date UTC</key><date>2020-02-20T03:31:11Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Swing Face</string>
+			<key>Sort Artist</key><string>Buddy Rich</string>
+			<key>Sort Name</key><string>Chicago</string>
+			<key>Persistent ID</key><string>DA3F39066F2F985C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20657</key>
+		<dict>
+			<key>Track ID</key><integer>20657</integer>
+			<key>Name</key><string>Lament for Lester</string>
+			<key>Artist</key><string>Buddy Rich</string>
+			<key>Album Artist</key><string>Buddy Rich</string>
+			<key>Composer</key><string>Jay Corre</string>
+			<key>Album</key><string>Big Swing Face</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5861377</integer>
+			<key>Total Time</key><integer>153000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-03-04T17:16:11Z</date>
+			<key>Date Added</key><date>2018-03-04T17:16:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3626966016</integer>
+			<key>Play Date UTC</key><date>2018-12-06T13:03:36Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Swing Face</string>
+			<key>Sort Artist</key><string>Buddy Rich</string>
+			<key>Sort Name</key><string>Lament for Lester</string>
+			<key>Persistent ID</key><string>A86DA5C5284F41A6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20659</key>
+		<dict>
+			<key>Track ID</key><integer>20659</integer>
+			<key>Name</key><string>Machine</string>
+			<key>Artist</key><string>Buddy Rich</string>
+			<key>Album Artist</key><string>Buddy Rich</string>
+			<key>Composer</key><string>Unknown</string>
+			<key>Album</key><string>Big Swing Face</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8848414</integer>
+			<key>Total Time</key><integer>224733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-03-04T17:16:11Z</date>
+			<key>Date Added</key><date>2018-03-04T17:16:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3626971759</integer>
+			<key>Play Date UTC</key><date>2018-12-06T14:39:19Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Swing Face</string>
+			<key>Sort Artist</key><string>Buddy Rich</string>
+			<key>Sort Name</key><string>Machine</string>
+			<key>Persistent ID</key><string>C42AD4631C87FDA8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20661</key>
+		<dict>
+			<key>Track ID</key><integer>20661</integer>
+			<key>Name</key><string>Silver Threads Among the Blues</string>
+			<key>Artist</key><string>Buddy Rich</string>
+			<key>Album Artist</key><string>Buddy Rich</string>
+			<key>Composer</key><string>Don Piestrup</string>
+			<key>Album</key><string>Big Swing Face</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10774412</integer>
+			<key>Total Time</key><integer>284400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-03-04T17:16:11Z</date>
+			<key>Date Added</key><date>2018-03-04T17:16:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3665035100</integer>
+			<key>Play Date UTC</key><date>2020-02-20T03:48:20Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-09-24T11:46:38Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Swing Face</string>
+			<key>Sort Artist</key><string>Buddy Rich</string>
+			<key>Sort Name</key><string>Silver Threads Among the Blues</string>
+			<key>Persistent ID</key><string>F0854F43F2B0729A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20663</key>
+		<dict>
+			<key>Track ID</key><integer>20663</integer>
+			<key>Name</key><string>New Blues</string>
+			<key>Artist</key><string>Buddy Rich</string>
+			<key>Album Artist</key><string>Buddy Rich</string>
+			<key>Composer</key><string>Don Piestrup</string>
+			<key>Album</key><string>Big Swing Face</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10734392</integer>
+			<key>Total Time</key><integer>280267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-03-04T17:16:11Z</date>
+			<key>Date Added</key><date>2018-03-04T17:16:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3643117227</integer>
+			<key>Play Date UTC</key><date>2019-06-11T11:30:27Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Swing Face</string>
+			<key>Sort Artist</key><string>Buddy Rich</string>
+			<key>Sort Name</key><string>New Blues</string>
+			<key>Persistent ID</key><string>BA1A66F3B5C596B6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20665</key>
+		<dict>
+			<key>Track ID</key><integer>20665</integer>
+			<key>Name</key><string>Old Timey</string>
+			<key>Artist</key><string>Buddy Rich</string>
+			<key>Album Artist</key><string>Buddy Rich</string>
+			<key>Composer</key><string>Bob Florence</string>
+			<key>Album</key><string>Big Swing Face</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8409353</integer>
+			<key>Total Time</key><integer>208293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-03-04T17:16:11Z</date>
+			<key>Date Added</key><date>2018-03-04T17:16:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3651242575</integer>
+			<key>Play Date UTC</key><date>2019-09-13T12:32:55Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Swing Face</string>
+			<key>Sort Artist</key><string>Buddy Rich</string>
+			<key>Sort Name</key><string>Old Timey</string>
+			<key>Persistent ID</key><string>F20A00C52DAC89BC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20667</key>
+		<dict>
+			<key>Track ID</key><integer>20667</integer>
+			<key>Name</key><string>Loose</string>
+			<key>Artist</key><string>Buddy Rich</string>
+			<key>Album Artist</key><string>Buddy Rich</string>
+			<key>Composer</key><string>Unknown</string>
+			<key>Album</key><string>Big Swing Face</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9756242</integer>
+			<key>Total Time</key><integer>247800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-03-04T17:16:11Z</date>
+			<key>Date Added</key><date>2018-03-04T17:16:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3612769926</integer>
+			<key>Play Date UTC</key><date>2018-06-25T05:42:06Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Swing Face</string>
+			<key>Sort Artist</key><string>Buddy Rich</string>
+			<key>Sort Name</key><string>Loose</string>
+			<key>Persistent ID</key><string>135186EB758B1FE1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20669</key>
+		<dict>
+			<key>Track ID</key><integer>20669</integer>
+			<key>Name</key><string>Apples (Aka Gino)</string>
+			<key>Artist</key><string>Buddy Rich</string>
+			<key>Album Artist</key><string>Buddy Rich</string>
+			<key>Composer</key><string>Arthur M. Wiggins</string>
+			<key>Album</key><string>Big Swing Face</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6719322</integer>
+			<key>Total Time</key><integer>163773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-03-04T17:16:11Z</date>
+			<key>Date Added</key><date>2018-03-04T17:16:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3643116768</integer>
+			<key>Play Date UTC</key><date>2019-06-11T11:22:48Z</date>
+			<key>Release Date</key><date>1967-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Big Swing Face</string>
+			<key>Sort Artist</key><string>Buddy Rich</string>
+			<key>Sort Name</key><string>Apples (Aka Gino)</string>
+			<key>Persistent ID</key><string>31DB8B62BC2E393D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20671</key>
+		<dict>
+			<key>Track ID</key><integer>20671</integer>
+			<key>Name</key><string>Move</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Denzil Best</string>
+			<key>Album</key><string>Birth of the Cool</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5769588</integer>
+			<key>Total Time</key><integer>154351</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1949</integer>
+			<key>Date Modified</key><date>2018-03-04T17:22:58Z</date>
+			<key>Date Added</key><date>2018-03-04T17:22:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3656150634</integer>
+			<key>Play Date UTC</key><date>2019-11-09T07:53:54Z</date>
+			<key>Release Date</key><date>1949-03-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Birth of the Cool</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Move</string>
+			<key>Persistent ID</key><string>B73E1FC64F158AFC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20673</key>
+		<dict>
+			<key>Track ID</key><integer>20673</integer>
+			<key>Name</key><string>Jeru</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Gerry Mulligan</string>
+			<key>Album</key><string>Birth of the Cool</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6984541</integer>
+			<key>Total Time</key><integer>193547</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1954</integer>
+			<key>Date Modified</key><date>2018-03-04T17:22:58Z</date>
+			<key>Date Added</key><date>2018-03-04T17:22:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3626973495</integer>
+			<key>Play Date UTC</key><date>2018-12-06T15:08:15Z</date>
+			<key>Release Date</key><date>1954-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Birth of the Cool</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Jeru</string>
+			<key>Persistent ID</key><string>45775E072DDC4C8A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20675</key>
+		<dict>
+			<key>Track ID</key><integer>20675</integer>
+			<key>Name</key><string>Moon Dreams</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Chummy MacGregor &#38; Johnny Mercer</string>
+			<key>Album</key><string>Birth of the Cool</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7103479</integer>
+			<key>Total Time</key><integer>200297</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1957</integer>
+			<key>Date Modified</key><date>2018-03-04T17:22:58Z</date>
+			<key>Date Added</key><date>2018-03-04T17:22:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3626968683</integer>
+			<key>Play Date UTC</key><date>2018-12-06T13:48:03Z</date>
+			<key>Release Date</key><date>1957-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Birth of the Cool</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Moon Dreams</string>
+			<key>Persistent ID</key><string>26D966E6B58E5D09</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20677</key>
+		<dict>
+			<key>Track ID</key><integer>20677</integer>
+			<key>Name</key><string>Venus De Milo</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Gerry Mulligan</string>
+			<key>Album</key><string>Birth of the Cool</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6911318</integer>
+			<key>Total Time</key><integer>192992</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1950</integer>
+			<key>Date Modified</key><date>2018-03-04T17:22:58Z</date>
+			<key>Date Added</key><date>2018-03-04T17:22:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3618530131</integer>
+			<key>Play Date UTC</key><date>2018-08-30T21:45:31Z</date>
+			<key>Release Date</key><date>1950-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Birth of the Cool</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Venus De Milo</string>
+			<key>Persistent ID</key><string>373019D077DB8400</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20679</key>
+		<dict>
+			<key>Track ID</key><integer>20679</integer>
+			<key>Name</key><string>Budo</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis &#38; Bud Powell</string>
+			<key>Album</key><string>Birth of the Cool</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5760575</integer>
+			<key>Total Time</key><integer>155746</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1949</integer>
+			<key>Date Modified</key><date>2018-03-04T17:22:58Z</date>
+			<key>Date Added</key><date>2018-03-04T17:22:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3618530286</integer>
+			<key>Play Date UTC</key><date>2018-08-30T21:48:06Z</date>
+			<key>Release Date</key><date>1949-03-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Birth of the Cool</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Budo</string>
+			<key>Persistent ID</key><string>3291A76B1DF08002</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20681</key>
+		<dict>
+			<key>Track ID</key><integer>20681</integer>
+			<key>Name</key><string>Deception</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Birth of the Cool</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6143388</integer>
+			<key>Total Time</key><integer>168760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1957</integer>
+			<key>Date Modified</key><date>2018-03-04T17:22:58Z</date>
+			<key>Date Added</key><date>2018-03-04T17:22:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3646846817</integer>
+			<key>Play Date UTC</key><date>2019-07-24T15:30:17Z</date>
+			<key>Release Date</key><date>1957-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Birth of the Cool</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Deception</string>
+			<key>Persistent ID</key><string>6D5E2443C417B6CE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20683</key>
+		<dict>
+			<key>Track ID</key><integer>20683</integer>
+			<key>Name</key><string>Godchild</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>George Wallington</string>
+			<key>Album</key><string>Birth of the Cool</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6827422</integer>
+			<key>Total Time</key><integer>189933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1957</integer>
+			<key>Date Modified</key><date>2018-03-04T17:22:58Z</date>
+			<key>Date Added</key><date>2018-03-04T17:22:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3645715968</integer>
+			<key>Play Date UTC</key><date>2019-07-11T13:22:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-03-08T17:29:37Z</date>
+			<key>Release Date</key><date>1957-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Birth of the Cool</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Godchild</string>
+			<key>Persistent ID</key><string>3F18409E8C1BF834</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20685</key>
+		<dict>
+			<key>Track ID</key><integer>20685</integer>
+			<key>Name</key><string>Boplicity</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Cleo Henry, Ray Passman &#38; Holli Ross</string>
+			<key>Album</key><string>Birth of the Cool</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6658084</integer>
+			<key>Total Time</key><integer>181998</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1957</integer>
+			<key>Date Modified</key><date>2018-03-04T17:22:58Z</date>
+			<key>Date Added</key><date>2018-03-04T17:22:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3665034816</integer>
+			<key>Play Date UTC</key><date>2020-02-20T03:43:36Z</date>
+			<key>Release Date</key><date>1957-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Birth of the Cool</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Boplicity</string>
+			<key>Persistent ID</key><string>C1670EEA2E19C397</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20687</key>
+		<dict>
+			<key>Track ID</key><integer>20687</integer>
+			<key>Name</key><string>Rocker</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Gerry Mulligan</string>
+			<key>Album</key><string>Birth of the Cool</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6767718</integer>
+			<key>Total Time</key><integer>186741</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1957</integer>
+			<key>Date Modified</key><date>2018-03-04T17:22:58Z</date>
+			<key>Date Added</key><date>2018-03-04T17:22:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3618531020</integer>
+			<key>Play Date UTC</key><date>2018-08-30T22:00:20Z</date>
+			<key>Release Date</key><date>1957-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Birth of the Cool</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Rocker</string>
+			<key>Persistent ID</key><string>04D476B27DC9CD5D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20689</key>
+		<dict>
+			<key>Track ID</key><integer>20689</integer>
+			<key>Name</key><string>Israel</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Johnny Carisi</string>
+			<key>Album</key><string>Birth of the Cool</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5117195</integer>
+			<key>Total Time</key><integer>138321</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1953</integer>
+			<key>Date Modified</key><date>2018-03-04T17:22:58Z</date>
+			<key>Date Added</key><date>2018-03-04T17:22:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3626969498</integer>
+			<key>Play Date UTC</key><date>2018-12-06T14:01:38Z</date>
+			<key>Release Date</key><date>1953-04-20T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Birth of the Cool</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Israel</string>
+			<key>Persistent ID</key><string>C0E3DBA15D6A0FD1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20691</key>
+		<dict>
+			<key>Track ID</key><integer>20691</integer>
+			<key>Name</key><string>Rouge</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>John Lewis</string>
+			<key>Album</key><string>Birth of the Cool</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7086057</integer>
+			<key>Total Time</key><integer>195686</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1957</integer>
+			<key>Date Modified</key><date>2018-03-04T17:22:58Z</date>
+			<key>Date Added</key><date>2018-03-04T17:22:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3646763968</integer>
+			<key>Play Date UTC</key><date>2019-07-23T16:29:28Z</date>
+			<key>Release Date</key><date>1957-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Birth of the Cool</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Rouge</string>
+			<key>Persistent ID</key><string>13260213B3C91B97</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20693</key>
+		<dict>
+			<key>Track ID</key><integer>20693</integer>
+			<key>Name</key><string>So What</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>21553600</integer>
+			<key>Total Time</key><integer>562640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1959</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3665034634</integer>
+			<key>Play Date UTC</key><date>2020-02-20T03:40:34Z</date>
+			<key>Release Date</key><date>1959-08-17T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>So What</string>
+			<key>Persistent ID</key><string>78BE60D9FB8603E5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20695</key>
+		<dict>
+			<key>Track ID</key><integer>20695</integer>
+			<key>Name</key><string>Freddie Freeloader</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>22212196</integer>
+			<key>Total Time</key><integer>586400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1959</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3716621923</integer>
+			<key>Play Date UTC</key><date>2021-10-09T05:28:43Z</date>
+			<key>Release Date</key><date>1959-08-17T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Freddie Freeloader</string>
+			<key>Persistent ID</key><string>E223B1FD761F21CC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20697</key>
+		<dict>
+			<key>Track ID</key><integer>20697</integer>
+			<key>Name</key><string>Blue in Green</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12565941</integer>
+			<key>Total Time</key><integer>337733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1959</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3665031699</integer>
+			<key>Play Date UTC</key><date>2020-02-20T02:51:39Z</date>
+			<key>Release Date</key><date>1959-08-17T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Blue in Green</string>
+			<key>Persistent ID</key><string>42C9BD8E6CE5D54C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20699</key>
+		<dict>
+			<key>Track ID</key><integer>20699</integer>
+			<key>Name</key><string>All Blues</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>26562945</integer>
+			<key>Total Time</key><integer>692747</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1959</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3626972451</integer>
+			<key>Play Date UTC</key><date>2018-12-06T14:50:51Z</date>
+			<key>Release Date</key><date>1959-08-17T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>All Blues</string>
+			<key>Persistent ID</key><string>0535D909DBCA7EB7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20701</key>
+		<dict>
+			<key>Track ID</key><integer>20701</integer>
+			<key>Name</key><string>Flamenco Sketches</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>21062701</integer>
+			<key>Total Time</key><integer>566133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1959</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3626970363</integer>
+			<key>Play Date UTC</key><date>2018-12-06T14:16:03Z</date>
+			<key>Release Date</key><date>1959-08-17T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Flamenco Sketches</string>
+			<key>Persistent ID</key><string>4F64D1C2226CD973</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20703</key>
+		<dict>
+			<key>Track ID</key><integer>20703</integer>
+			<key>Name</key><string>Flamenco Sketches (Alternate Take)</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>21363177</integer>
+			<key>Total Time</key><integer>571560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3630428366</integer>
+			<key>Play Date UTC</key><date>2019-01-15T14:49:26Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-11-09T08:10:59Z</date>
+			<key>Release Date</key><date>1997-01-01T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Flamenco Sketches (Alternate Take)</string>
+			<key>Persistent ID</key><string>0890EB1DF6CDBF0F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20705</key>
+		<dict>
+			<key>Track ID</key><integer>20705</integer>
+			<key>Name</key><string>Freddie Freeloader (Studio Sequence 1)</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>2341205</integer>
+			<key>Total Time</key><integer>51587</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3626974141</integer>
+			<key>Play Date UTC</key><date>2018-12-06T15:19:01Z</date>
+			<key>Release Date</key><date>2008-09-30T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Freddie Freeloader (Studio Sequence 1)</string>
+			<key>Persistent ID</key><string>459F5359F80A8B06</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20707</key>
+		<dict>
+			<key>Track ID</key><integer>20707</integer>
+			<key>Name</key><string>Freddie Freeloader (False Start)</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>3683593</integer>
+			<key>Total Time</key><integer>85853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3618535261</integer>
+			<key>Play Date UTC</key><date>2018-08-30T23:11:01Z</date>
+			<key>Release Date</key><date>2008-09-30T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Freddie Freeloader (False Start)</string>
+			<key>Persistent ID</key><string>C02F9C2ED0B0E889</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20709</key>
+		<dict>
+			<key>Track ID</key><integer>20709</integer>
+			<key>Name</key><string>Freddie Freeloader (Studio Sequence 2)</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>3741590</integer>
+			<key>Total Time</key><integer>88507</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3665035189</integer>
+			<key>Play Date UTC</key><date>2020-02-20T03:49:49Z</date>
+			<key>Release Date</key><date>2008-09-30T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Freddie Freeloader (Studio Sequence 2)</string>
+			<key>Persistent ID</key><string>B699B5E4E4970307</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20711</key>
+		<dict>
+			<key>Track ID</key><integer>20711</integer>
+			<key>Name</key><string>So What (Studio Sequence 1)</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4482513</integer>
+			<key>Total Time</key><integer>114107</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3630423241</integer>
+			<key>Play Date UTC</key><date>2019-01-15T13:24:01Z</date>
+			<key>Release Date</key><date>2008-09-30T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>So What (Studio Sequence 1)</string>
+			<key>Persistent ID</key><string>F36D76A6B2A01F34</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20713</key>
+		<dict>
+			<key>Track ID</key><integer>20713</integer>
+			<key>Name</key><string>So What (Studio Sequence 2)</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>963316</integer>
+			<key>Total Time</key><integer>11653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3665035200</integer>
+			<key>Play Date UTC</key><date>2020-02-20T03:50:00Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-02-15T21:30:28Z</date>
+			<key>Release Date</key><date>2008-09-30T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>So What (Studio Sequence 2)</string>
+			<key>Persistent ID</key><string>0F7EAD897F2922F2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20715</key>
+		<dict>
+			<key>Track ID</key><integer>20715</integer>
+			<key>Name</key><string>Blue in Green (Studio Sequence)</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4627832</integer>
+			<key>Total Time</key><integer>116907</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3630424656</integer>
+			<key>Play Date UTC</key><date>2019-01-15T13:47:36Z</date>
+			<key>Release Date</key><date>2008-09-30T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Blue in Green (Studio Sequence)</string>
+			<key>Persistent ID</key><string>658AC9B3AC1470B3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20717</key>
+		<dict>
+			<key>Track ID</key><integer>20717</integer>
+			<key>Name</key><string>Flamenco Sketches (Studio Sequence 1)</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>2159551</integer>
+			<key>Total Time</key><integer>42320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3626969797</integer>
+			<key>Play Date UTC</key><date>2018-12-06T14:06:37Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-03-08T17:29:30Z</date>
+			<key>Release Date</key><date>2008-09-30T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Flamenco Sketches (Studio Sequence 1)</string>
+			<key>Persistent ID</key><string>6AB16EDFD109C29F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20719</key>
+		<dict>
+			<key>Track ID</key><integer>20719</integer>
+			<key>Name</key><string>Flamenco Sketches (Studio Sequence 2)</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>3212892</integer>
+			<key>Total Time</key><integer>69720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3619919585</integer>
+			<key>Play Date UTC</key><date>2018-09-15T23:43:05Z</date>
+			<key>Release Date</key><date>2008-09-30T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Flamenco Sketches (Studio Sequence 2)</string>
+			<key>Persistent ID</key><string>B64168CDB36BD382</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20721</key>
+		<dict>
+			<key>Track ID</key><integer>20721</integer>
+			<key>Name</key><string>All Blues (Studio Sequence)</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>1290609</integer>
+			<key>Total Time</key><integer>18907</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3628071884</integer>
+			<key>Play Date UTC</key><date>2018-12-19T08:14:44Z</date>
+			<key>Release Date</key><date>2008-09-30T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>All Blues (Studio Sequence)</string>
+			<key>Persistent ID</key><string>422F8FD5EDD4C454</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20723</key>
+		<dict>
+			<key>Track ID</key><integer>20723</integer>
+			<key>Name</key><string>On Green Dolphin Street</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Bronisław Kaper</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>21791171</integer>
+			<key>Total Time</key><integer>589200</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3646847441</integer>
+			<key>Play Date UTC</key><date>2019-07-24T15:40:41Z</date>
+			<key>Release Date</key><date>1958-01-01T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>On Green Dolphin Street</string>
+			<key>Persistent ID</key><string>2F3F9FC2BC93BF95</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20725</key>
+		<dict>
+			<key>Track ID</key><integer>20725</integer>
+			<key>Name</key><string>Fran-Dance</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12546268</integer>
+			<key>Total Time</key><integer>349053</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3619912234</integer>
+			<key>Play Date UTC</key><date>2018-09-15T21:40:34Z</date>
+			<key>Release Date</key><date>1958-01-01T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Fran-Dance</string>
+			<key>Persistent ID</key><string>6E00ADABE56807A3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20727</key>
+		<dict>
+			<key>Track ID</key><integer>20727</integer>
+			<key>Name</key><string>Stella By Starlight</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Victor Young</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10313476</integer>
+			<key>Total Time</key><integer>284560</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3619943667</integer>
+			<key>Play Date UTC</key><date>2018-09-16T06:24:27Z</date>
+			<key>Release Date</key><date>1958-05-26T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Stella By Starlight</string>
+			<key>Persistent ID</key><string>2D48A8E10F5BE190</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20729</key>
+		<dict>
+			<key>Track ID</key><integer>20729</integer>
+			<key>Name</key><string>Love For Sale</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Cole Porter</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>25579744</integer>
+			<key>Total Time</key><integer>707253</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3656150479</integer>
+			<key>Play Date UTC</key><date>2019-11-09T07:51:19Z</date>
+			<key>Release Date</key><date>1958-05-26T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Love For Sale</string>
+			<key>Persistent ID</key><string>5F65F65EBC808504</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20731</key>
+		<dict>
+			<key>Track ID</key><integer>20731</integer>
+			<key>Name</key><string>Fran-Dance (alternate take)</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12561970</integer>
+			<key>Total Time</key><integer>351827</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3665035552</integer>
+			<key>Play Date UTC</key><date>2020-02-20T03:55:52Z</date>
+			<key>Release Date</key><date>1958-01-01T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Fran-Dance (alternate take)</string>
+			<key>Persistent ID</key><string>0CDCCC5FB45D6854</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20733</key>
+		<dict>
+			<key>Track ID</key><integer>20733</integer>
+			<key>Name</key><string>So What (Live at Kurhaus, Den Haag, Holland - April 1960)</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>35224402</integer>
+			<key>Total Time</key><integer>1049213</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3619816553</integer>
+			<key>Play Date UTC</key><date>2018-09-14T19:05:53Z</date>
+			<key>Release Date</key><date>2008-09-30T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>So What (Live at Kurhaus, Den Haag, Holland - April 1960)</string>
+			<key>Persistent ID</key><string>3AC02E74649CDE35</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20735</key>
+		<dict>
+			<key>Track ID</key><integer>20735</integer>
+			<key>Name</key><string>So What</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>122899698</integer>
+			<key>Total Time</key><integer>546480</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>1959</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3647939116</integer>
+			<key>Play Date UTC</key><date>2019-08-06T06:55:16Z</date>
+			<key>Release Date</key><date>1959-04-02T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>So What</string>
+			<key>Persistent ID</key><string>235AA8FFD2C0BDFF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Music Video</key><true/>
+		</dict>
+		<key>20737</key>
+		<dict>
+			<key>Track ID</key><integer>20737</integer>
+			<key>Name</key><string>Warm-Up and Dialogue Between Lee and Rudy</string>
+			<key>Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Album Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Composer</key><string>Spoken Word</string>
+			<key>Album</key><string>Moanin' (Remastered)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>1753331</integer>
+			<key>Total Time</key><integer>35853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:54Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3628009951</integer>
+			<key>Play Date UTC</key><date>2018-12-18T15:02:31Z</date>
+			<key>Release Date</key><date>1958-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Moanin' (Remastered)</string>
+			<key>Sort Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Sort Name</key><string>Warm-Up and Dialogue Between Lee and Rudy</string>
+			<key>Persistent ID</key><string>42C097783156A96F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20739</key>
+		<dict>
+			<key>Track ID</key><integer>20739</integer>
+			<key>Name</key><string>Moanin'</string>
+			<key>Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Album Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Composer</key><string>Bobby Timmons</string>
+			<key>Album</key><string>Moanin' (Remastered)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>19438234</integer>
+			<key>Total Time</key><integer>570720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:54Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3686904911</integer>
+			<key>Play Date UTC</key><date>2020-10-30T06:45:11Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-07-30T16:43:18Z</date>
+			<key>Release Date</key><date>1958-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Moanin' (Remastered)</string>
+			<key>Sort Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Sort Name</key><string>Moanin'</string>
+			<key>Persistent ID</key><string>40F1C21A3F67CF89</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20741</key>
+		<dict>
+			<key>Track ID</key><integer>20741</integer>
+			<key>Name</key><string>Are You Real?</string>
+			<key>Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Album Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Composer</key><string>Benny Golson</string>
+			<key>Album</key><string>Moanin' (Remastered)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10043029</integer>
+			<key>Total Time</key><integer>287440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:54Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3628074285</integer>
+			<key>Play Date UTC</key><date>2018-12-19T08:54:45Z</date>
+			<key>Release Date</key><date>1958-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Moanin' (Remastered)</string>
+			<key>Sort Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Sort Name</key><string>Are You Real?</string>
+			<key>Persistent ID</key><string>E56659393BEBDCF5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20743</key>
+		<dict>
+			<key>Track ID</key><integer>20743</integer>
+			<key>Name</key><string>Along Came Betty</string>
+			<key>Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Album Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Composer</key><string>Benny Golson</string>
+			<key>Album</key><string>Moanin' (Remastered)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12748769</integer>
+			<key>Total Time</key><integer>368747</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:54Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3665035921</integer>
+			<key>Play Date UTC</key><date>2020-02-20T04:02:01Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-03-07T20:27:39Z</date>
+			<key>Release Date</key><date>1958-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Moanin' (Remastered)</string>
+			<key>Sort Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Sort Name</key><string>Along Came Betty</string>
+			<key>Persistent ID</key><string>EBBC251D723E045A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20745</key>
+		<dict>
+			<key>Track ID</key><integer>20745</integer>
+			<key>Name</key><string>The Drum Thunder Suite: First Theme: Drum Thunder / Second Theme: Cry a Blue Tear / Third Theme: Harlem's Disciples</string>
+			<key>Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Album Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Composer</key><string>Benny Golson</string>
+			<key>Album</key><string>Moanin' (Remastered)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15461734</integer>
+			<key>Total Time</key><integer>450933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:54Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3628071276</integer>
+			<key>Play Date UTC</key><date>2018-12-19T08:04:36Z</date>
+			<key>Release Date</key><date>1958-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Moanin' (Remastered)</string>
+			<key>Sort Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Sort Name</key><string>Drum Thunder Suite: First Theme: Drum Thunder / Second Theme: Cry a Blue Tear / Third Theme: Harlem's Disciples</string>
+			<key>Persistent ID</key><string>C1C55147D404F0E0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20747</key>
+		<dict>
+			<key>Track ID</key><integer>20747</integer>
+			<key>Name</key><string>Blues March</string>
+			<key>Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Album Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Composer</key><string>Benny Golson</string>
+			<key>Album</key><string>Moanin' (Remastered)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12873580</integer>
+			<key>Total Time</key><integer>373387</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:54Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3619926402</integer>
+			<key>Play Date UTC</key><date>2018-09-16T01:36:42Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-09T20:41:41Z</date>
+			<key>Release Date</key><date>1958-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Moanin' (Remastered)</string>
+			<key>Sort Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Sort Name</key><string>Blues March</string>
+			<key>Persistent ID</key><string>868AB5297E22A8FB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20749</key>
+		<dict>
+			<key>Track ID</key><integer>20749</integer>
+			<key>Name</key><string>Come Rain or Come Shine</string>
+			<key>Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Album Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Composer</key><string>Johnny Mercer &#38; Harold Arlen</string>
+			<key>Album</key><string>Moanin' (Remastered)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11973795</integer>
+			<key>Total Time</key><integer>345173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:54Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3665032507</integer>
+			<key>Play Date UTC</key><date>2020-02-20T03:05:07Z</date>
+			<key>Release Date</key><date>1958-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Moanin' (Remastered)</string>
+			<key>Sort Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Sort Name</key><string>Come Rain or Come Shine</string>
+			<key>Persistent ID</key><string>7B6045EBAEAFB1B9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20751</key>
+		<dict>
+			<key>Track ID</key><integer>20751</integer>
+			<key>Name</key><string>Moanin' (Alternate Take)</string>
+			<key>Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Album Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Composer</key><string>Bobby Timmons</string>
+			<key>Album</key><string>Moanin' (Remastered)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>18995564</integer>
+			<key>Total Time</key><integer>559147</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1958</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:54Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3608591896</integer>
+			<key>Play Date UTC</key><date>2018-05-07T21:08:16Z</date>
+			<key>Release Date</key><date>1958-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Moanin' (Remastered)</string>
+			<key>Sort Artist</key><string>Art Blakey &#38; The Jazz Messengers</string>
+			<key>Sort Name</key><string>Moanin' (Alternate Take)</string>
+			<key>Persistent ID</key><string>CAD5BFBFA612D6E2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20821</key>
+		<dict>
+			<key>Track ID</key><integer>20821</integer>
+			<key>Name</key><string>A Love Supreme, Pt. I – Acknowledgement</string>
+			<key>Artist</key><string>John Coltrane</string>
+			<key>Album Artist</key><string>John Coltrane</string>
+			<key>Composer</key><string>John Coltrane</string>
+			<key>Album</key><string>A Love Supreme: The Complete Masters</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>18348232</integer>
+			<key>Total Time</key><integer>462629</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2018-03-04T17:26:13Z</date>
+			<key>Date Added</key><date>2018-03-04T17:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3665032162</integer>
+			<key>Play Date UTC</key><date>2020-02-20T02:59:22Z</date>
+			<key>Release Date</key><date>1964-01-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Supreme: The Complete Masters</string>
+			<key>Sort Artist</key><string>John Coltrane</string>
+			<key>Sort Name</key><string>Love Supreme, Pt. I – Acknowledgement</string>
+			<key>Persistent ID</key><string>CFA43E126A695B87</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20823</key>
+		<dict>
+			<key>Track ID</key><integer>20823</integer>
+			<key>Name</key><string>A Love Supreme, Pt.. II - Resolution (Take 4 / Alternate)</string>
+			<key>Artist</key><string>John Coltrane Quartet</string>
+			<key>Album Artist</key><string>John Coltrane</string>
+			<key>Composer</key><string>John Coltrane</string>
+			<key>Album</key><string>A Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15906391</integer>
+			<key>Total Time</key><integer>445273</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2018-03-04T17:26:13Z</date>
+			<key>Date Added</key><date>2018-03-04T17:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3632471337</integer>
+			<key>Play Date UTC</key><date>2019-02-08T06:18:57Z</date>
+			<key>Release Date</key><date>2002-10-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Sort Artist</key><string>John Coltrane Quartet</string>
+			<key>Sort Name</key><string>Love Supreme, Pt.. II - Resolution (Take 4 / Alternate)</string>
+			<key>Persistent ID</key><string>0D81A2CA1D69B696</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20825</key>
+		<dict>
+			<key>Track ID</key><integer>20825</integer>
+			<key>Name</key><string>A Love Supreme, Pt. III - Pursuance (Original Mono Reference Master)</string>
+			<key>Artist</key><string>John Coltrane</string>
+			<key>Album Artist</key><string>John Coltrane</string>
+			<key>Composer</key><string>John Coltrane</string>
+			<key>Album</key><string>A Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>22671571</integer>
+			<key>Total Time</key><integer>640382</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2018-03-04T17:26:13Z</date>
+			<key>Date Added</key><date>2018-03-04T17:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3626968293</integer>
+			<key>Play Date UTC</key><date>2018-12-06T13:41:33Z</date>
+			<key>Release Date</key><date>1964-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Sort Artist</key><string>John Coltrane</string>
+			<key>Sort Name</key><string>Love Supreme, Pt. III - Pursuance (Original Mono Reference Master)</string>
+			<key>Persistent ID</key><string>04514FE6E1AD6871</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20827</key>
+		<dict>
+			<key>Track ID</key><integer>20827</integer>
+			<key>Name</key><string>A Love Supreme, Pt. IV - Psalm</string>
+			<key>Artist</key><string>John Coltrane</string>
+			<key>Album Artist</key><string>John Coltrane</string>
+			<key>Composer</key><string>John Coltrane</string>
+			<key>Album</key><string>A Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>16442828</integer>
+			<key>Total Time</key><integer>427395</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2018-03-04T17:26:13Z</date>
+			<key>Date Added</key><date>2018-03-04T17:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3626967486</integer>
+			<key>Play Date UTC</key><date>2018-12-06T13:28:06Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-03-09T11:48:32Z</date>
+			<key>Release Date</key><date>1964-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Sort Artist</key><string>John Coltrane</string>
+			<key>Sort Name</key><string>Love Supreme, Pt. IV - Psalm</string>
+			<key>Persistent ID</key><string>55B33A28ABE62CFD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20829</key>
+		<dict>
+			<key>Track ID</key><integer>20829</integer>
+			<key>Name</key><string>A Love Supreme, Pt. III - Pursuance (Original Mono Reference Master)</string>
+			<key>Artist</key><string>John Coltrane</string>
+			<key>Album Artist</key><string>John Coltrane</string>
+			<key>Composer</key><string>John Coltrane</string>
+			<key>Album</key><string>A Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>22671571</integer>
+			<key>Total Time</key><integer>640382</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2018-03-04T17:26:13Z</date>
+			<key>Date Added</key><date>2018-03-04T17:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3667765730</integer>
+			<key>Play Date UTC</key><date>2020-03-22T18:18:50Z</date>
+			<key>Release Date</key><date>1964-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Sort Artist</key><string>John Coltrane</string>
+			<key>Sort Name</key><string>Love Supreme, Pt. III - Pursuance (Original Mono Reference Master)</string>
+			<key>Persistent ID</key><string>BA039A3613B628F1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20831</key>
+		<dict>
+			<key>Track ID</key><integer>20831</integer>
+			<key>Name</key><string>A Love Supreme, Pt. IV - Psalm (Original Mono Reference Master)</string>
+			<key>Artist</key><string>John Coltrane</string>
+			<key>Album Artist</key><string>John Coltrane</string>
+			<key>Composer</key><string>John Coltrane</string>
+			<key>Album</key><string>A Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15167897</integer>
+			<key>Total Time</key><integer>422225</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2018-03-04T17:26:13Z</date>
+			<key>Date Added</key><date>2018-03-04T17:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3626964629</integer>
+			<key>Play Date UTC</key><date>2018-12-06T12:40:29Z</date>
+			<key>Release Date</key><date>1964-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Sort Artist</key><string>John Coltrane</string>
+			<key>Sort Name</key><string>Love Supreme, Pt. IV - Psalm (Original Mono Reference Master)</string>
+			<key>Persistent ID</key><string>AFDF5359C5C8E354</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20833</key>
+		<dict>
+			<key>Track ID</key><integer>20833</integer>
+			<key>Name</key><string>A Love Supreme, Pt. I - Acknowledgement (Vocal Overdub 2)</string>
+			<key>Artist</key><string>John Coltrane Quartet</string>
+			<key>Album Artist</key><string>John Coltrane</string>
+			<key>Composer</key><string>John Coltrane</string>
+			<key>Album</key><string>A Love Supreme: The Complete Masters</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4650345</integer>
+			<key>Total Time</key><integer>119583</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2018-03-04T17:26:13Z</date>
+			<key>Date Added</key><date>2018-03-04T17:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3608399534</integer>
+			<key>Play Date UTC</key><date>2018-05-05T15:42:14Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-06-25T04:05:59Z</date>
+			<key>Release Date</key><date>1964-01-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Supreme: The Complete Masters</string>
+			<key>Sort Artist</key><string>John Coltrane Quartet</string>
+			<key>Sort Name</key><string>Love Supreme, Pt. I - Acknowledgement (Vocal Overdub 2)</string>
+			<key>Persistent ID</key><string>CBA833B13163934F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20835</key>
+		<dict>
+			<key>Track ID</key><integer>20835</integer>
+			<key>Name</key><string>A Love Supreme, Pt. I - Acknowledgement (Vocal Overdub 3)</string>
+			<key>Artist</key><string>John Coltrane Quartet</string>
+			<key>Album Artist</key><string>John Coltrane</string>
+			<key>Composer</key><string>John Coltrane</string>
+			<key>Album</key><string>A Love Supreme: The Complete Masters</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4889507</integer>
+			<key>Total Time</key><integer>126030</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2018-03-04T17:26:13Z</date>
+			<key>Date Added</key><date>2018-03-04T17:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3657032242</integer>
+			<key>Play Date UTC</key><date>2019-11-19T12:47:22Z</date>
+			<key>Release Date</key><date>1964-01-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Supreme: The Complete Masters</string>
+			<key>Sort Artist</key><string>John Coltrane Quartet</string>
+			<key>Sort Name</key><string>Love Supreme, Pt. I - Acknowledgement (Vocal Overdub 3)</string>
+			<key>Persistent ID</key><string>EDF22BD868A29C2D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20837</key>
+		<dict>
+			<key>Track ID</key><integer>20837</integer>
+			<key>Name</key><string>A Love Supreme, Pt.. II - Resolution (Take 4 / Alternate)</string>
+			<key>Artist</key><string>John Coltrane Quartet</string>
+			<key>Album Artist</key><string>John Coltrane</string>
+			<key>Composer</key><string>John Coltrane</string>
+			<key>Album</key><string>A Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15906391</integer>
+			<key>Total Time</key><integer>445273</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2018-03-04T17:26:13Z</date>
+			<key>Date Added</key><date>2018-03-04T17:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3626974928</integer>
+			<key>Play Date UTC</key><date>2018-12-06T15:32:08Z</date>
+			<key>Release Date</key><date>2002-10-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Sort Artist</key><string>John Coltrane Quartet</string>
+			<key>Sort Name</key><string>Love Supreme, Pt.. II - Resolution (Take 4 / Alternate)</string>
+			<key>Persistent ID</key><string>8CBF1339EA350570</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20839</key>
+		<dict>
+			<key>Track ID</key><integer>20839</integer>
+			<key>Name</key><string>A Love Supreme, Pt. II - Resolution (Take 6/Breakdown)</string>
+			<key>Artist</key><string>John Coltrane Quartet</string>
+			<key>Album Artist</key><string>John Coltrane</string>
+			<key>Composer</key><string>John Coltrane</string>
+			<key>Album</key><string>A Love Supreme: The Complete Masters</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5126606</integer>
+			<key>Total Time</key><integer>135663</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2018-03-04T17:26:13Z</date>
+			<key>Date Added</key><date>2018-03-04T17:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3608401558</integer>
+			<key>Play Date UTC</key><date>2018-05-05T16:15:58Z</date>
+			<key>Release Date</key><date>2002-10-29T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Supreme: The Complete Masters</string>
+			<key>Sort Artist</key><string>John Coltrane Quartet</string>
+			<key>Sort Name</key><string>Love Supreme, Pt. II - Resolution (Take 6/Breakdown)</string>
+			<key>Persistent ID</key><string>995EB99936B7B24C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20841</key>
+		<dict>
+			<key>Track ID</key><integer>20841</integer>
+			<key>Name</key><string>A Love Supreme, Pt. IV - Psalm (Undubbed Version)</string>
+			<key>Artist</key><string>John Coltrane Quartet</string>
+			<key>Album Artist</key><string>John Coltrane</string>
+			<key>Composer</key><string>John Coltrane</string>
+			<key>Album</key><string>A Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15057025</integer>
+			<key>Total Time</key><integer>421522</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2018-03-04T17:26:13Z</date>
+			<key>Date Added</key><date>2018-03-04T17:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3656151214</integer>
+			<key>Play Date UTC</key><date>2019-11-09T08:03:34Z</date>
+			<key>Release Date</key><date>1964-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Sort Artist</key><string>John Coltrane Quartet</string>
+			<key>Sort Name</key><string>Love Supreme, Pt. IV - Psalm (Undubbed Version)</string>
+			<key>Persistent ID</key><string>A689DA9021FDD079</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20843</key>
+		<dict>
+			<key>Track ID</key><integer>20843</integer>
+			<key>Name</key><string>A Love Supreme, Pt. I - Acknowledgement (Take 1 / Alternate)</string>
+			<key>Artist</key><string>John Coltrane Sextet</string>
+			<key>Album Artist</key><string>John Coltrane</string>
+			<key>Composer</key><string>John Coltrane</string>
+			<key>Album</key><string>A Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>22078677</integer>
+			<key>Total Time</key><integer>563765</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2018-03-04T17:26:13Z</date>
+			<key>Date Added</key><date>2018-03-04T17:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3608400098</integer>
+			<key>Play Date UTC</key><date>2018-05-05T15:51:38Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-11-07T16:12:36Z</date>
+			<key>Release Date</key><date>1964-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Sort Artist</key><string>John Coltrane Sextet</string>
+			<key>Sort Name</key><string>Love Supreme, Pt. I - Acknowledgement (Take 1 / Alternate)</string>
+			<key>Persistent ID</key><string>ED876E97851D55B1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20845</key>
+		<dict>
+			<key>Track ID</key><integer>20845</integer>
+			<key>Name</key><string>A Love Supreme, Pt.t I - Acknowledgement (Take 2 / Alternate)</string>
+			<key>Artist</key><string>John Coltrane Sextet</string>
+			<key>Album Artist</key><string>John Coltrane</string>
+			<key>Composer</key><string>John Coltrane</string>
+			<key>Album</key><string>A Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>22983357</integer>
+			<key>Total Time</key><integer>587418</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2018-03-04T17:26:13Z</date>
+			<key>Date Added</key><date>2018-03-04T17:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3603909284</integer>
+			<key>Play Date UTC</key><date>2018-03-14T16:24:44Z</date>
+			<key>Release Date</key><date>1964-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Sort Artist</key><string>John Coltrane Sextet</string>
+			<key>Sort Name</key><string>Love Supreme, Pt.t I - Acknowledgement (Take 2 / Alternate)</string>
+			<key>Persistent ID</key><string>7B162953DC014E88</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20847</key>
+		<dict>
+			<key>Track ID</key><integer>20847</integer>
+			<key>Name</key><string>A Love Supreme, Pt. I - Acknowledgement (Take 3/Breakdown With Studio Dialogue)</string>
+			<key>Artist</key><string>John Coltrane Sextet</string>
+			<key>Album Artist</key><string>John Coltrane</string>
+			<key>Composer</key><string>John Coltrane</string>
+			<key>Album</key><string>A Love Supreme: The Complete Masters</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>3802063</integer>
+			<key>Total Time</key><integer>86307</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2018-03-04T17:26:13Z</date>
+			<key>Date Added</key><date>2018-03-04T17:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3646847528</integer>
+			<key>Play Date UTC</key><date>2019-07-24T15:42:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-09-09T14:07:46Z</date>
+			<key>Release Date</key><date>1964-01-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Supreme: The Complete Masters</string>
+			<key>Sort Artist</key><string>John Coltrane Sextet</string>
+			<key>Sort Name</key><string>Love Supreme, Pt. I - Acknowledgement (Take 3/Breakdown With Studio Dialogue)</string>
+			<key>Persistent ID</key><string>5C11124AF76CD79A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20849</key>
+		<dict>
+			<key>Track ID</key><integer>20849</integer>
+			<key>Name</key><string>A Love Supreme, Pt. I - Acknowledgement (Take 4 / Alternate)</string>
+			<key>Artist</key><string>John Coltrane Sextet</string>
+			<key>Album Artist</key><string>John Coltrane</string>
+			<key>Composer</key><string>John Coltrane</string>
+			<key>Album</key><string>A Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>21251392</integer>
+			<key>Total Time</key><integer>544689</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2018-03-04T17:26:13Z</date>
+			<key>Date Added</key><date>2018-03-04T17:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3613399934</integer>
+			<key>Play Date UTC</key><date>2018-07-02T12:42:14Z</date>
+			<key>Release Date</key><date>1964-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Sort Artist</key><string>John Coltrane Sextet</string>
+			<key>Sort Name</key><string>Love Supreme, Pt. I - Acknowledgement (Take 4 / Alternate)</string>
+			<key>Persistent ID</key><string>C9536E0EE3EEB41F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20851</key>
+		<dict>
+			<key>Track ID</key><integer>20851</integer>
+			<key>Name</key><string>A Love Supreme, Pt. I - Acknowledgement (Take 5/False Start)</string>
+			<key>Artist</key><string>John Coltrane Sextet</string>
+			<key>Album Artist</key><string>John Coltrane</string>
+			<key>Composer</key><string>John Coltrane</string>
+			<key>Album</key><string>A Love Supreme: The Complete Masters</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>1837293</integer>
+			<key>Total Time</key><integer>34451</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2018-03-04T17:26:13Z</date>
+			<key>Date Added</key><date>2018-03-04T17:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3656151701</integer>
+			<key>Play Date UTC</key><date>2019-11-09T08:11:41Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-03-23T17:42:07Z</date>
+			<key>Release Date</key><date>1964-01-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Supreme: The Complete Masters</string>
+			<key>Sort Artist</key><string>John Coltrane Sextet</string>
+			<key>Sort Name</key><string>Love Supreme, Pt. I - Acknowledgement (Take 5/False Start)</string>
+			<key>Persistent ID</key><string>550B3EEFD1F8943F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20853</key>
+		<dict>
+			<key>Track ID</key><integer>20853</integer>
+			<key>Name</key><string>A Love Supreme, Pt. I - Acknowledgement (Take 6 / Alternate)</string>
+			<key>Artist</key><string>John Coltrane Sextet</string>
+			<key>Album Artist</key><string>John Coltrane</string>
+			<key>Composer</key><string>John Coltrane</string>
+			<key>Album</key><string>A Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>29585109</integer>
+			<key>Total Time</key><integer>753284</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1964</integer>
+			<key>Date Modified</key><date>2018-03-04T17:26:13Z</date>
+			<key>Date Added</key><date>2018-03-04T17:26:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3603402484</integer>
+			<key>Play Date UTC</key><date>2018-03-08T19:38:04Z</date>
+			<key>Release Date</key><date>1964-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Love Supreme: The Complete Masters (Super Deluxe Edition)</string>
+			<key>Sort Artist</key><string>John Coltrane Sextet</string>
+			<key>Sort Name</key><string>Love Supreme, Pt. I - Acknowledgement (Take 6 / Alternate)</string>
+			<key>Persistent ID</key><string>7DE1AB58D6CA34F5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21041</key>
+		<dict>
+			<key>Track ID</key><integer>21041</integer>
+			<key>Name</key><string>Innocence in Harlem</string>
+			<key>Artist</key><string>Sameer Gupta</string>
+			<key>Album Artist</key><string>Sameer Gupta</string>
+			<key>Composer</key><string>Sameer Gupta</string>
+			<key>Album</key><string>A Circle Has No Beginning</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14353858</integer>
+			<key>Total Time</key><integer>408573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-05-08T13:09:28Z</date>
+			<key>Date Added</key><date>2018-05-08T13:09:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3737861747</integer>
+			<key>Play Date UTC</key><date>2022-06-12T01:25:47Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-01-16T00:55:23Z</date>
+			<key>Release Date</key><date>2018-02-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Circle Has No Beginning</string>
+			<key>Sort Artist</key><string>Sameer Gupta</string>
+			<key>Sort Name</key><string>Innocence in Harlem</string>
+			<key>Persistent ID</key><string>791B20413B2FF209</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Bad Ass Jazz</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>38368</integer>
+			<key>Playlist Persistent ID</key><string>B529F618520B4DCE</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>20561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20567</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20571</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20577</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20653</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20655</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20657</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20659</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20661</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20663</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20665</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20667</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20669</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20673</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20675</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20677</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20679</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20685</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20687</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20693</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20695</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20697</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20701</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20705</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20707</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20711</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20713</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20715</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20717</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20721</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20723</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20725</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20727</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20729</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20731</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20733</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20735</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20737</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20739</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20741</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20743</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20745</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20747</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20749</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20751</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20821</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20823</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20825</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20827</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20829</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20831</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20833</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20835</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20837</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20839</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20841</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20843</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20845</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20847</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20849</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20851</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20853</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21041</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:04:21Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6403</key>
+		<dict>
+			<key>Track ID</key><integer>6403</integer>
+			<key>Name</key><string>Magic</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Ghost Stories</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10059722</integer>
+			<key>Total Time</key><integer>285014</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-06-25T07:20:38Z</date>
+			<key>Date Added</key><date>2017-08-18T09:33:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>122</integer>
+			<key>Play Date</key><integer>3756436638</integer>
+			<key>Play Date UTC</key><date>2023-01-13T01:07:18Z</date>
+			<key>Skip Count</key><integer>13</integer>
+			<key>Skip Date</key><date>2023-01-13T13:01:58Z</date>
+			<key>Release Date</key><date>2014-03-03T08:00:00Z</date>
+			<key>Normalization</key><integer>2020</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>377B2B3BB674B1A7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6429</key>
+		<dict>
+			<key>Track ID</key><integer>6429</integer>
+			<key>Name</key><string>Up&#38;Up</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>A Head Full of Dreams</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14391680</integer>
+			<key>Total Time</key><integer>405307</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2017-05-21T19:24:51Z</date>
+			<key>Date Added</key><date>2017-08-18T09:34:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3736684388</integer>
+			<key>Play Date UTC</key><date>2022-05-29T10:23:08Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2021-12-24T16:02:12Z</date>
+			<key>Release Date</key><date>2015-12-04T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Head Full of Dreams</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>Up&#38;Up</string>
+			<key>Persistent ID</key><string>1108D808C8A55436</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6451</key>
+		<dict>
+			<key>Track ID</key><integer>6451</integer>
+			<key>Name</key><string>The Scientist</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>A Rush of Blood to the Head</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11491964</integer>
+			<key>Total Time</key><integer>308930</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2015-06-25T07:25:45Z</date>
+			<key>Date Added</key><date>2017-05-22T04:46:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>185</integer>
+			<key>Play Date</key><integer>3760985282</integer>
+			<key>Play Date UTC</key><date>2023-03-06T16:38:02Z</date>
+			<key>Skip Count</key><integer>25</integer>
+			<key>Skip Date</key><date>2021-09-30T05:17:12Z</date>
+			<key>Release Date</key><date>2002-08-26T07:00:00Z</date>
+			<key>Normalization</key><integer>3627</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rush of Blood to the Head</string>
+			<key>Sort Name</key><string>Scientist</string>
+			<key>Persistent ID</key><string>201E00DCA04E7018</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10407</key>
+		<dict>
+			<key>Track ID</key><integer>10407</integer>
+			<key>Name</key><string>Clocks</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>A Rush Of Blood To The Head</string>
+			<key>Genre</key><string>AlternRock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12299247</integer>
+			<key>Total Time</key><integer>307513</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-02-04T12:10:46Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>318</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3625747258</integer>
+			<key>Play Date UTC</key><date>2018-11-22T10:30:58Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rush Of Blood To The Head</string>
+			<key>Persistent ID</key><string>F53F158123358859</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>10415</key>
+		<dict>
+			<key>Track ID</key><integer>10415</integer>
+			<key>Name</key><string>Amsterdam</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>A Rush Of Blood To The Head</string>
+			<key>Genre</key><string>AlternRock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12823681</integer>
+			<key>Total Time</key><integer>319399</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-02-04T12:07:28Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>319</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3636115075</integer>
+			<key>Play Date UTC</key><date>2019-03-22T10:27:55Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rush Of Blood To The Head</string>
+			<key>Persistent ID</key><string>18857A62B54765C8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>10435</key>
+		<dict>
+			<key>Track ID</key><integer>10435</integer>
+			<key>Name</key><string>Shiver</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Shiver - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>10357000</integer>
+			<key>Total Time</key><integer>304200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2015-06-25T07:38:25Z</date>
+			<key>Date Added</key><date>2009-11-24T17:17:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3744746896</integer>
+			<key>Play Date UTC</key><date>2022-08-30T17:58:16Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-09-05T07:21:39Z</date>
+			<key>Normalization</key><integer>4618</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>07FCD1E5C31E7377</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>10447</key>
+		<dict>
+			<key>Track ID</key><integer>10447</integer>
+			<key>Name</key><string>Trouble</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Trouble (B-Sides) - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9109418</integer>
+			<key>Total Time</key><integer>273436</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2015-06-25T07:40:01Z</date>
+			<key>Date Added</key><date>2009-01-27T00:54:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3687473569</integer>
+			<key>Play Date UTC</key><date>2020-11-05T20:42:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-18T19:09:14Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EDD9811C2095C581</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>10815</key>
+		<dict>
+			<key>Track ID</key><integer>10815</integer>
+			<key>Name</key><string>Paradise</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11242589</integer>
+			<key>Total Time</key><integer>277655</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-04-05T14:06:38Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3700765016</integer>
+			<key>Play Date UTC</key><date>2021-04-08T16:46:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-03-24T16:44:51Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D7687131AA758943</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>10817</key>
+		<dict>
+			<key>Track ID</key><integer>10817</integer>
+			<key>Name</key><string>Charlie Brown</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9639505</integer>
+			<key>Total Time</key><integer>285204</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2013-01-26T18:10:14Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>270</integer>
+			<key>Play Count</key><integer>90</integer>
+			<key>Play Date</key><integer>3740734354</integer>
+			<key>Play Date UTC</key><date>2022-07-15T07:22:34Z</date>
+			<key>Skip Count</key><integer>17</integer>
+			<key>Skip Date</key><date>2020-06-15T14:05:36Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0A4B2E7E92B2F77D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>10823</key>
+		<dict>
+			<key>Track ID</key><integer>10823</integer>
+			<key>Name</key><string>Every Teardrop Is a Waterfall</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9770659</integer>
+			<key>Total Time</key><integer>240822</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2012-04-05T14:06:50Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3714952546</integer>
+			<key>Play Date UTC</key><date>2021-09-19T21:45:46Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-07-07T14:29:08Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5F67D7E496C4E118</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>10841</key>
+		<dict>
+			<key>Track ID</key><integer>10841</integer>
+			<key>Name</key><string>Sparks</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jon Buckland, Will Champion</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9125340</integer>
+			<key>Total Time</key><integer>227134</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2012-02-04T12:25:36Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3687491045</integer>
+			<key>Play Date UTC</key><date>2020-11-06T01:34:05Z</date>
+			<key>Normalization</key><integer>1479</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F43BF701F27372A6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>10845</key>
+		<dict>
+			<key>Track ID</key><integer>10845</integer>
+			<key>Name</key><string>Yellow</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jon Buckland, Will Champion</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10812936</integer>
+			<key>Total Time</key><integer>269270</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2012-02-04T12:25:38Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3753676578</integer>
+			<key>Play Date UTC</key><date>2022-12-12T02:26:18Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-02-07T11:57:45Z</date>
+			<key>Normalization</key><integer>6582</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>110FC2598208674C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>10849</key>
+		<dict>
+			<key>Track ID</key><integer>10849</integer>
+			<key>Name</key><string>Parachutes</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jon Buckland, Will Champion</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1893787</integer>
+			<key>Total Time</key><integer>46393</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2012-02-04T12:25:40Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>75</integer>
+			<key>Play Date</key><integer>3748312544</integer>
+			<key>Play Date UTC</key><date>2022-10-11T00:25:44Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2021-02-06T06:27:25Z</date>
+			<key>Normalization</key><integer>848</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1B349C63DFF28B78</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>10851</key>
+		<dict>
+			<key>Track ID</key><integer>10851</integer>
+			<key>Name</key><string>High Speed</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jon Buckland, Will Champion</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10214130</integer>
+			<key>Total Time</key><integer>254302</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2012-02-04T12:24:50Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3636127157</integer>
+			<key>Play Date UTC</key><date>2019-03-22T13:49:17Z</date>
+			<key>Normalization</key><integer>2497</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2CA806919285D155</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>10855</key>
+		<dict>
+			<key>Track ID</key><integer>10855</integer>
+			<key>Name</key><string>Everything's Not Lost</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jon Buckland, Will Champion</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17460679</integer>
+			<key>Total Time</key><integer>435408</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2012-02-04T12:24:54Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3727742803</integer>
+			<key>Play Date UTC</key><date>2022-02-14T22:36:43Z</date>
+			<key>Normalization</key><integer>3375</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1DE0E40360B8D8C8</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>10859</key>
+		<dict>
+			<key>Track ID</key><integer>10859</integer>
+			<key>Name</key><string>Proof</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Proof</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8357821</integer>
+			<key>Total Time</key><integer>251006</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2015-06-25T07:38:38Z</date>
+			<key>Date Added</key><date>2009-01-27T00:53:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>26A5407E6D954153</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>10983</key>
+		<dict>
+			<key>Track ID</key><integer>10983</integer>
+			<key>Name</key><string>Don't Panic</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4486034</integer>
+			<key>Total Time</key><integer>136880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2015-06-25T07:06:35Z</date>
+			<key>Date Added</key><date>2009-11-27T16:16:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Play Count</key><integer>62</integer>
+			<key>Play Date</key><integer>3752342556</integer>
+			<key>Play Date UTC</key><date>2022-11-26T15:52:36Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-03-10T21:03:05Z</date>
+			<key>Normalization</key><integer>3595</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>89949BFC654AA8A1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>10985</key>
+		<dict>
+			<key>Track ID</key><integer>10985</integer>
+			<key>Name</key><string>Shiver</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9729469</integer>
+			<key>Total Time</key><integer>299698</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2015-06-25T07:13:46Z</date>
+			<key>Date Added</key><date>2009-11-27T16:16:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3727682157</integer>
+			<key>Play Date UTC</key><date>2022-02-14T05:45:57Z</date>
+			<key>Normalization</key><integer>4322</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>02E5925629D889BC</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>11003</key>
+		<dict>
+			<key>Track ID</key><integer>11003</integer>
+			<key>Name</key><string>God Put a Smile upon Your Face</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>A Rush of Blood to the Head</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9644808</integer>
+			<key>Total Time</key><integer>297306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2015-06-25T07:26:15Z</date>
+			<key>Date Added</key><date>2009-11-28T16:23:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3636116791</integer>
+			<key>Play Date UTC</key><date>2019-03-22T10:56:31Z</date>
+			<key>Normalization</key><integer>4486</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rush of Blood to the Head</string>
+			<key>Persistent ID</key><string>5E735D2C531DDABE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>11015</key>
+		<dict>
+			<key>Track ID</key><integer>11015</integer>
+			<key>Name</key><string>A Rush of Blood to the Head</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>A Rush of Blood to the Head</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11359686</integer>
+			<key>Total Time</key><integer>351409</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2015-06-25T07:27:22Z</date>
+			<key>Date Added</key><date>2009-11-28T16:23:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3625747609</integer>
+			<key>Play Date UTC</key><date>2018-11-22T10:36:49Z</date>
+			<key>Normalization</key><integer>3866</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rush of Blood to the Head</string>
+			<key>Sort Name</key><string>Rush of Blood to the Head</string>
+			<key>Persistent ID</key><string>C13D400F4E7BBF27</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>11021</key>
+		<dict>
+			<key>Track ID</key><integer>11021</integer>
+			<key>Name</key><string>Cemeteries of London</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Will Champion &#38; Jonny Buckland</string>
+			<key>Album</key><string>Viva la Vida (Prospekt's March Edition)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7104891</integer>
+			<key>Total Time</key><integer>201106</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2015-06-25T07:35:41Z</date>
+			<key>Date Added</key><date>2009-12-18T08:15:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Comments</key><string> </string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3699464563</integer>
+			<key>Play Date UTC</key><date>2021-03-24T15:32:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-11-07T13:45:02Z</date>
+			<key>Normalization</key><integer>4259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DB531E22A638FA7D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>11025</key>
+		<dict>
+			<key>Track ID</key><integer>11025</integer>
+			<key>Name</key><string>42</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Will Champion &#38; Jonny Buckland</string>
+			<key>Album</key><string>Viva la Vida (Prospekt's March Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8277313</integer>
+			<key>Total Time</key><integer>237456</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2015-06-25T07:33:07Z</date>
+			<key>Date Added</key><date>2010-01-26T13:50:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Comments</key><string> </string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3636116266</integer>
+			<key>Play Date UTC</key><date>2019-03-22T10:47:46Z</date>
+			<key>Normalization</key><integer>4260</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C9E628C3C55B93D7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>11031</key>
+		<dict>
+			<key>Track ID</key><integer>11031</integer>
+			<key>Name</key><string>Viva la Vida</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Will Champion &#38; Jonny Buckland</string>
+			<key>Album</key><string>Viva la Vida (Prospekt's March Edition)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8407477</integer>
+			<key>Total Time</key><integer>241426</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2015-06-25T07:34:47Z</date>
+			<key>Date Added</key><date>2009-12-18T08:15:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Comments</key><string> </string>
+			<key>Play Count</key><integer>56</integer>
+			<key>Play Date</key><integer>3748298524</integer>
+			<key>Play Date UTC</key><date>2022-10-10T20:32:04Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-01-04T00:06:46Z</date>
+			<key>Normalization</key><integer>4236</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>758358FCE8B86D41</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>11035</key>
+		<dict>
+			<key>Track ID</key><integer>11035</integer>
+			<key>Name</key><string>Strawberry Swing</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Will Champion &#38; Jonny Buckland</string>
+			<key>Album</key><string>Viva la Vida (Prospekt's March Edition)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8575870</integer>
+			<key>Total Time</key><integer>249666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2015-06-25T07:34:09Z</date>
+			<key>Date Added</key><date>2009-12-18T08:15:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Comments</key><string> </string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3693633507</integer>
+			<key>Play Date UTC</key><date>2021-01-16T03:48:27Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-02-02T22:08:08Z</date>
+			<key>Normalization</key><integer>2023</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BAD8542861FE509C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>11039</key>
+		<dict>
+			<key>Track ID</key><integer>11039</integer>
+			<key>Name</key><string>Lost?</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Will Champion &#38; Jonny Buckland</string>
+			<key>Album</key><string>Viva la Vida (Prospekt's March Edition)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7599296</integer>
+			<key>Total Time</key><integer>222053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2015-06-25T07:31:13Z</date>
+			<key>Date Added</key><date>2009-12-18T08:15:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Comments</key><string> </string>
+			<key>Play Count</key><integer>126</integer>
+			<key>Play Date</key><integer>3760986748</integer>
+			<key>Play Date UTC</key><date>2023-03-06T17:02:28Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2021-03-23T18:31:30Z</date>
+			<key>Normalization</key><integer>2347</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>81E0C8E3B21D1045</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>11065</key>
+		<dict>
+			<key>Track ID</key><integer>11065</integer>
+			<key>Name</key><string>Up in Flames</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Mylo Xyloto</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6958146</integer>
+			<key>Total Time</key><integer>193240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2015-06-25T07:13:12Z</date>
+			<key>Date Added</key><date>2011-10-18T14:05:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3689507863</integer>
+			<key>Play Date UTC</key><date>2020-11-29T09:47:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-10-30T13:24:29Z</date>
+			<key>Normalization</key><integer>1409</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C2307F6859F021DC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>11179</key>
+		<dict>
+			<key>Track ID</key><integer>11179</integer>
+			<key>Name</key><string>Always In My Head</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Ghost Stories</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8182968</integer>
+			<key>Total Time</key><integer>216633</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-06-25T07:20:56Z</date>
+			<key>Date Added</key><date>2014-05-15T10:21:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3639695786</integer>
+			<key>Play Date UTC</key><date>2019-05-02T21:06:26Z</date>
+			<key>Normalization</key><integer>2276</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>99E00BBB1513C287</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>11181</key>
+		<dict>
+			<key>Track ID</key><integer>11181</integer>
+			<key>Name</key><string>Ink</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Ghost Stories</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8077216</integer>
+			<key>Total Time</key><integer>228376</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-06-25T07:23:49Z</date>
+			<key>Date Added</key><date>2014-05-15T10:21:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Play Count</key><integer>52</integer>
+			<key>Play Date</key><integer>3736220048</integer>
+			<key>Play Date UTC</key><date>2022-05-24T01:24:08Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2021-11-07T07:09:30Z</date>
+			<key>Normalization</key><integer>2011</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>43BEC0590EA5B26E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>11183</key>
+		<dict>
+			<key>Track ID</key><integer>11183</integer>
+			<key>Name</key><string>True Love</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Ghost Stories</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8916067</integer>
+			<key>Total Time</key><integer>245998</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-06-25T07:25:15Z</date>
+			<key>Date Added</key><date>2014-05-15T10:21:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3696080032</integer>
+			<key>Play Date UTC</key><date>2021-02-13T11:23:52Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-11-04T18:50:38Z</date>
+			<key>Normalization</key><integer>3099</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EB87557A79FD8E29</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>11187</key>
+		<dict>
+			<key>Track ID</key><integer>11187</integer>
+			<key>Name</key><string>Another's Arms</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Ghost Stories</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8211453</integer>
+			<key>Total Time</key><integer>234414</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-06-25T07:24:20Z</date>
+			<key>Date Added</key><date>2014-05-15T10:21:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3685964946</integer>
+			<key>Play Date UTC</key><date>2020-10-19T09:39:06Z</date>
+			<key>Normalization</key><integer>1523</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0EB751E09CDFCCB4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>11191</key>
+		<dict>
+			<key>Track ID</key><integer>11191</integer>
+			<key>Name</key><string>A Sky Full of Stars</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>Ghost Stories</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>9611925</integer>
+			<key>Total Time</key><integer>268465</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2015-06-25T07:20:46Z</date>
+			<key>Date Added</key><date>2014-05-15T10:21:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3711255125</integer>
+			<key>Play Date UTC</key><date>2021-08-08T02:42:05Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-10-01T14:45:07Z</date>
+			<key>Normalization</key><integer>3261</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Sky Full of Stars</string>
+			<key>Persistent ID</key><string>4EF84C1F07F09A2D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>15923</key>
+		<dict>
+			<key>Track ID</key><integer>15923</integer>
+			<key>Name</key><string>Fragile</string>
+			<key>Artist</key><string>Sting &#38; The Police</string>
+			<key>Album Artist</key><string>Sting &#38; The Police</string>
+			<key>Album</key><string>The Very Best Of Sting &#38; The Police</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9409290</integer>
+			<key>Total Time</key><integer>234893</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-01-26T19:00:15Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Very Best Of Sting &#38; The Police</string>
+			<key>Persistent ID</key><string>8FD8795C6D2D3F7B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>18023</key>
+		<dict>
+			<key>Track ID</key><integer>18023</integer>
+			<key>Name</key><string>O (Hidden Track)</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jonny Buckland &#38; Will Champion</string>
+			<key>Album</key><string>Ghost Stories</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12157268</integer>
+			<key>Total Time</key><integer>466820</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2017-08-18T09:33:52Z</date>
+			<key>Date Added</key><date>2017-08-18T09:33:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>78</integer>
+			<key>Play Date</key><integer>3732317790</integer>
+			<key>Play Date UTC</key><date>2022-04-08T21:26:30Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2020-11-16T00:08:10Z</date>
+			<key>Release Date</key><date>2014-05-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ghost Stories</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>O (Hidden Track)</string>
+			<key>Persistent ID</key><string>66780B7657F65819</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18029</key>
+		<dict>
+			<key>Track ID</key><integer>18029</integer>
+			<key>Name</key><string>Hymn for the Weekend</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jonathan Buckland, Marcos Tovar, Mikkel S. Eriksen, Scott Zant, Tor Hermansen, Venor Yard &#38; William Champion</string>
+			<key>Album</key><string>A Head Full of Dreams</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9273919</integer>
+			<key>Total Time</key><integer>258827</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2017-08-18T09:34:29Z</date>
+			<key>Date Added</key><date>2017-08-18T09:34:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3724831081</integer>
+			<key>Play Date UTC</key><date>2022-01-12T05:48:01Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2019-01-04T00:06:54Z</date>
+			<key>Release Date</key><date>2015-12-04T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Head Full of Dreams</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>Hymn for the Weekend</string>
+			<key>Persistent ID</key><string>766D9C304204EBAB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18031</key>
+		<dict>
+			<key>Track ID</key><integer>18031</integer>
+			<key>Name</key><string>Everglow</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jonny Buckland, Mikkel S. Eriksen, Tor Erik Hermansen &#38; Will Champion</string>
+			<key>Album</key><string>A Head Full of Dreams</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10001078</integer>
+			<key>Total Time</key><integer>282693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2017-08-18T09:34:29Z</date>
+			<key>Date Added</key><date>2017-08-18T09:34:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>100</integer>
+			<key>Play Date</key><integer>3727740817</integer>
+			<key>Play Date UTC</key><date>2022-02-14T22:03:37Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2020-09-12T23:48:44Z</date>
+			<key>Release Date</key><date>2015-12-04T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Head Full of Dreams</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>Everglow</string>
+			<key>Persistent ID</key><string>515593404CFDA041</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18033</key>
+		<dict>
+			<key>Track ID</key><integer>18033</integer>
+			<key>Name</key><string>Adventure of a Lifetime</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jonny Buckland, Mikkel S. Eriksen, Tor Erik Hermansen &#38; Will Champion</string>
+			<key>Album</key><string>A Head Full of Dreams</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9248374</integer>
+			<key>Total Time</key><integer>263787</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2017-08-18T09:34:29Z</date>
+			<key>Date Added</key><date>2017-08-18T09:34:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3701308329</integer>
+			<key>Play Date UTC</key><date>2021-04-14T23:42:09Z</date>
+			<key>Release Date</key><date>2015-11-06T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Head Full of Dreams</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>Adventure of a Lifetime</string>
+			<key>Persistent ID</key><string>0B47E6E728990CEF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18035</key>
+		<dict>
+			<key>Track ID</key><integer>18035</integer>
+			<key>Name</key><string>Fun (feat. Tove Lo)</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jonny Buckland, Mikkel S. Eriksen, Tor Erik Hermansen &#38; Will Champion</string>
+			<key>Album</key><string>A Head Full of Dreams</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9660981</integer>
+			<key>Total Time</key><integer>267533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2017-08-18T09:34:29Z</date>
+			<key>Date Added</key><date>2017-08-18T09:34:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3756829867</integer>
+			<key>Play Date UTC</key><date>2023-01-17T14:21:07Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-07-09T11:40:13Z</date>
+			<key>Release Date</key><date>2015-12-04T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Head Full of Dreams</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>Fun (feat. Tove Lo)</string>
+			<key>Persistent ID</key><string>95EF1AC3CCE75CBF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18039</key>
+		<dict>
+			<key>Track ID</key><integer>18039</integer>
+			<key>Name</key><string>Army of One</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Christopher Martin, Guy Berryman, Jonny Buckland, Mikkel S. Eriksen, Tor Erik Hermansen &#38; Will Champion</string>
+			<key>Album</key><string>A Head Full of Dreams</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13301932</integer>
+			<key>Total Time</key><integer>376827</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2017-08-18T09:34:29Z</date>
+			<key>Date Added</key><date>2017-08-18T09:34:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3756828263</integer>
+			<key>Play Date UTC</key><date>2023-01-17T13:54:23Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2022-02-02T14:26:53Z</date>
+			<key>Release Date</key><date>2015-12-04T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Head Full of Dreams</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>Army of One</string>
+			<key>Persistent ID</key><string>585D12841D1C0623</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18041</key>
+		<dict>
+			<key>Track ID</key><integer>18041</integer>
+			<key>Name</key><string>Amazing Day</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jonny Buckland, Mikkel S. Eriksen, Tor Erik Hermansen &#38; Will Champion</string>
+			<key>Album</key><string>A Head Full of Dreams</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9653068</integer>
+			<key>Total Time</key><integer>271107</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2017-08-18T09:34:29Z</date>
+			<key>Date Added</key><date>2017-08-18T09:34:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3636126083</integer>
+			<key>Play Date UTC</key><date>2019-03-22T13:31:23Z</date>
+			<key>Release Date</key><date>2015-12-04T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Head Full of Dreams</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>Amazing Day</string>
+			<key>Persistent ID</key><string>4069D09BCA020F36</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19989</key>
+		<dict>
+			<key>Track ID</key><integer>19989</integer>
+			<key>Name</key><string>X&#38;Y</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Will Champion, Jonny Buckland, Christopher Martin, Jonathan Buckland &#38; William Champion</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10152884</integer>
+			<key>Total Time</key><integer>274353</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2018-01-27T19:35:43Z</date>
+			<key>Date Added</key><date>2018-01-27T19:35:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>75</integer>
+			<key>Play Date</key><integer>3748299832</integer>
+			<key>Play Date UTC</key><date>2022-10-10T20:53:52Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2021-05-06T20:52:11Z</date>
+			<key>Release Date</key><date>2005-06-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>X &#38; Y</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>X &#38; Y</string>
+			<key>Persistent ID</key><string>01F9B5ADD9990D82</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20001</key>
+		<dict>
+			<key>Track ID</key><integer>20001</integer>
+			<key>Name</key><string>In My Place</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Will Champion, Guy Berryman, Jonny Buckland &#38; Jon Buckland</string>
+			<key>Album</key><string>A Rush of Blood to the Head</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8707771</integer>
+			<key>Total Time</key><integer>228523</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2018-01-27T19:44:50Z</date>
+			<key>Date Added</key><date>2018-01-27T19:44:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>63</integer>
+			<key>Play Date</key><integer>3748300061</integer>
+			<key>Play Date UTC</key><date>2022-10-10T20:57:41Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2021-10-25T08:30:55Z</date>
+			<key>Release Date</key><date>2002-08-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rush of Blood to the Head</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>In My Place</string>
+			<key>Persistent ID</key><string>E5F5BBF9CE3FF0EF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20015</key>
+		<dict>
+			<key>Track ID</key><integer>20015</integer>
+			<key>Name</key><string>Spies</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Guy Berryman, Will Champion, Chris Martin &#38; Jonny Buckland</string>
+			<key>Album</key><string>Parachutes</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11499737</integer>
+			<key>Total Time</key><integer>318268</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2018-01-27T19:52:25Z</date>
+			<key>Date Added</key><date>2018-01-27T19:52:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>46</integer>
+			<key>Play Date</key><integer>3748294669</integer>
+			<key>Play Date UTC</key><date>2022-10-10T19:27:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-01-25T04:48:22Z</date>
+			<key>Release Date</key><date>2000-07-10T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Parachutes</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>Spies</string>
+			<key>Persistent ID</key><string>D806A302601ACA99</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22413</key>
+		<dict>
+			<key>Track ID</key><integer>22413</integer>
+			<key>Name</key><string>Swallowed In the Sea</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jonny Buckland &#38; Will Champion</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8640538</integer>
+			<key>Total Time</key><integer>238823</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2018-10-21T15:47:59Z</date>
+			<key>Date Added</key><date>2018-10-21T15:47:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3727739755</integer>
+			<key>Play Date UTC</key><date>2022-02-14T21:45:55Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-06-18T13:42:03Z</date>
+			<key>Release Date</key><date>2005-06-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>X&#38;Y</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>Swallowed In the Sea</string>
+			<key>Persistent ID</key><string>B0FD9F626CE10A4D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22723</key>
+		<dict>
+			<key>Track ID</key><integer>22723</integer>
+			<key>Name</key><string>Square One</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jonny Buckland, Matthew McGinn &#38; Will Champion</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10367795</integer>
+			<key>Total Time</key><integer>287336</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2018-11-15T18:47:00Z</date>
+			<key>Date Added</key><date>2018-11-15T18:47:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3649461653</integer>
+			<key>Play Date UTC</key><date>2019-08-23T21:50:53Z</date>
+			<key>Release Date</key><date>2005-06-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>X&#38;Y</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>Square One</string>
+			<key>Persistent ID</key><string>3E817132FC3EAA85</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22725</key>
+		<dict>
+			<key>Track ID</key><integer>22725</integer>
+			<key>Name</key><string>What If</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jonny Buckland &#38; Will Champion</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10676726</integer>
+			<key>Total Time</key><integer>297252</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2018-11-15T18:47:04Z</date>
+			<key>Date Added</key><date>2018-11-15T18:47:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3749981055</integer>
+			<key>Play Date UTC</key><date>2022-10-30T07:54:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-02-02T22:51:31Z</date>
+			<key>Release Date</key><date>2005-06-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>X&#38;Y</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>What If</string>
+			<key>Persistent ID</key><string>AE5299BAF3B23E96</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22727</key>
+		<dict>
+			<key>Track ID</key><integer>22727</integer>
+			<key>Name</key><string>Talk</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jonny Buckland, Karl Bartos, Ralf Hütter, Werner Schult &#38; Will Champion</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11788434</integer>
+			<key>Total Time</key><integer>311060</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2018-11-15T18:47:14Z</date>
+			<key>Date Added</key><date>2018-11-15T18:47:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3732317324</integer>
+			<key>Play Date UTC</key><date>2022-04-08T21:18:44Z</date>
+			<key>Release Date</key><date>2005-06-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>X&#38;Y</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>Talk</string>
+			<key>Persistent ID</key><string>2CF7054147C04C97</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22729</key>
+		<dict>
+			<key>Track ID</key><integer>22729</integer>
+			<key>Name</key><string>Speed of Sound</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jonny Buckland &#38; Will Champion</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10532244</integer>
+			<key>Total Time</key><integer>288393</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2018-11-15T18:47:26Z</date>
+			<key>Date Added</key><date>2018-11-15T18:47:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3752912509</integer>
+			<key>Play Date UTC</key><date>2022-12-03T06:11:49Z</date>
+			<key>Release Date</key><date>2005-04-18T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>X&#38;Y</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>Speed of Sound</string>
+			<key>Persistent ID</key><string>838FF7BDA32B582C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22731</key>
+		<dict>
+			<key>Track ID</key><integer>22731</integer>
+			<key>Name</key><string>The Hardest Part</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jonny Buckland &#38; Will Champion</string>
+			<key>Album</key><string>X&#38;Y</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9876121</integer>
+			<key>Total Time</key><integer>265109</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2018-11-15T18:47:32Z</date>
+			<key>Date Added</key><date>2018-11-15T18:47:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3649460520</integer>
+			<key>Play Date UTC</key><date>2019-08-23T21:32:00Z</date>
+			<key>Release Date</key><date>2005-06-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>X&#38;Y</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>Hardest Part</string>
+			<key>Persistent ID</key><string>CBA7679BBDF54F9F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22733</key>
+		<dict>
+			<key>Track ID</key><integer>22733</integer>
+			<key>Name</key><string>Now My Feet Won't Touch the Ground</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Jonny Buckland &#38; Will Champion</string>
+			<key>Album</key><string>Viva la Vida (Prospekt's March Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5456243</integer>
+			<key>Total Time</key><integer>147538</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-11-15T18:48:37Z</date>
+			<key>Date Added</key><date>2018-11-15T18:48:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3636117439</integer>
+			<key>Play Date UTC</key><date>2019-03-22T11:07:19Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-03-11T15:30:02Z</date>
+			<key>Release Date</key><date>2008-11-21T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Viva la Vida (Prospekt's March Edition)</string>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>Now My Feet Won't Touch the Ground</string>
+			<key>Persistent ID</key><string>C332506B91336075</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>💽 x COLDPLAY</string>
+			<key>Description</key><string>Issa Mood. </string>
+			<key>Playlist ID</key><integer>44920</integer>
+			<key>Playlist Persistent ID</key><string>5482A0CD0D6683D0</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>10849</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10983</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10985</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10841</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10845</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10851</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10855</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20001</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11003</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6451</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11015</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10415</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22723</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22725</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22727</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19989</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22729</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22731</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22413</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11021</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11025</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11031</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11035</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22733</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10815</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10817</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10823</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6403</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18023</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18029</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18031</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18033</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18035</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18039</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18041</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6429</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11039</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10435</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10859</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15923</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

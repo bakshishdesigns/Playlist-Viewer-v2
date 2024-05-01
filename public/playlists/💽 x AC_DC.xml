@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:03:34Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6675</key>
+		<dict>
+			<key>Track ID</key><integer>6675</integer>
+			<key>Name</key><string>You Shook Me All Night Long</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Brian Johnson, Angus Young &#38; Malcolm Young</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8197112</integer>
+			<key>Total Time</key><integer>210329</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2017-05-26T19:26:15Z</date>
+			<key>Date Added</key><date>2017-05-26T19:26:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3723356553</integer>
+			<key>Play Date UTC</key><date>2021-12-26T04:12:33Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2018-04-20T13:30:59Z</date>
+			<key>Release Date</key><date>1980-07-25T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Back In Black</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>You Shook Me All Night Long</string>
+			<key>Persistent ID</key><string>84B9E06716E209B8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6699</key>
+		<dict>
+			<key>Track ID</key><integer>6699</integer>
+			<key>Name</key><string>Highway to Hell</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>A. Young, M. Young &#38; B. Scott</string>
+			<key>Album</key><string>Highway to Hell</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8245330</integer>
+			<key>Total Time</key><integer>208111</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2017-05-27T15:16:37Z</date>
+			<key>Date Added</key><date>2017-05-27T15:16:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3746151240</integer>
+			<key>Play Date UTC</key><date>2022-09-16T00:04:00Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2022-10-27T12:54:53Z</date>
+			<key>Release Date</key><date>1979-07-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Highway to Hell</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Highway to Hell</string>
+			<key>Persistent ID</key><string>BE24EE75AD80F11F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6735</key>
+		<dict>
+			<key>Track ID</key><integer>6735</integer>
+			<key>Name</key><string>Back In Black</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Brian Johnson, Angus Young &#38; Malcolm Young</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9739806</integer>
+			<key>Total Time</key><integer>256000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2017-06-05T18:27:03Z</date>
+			<key>Date Added</key><date>2017-06-05T18:27:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>84</integer>
+			<key>Play Date</key><integer>3746149606</integer>
+			<key>Play Date UTC</key><date>2022-09-15T23:36:46Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2020-02-21T10:22:26Z</date>
+			<key>Release Date</key><date>1980-07-25T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Back In Black</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Back In Black</string>
+			<key>Persistent ID</key><string>7360A779FB76B713</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8951</key>
+		<dict>
+			<key>Track ID</key><integer>8951</integer>
+			<key>Name</key><string>Hard As Rock</string>
+			<key>Artist</key><string>ACDC</string>
+			<key>Album</key><string>The Very Best Of ACDC</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5152423</integer>
+			<key>Total Time</key><integer>272326</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2014-12-19T12:01:08Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Very Best Of ACDC</string>
+			<key>Persistent ID</key><string>5E55A1C7750D6160</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>8969</key>
+		<dict>
+			<key>Track ID</key><integer>8969</integer>
+			<key>Name</key><string>Thunderstruck</string>
+			<key>Artist</key><string>ACDC</string>
+			<key>Album</key><string>The Very Best Of ACDC</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5503336</integer>
+			<key>Total Time</key><integer>294217</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2014-12-19T12:01:14Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3748625667</integer>
+			<key>Play Date UTC</key><date>2022-10-14T15:24:27Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2019-12-02T14:23:02Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Very Best Of ACDC</string>
+			<key>Persistent ID</key><string>D00541D2BD30E4EF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>9077</key>
+		<dict>
+			<key>Track ID</key><integer>9077</integer>
+			<key>Name</key><string>BAXK</string>
+			<key>Artist</key><string>ACDC</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5670744</integer>
+			<key>Total Time</key><integer>202292</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Date Modified</key><date>2013-01-24T21:29:57Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Comments</key><string>http://comberocks.blogspot.c</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3655707394</integer>
+			<key>Play Date UTC</key><date>2019-11-04T04:46:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FCDCFD9A5814ED9A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>9109</key>
+		<dict>
+			<key>Track ID</key><integer>9109</integer>
+			<key>Name</key><string>WAAI</string>
+			<key>Artist</key><string>ACDC</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4046327</integer>
+			<key>Total Time</key><integer>253048</integer>
+			<key>Date Modified</key><date>2013-01-24T20:15:45Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3726697445</integer>
+			<key>Play Date UTC</key><date>2022-02-02T20:14:05Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>177AE681704451C9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>18195</key>
+		<dict>
+			<key>Track ID</key><integer>18195</integer>
+			<key>Name</key><string>T.N.T.</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>A. Young, M. Young &#38; B. Scott</string>
+			<key>Album</key><string>High Voltage</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7627649</integer>
+			<key>Total Time</key><integer>215096</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2017-08-29T19:54:07Z</date>
+			<key>Date Added</key><date>2017-08-29T19:54:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3723356768</integer>
+			<key>Play Date UTC</key><date>2021-12-26T04:16:08Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2019-01-29T09:29:43Z</date>
+			<key>Release Date</key><date>1975-12-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>High Voltage</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>T.N.T.</string>
+			<key>Persistent ID</key><string>A07BDAEEBEA6B69E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18731</key>
+		<dict>
+			<key>Track ID</key><integer>18731</integer>
+			<key>Name</key><string>It's a Long Way to the Top (If You Wanna Rock 'N' Roll)</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young, Bon Scott &#38; Malcolm Young</string>
+			<key>Album</key><string>High Voltage</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10595625</integer>
+			<key>Total Time</key><integer>302431</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2017-09-11T14:27:29Z</date>
+			<key>Date Added</key><date>2017-09-11T14:27:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3634394146</integer>
+			<key>Play Date UTC</key><date>2019-03-02T12:25:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-03-02T12:41:39Z</date>
+			<key>Release Date</key><date>1975-12-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>High Voltage</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>It's a Long Way to the Top (If You Wanna Rock 'N' Roll)</string>
+			<key>Persistent ID</key><string>16813BBF9400A4AF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20405</key>
+		<dict>
+			<key>Track ID</key><integer>20405</integer>
+			<key>Name</key><string>Dirty Deeds Done Dirt Cheap</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>A. Young, M. Young &#38; B. Scott</string>
+			<key>Album</key><string>Dirty Deeds Done Dirt Cheap</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8177249</integer>
+			<key>Total Time</key><integer>232265</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2018-01-27T20:23:05Z</date>
+			<key>Date Added</key><date>2018-01-27T20:23:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3688550266</integer>
+			<key>Play Date UTC</key><date>2020-11-18T07:47:46Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2021-08-02T18:03:47Z</date>
+			<key>Release Date</key><date>1976-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dirty Deeds Done Dirt Cheap</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Dirty Deeds Done Dirt Cheap</string>
+			<key>Persistent ID</key><string>949FFEFFD3460EF7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20407</key>
+		<dict>
+			<key>Track ID</key><integer>20407</integer>
+			<key>Name</key><string>For Those About to Rock (We Salute You)</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>A. Young, M. Young &#38; B. Johnson</string>
+			<key>Album</key><string>For Those About to Rock (We Salute You)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12643229</integer>
+			<key>Total Time</key><integer>344263</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2018-01-27T20:23:05Z</date>
+			<key>Date Added</key><date>2018-01-27T20:23:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3656516460</integer>
+			<key>Play Date UTC</key><date>2019-11-13T13:31:00Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-11-01T01:45:35Z</date>
+			<key>Release Date</key><date>1981-11-23T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>For Those About to Rock (We Salute You)</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>For Those About to Rock (We Salute You)</string>
+			<key>Persistent ID</key><string>30936257BC7E9ECB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20409</key>
+		<dict>
+			<key>Track ID</key><integer>20409</integer>
+			<key>Name</key><string>Hells Bells</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Brian Johnson, Angus Young &#38; Malcolm Young</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11309833</integer>
+			<key>Total Time</key><integer>312815</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-01-27T20:23:05Z</date>
+			<key>Date Added</key><date>2018-01-27T20:23:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3711550542</integer>
+			<key>Play Date UTC</key><date>2021-08-11T12:45:42Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-02-06T12:06:38Z</date>
+			<key>Release Date</key><date>1980-07-25T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Back In Black</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Hells Bells</string>
+			<key>Persistent ID</key><string>3366EF0F23586A7A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20411</key>
+		<dict>
+			<key>Track ID</key><integer>20411</integer>
+			<key>Name</key><string>Shoot to Thrill</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>A. Young, M. Young &#38; B. Johnson</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12032757</integer>
+			<key>Total Time</key><integer>318231</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-01-27T20:23:05Z</date>
+			<key>Date Added</key><date>2018-01-27T20:23:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3746155500</integer>
+			<key>Play Date UTC</key><date>2022-09-16T01:15:00Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-05-17T04:27:52Z</date>
+			<key>Release Date</key><date>1980-07-25T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Back In Black</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Shoot to Thrill</string>
+			<key>Persistent ID</key><string>FEF467D41CEEA08D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20479</key>
+		<dict>
+			<key>Track ID</key><integer>20479</integer>
+			<key>Name</key><string>Let There Be Rock</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>A. Young, M. Young &#38; B. Scott</string>
+			<key>Album</key><string>Let There Be Rock</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14161486</integer>
+			<key>Total Time</key><integer>366990</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2018-01-27T20:23:05Z</date>
+			<key>Date Added</key><date>2018-01-27T20:23:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3675959871</integer>
+			<key>Play Date UTC</key><date>2020-06-25T14:27:51Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-10-09T12:58:39Z</date>
+			<key>Release Date</key><date>1977-03-21T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Let There Be Rock</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Let There Be Rock</string>
+			<key>Persistent ID</key><string>0D85B4104876BB3D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20481</key>
+		<dict>
+			<key>Track ID</key><integer>20481</integer>
+			<key>Name</key><string>Moneytalks</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>A. Young &#38; M. Young</string>
+			<key>Album</key><string>The Razors Edge</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8282969</integer>
+			<key>Total Time</key><integer>225958</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2018-01-27T20:23:05Z</date>
+			<key>Date Added</key><date>2018-01-27T20:23:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3706543911</integer>
+			<key>Play Date UTC</key><date>2021-06-14T14:01:51Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-07-02T04:40:30Z</date>
+			<key>Release Date</key><date>1990-09-21T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Razors Edge</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Moneytalks</string>
+			<key>Persistent ID</key><string>7B7A6297CE59E556</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20487</key>
+		<dict>
+			<key>Track ID</key><integer>20487</integer>
+			<key>Name</key><string>Girls Got Rhythm</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>A. Young, M. Young &#38; B. Scott</string>
+			<key>Album</key><string>Highway to Hell</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8035332</integer>
+			<key>Total Time</key><integer>203919</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2018-01-27T20:23:06Z</date>
+			<key>Date Added</key><date>2018-01-27T20:23:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3688565005</integer>
+			<key>Play Date UTC</key><date>2020-11-18T11:53:25Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-09-08T20:13:21Z</date>
+			<key>Release Date</key><date>1979-07-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Highway to Hell</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Girls Got Rhythm</string>
+			<key>Persistent ID</key><string>208EDEDAA70C5019</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20489</key>
+		<dict>
+			<key>Track ID</key><integer>20489</integer>
+			<key>Name</key><string>Big Balls</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>A. Young, M. Young &#38; B. Scott</string>
+			<key>Album</key><string>Dirty Deeds Done Dirt Cheap</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5793969</integer>
+			<key>Total Time</key><integer>158625</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2018-01-27T20:23:06Z</date>
+			<key>Date Added</key><date>2018-01-27T20:23:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3641082348</integer>
+			<key>Play Date UTC</key><date>2019-05-18T22:15:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-03T05:36:54Z</date>
+			<key>Release Date</key><date>1976-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dirty Deeds Done Dirt Cheap</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Big Balls</string>
+			<key>Persistent ID</key><string>8D272881BDCB1477</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20491</key>
+		<dict>
+			<key>Track ID</key><integer>20491</integer>
+			<key>Name</key><string>Rock 'N' Roll Train</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young &#38; Malcolm Young</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9650238</integer>
+			<key>Total Time</key><integer>260124</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-01-27T20:23:06Z</date>
+			<key>Date Added</key><date>2018-01-27T20:23:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3688565921</integer>
+			<key>Play Date UTC</key><date>2020-11-18T12:08:41Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-11T08:59:44Z</date>
+			<key>Release Date</key><date>2008-10-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Ice</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Rock 'N' Roll Train</string>
+			<key>Persistent ID</key><string>0986E6425927BC31</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20493</key>
+		<dict>
+			<key>Track ID</key><integer>20493</integer>
+			<key>Name</key><string>Givin' the Dog a Bone</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>A. Young, M. Young &#38; B. Johnson</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8121111</integer>
+			<key>Total Time</key><integer>212401</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2018-01-27T20:23:06Z</date>
+			<key>Date Added</key><date>2018-01-27T20:23:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3688565661</integer>
+			<key>Play Date UTC</key><date>2020-11-18T12:04:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Release Date</key><date>1980-07-25T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Back In Black</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Givin' the Dog a Bone</string>
+			<key>Persistent ID</key><string>B3EAD510ABBA3FB3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20495</key>
+		<dict>
+			<key>Track ID</key><integer>20495</integer>
+			<key>Name</key><string>Whole Lotta Rosie</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>A. Young, M. Young &#38; B. Scott</string>
+			<key>Album</key><string>Let There Be Rock</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12014853</integer>
+			<key>Total Time</key><integer>324585</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2018-01-27T20:23:06Z</date>
+			<key>Date Added</key><date>2018-01-27T20:23:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3723205802</integer>
+			<key>Play Date UTC</key><date>2021-12-24T10:20:02Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-11-26T09:39:11Z</date>
+			<key>Release Date</key><date>1977-03-21T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Let There Be Rock</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Whole Lotta Rosie</string>
+			<key>Persistent ID</key><string>6FF960A98DBA6992</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20499</key>
+		<dict>
+			<key>Track ID</key><integer>20499</integer>
+			<key>Name</key><string>The Jack</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>A. Young, M. Young &#38; B. Scott</string>
+			<key>Album</key><string>High Voltage</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12149678</integer>
+			<key>Total Time</key><integer>353608</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2018-01-27T20:23:07Z</date>
+			<key>Date Added</key><date>2018-01-27T20:23:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3696770396</integer>
+			<key>Play Date UTC</key><date>2021-02-21T11:09:56Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-12-14T11:33:37Z</date>
+			<key>Release Date</key><date>1975-12-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>High Voltage</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Jack</string>
+			<key>Persistent ID</key><string>C67015B605355559</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20501</key>
+		<dict>
+			<key>Track ID</key><integer>20501</integer>
+			<key>Name</key><string>If You Want Blood (You've Got It)</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>A. Young, M. Young &#38; B. Scott</string>
+			<key>Album</key><string>Highway to Hell</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10846914</integer>
+			<key>Total Time</key><integer>277079</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2018-01-27T20:23:07Z</date>
+			<key>Date Added</key><date>2018-01-27T20:23:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3662781467</integer>
+			<key>Play Date UTC</key><date>2020-01-25T01:47:47Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-07-19T13:23:29Z</date>
+			<key>Release Date</key><date>1979-07-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Highway to Hell</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>If You Want Blood (You've Got It)</string>
+			<key>Persistent ID</key><string>0F599FCF7F78C17E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20503</key>
+		<dict>
+			<key>Track ID</key><integer>20503</integer>
+			<key>Name</key><string>Shot Down In Flames</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>A. Young, M. Young &#38; B. Scott</string>
+			<key>Album</key><string>Highway to Hell</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7837821</integer>
+			<key>Total Time</key><integer>202955</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2018-01-27T20:23:07Z</date>
+			<key>Date Added</key><date>2018-01-27T20:23:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3688563165</integer>
+			<key>Play Date UTC</key><date>2020-11-18T11:22:45Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2019-10-01T11:05:39Z</date>
+			<key>Release Date</key><date>1979-07-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Highway to Hell</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Shot Down In Flames</string>
+			<key>Persistent ID</key><string>48718D91918FC24F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20505</key>
+		<dict>
+			<key>Track ID</key><integer>20505</integer>
+			<key>Name</key><string>Problem Child</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>A. Young, M. Young &#38; B. Scott</string>
+			<key>Album</key><string>Dirty Deeds Done Dirt Cheap</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11951747</integer>
+			<key>Total Time</key><integer>347261</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1976</integer>
+			<key>Date Modified</key><date>2018-01-27T20:23:07Z</date>
+			<key>Date Added</key><date>2018-01-27T20:23:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3726712006</integer>
+			<key>Play Date UTC</key><date>2022-02-03T00:16:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-03-02T12:41:21Z</date>
+			<key>Release Date</key><date>1976-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dirty Deeds Done Dirt Cheap</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Problem Child</string>
+			<key>Persistent ID</key><string>8D2E4E37C829D560</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22673</key>
+		<dict>
+			<key>Track ID</key><integer>22673</integer>
+			<key>Name</key><string>High Voltage</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young, Bon Scott &#38; Malcolm Young</string>
+			<key>Album</key><string>High Voltage</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8586787</integer>
+			<key>Total Time</key><integer>244959</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2018-11-15T18:24:01Z</date>
+			<key>Date Added</key><date>2018-11-15T18:24:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3726695252</integer>
+			<key>Play Date UTC</key><date>2022-02-02T19:37:32Z</date>
+			<key>Release Date</key><date>1975-06-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>High Voltage</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>High Voltage</string>
+			<key>Persistent ID</key><string>8AA38B3377B00B7B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22675</key>
+		<dict>
+			<key>Track ID</key><integer>22675</integer>
+			<key>Name</key><string>Dog Eat Dog</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young, Bon Scott &#38; Malcolm Young</string>
+			<key>Album</key><string>Let There Be Rock</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8087774</integer>
+			<key>Total Time</key><integer>215152</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2018-11-15T18:24:30Z</date>
+			<key>Date Added</key><date>2018-11-15T18:24:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1977-03-21T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Let There Be Rock</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Dog Eat Dog</string>
+			<key>Persistent ID</key><string>AC0397FE28E24DEB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22677</key>
+		<dict>
+			<key>Track ID</key><integer>22677</integer>
+			<key>Name</key><string>Riff Raff</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young, Bon Scott &#38; Malcolm Young</string>
+			<key>Album</key><string>Powerage</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10914413</integer>
+			<key>Total Time</key><integer>312507</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1978</integer>
+			<key>Date Modified</key><date>2018-11-15T18:24:42Z</date>
+			<key>Date Added</key><date>2018-11-15T18:24:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3688546004</integer>
+			<key>Play Date UTC</key><date>2020-11-18T06:36:44Z</date>
+			<key>Release Date</key><date>1978-05-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Powerage</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Riff Raff</string>
+			<key>Persistent ID</key><string>E5220CE557086165</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22679</key>
+		<dict>
+			<key>Track ID</key><integer>22679</integer>
+			<key>Name</key><string>Guns for Hire</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young, Malcolm Young &#38; Brian Johnson</string>
+			<key>Album</key><string>Flick of the Switch</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7537303</integer>
+			<key>Total Time</key><integer>204880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2018-11-15T18:26:14Z</date>
+			<key>Date Added</key><date>2018-11-15T18:26:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3663630324</integer>
+			<key>Play Date UTC</key><date>2020-02-03T21:35:24Z</date>
+			<key>Release Date</key><date>1983-08-15T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Flick of the Switch</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Guns for Hire</string>
+			<key>Persistent ID</key><string>0FCA939F513F61DC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22681</key>
+		<dict>
+			<key>Track ID</key><integer>22681</integer>
+			<key>Name</key><string>Fly On the Wall</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young, Brian Johnson &#38; Malcolm Young</string>
+			<key>Album</key><string>Fly On the Wall</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8309885</integer>
+			<key>Total Time</key><integer>222904</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2018-11-15T18:26:23Z</date>
+			<key>Date Added</key><date>2018-11-15T18:26:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3662779942</integer>
+			<key>Play Date UTC</key><date>2020-01-25T01:22:22Z</date>
+			<key>Release Date</key><date>1985-06-28T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fly On the Wall</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Fly On the Wall</string>
+			<key>Persistent ID</key><string>9077483A45513696</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22683</key>
+		<dict>
+			<key>Track ID</key><integer>22683</integer>
+			<key>Name</key><string>Heatseeker</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young, Brian Johnson &#38; Malcolm Young</string>
+			<key>Album</key><string>Blow Up Your Video</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8476389</integer>
+			<key>Total Time</key><integer>230422</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2018-11-15T18:26:40Z</date>
+			<key>Date Added</key><date>2018-11-15T18:26:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3725724462</integer>
+			<key>Play Date UTC</key><date>2022-01-22T13:57:42Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-09-01T07:56:13Z</date>
+			<key>Release Date</key><date>1988-01-18T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blow Up Your Video</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Heatseeker</string>
+			<key>Persistent ID</key><string>F3FFF0F04EA617BD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22685</key>
+		<dict>
+			<key>Track ID</key><integer>22685</integer>
+			<key>Name</key><string>Ruff Stuff</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young, Brian Johnson &#38; Malcolm Young</string>
+			<key>Album</key><string>Blow Up Your Video</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9833750</integer>
+			<key>Total Time</key><integer>269958</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2018-11-15T18:26:48Z</date>
+			<key>Date Added</key><date>2018-11-15T18:26:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3662771943</integer>
+			<key>Play Date UTC</key><date>2020-01-24T23:09:03Z</date>
+			<key>Release Date</key><date>1988-01-18T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blow Up Your Video</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Ruff Stuff</string>
+			<key>Persistent ID</key><string>59DF86D853B68DD5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22687</key>
+		<dict>
+			<key>Track ID</key><integer>22687</integer>
+			<key>Name</key><string>The Razors Edge</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young &#38; Malcolm Young</string>
+			<key>Album</key><string>The Razors Edge</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9423016</integer>
+			<key>Total Time</key><integer>262531</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2018-11-15T18:27:08Z</date>
+			<key>Date Added</key><date>2018-11-15T18:27:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3662698259</integer>
+			<key>Play Date UTC</key><date>2020-01-24T02:40:59Z</date>
+			<key>Release Date</key><date>1990-09-21T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Razors Edge</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Razors Edge</string>
+			<key>Persistent ID</key><string>E1E18FD4ADE47A7F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22689</key>
+		<dict>
+			<key>Track ID</key><integer>22689</integer>
+			<key>Name</key><string>Goodbye and Good Riddance to Bad Luck</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young &#38; Malcolm Young</string>
+			<key>Album</key><string>The Razors Edge</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7299107</integer>
+			<key>Total Time</key><integer>193598</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2018-11-15T18:27:13Z</date>
+			<key>Date Added</key><date>2018-11-15T18:27:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3662779149</integer>
+			<key>Play Date UTC</key><date>2020-01-25T01:09:09Z</date>
+			<key>Release Date</key><date>1990-09-21T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Razors Edge</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Goodbye and Good Riddance to Bad Luck</string>
+			<key>Persistent ID</key><string>358E646A4D987EB7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22691</key>
+		<dict>
+			<key>Track ID</key><integer>22691</integer>
+			<key>Name</key><string>If You Dare</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young &#38; Malcolm Young</string>
+			<key>Album</key><string>The Razors Edge</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7135939</integer>
+			<key>Total Time</key><integer>189295</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2018-11-15T18:27:19Z</date>
+			<key>Date Added</key><date>2018-11-15T18:27:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3633157429</integer>
+			<key>Play Date UTC</key><date>2019-02-16T04:53:49Z</date>
+			<key>Release Date</key><date>1990-09-21T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Razors Edge</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>If You Dare</string>
+			<key>Persistent ID</key><string>4148ACAC478B6AA8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22693</key>
+		<dict>
+			<key>Track ID</key><integer>22693</integer>
+			<key>Name</key><string>Whiskey On the Rocks</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young &#38; Malcolm Young</string>
+			<key>Album</key><string>Ballbreaker</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10749373</integer>
+			<key>Total Time</key><integer>275065</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2018-11-15T18:27:35Z</date>
+			<key>Date Added</key><date>2018-11-15T18:27:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3640361009</integer>
+			<key>Play Date UTC</key><date>2019-05-10T13:53:29Z</date>
+			<key>Release Date</key><date>1995-09-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ballbreaker</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Whiskey On the Rocks</string>
+			<key>Persistent ID</key><string>75CA19CBBFB80CB4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22695</key>
+		<dict>
+			<key>Track ID</key><integer>22695</integer>
+			<key>Name</key><string>Big Jack</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young &#38; Malcolm Young</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8726075</integer>
+			<key>Total Time</key><integer>237011</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-11-15T18:28:01Z</date>
+			<key>Date Added</key><date>2018-11-15T18:28:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3715960948</integer>
+			<key>Play Date UTC</key><date>2021-10-01T13:52:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-03-01T13:22:14Z</date>
+			<key>Release Date</key><date>2008-10-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Ice</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Big Jack</string>
+			<key>Persistent ID</key><string>4EAE99E990ECF88D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22697</key>
+		<dict>
+			<key>Track ID</key><integer>22697</integer>
+			<key>Name</key><string>War Machine</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young &#38; Malcolm Young</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7187411</integer>
+			<key>Total Time</key><integer>190054</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-11-15T18:28:10Z</date>
+			<key>Date Added</key><date>2018-11-15T18:28:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3688567287</integer>
+			<key>Play Date UTC</key><date>2020-11-18T12:31:27Z</date>
+			<key>Release Date</key><date>2008-10-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Ice</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>War Machine</string>
+			<key>Persistent ID</key><string>A98E450B1F807CA8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22699</key>
+		<dict>
+			<key>Track ID</key><integer>22699</integer>
+			<key>Name</key><string>Spoilin' for a Fight</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young &#38; Malcolm Young</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7585749</integer>
+			<key>Total Time</key><integer>197313</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-11-15T18:28:13Z</date>
+			<key>Date Added</key><date>2018-11-15T18:28:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3725299342</integer>
+			<key>Play Date UTC</key><date>2022-01-17T15:52:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-10-09T12:13:12Z</date>
+			<key>Release Date</key><date>2008-10-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Ice</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Spoilin' for a Fight</string>
+			<key>Persistent ID</key><string>C2A782EBC8F71D6A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22701</key>
+		<dict>
+			<key>Track ID</key><integer>22701</integer>
+			<key>Name</key><string>Stormy May Day</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young &#38; Malcolm Young</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7289865</integer>
+			<key>Total Time</key><integer>190404</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-11-15T18:28:20Z</date>
+			<key>Date Added</key><date>2018-11-15T18:28:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3687988368</integer>
+			<key>Play Date UTC</key><date>2020-11-11T19:42:48Z</date>
+			<key>Release Date</key><date>2008-10-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Ice</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Stormy May Day</string>
+			<key>Persistent ID</key><string>8288385C81B55CB8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22703</key>
+		<dict>
+			<key>Track ID</key><integer>22703</integer>
+			<key>Name</key><string>Rock or Bust</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young &#38; Malcolm Young</string>
+			<key>Album</key><string>Rock or Bust</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7168168</integer>
+			<key>Total Time</key><integer>183059</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-11-15T18:28:34Z</date>
+			<key>Date Added</key><date>2018-11-15T18:28:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3688544280</integer>
+			<key>Play Date UTC</key><date>2020-11-18T06:08:00Z</date>
+			<key>Release Date</key><date>2014-11-17T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rock or Bust</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Rock or Bust</string>
+			<key>Persistent ID</key><string>2FEB9E9DC2470877</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22705</key>
+		<dict>
+			<key>Track ID</key><integer>22705</integer>
+			<key>Name</key><string>Emission Control</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young &#38; Malcolm Young</string>
+			<key>Album</key><string>Rock or Bust</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8302958</integer>
+			<key>Total Time</key><integer>221366</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-11-15T18:28:41Z</date>
+			<key>Date Added</key><date>2018-11-15T18:28:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3656508032</integer>
+			<key>Play Date UTC</key><date>2019-11-13T11:10:32Z</date>
+			<key>Release Date</key><date>2014-11-28T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rock or Bust</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Emission Control</string>
+			<key>Persistent ID</key><string>096DEB247BF1D357</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>💽 x AC/DC</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>44876</integer>
+			<key>Playlist Persistent ID</key><string>98AFE54B762A2296</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>18731</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20499</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22673</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20489</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20479</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22675</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20495</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22677</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20487</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20503</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20409</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6735</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6675</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22679</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22685</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8969</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20481</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22687</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8951</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22693</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22695</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9077</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22697</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22701</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22705</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

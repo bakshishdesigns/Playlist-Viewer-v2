@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:23:51Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6381</key>
+		<dict>
+			<key>Track ID</key><integer>6381</integer>
+			<key>Name</key><string>Perfect</string>
+			<key>Artist</key><string>Ed Sheeran</string>
+			<key>Album Artist</key><string>Ed Sheeran</string>
+			<key>Composer</key><string>Ed Sheeran</string>
+			<key>Album</key><string>÷ (Deluxe)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9366116</integer>
+			<key>Total Time</key><integer>263400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-05-21T19:24:46Z</date>
+			<key>Date Added</key><date>2017-05-25T08:28:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>188</integer>
+			<key>Play Date</key><integer>3756427526</integer>
+			<key>Play Date UTC</key><date>2023-01-12T22:35:26Z</date>
+			<key>Skip Count</key><integer>43</integer>
+			<key>Skip Date</key><date>2022-09-22T20:52:49Z</date>
+			<key>Release Date</key><date>2017-03-03T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>÷ (Deluxe)</string>
+			<key>Sort Artist</key><string>Ed Sheeran</string>
+			<key>Sort Name</key><string>Perfect</string>
+			<key>Persistent ID</key><string>8EDC2618B7700CFC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6451</key>
+		<dict>
+			<key>Track ID</key><integer>6451</integer>
+			<key>Name</key><string>The Scientist</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Album</key><string>A Rush of Blood to the Head</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11491964</integer>
+			<key>Total Time</key><integer>308930</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2015-06-25T07:25:45Z</date>
+			<key>Date Added</key><date>2017-05-22T04:46:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>185</integer>
+			<key>Play Date</key><integer>3760985282</integer>
+			<key>Play Date UTC</key><date>2023-03-06T16:38:02Z</date>
+			<key>Skip Count</key><integer>25</integer>
+			<key>Skip Date</key><date>2021-09-30T05:17:12Z</date>
+			<key>Release Date</key><date>2002-08-26T07:00:00Z</date>
+			<key>Normalization</key><integer>3627</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rush of Blood to the Head</string>
+			<key>Sort Name</key><string>Scientist</string>
+			<key>Persistent ID</key><string>201E00DCA04E7018</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7153</key>
+		<dict>
+			<key>Track ID</key><integer>7153</integer>
+			<key>Name</key><string>Wither</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Black Clouds &#38; Silver Linings (Special Edition)</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11557316</integer>
+			<key>Total Time</key><integer>325912</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2017-07-22T06:24:43Z</date>
+			<key>Date Added</key><date>2017-07-22T06:24:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>112</integer>
+			<key>Play Date</key><integer>3757591206</integer>
+			<key>Play Date UTC</key><date>2023-01-26T09:50:06Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2023-01-17T15:24:22Z</date>
+			<key>Release Date</key><date>2009-06-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Clouds &#38; Silver Linings (Special Edition)</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Wither</string>
+			<key>Persistent ID</key><string>7EAA2D728B200761</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19215</key>
+		<dict>
+			<key>Track ID</key><integer>19215</integer>
+			<key>Name</key><string>With Arms Wide Open (Strings Version)</string>
+			<key>Artist</key><string>Creed</string>
+			<key>Album Artist</key><string>Creed</string>
+			<key>Composer</key><string>Mark Tremonti &#38; Scott Stapp</string>
+			<key>Album</key><string>Human Clay</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8322393</integer>
+			<key>Total Time</key><integer>235267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-10-09T11:09:44Z</date>
+			<key>Date Added</key><date>2017-10-09T11:09:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3713129633</integer>
+			<key>Play Date UTC</key><date>2021-08-29T19:23:53Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-06-13T11:42:53Z</date>
+			<key>Release Date</key><date>1999-09-28T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Human Clay</string>
+			<key>Sort Artist</key><string>Creed</string>
+			<key>Sort Name</key><string>With Arms Wide Open (Strings Version)</string>
+			<key>Persistent ID</key><string>746BA62D59249849</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19233</key>
+		<dict>
+			<key>Track ID</key><integer>19233</integer>
+			<key>Name</key><string>Give Me Love</string>
+			<key>Artist</key><string>Ed Sheeran</string>
+			<key>Album Artist</key><string>Ed Sheeran</string>
+			<key>Composer</key><string>Ed Sheeran, Chris Leonard &#38; Jake Gosling</string>
+			<key>Album</key><string>+</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>18052694</integer>
+			<key>Total Time</key><integer>526387</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-10-12T03:46:04Z</date>
+			<key>Date Added</key><date>2017-10-12T03:46:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3713134429</integer>
+			<key>Play Date UTC</key><date>2021-08-29T20:43:49Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-01-30T13:10:54Z</date>
+			<key>Release Date</key><date>2011-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>+</string>
+			<key>Sort Artist</key><string>Ed Sheeran</string>
+			<key>Sort Name</key><string>Give Me Love</string>
+			<key>Persistent ID</key><string>06EF6BC2EB35E454</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19235</key>
+		<dict>
+			<key>Track ID</key><integer>19235</integer>
+			<key>Name</key><string>Pine Trees</string>
+			<key>Artist</key><string>gabriel black</string>
+			<key>Album Artist</key><string>gabriel black</string>
+			<key>Album</key><string>Pine Trees - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7182584</integer>
+			<key>Total Time</key><integer>203220</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-10-12T03:47:57Z</date>
+			<key>Date Added</key><date>2017-10-12T03:47:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3609439901</integer>
+			<key>Play Date UTC</key><date>2018-05-17T16:41:41Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-09-09T15:45:17Z</date>
+			<key>Release Date</key><date>2017-08-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pine Trees - Single</string>
+			<key>Sort Artist</key><string>gabriel black</string>
+			<key>Sort Name</key><string>Pine Trees</string>
+			<key>Persistent ID</key><string>00F9F43BCC73AE24</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21827</key>
+		<dict>
+			<key>Track ID</key><integer>21827</integer>
+			<key>Name</key><string>Iris</string>
+			<key>Artist</key><string>The Goo Goo Dolls</string>
+			<key>Album Artist</key><string>The Goo Goo Dolls</string>
+			<key>Composer</key><string>John Rzeznik</string>
+			<key>Album</key><string>Dizzy Up the Girl</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10764726</integer>
+			<key>Total Time</key><integer>289559</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2018-08-26T06:58:03Z</date>
+			<key>Date Added</key><date>2018-08-26T06:58:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3697089716</integer>
+			<key>Play Date UTC</key><date>2021-02-25T03:51:56Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-09-27T12:09:20Z</date>
+			<key>Release Date</key><date>1998-04-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dizzy Up the Girl</string>
+			<key>Sort Album Artist</key><string>Goo Goo Dolls</string>
+			<key>Sort Artist</key><string>Goo Goo Dolls</string>
+			<key>Sort Name</key><string>Iris</string>
+			<key>Persistent ID</key><string>98F9B388A984B37A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21883</key>
+		<dict>
+			<key>Track ID</key><integer>21883</integer>
+			<key>Name</key><string>Dare You to Move</string>
+			<key>Artist</key><string>Switchfoot</string>
+			<key>Album Artist</key><string>Switchfoot</string>
+			<key>Composer</key><string>Jon Foreman</string>
+			<key>Album</key><string>The Best Yet</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8867080</integer>
+			<key>Total Time</key><integer>246779</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2018-09-04T05:09:25Z</date>
+			<key>Date Added</key><date>2018-09-04T05:09:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3649194543</integer>
+			<key>Play Date UTC</key><date>2019-08-20T19:39:03Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-02-25T05:55:38Z</date>
+			<key>Release Date</key><date>2004-03-02T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best Yet</string>
+			<key>Sort Artist</key><string>Switchfoot</string>
+			<key>Sort Name</key><string>Dare You to Move</string>
+			<key>Persistent ID</key><string>E8920A78227FDEBC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>z. ISDI Shit II</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>44719</integer>
+			<key>Playlist Persistent ID</key><string>8C8B2539BC478BA8</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>19233</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6451</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19233</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6381</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19235</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19215</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21827</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21883</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7153</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

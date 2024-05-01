@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:23:43Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6875</key>
+		<dict>
+			<key>Track ID</key><integer>6875</integer>
+			<key>Name</key><string>Piano Man</string>
+			<key>Artist</key><string>Billy Joel</string>
+			<key>Album Artist</key><string>Billy Joel</string>
+			<key>Composer</key><string>Billy Joel</string>
+			<key>Album</key><string>Greatest Hits, Vols. 1 &#38; 2</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12028041</integer>
+			<key>Total Time</key><integer>339291</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2017-06-05T18:34:41Z</date>
+			<key>Date Added</key><date>2017-06-05T18:34:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>288</integer>
+			<key>Play Date</key><integer>3759758099</integer>
+			<key>Play Date UTC</key><date>2023-02-20T11:44:59Z</date>
+			<key>Skip Count</key><integer>30</integer>
+			<key>Skip Date</key><date>2021-11-30T16:02:59Z</date>
+			<key>Release Date</key><date>1973-11-09T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Greatest Hits, Vols. 1 &#38; 2</string>
+			<key>Sort Artist</key><string>Billy Joel</string>
+			<key>Sort Name</key><string>Piano Man</string>
+			<key>Persistent ID</key><string>95AD149D455E07E4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7575</key>
+		<dict>
+			<key>Track ID</key><integer>7575</integer>
+			<key>Name</key><string>Here Comes the Sun</string>
+			<key>Artist</key><string>The Beatles</string>
+			<key>Album Artist</key><string>The Beatles</string>
+			<key>Album</key><string>Abbey Road</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1969</integer>
+			<key>Date Modified</key><date>2017-07-23T07:16:22Z</date>
+			<key>Date Added</key><date>2017-07-23T07:16:22Z</date>
+			<key>Comments</key><string>The Beatles' last days as a band were as productive as any major pop phenomenon that was about to split. After recording the ragged-but-right Let It Be, the group held on for this ambitious effort, an album that was to become their best-selling. Though al</string>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3748151144</integer>
+			<key>Play Date UTC</key><date>2022-10-09T03:35:44Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2019-09-27T12:59:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Beatles</string>
+			<key>Sort Artist</key><string>Beatles</string>
+			<key>Persistent ID</key><string>15217F0CEDD52439</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>7631</key>
+		<dict>
+			<key>Track ID</key><integer>7631</integer>
+			<key>Name</key><string>Learning To Fly</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album</key><string>A Momentary Lapse Of Reason</string>
+			<key>Genre</key><string>Psychedelic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9170674</integer>
+			<key>Total Time</key><integer>293328</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2012-11-08T15:46:46Z</date>
+			<key>Date Added</key><date>2017-07-25T17:36:49Z</date>
+			<key>Bit Rate</key><integer>250</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-09-09T06:49:04Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Momentary Lapse Of Reason</string>
+			<key>Persistent ID</key><string>5B50D2091DFE2B70</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>7861</key>
+		<dict>
+			<key>Track ID</key><integer>7861</integer>
+			<key>Name</key><string>Fearless</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album</key><string>Meddle</string>
+			<key>Genre</key><string>Psychedelic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10840388</integer>
+			<key>Total Time</key><integer>369240</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2013-01-26T18:55:48Z</date>
+			<key>Date Added</key><date>2017-07-25T17:36:49Z</date>
+			<key>Bit Rate</key><integer>234</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3753070106</integer>
+			<key>Play Date UTC</key><date>2022-12-05T01:58:26Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-02-09T03:13:37Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F0AF72D80C3185BE</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>8083</key>
+		<dict>
+			<key>Track ID</key><integer>8083</integer>
+			<key>Name</key><string>The Great Gig In The Sky</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album</key><string>The Dark Side Of The Moon</string>
+			<key>Genre</key><string>Psychedelic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7935348</integer>
+			<key>Total Time</key><integer>284081</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2013-01-27T15:02:08Z</date>
+			<key>Date Added</key><date>2017-07-25T17:36:49Z</date>
+			<key>Bit Rate</key><integer>223</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3753067808</integer>
+			<key>Play Date UTC</key><date>2022-12-05T01:20:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-09-09T06:49:09Z</date>
+			<key>Album Disliked</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dark Side Of The Moon</string>
+			<key>Sort Name</key><string>Great Gig In The Sky</string>
+			<key>Persistent ID</key><string>487966A650D93BF2</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>8297</key>
+		<dict>
+			<key>Track ID</key><integer>8297</integer>
+			<key>Name</key><string>Run Like Hell</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album</key><string>The Wall</string>
+			<key>Genre</key><string>Classic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4207545</integer>
+			<key>Total Time</key><integer>262530</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2013-01-27T14:40:00Z</date>
+			<key>Date Added</key><date>2017-07-25T17:36:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Comments</key><string>by Delerium</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3615619686</integer>
+			<key>Play Date UTC</key><date>2018-07-28T05:18:06Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-07-06T09:30:56Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wall</string>
+			<key>Persistent ID</key><string>E4024E5A0B68D4B0</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>9153</key>
+		<dict>
+			<key>Track ID</key><integer>9153</integer>
+			<key>Name</key><string>Dream On</string>
+			<key>Artist</key><string>Aerosmith</string>
+			<key>Album Artist</key><string>Aerosmith</string>
+			<key>Composer</key><string>Steven Tyler</string>
+			<key>Album</key><string>Aerosmith's Greatest Hits</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4290201</integer>
+			<key>Total Time</key><integer>267650</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2013-01-26T18:49:17Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Play Count</key><integer>88</integer>
+			<key>Play Date</key><integer>3753178367</integer>
+			<key>Play Date UTC</key><date>2022-12-06T08:02:47Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2021-05-13T23:46:08Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7D66ECB99188DCE0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>10013</key>
+		<dict>
+			<key>Track ID</key><integer>10013</integer>
+			<key>Name</key><string>STAYING ALIVE</string>
+			<key>Artist</key><string>The Bee Gees</string>
+			<key>Album</key><string>One Night Only</string>
+			<key>Genre</key><string>genre</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4499456</integer>
+			<key>Total Time</key><integer>281077</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Date Modified</key><date>2014-12-14T19:51:05Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3696002873</integer>
+			<key>Play Date UTC</key><date>2021-02-12T13:57:53Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-01-03T07:23:47Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Bee Gees</string>
+			<key>Persistent ID</key><string>C2FD7BB4C03F67F1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>12055</key>
+		<dict>
+			<key>Track ID</key><integer>12055</integer>
+			<key>Name</key><string>Cocaine</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Album Artist</key><string>Eric Clapton</string>
+			<key>Album</key><string>20th Century Masters The Best Of Eric Clapton</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8883114</integer>
+			<key>Total Time</key><integer>220734</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2013-01-24T21:47:57Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3694284779</integer>
+			<key>Play Date UTC</key><date>2021-01-23T16:42:59Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-07-21T14:08:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6A778E895C15DAF9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>12195</key>
+		<dict>
+			<key>Track ID</key><integer>12195</integer>
+			<key>Name</key><string>Wheels</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Album Artist</key><string>Foo Fighters</string>
+			<key>Composer</key><string>Foo Fighters</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8920784</integer>
+			<key>Total Time</key><integer>278376</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-02-06T12:17:08Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Comments</key><string>http://www.musicistheheartofoursoul.com/</string>
+			<key>Play Count</key><integer>78</integer>
+			<key>Play Date</key><integer>3749887432</integer>
+			<key>Play Date UTC</key><date>2022-10-29T05:53:52Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-08-29T06:24:02Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4D8D198A5F8F6058</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>15365</key>
+		<dict>
+			<key>Track ID</key><integer>15365</integer>
+			<key>Name</key><string>Californication</string>
+			<key>Artist</key><string>Red Hot Chillipeppers</string>
+			<key>Album</key><string>Californication</string>
+			<key>Genre</key><string>AlternRock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4484153</integer>
+			<key>Total Time</key><integer>320287</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2012-11-08T15:53:50Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>112</integer>
+			<key>Persistent ID</key><string>71560B49811F218D</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>19441</key>
+		<dict>
+			<key>Track ID</key><integer>19441</integer>
+			<key>Name</key><string>Gone, Gone, Gone</string>
+			<key>Artist</key><string>Phillip Phillips</string>
+			<key>Album Artist</key><string>Phillip Phillips</string>
+			<key>Composer</key><string>Derek Fuhrmann, Todd Clark &#38; Gregg Wattenberg</string>
+			<key>Album</key><string>The World from the Side of the Moon</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7741069</integer>
+			<key>Total Time</key><integer>209695</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-11-07T11:59:17Z</date>
+			<key>Date Added</key><date>2017-11-07T11:59:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3667764115</integer>
+			<key>Play Date UTC</key><date>2020-03-22T17:51:55Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-09-09T07:14:21Z</date>
+			<key>Release Date</key><date>2012-11-19T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>World from the Side of the Moon</string>
+			<key>Sort Artist</key><string>Phillip Phillips</string>
+			<key>Sort Name</key><string>Gone, Gone, Gone</string>
+			<key>Persistent ID</key><string>0112E4D872AD089C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19443</key>
+		<dict>
+			<key>Track ID</key><integer>19443</integer>
+			<key>Name</key><string>Ho Hey</string>
+			<key>Artist</key><string>The Lumineers</string>
+			<key>Album Artist</key><string>The Lumineers</string>
+			<key>Composer</key><string>Wesley Schultz &#38; Jeremy Fraites</string>
+			<key>Album</key><string>The Lumineers</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5955032</integer>
+			<key>Total Time</key><integer>163133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-11-07T12:01:39Z</date>
+			<key>Date Added</key><date>2017-11-07T12:01:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3634279577</integer>
+			<key>Play Date UTC</key><date>2019-03-01T04:36:17Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-02-25T05:54:59Z</date>
+			<key>Release Date</key><date>2012-04-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lumineers</string>
+			<key>Sort Album Artist</key><string>Lumineers</string>
+			<key>Sort Artist</key><string>Lumineers</string>
+			<key>Sort Name</key><string>Ho Hey</string>
+			<key>Persistent ID</key><string>70BDEDFC4FDDAB76</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19445</key>
+		<dict>
+			<key>Track ID</key><integer>19445</integer>
+			<key>Name</key><string>Radioactive</string>
+			<key>Artist</key><string>Imagine Dragons</string>
+			<key>Album Artist</key><string>Imagine Dragons</string>
+			<key>Composer</key><string>Dan Reynolds, Wayne Sermon, Ben McKee, Alex Da Kid &#38; Josh Mosser</string>
+			<key>Album</key><string>Night Visions</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6830469</integer>
+			<key>Total Time</key><integer>186813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-11-07T12:08:20Z</date>
+			<key>Date Added</key><date>2017-11-07T12:08:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3670941986</integer>
+			<key>Play Date UTC</key><date>2020-04-28T12:36:26Z</date>
+			<key>Release Date</key><date>2012-09-04T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Night Visions</string>
+			<key>Sort Artist</key><string>Imagine Dragons</string>
+			<key>Sort Name</key><string>Radioactive</string>
+			<key>Persistent ID</key><string>DE3552C66BD38AF4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20187</key>
+		<dict>
+			<key>Track ID</key><integer>20187</integer>
+			<key>Name</key><string>The Happiest Days of Our Lives</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>The Wall</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4571151</integer>
+			<key>Total Time</key><integer>111107</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2018-01-27T20:12:28Z</date>
+			<key>Date Added</key><date>2018-01-27T20:12:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3626822898</integer>
+			<key>Play Date UTC</key><date>2018-12-04T21:18:18Z</date>
+			<key>Release Date</key><date>1979-11-30T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wall</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Happiest Days of Our Lives</string>
+			<key>Persistent ID</key><string>B208B309B732BBDF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20189</key>
+		<dict>
+			<key>Track ID</key><integer>20189</integer>
+			<key>Name</key><string>Another Brick In the Wall, Pt. 2</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>The Wall</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9207597</integer>
+			<key>Total Time</key><integer>238947</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2018-01-27T20:12:28Z</date>
+			<key>Date Added</key><date>2018-01-27T20:12:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3651266837</integer>
+			<key>Play Date UTC</key><date>2019-09-13T19:17:17Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-08-02T18:03:42Z</date>
+			<key>Release Date</key><date>1979-11-23T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wall</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Another Brick In the Wall, Pt. 2</string>
+			<key>Persistent ID</key><string>69504F8768001DD7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20191</key>
+		<dict>
+			<key>Track ID</key><integer>20191</integer>
+			<key>Name</key><string>See Emily Play</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Syd Barrett</string>
+			<key>Album</key><string>Relics</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6294335</integer>
+			<key>Total Time</key><integer>173733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1967</integer>
+			<key>Date Modified</key><date>2018-01-27T20:12:28Z</date>
+			<key>Date Added</key><date>2018-01-27T20:12:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1967-06-16T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Relics</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>See Emily Play</string>
+			<key>Persistent ID</key><string>A2DBB3B315E66E3A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20193</key>
+		<dict>
+			<key>Track ID</key><integer>20193</integer>
+			<key>Name</key><string>Hey You</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>The Wall</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10724164</integer>
+			<key>Total Time</key><integer>279640</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2018-01-27T20:12:29Z</date>
+			<key>Date Added</key><date>2018-01-27T20:12:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3753064132</integer>
+			<key>Play Date UTC</key><date>2022-12-05T00:18:52Z</date>
+			<key>Release Date</key><date>1979-11-30T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wall</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Hey You</string>
+			<key>Persistent ID</key><string>3F2E6A1ABCBAA562</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20195</key>
+		<dict>
+			<key>Track ID</key><integer>20195</integer>
+			<key>Name</key><string>Pigs (Three Different Ones)</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>Animals</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>24904825</integer>
+			<key>Total Time</key><integer>686333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2018-01-27T20:12:29Z</date>
+			<key>Date Added</key><date>2018-01-27T20:12:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3644932755</integer>
+			<key>Play Date UTC</key><date>2019-07-02T11:49:15Z</date>
+			<key>Release Date</key><date>1977-01-23T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Animals</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Pigs (Three Different Ones)</string>
+			<key>Persistent ID</key><string>0FB89304EEE43E76</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20197</key>
+		<dict>
+			<key>Track ID</key><integer>20197</integer>
+			<key>Name</key><string>One of These Days</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters, David Gilmour, Richard Wright &#38; Nick Mason</string>
+			<key>Album</key><string>Meddle</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12486453</integer>
+			<key>Total Time</key><integer>355400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2018-01-27T20:12:29Z</date>
+			<key>Date Added</key><date>2018-01-27T20:12:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1971-10-30T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Meddle</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>One of These Days</string>
+			<key>Persistent ID</key><string>5A120F850BDAD36B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>z. ISDI Shit</string>
+			<key>Description</key><string>Official Jam List. </string>
+			<key>Playlist ID</key><integer>44696</integer>
+			<key>Playlist Persistent ID</key><string>3359463AD35688AE</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>19441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12055</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10013</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8083</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7631</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8297</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7861</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

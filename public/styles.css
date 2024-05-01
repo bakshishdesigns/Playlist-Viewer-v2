@@ -1,0 +1,107 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* height: 100vh; */
+    display: flex;
+}
+
+/* Container for left and right panels */
+#container {
+    display: flex;
+    height: 100%;
+}
+
+/* Styling for the left pane (playlistContainer) */
+/* Playlist container styling */
+#playlistContainer {
+    width: 25%; /* Left panel takes up 25% of the screen width */
+    background-color: #f5f5f5; /* Light grey background */
+    padding: 10px;
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+/* Playlist button styling */
+#playlistContainer button {
+    text-align: left;
+    width: 100%; /* Expand each button to fill the entire width of the container */
+    margin-bottom: 5px; /* Space between buttons */
+    padding: 10px; /* Add some padding to each button */
+    border: none; /* Remove button border */
+    background-color: #e0e0e0; /* Lighter shade of grey */
+    color: #333; /* Dark text color */
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+
+/* Styling for the right pane (songContainer) */
+#songContainer {
+    width: 75%; /* Right panel occupies 75% of the screen width */
+    padding: 20px;
+    background-color: #ffffff; /* White background */
+    display: flex;
+    flex-direction: column;
+}
+
+/* Styling for the options area at the top of the right pane */
+#options {
+    background-color: #ffffff;
+    padding: 0px;
+    padding-bottom: 10px;
+    position: sticky;
+    top: 0; /* Stays fixed at the top of the right pane */
+    z-index: 10; /* Layer above other elements */
+    /* Removed box-shadow: Commented out */
+    /* box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); */
+}
+
+/* Styling for each song entry in the song list */
+.song {
+    display: flex; /* Flexbox layout for the song entry */
+    align-items: center;
+    background-color: #f9f9f9; /* Light grey background */
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px 0; /* Margin above and below each entry */
+}
+
+/* Styling for the album art image */
+.song img {
+    width: 50px; /* Album art width */
+    height: 50px; /* Album art height */
+    border-radius: 5px; /* Rounded corners */
+    margin-right: 10px; /* Margin to the right of the image */
+}
+
+/* Styling for the song details */
+.song-details {
+    flex-grow: 1; /* Takes up the remaining space */
+}
+
+/* Styling for the song title */
+.song-title {
+    font-weight: bold; /* Bold font for the song title */
+    margin-bottom: 5px; /* Margin below the song title */
+}
+
+/* Styling for the subtext (artist and album) */
+.song-subtext {
+    color: #666; /* Dark grey color for subtext */
+    font-size: 14px; /* Smaller font size */
+}
+
+/* Styling for play and skip counts */
+.song-count {
+    font-weight: bold; /* Bold font */
+}
+
+/* Color for play count */
+.play-count {
+    color: #28a745; /* Green color */
+}
+
+/* Color for skip count */
+.skip-count {
+    color: #dc3545; /* Red color */
+}

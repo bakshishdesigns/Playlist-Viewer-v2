@@ -1,0 +1,1526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:04:59Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6393</key>
+		<dict>
+			<key>Track ID</key><integer>6393</integer>
+			<key>Name</key><string>Gravity</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8890741</integer>
+			<key>Total Time</key><integer>245773</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:18Z</date>
+			<key>Date Added</key><date>2017-11-23T11:55:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Demons Eye Rip</string>
+			<key>Play Count</key><integer>186</integer>
+			<key>Play Date</key><integer>3760986298</integer>
+			<key>Play Date UTC</key><date>2023-03-06T16:54:58Z</date>
+			<key>Skip Count</key><integer>18</integer>
+			<key>Skip Date</key><date>2021-03-15T18:13:54Z</date>
+			<key>Release Date</key><date>2006-09-12T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>867A3D79C3446B75</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6415</key>
+		<dict>
+			<key>Track ID</key><integer>6415</integer>
+			<key>Name</key><string>Still Feel Like Your Man</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>The Search for Everything</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8571630</integer>
+			<key>Total Time</key><integer>234533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-05-21T19:24:51Z</date>
+			<key>Date Added</key><date>2017-06-05T18:29:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>107</integer>
+			<key>Play Date</key><integer>3756422577</integer>
+			<key>Play Date UTC</key><date>2023-01-12T21:12:57Z</date>
+			<key>Skip Count</key><integer>28</integer>
+			<key>Skip Date</key><date>2021-04-29T10:33:39Z</date>
+			<key>Release Date</key><date>2017-02-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Search for Everything</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Still Feel Like Your Man</string>
+			<key>Persistent ID</key><string>499ECD685E67C0B6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6487</key>
+		<dict>
+			<key>Track ID</key><integer>6487</integer>
+			<key>Name</key><string>Who Says</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Battle Studies</string>
+			<key>Genre</key><string>Pop-Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6363435</integer>
+			<key>Total Time</key><integer>175417</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:24Z</date>
+			<key>Date Added</key><date>2017-05-22T09:41:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>121</integer>
+			<key>Play Date</key><integer>3756425928</integer>
+			<key>Play Date UTC</key><date>2023-01-12T22:08:48Z</date>
+			<key>Skip Count</key><integer>25</integer>
+			<key>Skip Date</key><date>2019-02-02T01:14:15Z</date>
+			<key>Release Date</key><date>2009-10-13T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>67D7E1B4A45682B4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6739</key>
+		<dict>
+			<key>Track ID</key><integer>6739</integer>
+			<key>Name</key><string>Your Body Is a Wonderland</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Room for Squares</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9394577</integer>
+			<key>Total Time</key><integer>249627</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:03Z</date>
+			<key>Date Added</key><date>2017-06-05T18:28:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3742546267</integer>
+			<key>Play Date UTC</key><date>2022-08-05T06:41:07Z</date>
+			<key>Release Date</key><date>2001-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>994A14E31BFC3C56</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11761</key>
+		<dict>
+			<key>Track ID</key><integer>11761</integer>
+			<key>Name</key><string>Try (Live at the House of Blues, Chicago, IL, 09/22/05)</string>
+			<key>Artist</key><string>John Mayer Trio</string>
+			<key>Album Artist</key><string>John Mayer Trio</string>
+			<key>Composer</key><string>Pino Palladino &#38; Steve Jordan</string>
+			<key>Album</key><string>Try! Live In Concert</string>
+			<key>Genre</key><string>Blues-Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15031369</integer>
+			<key>Total Time</key><integer>413271</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2021-02-25T06:15:18Z</date>
+			<key>Date Added</key><date>2021-02-25T06:15:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3701300638</integer>
+			<key>Play Date UTC</key><date>2021-04-14T21:33:58Z</date>
+			<key>Release Date</key><date>2005-11-22T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Try! Live In Concert</string>
+			<key>Sort Artist</key><string>John Mayer Trio</string>
+			<key>Sort Name</key><string>Try (Live at the House of Blues, Chicago, IL, 09/22/05)</string>
+			<key>Persistent ID</key><string>57219D8454C07428</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11763</key>
+		<dict>
+			<key>Track ID</key><integer>11763</integer>
+			<key>Name</key><string>Another Kind of Green (Live at the House of Blues, Chicago, IL, 09/22/05)</string>
+			<key>Artist</key><string>John Mayer Trio</string>
+			<key>Album Artist</key><string>John Mayer Trio</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Try! Live In Concert</string>
+			<key>Genre</key><string>Blues-Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10281089</integer>
+			<key>Total Time</key><integer>279914</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2021-02-25T06:15:18Z</date>
+			<key>Date Added</key><date>2021-02-25T06:15:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3715467788</integer>
+			<key>Play Date UTC</key><date>2021-09-25T20:53:08Z</date>
+			<key>Release Date</key><date>2005-11-22T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Try! Live In Concert</string>
+			<key>Sort Artist</key><string>John Mayer Trio</string>
+			<key>Sort Name</key><string>Another Kind of Green (Live at the House of Blues, Chicago, IL, 09/22/05)</string>
+			<key>Persistent ID</key><string>D3EAE11BCD8F0946</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11871</key>
+		<dict>
+			<key>Track ID</key><integer>11871</integer>
+			<key>Name</key><string>Who Did You Think I Was (Live at the House of Blues, Chicago, IL, 09/22/05)</string>
+			<key>Artist</key><string>John Mayer Trio</string>
+			<key>Album Artist</key><string>John Mayer Trio</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Try! Live In Concert</string>
+			<key>Genre</key><string>Blues-Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7380660</integer>
+			<key>Total Time</key><integer>189124</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2021-02-25T06:15:18Z</date>
+			<key>Date Added</key><date>2021-02-25T06:15:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3715468152</integer>
+			<key>Play Date UTC</key><date>2021-09-25T20:59:12Z</date>
+			<key>Release Date</key><date>2005-11-22T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Try! Live In Concert</string>
+			<key>Sort Artist</key><string>John Mayer Trio</string>
+			<key>Sort Name</key><string>Who Did You Think I Was (Live at the House of Blues, Chicago, IL, 09/22/05)</string>
+			<key>Persistent ID</key><string>A95EBF91CBEF8525</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11873</key>
+		<dict>
+			<key>Track ID</key><integer>11873</integer>
+			<key>Name</key><string>Out of My Mind (Live at the House of Blues, Chicago, IL, 09/22/05)</string>
+			<key>Artist</key><string>John Mayer Trio</string>
+			<key>Album Artist</key><string>John Mayer Trio</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Try! Live In Concert</string>
+			<key>Genre</key><string>Blues-Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15812141</integer>
+			<key>Total Time</key><integer>459109</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2021-02-25T06:15:18Z</date>
+			<key>Date Added</key><date>2021-02-25T06:15:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3699686941</integer>
+			<key>Play Date UTC</key><date>2021-03-27T05:19:01Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-01-07T22:03:13Z</date>
+			<key>Release Date</key><date>2005-11-22T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Try! Live In Concert</string>
+			<key>Sort Artist</key><string>John Mayer Trio</string>
+			<key>Sort Name</key><string>Out of My Mind (Live at the House of Blues, Chicago, IL, 09/22/05)</string>
+			<key>Persistent ID</key><string>92262E0B54FE4922</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>12895</key>
+		<dict>
+			<key>Track ID</key><integer>12895</integer>
+			<key>Name</key><string>Clarity</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Heavier Things</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10871476</integer>
+			<key>Total Time</key><integer>271908</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:11Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CC47357C3A0943C4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>12897</key>
+		<dict>
+			<key>Track ID</key><integer>12897</integer>
+			<key>Name</key><string>Bigger Than My Body</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Heavier Things</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10654324</integer>
+			<key>Total Time</key><integer>266475</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:09Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C266DBEC0A46C669</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>12899</key>
+		<dict>
+			<key>Track ID</key><integer>12899</integer>
+			<key>Name</key><string>Something's Missing</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Heavier Things</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12217192</integer>
+			<key>Total Time</key><integer>305293</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:11Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3615244355</integer>
+			<key>Play Date UTC</key><date>2018-07-23T21:02:35Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0D4FFD95A223272D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>12903</key>
+		<dict>
+			<key>Track ID</key><integer>12903</integer>
+			<key>Name</key><string>Come Back to Bed</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Heavier Things</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13005412</integer>
+			<key>Total Time</key><integer>325302</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:13Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C57E7D3AB3D0BBC7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>12907</key>
+		<dict>
+			<key>Track ID</key><integer>12907</integer>
+			<key>Name</key><string>Split Screen Sadness</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Heavier Things</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12246424</integer>
+			<key>Total Time</key><integer>306311</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:10Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>32F387973F3DE528</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>12913</key>
+		<dict>
+			<key>Track ID</key><integer>12913</integer>
+			<key>Name</key><string>Waiting On The World To Change</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8116584</integer>
+			<key>Total Time</key><integer>201247</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:14Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Comments</key><string>Demons Eye Rip</string>
+			<key>Play Count</key><integer>69</integer>
+			<key>Play Date</key><integer>3748309646</integer>
+			<key>Play Date UTC</key><date>2022-10-10T23:37:26Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2019-08-09T17:50:38Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BF48D897DFE72013</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>12915</key>
+		<dict>
+			<key>Track ID</key><integer>12915</integer>
+			<key>Name</key><string>I Don`t Trust Myself (With Loving You)</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11750755</integer>
+			<key>Total Time</key><integer>292101</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:17Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Comments</key><string>Demons Eye Rip</string>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3734852326</integer>
+			<key>Play Date UTC</key><date>2022-05-08T05:28:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-01-30T08:14:53Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4ED3DAC58BA20007</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>12919</key>
+		<dict>
+			<key>Track ID</key><integer>12919</integer>
+			<key>Name</key><string>The Heart Of Life</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8036100</integer>
+			<key>Total Time</key><integer>199235</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:19Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Comments</key><string>Demons Eye Rip</string>
+			<key>Play Count</key><integer>101</integer>
+			<key>Play Date</key><integer>3749980757</integer>
+			<key>Play Date UTC</key><date>2022-10-30T07:49:17Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2021-05-07T01:11:13Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Heart Of Life</string>
+			<key>Persistent ID</key><string>B3D2302D27FAC9CE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>12995</key>
+		<dict>
+			<key>Track ID</key><integer>12995</integer>
+			<key>Name</key><string>Stop This Train</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11471721</integer>
+			<key>Total Time</key><integer>285126</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:15Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Comments</key><string>Demons Eye Rip</string>
+			<key>Play Count</key><integer>170</integer>
+			<key>Play Date</key><integer>3756417900</integer>
+			<key>Play Date UTC</key><date>2023-01-12T19:55:00Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2021-03-14T02:47:42Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2F10F794298AE030</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>12997</key>
+		<dict>
+			<key>Track ID</key><integer>12997</integer>
+			<key>Name</key><string>Slow Dancing In A Burning Room</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9749759</integer>
+			<key>Total Time</key><integer>242076</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:18Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Comments</key><string>Demons Eye Rip</string>
+			<key>Play Count</key><integer>105</integer>
+			<key>Play Date</key><integer>3748301043</integer>
+			<key>Play Date UTC</key><date>2022-10-10T21:14:03Z</date>
+			<key>Skip Count</key><integer>18</integer>
+			<key>Skip Date</key><date>2022-03-19T14:24:44Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>78B7E64062C57F96</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13001</key>
+		<dict>
+			<key>Track ID</key><integer>13001</integer>
+			<key>Name</key><string>Dreaming With A Broken Heart</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9982768</integer>
+			<key>Total Time</key><integer>247902</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:15Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Comments</key><string>Demons Eye Rip</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3624399708</integer>
+			<key>Play Date UTC</key><date>2018-11-06T20:11:48Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DD2B36B2C14C31C1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13003</key>
+		<dict>
+			<key>Track ID</key><integer>13003</integer>
+			<key>Name</key><string>In Repair</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>Charlie Hunter/John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14862404</integer>
+			<key>Total Time</key><integer>369893</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:19Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Comments</key><string>Demons Eye Rip</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3726343136</integer>
+			<key>Play Date UTC</key><date>2022-01-29T17:48:56Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C930601EBCC1FA62</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13005</key>
+		<dict>
+			<key>Track ID</key><integer>13005</integer>
+			<key>Name</key><string>I`m Gonna Find Another You</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6591026</integer>
+			<key>Total Time</key><integer>163108</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:17Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Comments</key><string>Demons Eye Rip</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3727748688</integer>
+			<key>Play Date UTC</key><date>2022-02-15T00:14:48Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>631D1BBE7E98B5C3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13007</key>
+		<dict>
+			<key>Track ID</key><integer>13007</integer>
+			<key>Name</key><string>Heartbreak Warfare</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Battle Studies</string>
+			<key>Genre</key><string>Pop-Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10794012</integer>
+			<key>Total Time</key><integer>269792</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:22Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3726503093</integer>
+			<key>Play Date UTC</key><date>2022-01-31T14:14:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-09-26T09:36:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>191268678B86C7AA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13009</key>
+		<dict>
+			<key>Track ID</key><integer>13009</integer>
+			<key>Name</key><string>All We Ever Do Is Say Goodbye</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Battle Studies</string>
+			<key>Genre</key><string>Pop-Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11016586</integer>
+			<key>Total Time</key><integer>275356</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:27Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F4BE099577C38F1D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13013</key>
+		<dict>
+			<key>Track ID</key><integer>13013</integer>
+			<key>Name</key><string>Assassin</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Battle Studies</string>
+			<key>Genre</key><string>Pop-Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12599585</integer>
+			<key>Total Time</key><integer>314932</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:24Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>85</integer>
+			<key>Play Date</key><integer>3756833530</integer>
+			<key>Play Date UTC</key><date>2023-01-17T15:22:10Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2021-03-23T18:31:27Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A58A3E6EE198940B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13017</key>
+		<dict>
+			<key>Track ID</key><integer>13017</integer>
+			<key>Name</key><string>War Of My Life</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Battle Studies</string>
+			<key>Genre</key><string>Pop-Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10209910</integer>
+			<key>Total Time</key><integer>255190</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:25Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3658464142</integer>
+			<key>Play Date UTC</key><date>2019-12-06T02:32:22Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>25C08B05ECA933B9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13019</key>
+		<dict>
+			<key>Track ID</key><integer>13019</integer>
+			<key>Name</key><string>Edge Of Desire</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Battle Studies</string>
+			<key>Genre</key><string>Pop-Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13288179</integer>
+			<key>Total Time</key><integer>332146</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:25Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>103</integer>
+			<key>Play Date</key><integer>3746826449</integer>
+			<key>Play Date UTC</key><date>2022-09-23T19:37:29Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2019-08-20T08:56:05Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C7A77FA538D53638</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13021</key>
+		<dict>
+			<key>Track ID</key><integer>13021</integer>
+			<key>Name</key><string>Do You Know Me</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Battle Studies</string>
+			<key>Genre</key><string>Pop-Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6017779</integer>
+			<key>Total Time</key><integer>150386</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:27Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D2B5B17607539ED9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13023</key>
+		<dict>
+			<key>Track ID</key><integer>13023</integer>
+			<key>Name</key><string>Friends, Lovers Or Nothing</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Battle Studies</string>
+			<key>Genre</key><string>Pop-Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14374885</integer>
+			<key>Total Time</key><integer>359314</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:26Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DACA52B0B94F29E5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13027</key>
+		<dict>
+			<key>Track ID</key><integer>13027</integer>
+			<key>Name</key><string>The Age of Worry</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Born and Raised</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6393965</integer>
+			<key>Total Time</key><integer>159791</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:29Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Age of Worry</string>
+			<key>Persistent ID</key><string>D9A4A9C04FF12386</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13029</key>
+		<dict>
+			<key>Track ID</key><integer>13029</integer>
+			<key>Name</key><string>Shadow Days</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Born and Raised</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9216229</integer>
+			<key>Total Time</key><integer>230347</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:30Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3727765567</integer>
+			<key>Play Date UTC</key><date>2022-02-15T04:56:07Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AC12741EC20C1DA1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13033</key>
+		<dict>
+			<key>Track ID</key><integer>13033</integer>
+			<key>Name</key><string>Something Like Olivia</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Born and Raised</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7259145</integer>
+			<key>Total Time</key><integer>181420</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:29Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3592524562</integer>
+			<key>Play Date UTC</key><date>2017-11-02T21:59:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-08-03T08:58:10Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F9DA0BED0250B4D2</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>13035</key>
+		<dict>
+			<key>Track ID</key><integer>13035</integer>
+			<key>Name</key><string>Born and Raised</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Born and Raised</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11574568</integer>
+			<key>Total Time</key><integer>289306</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:30Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3761042643</integer>
+			<key>Play Date UTC</key><date>2023-03-07T08:34:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6D20525254AE7F3F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13043</key>
+		<dict>
+			<key>Track ID</key><integer>13043</integer>
+			<key>Name</key><string>Whiskey, Whiskey, Whiskey</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Born and Raised</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11182742</integer>
+			<key>Total Time</key><integer>279510</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:32Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>66</integer>
+			<key>Play Date</key><integer>3753670941</integer>
+			<key>Play Date UTC</key><date>2022-12-12T00:52:21Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-05-18T23:44:24Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3FAEC916CB41C340</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13045</key>
+		<dict>
+			<key>Track ID</key><integer>13045</integer>
+			<key>Name</key><string>A Face To Call Home</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Born and Raised</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11463813</integer>
+			<key>Total Time</key><integer>286537</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:28Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3732825667</integer>
+			<key>Play Date UTC</key><date>2022-04-14T18:31:07Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Face To Call Home</string>
+			<key>Persistent ID</key><string>96403A7C3AC1A1CD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>17969</key>
+		<dict>
+			<key>Track ID</key><integer>17969</integer>
+			<key>Name</key><string>Who You Love (feat. Katy Perry)</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer &#38; pending</string>
+			<key>Album</key><string>Paradise Valley</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8820284</integer>
+			<key>Total Time</key><integer>252707</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2017-08-15T05:48:21Z</date>
+			<key>Date Added</key><date>2017-08-15T05:48:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3687487225</integer>
+			<key>Play Date UTC</key><date>2020-11-06T00:30:25Z</date>
+			<key>Release Date</key><date>2013-08-16T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Paradise Valley</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Who You Love (feat. Katy Perry)</string>
+			<key>Persistent ID</key><string>472CB0DEF918F498</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>17989</key>
+		<dict>
+			<key>Track ID</key><integer>17989</integer>
+			<key>Name</key><string>Dear Marie</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Paradise Valley</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7994867</integer>
+			<key>Total Time</key><integer>224801</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2017-08-18T09:31:41Z</date>
+			<key>Date Added</key><date>2017-08-18T09:31:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3760247376</integer>
+			<key>Play Date UTC</key><date>2023-02-26T03:39:36Z</date>
+			<key>Release Date</key><date>2013-08-16T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Paradise Valley</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Dear Marie</string>
+			<key>Persistent ID</key><string>68E227F7EF08F201</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>17993</key>
+		<dict>
+			<key>Track ID</key><integer>17993</integer>
+			<key>Name</key><string>Paper Doll</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Paradise Valley</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9080080</integer>
+			<key>Total Time</key><integer>259960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2017-08-18T09:31:41Z</date>
+			<key>Date Added</key><date>2017-08-18T09:31:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3732287391</integer>
+			<key>Play Date UTC</key><date>2022-04-08T12:59:51Z</date>
+			<key>Release Date</key><date>2013-06-18T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Paradise Valley</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Paper Doll</string>
+			<key>Persistent ID</key><string>19B2E579A0C140F3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>17997</key>
+		<dict>
+			<key>Track ID</key><integer>17997</integer>
+			<key>Name</key><string>I Will Be Found (Lost At Sea)</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Paradise Valley</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8513246</integer>
+			<key>Total Time</key><integer>243600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2017-08-18T09:31:42Z</date>
+			<key>Date Added</key><date>2017-08-18T09:31:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3624402260</integer>
+			<key>Play Date UTC</key><date>2018-11-06T20:54:20Z</date>
+			<key>Release Date</key><date>2013-08-16T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Paradise Valley</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>I Will Be Found (Lost At Sea)</string>
+			<key>Persistent ID</key><string>971FF7C48F5F49C9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19985</key>
+		<dict>
+			<key>Track ID</key><integer>19985</integer>
+			<key>Name</key><string>Daughters</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Daughters - EP</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8382714</integer>
+			<key>Total Time</key><integer>237869</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2018-01-27T19:26:19Z</date>
+			<key>Date Added</key><date>2018-01-27T19:26:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>52</integer>
+			<key>Play Date</key><integer>3748302454</integer>
+			<key>Play Date UTC</key><date>2022-10-10T21:37:34Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2021-10-09T13:30:46Z</date>
+			<key>Release Date</key><date>2003-09-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Daughters - EP</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Daughters</string>
+			<key>Persistent ID</key><string>B011A2328078D128</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20019</key>
+		<dict>
+			<key>Track ID</key><integer>20019</integer>
+			<key>Name</key><string>Wheel</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Heavier Things</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11470557</integer>
+			<key>Total Time</key><integer>332550</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2018-01-27T19:58:49Z</date>
+			<key>Date Added</key><date>2018-01-27T19:58:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3727747061</integer>
+			<key>Play Date UTC</key><date>2022-02-14T23:47:41Z</date>
+			<key>Release Date</key><date>2003-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Heavier Things</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Wheel</string>
+			<key>Persistent ID</key><string>6D59A2FA147487CC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21893</key>
+		<dict>
+			<key>Track ID</key><integer>21893</integer>
+			<key>Name</key><string>Why Georgia</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Room for Squares</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9525945</integer>
+			<key>Total Time</key><integer>268973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2018-09-09T19:32:35Z</date>
+			<key>Date Added</key><date>2018-09-09T19:32:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>137</integer>
+			<key>Play Date</key><integer>3761122295</integer>
+			<key>Play Date UTC</key><date>2023-03-08T06:41:35Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2021-02-04T20:11:12Z</date>
+			<key>Release Date</key><date>2001-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Room for Squares</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Why Georgia</string>
+			<key>Persistent ID</key><string>CEAADBD607E810E1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22469</key>
+		<dict>
+			<key>Track ID</key><integer>22469</integer>
+			<key>Name</key><string>Not Myself</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Room for Squares</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7729541</integer>
+			<key>Total Time</key><integer>216573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2018-11-06T19:31:47Z</date>
+			<key>Date Added</key><date>2018-11-06T19:31:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3624404782</integer>
+			<key>Play Date UTC</key><date>2018-11-06T21:36:22Z</date>
+			<key>Release Date</key><date>2001-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Room for Squares</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Not Myself</string>
+			<key>Persistent ID</key><string>5238FB7B2D0BC549</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22471</key>
+		<dict>
+			<key>Track ID</key><integer>22471</integer>
+			<key>Name</key><string>Emoji of a Wave</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>The Search for Everything</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8582889</integer>
+			<key>Total Time</key><integer>239667</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-11-06T19:43:38Z</date>
+			<key>Date Added</key><date>2018-11-06T19:43:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3624401756</integer>
+			<key>Play Date UTC</key><date>2018-11-06T20:45:56Z</date>
+			<key>Release Date</key><date>2017-02-24T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Search for Everything</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Emoji of a Wave</string>
+			<key>Persistent ID</key><string>18CF42489B2ED996</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22473</key>
+		<dict>
+			<key>Track ID</key><integer>22473</integer>
+			<key>Name</key><string>Love on the Weekend</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>The Search for Everything</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7809839</integer>
+			<key>Total Time</key><integer>212320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-11-06T19:44:04Z</date>
+			<key>Date Added</key><date>2018-11-06T19:44:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3719759172</integer>
+			<key>Play Date UTC</key><date>2021-11-14T12:56:12Z</date>
+			<key>Release Date</key><date>2016-11-17T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Search for Everything</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Love on the Weekend</string>
+			<key>Persistent ID</key><string>02DA4E556F6FCE04</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22477</key>
+		<dict>
+			<key>Track ID</key><integer>22477</integer>
+			<key>Name</key><string>Neon</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer &#38; Clay Cook</string>
+			<key>Album</key><string>Room for Squares</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9526438</integer>
+			<key>Total Time</key><integer>262107</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2018-11-06T19:45:56Z</date>
+			<key>Date Added</key><date>2018-11-06T19:45:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>76</integer>
+			<key>Play Date</key><integer>3752247851</integer>
+			<key>Play Date UTC</key><date>2022-11-25T13:34:11Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2022-02-02T05:05:42Z</date>
+			<key>Release Date</key><date>2001-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Room for Squares</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Neon</string>
+			<key>Persistent ID</key><string>089645CEF2C565FD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22479</key>
+		<dict>
+			<key>Track ID</key><integer>22479</integer>
+			<key>Name</key><string>City Love</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Room for Squares</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8400978</integer>
+			<key>Total Time</key><integer>240200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2018-11-06T19:46:58Z</date>
+			<key>Date Added</key><date>2018-11-06T19:46:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3687489103</integer>
+			<key>Play Date UTC</key><date>2020-11-06T01:01:43Z</date>
+			<key>Release Date</key><date>2001-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Room for Squares</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>City Love</string>
+			<key>Persistent ID</key><string>BE2723FE629F9D69</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22481</key>
+		<dict>
+			<key>Track ID</key><integer>22481</integer>
+			<key>Name</key><string>Back to You</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Room for Squares</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8787398</integer>
+			<key>Total Time</key><integer>241640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2018-11-06T19:47:15Z</date>
+			<key>Date Added</key><date>2018-11-06T19:47:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3624401146</integer>
+			<key>Play Date UTC</key><date>2018-11-06T20:35:46Z</date>
+			<key>Release Date</key><date>2001-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Room for Squares</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Back to You</string>
+			<key>Persistent ID</key><string>8AF74DDEDB68CCBF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>💽 x MAYER </string>
+			<key>Description</key><string>*cries*</string>
+			<key>Playlist ID</key><integer>45040</integer>
+			<key>Playlist Persistent ID</key><string>1AECC5D3C407EDCC</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>21893</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6739</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22477</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22479</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22481</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12895</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12899</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12903</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12907</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12897</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12913</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12915</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12919</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12995</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12997</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13001</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13003</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13005</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13007</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6487</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13013</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13009</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13021</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13023</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13027</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13029</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13033</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13035</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13043</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13045</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17993</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17969</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17997</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17989</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6415</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22473</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19985</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11763</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11761</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11873</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11871</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

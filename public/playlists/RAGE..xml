@@ -1,0 +1,1647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:19:14Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>8779</key>
+		<dict>
+			<key>Track ID</key><integer>8779</integer>
+			<key>Name</key><string>5 Minutes Alone</string>
+			<key>Artist</key><string>Pantera</string>
+			<key>Album Artist</key><string>Pantera</string>
+			<key>Composer</key><string>Dimebag Darrell, Philip H. Anselmo, Rex Brown &#38; Vinnie Paul</string>
+			<key>Album</key><string>Far Beyond Driven</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12827119</integer>
+			<key>Total Time</key><integer>347289</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2019-07-23T07:17:09Z</date>
+			<key>Date Added</key><date>2019-07-23T07:17:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3726851744</integer>
+			<key>Play Date UTC</key><date>2022-02-04T15:05:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-08-10T06:32:27Z</date>
+			<key>Release Date</key><date>1994-03-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Far Beyond Driven</string>
+			<key>Sort Artist</key><string>Pantera</string>
+			<key>Sort Name</key><string>5 Minutes Alone</string>
+			<key>Persistent ID</key><string>2640DF326949C1B6</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8781</key>
+		<dict>
+			<key>Track ID</key><integer>8781</integer>
+			<key>Name</key><string>Walk</string>
+			<key>Artist</key><string>Pantera</string>
+			<key>Album Artist</key><string>Pantera</string>
+			<key>Composer</key><string>Dimebag Darrell, Philip H. Anselmo, Rex Brown &#38; Vinnie Paul</string>
+			<key>Album</key><string>Vulgar Display of Power</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11413850</integer>
+			<key>Total Time</key><integer>315068</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2019-07-23T07:39:34Z</date>
+			<key>Date Added</key><date>2019-07-23T07:39:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3726853207</integer>
+			<key>Play Date UTC</key><date>2022-02-04T15:30:07Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-02-17T04:18:04Z</date>
+			<key>Release Date</key><date>1992-02-25T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Vulgar Display of Power</string>
+			<key>Sort Artist</key><string>Pantera</string>
+			<key>Sort Name</key><string>Walk</string>
+			<key>Persistent ID</key><string>3859509671995E6A</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8783</key>
+		<dict>
+			<key>Track ID</key><integer>8783</integer>
+			<key>Name</key><string>Good Friends and a Bottle of Pills</string>
+			<key>Artist</key><string>Pantera</string>
+			<key>Album Artist</key><string>Pantera</string>
+			<key>Composer</key><string>Dimebag Darrell, Philip H. Anselmo, Rex Brown &#38; Vinnie Paul</string>
+			<key>Album</key><string>Far Beyond Driven</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6786431</integer>
+			<key>Total Time</key><integer>172927</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2019-07-23T08:13:45Z</date>
+			<key>Date Added</key><date>2019-07-23T08:13:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3726851396</integer>
+			<key>Play Date UTC</key><date>2022-02-04T14:59:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-02-04T14:57:01Z</date>
+			<key>Release Date</key><date>1994-03-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Far Beyond Driven</string>
+			<key>Sort Artist</key><string>Pantera</string>
+			<key>Sort Name</key><string>Good Friends and a Bottle of Pills</string>
+			<key>Persistent ID</key><string>6032B574B4BCF54E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8813</key>
+		<dict>
+			<key>Track ID</key><integer>8813</integer>
+			<key>Name</key><string>Duality</string>
+			<key>Artist</key><string>Slipknot</string>
+			<key>Album Artist</key><string>Slipknot</string>
+			<key>Composer</key><string>Chris Fehn, Corey Taylor, Craig Jones, Jim Root, Joey Jordison, Mick Thomson, Paul Gray, Shawn "Clown" Crahan &#38; Sid Wilson</string>
+			<key>Album</key><string>Vol. 3 The Subliminal Verses (Deluxe)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9486859</integer>
+			<key>Total Time</key><integer>252613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2019-07-26T08:53:50Z</date>
+			<key>Date Added</key><date>2019-07-26T08:53:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3726852892</integer>
+			<key>Play Date UTC</key><date>2022-02-04T15:24:52Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-08-10T06:31:43Z</date>
+			<key>Release Date</key><date>2004-05-04T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Vol. 3 The Subliminal Verses (Deluxe)</string>
+			<key>Sort Artist</key><string>Slipknot</string>
+			<key>Sort Name</key><string>Duality</string>
+			<key>Persistent ID</key><string>3C767DDB920F563F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8815</key>
+		<dict>
+			<key>Track ID</key><integer>8815</integer>
+			<key>Name</key><string>Nightmare</string>
+			<key>Artist</key><string>Avenged Sevenfold</string>
+			<key>Album Artist</key><string>Avenged Sevenfold</string>
+			<key>Composer</key><string>Baker, Haner, Sanders, Seward &#38; Sullivan</string>
+			<key>Album</key><string>Nightmare (Deluxe Version)</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13299607</integer>
+			<key>Total Time</key><integer>374453</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2019-07-26T08:57:53Z</date>
+			<key>Date Added</key><date>2019-07-26T08:57:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3744080229</integer>
+			<key>Play Date UTC</key><date>2022-08-23T00:47:09Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2022-02-04T05:17:38Z</date>
+			<key>Release Date</key><date>2010-05-18T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nightmare (Deluxe Version)</string>
+			<key>Sort Artist</key><string>Avenged Sevenfold</string>
+			<key>Sort Name</key><string>Nightmare</string>
+			<key>Persistent ID</key><string>1C46EC3A66B5AAB3</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8823</key>
+		<dict>
+			<key>Track ID</key><integer>8823</integer>
+			<key>Name</key><string>Jekyll and Hyde</string>
+			<key>Artist</key><string>Five Finger Death Punch</string>
+			<key>Album Artist</key><string>Five Finger Death Punch</string>
+			<key>Composer</key><string>Kevin Churko, Ivan Moody, Jason Hook, Zoltan Bathory &#38; Jeremy Spencer</string>
+			<key>Album</key><string>Got Your Six</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7383922</integer>
+			<key>Total Time</key><integer>206903</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2019-07-26T09:09:28Z</date>
+			<key>Date Added</key><date>2019-07-26T09:09:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3704409728</integer>
+			<key>Play Date UTC</key><date>2021-05-20T21:12:08Z</date>
+			<key>Release Date</key><date>2015-06-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Got Your Six</string>
+			<key>Sort Artist</key><string>Five Finger Death Punch</string>
+			<key>Sort Name</key><string>Jekyll and Hyde</string>
+			<key>Persistent ID</key><string>307BC3F111969A07</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8825</key>
+		<dict>
+			<key>Track ID</key><integer>8825</integer>
+			<key>Name</key><string>Awake</string>
+			<key>Artist</key><string>Textures</string>
+			<key>Album Artist</key><string>Textures</string>
+			<key>Composer</key><string>Jochem Jacobs, Stef Broks, Richard Rietdijk, Remko Tielemans, Eric Kalsbeek &#38; Bart Hennephoof</string>
+			<key>Album</key><string>Silhouettes</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8951809</integer>
+			<key>Total Time</key><integer>256880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-07-26T12:56:03Z</date>
+			<key>Date Added</key><date>2019-07-26T12:56:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3673446100</integer>
+			<key>Play Date UTC</key><date>2020-05-27T12:11:40Z</date>
+			<key>Release Date</key><date>2008-04-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Silhouettes</string>
+			<key>Sort Artist</key><string>Textures</string>
+			<key>Sort Name</key><string>Awake</string>
+			<key>Persistent ID</key><string>26433F7DD97A7BB7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8827</key>
+		<dict>
+			<key>Track ID</key><integer>8827</integer>
+			<key>Name</key><string>I'm Broken</string>
+			<key>Artist</key><string>Pantera</string>
+			<key>Album Artist</key><string>Pantera</string>
+			<key>Composer</key><string>Dimebag Darrell, Philip H. Anselmo, Rex Brown &#38; Vinnie Paul</string>
+			<key>Album</key><string>Far Beyond Driven</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9919308</integer>
+			<key>Total Time</key><integer>264711</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2019-07-26T12:58:54Z</date>
+			<key>Date Added</key><date>2019-07-26T12:58:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3726852009</integer>
+			<key>Play Date UTC</key><date>2022-02-04T15:10:09Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-11-09T18:38:41Z</date>
+			<key>Release Date</key><date>1994-03-22T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Far Beyond Driven</string>
+			<key>Sort Artist</key><string>Pantera</string>
+			<key>Sort Name</key><string>I'm Broken</string>
+			<key>Persistent ID</key><string>6DD020016424DA3E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8829</key>
+		<dict>
+			<key>Track ID</key><integer>8829</integer>
+			<key>Name</key><string>Lâments of an Içarus</string>
+			<key>Artist</key><string>Textures</string>
+			<key>Album Artist</key><string>Textures</string>
+			<key>Composer</key><string>Jochem Jacobs, Stef Broks, Richard Rietdijk, Remko Tielemans, Eric Kalsbeek &#38; Bart Hennephoof</string>
+			<key>Album</key><string>Silhouettes</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8891584</integer>
+			<key>Total Time</key><integer>254453</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-07-26T13:01:13Z</date>
+			<key>Date Added</key><date>2019-07-26T13:01:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3726852639</integer>
+			<key>Play Date UTC</key><date>2022-02-04T15:20:39Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-10-14T22:43:53Z</date>
+			<key>Release Date</key><date>2008-04-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Silhouettes</string>
+			<key>Sort Artist</key><string>Textures</string>
+			<key>Sort Name</key><string>Lâments of an Içarus</string>
+			<key>Persistent ID</key><string>9C9D5E1002DD4B3B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8833</key>
+		<dict>
+			<key>Track ID</key><integer>8833</integer>
+			<key>Name</key><string>One Eye for a Thousand</string>
+			<key>Artist</key><string>Textures</string>
+			<key>Album Artist</key><string>Textures</string>
+			<key>Composer</key><string>Jochem Jacobs, Stef Broks, Richard Rietdijk, Remko Tielemans, Eric Kalsbeek &#38; Bart Hennephoof</string>
+			<key>Album</key><string>Silhouettes</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12947517</integer>
+			<key>Total Time</key><integer>376573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-07-26T13:10:08Z</date>
+			<key>Date Added</key><date>2019-07-26T13:10:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3726853584</integer>
+			<key>Play Date UTC</key><date>2022-02-04T15:36:24Z</date>
+			<key>Release Date</key><date>2008-04-03T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Silhouettes</string>
+			<key>Sort Artist</key><string>Textures</string>
+			<key>Sort Name</key><string>One Eye for a Thousand</string>
+			<key>Persistent ID</key><string>3982FFFA3A94420B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8835</key>
+		<dict>
+			<key>Track ID</key><integer>8835</integer>
+			<key>Name</key><string>Storm Warning</string>
+			<key>Artist</key><string>Textures</string>
+			<key>Album Artist</key><string>Textures</string>
+			<key>Composer</key><string>Jochem Jacobs, Stef Broks, Richard Rietdijk, Remko Tielemans, Eric Kalsbeek &#38; Bart Hennephoof</string>
+			<key>Album</key><string>Silhouettes</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12039822</integer>
+			<key>Total Time</key><integer>348827</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-07-26T13:15:12Z</date>
+			<key>Date Added</key><date>2019-07-26T13:15:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3726853933</integer>
+			<key>Play Date UTC</key><date>2022-02-04T15:42:13Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-02-14T05:39:41Z</date>
+			<key>Release Date</key><date>2008-04-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Silhouettes</string>
+			<key>Sort Artist</key><string>Textures</string>
+			<key>Sort Name</key><string>Storm Warning</string>
+			<key>Persistent ID</key><string>B8E96993BD9E0DD6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8837</key>
+		<dict>
+			<key>Track ID</key><integer>8837</integer>
+			<key>Name</key><string>Cemetery Gates</string>
+			<key>Artist</key><string>Pantera</string>
+			<key>Album Artist</key><string>Pantera</string>
+			<key>Composer</key><string>Dimebag Darrell, Philip H. Anselmo, Rex Brown &#38; Vinnie Paul</string>
+			<key>Album</key><string>Cowboys from Hell</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>16890732</integer>
+			<key>Total Time</key><integer>422995</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2019-07-26T13:20:55Z</date>
+			<key>Date Added</key><date>2019-07-26T13:20:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3673444135</integer>
+			<key>Play Date UTC</key><date>2020-05-27T11:38:55Z</date>
+			<key>Release Date</key><date>1990-07-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Cowboys from Hell</string>
+			<key>Sort Artist</key><string>Pantera</string>
+			<key>Sort Name</key><string>Cemetery Gates</string>
+			<key>Persistent ID</key><string>4E014BDCA7D04AB3</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8859</key>
+		<dict>
+			<key>Track ID</key><integer>8859</integer>
+			<key>Name</key><string>Solway Firth</string>
+			<key>Artist</key><string>Slipknot</string>
+			<key>Album Artist</key><string>Slipknot</string>
+			<key>Composer</key><string>Corey Taylor, Jim Root &#38; Shawn "Clown" Crahan</string>
+			<key>Album</key><string>We Are Not Your Kind</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12788734</integer>
+			<key>Total Time</key><integer>355542</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-27T05:41:16Z</date>
+			<key>Date Added</key><date>2019-07-27T05:41:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647070907</integer>
+			<key>Play Date UTC</key><date>2019-07-27T05:45:07Z</date>
+			<key>Release Date</key><date>2019-07-24T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>We Are Not Your Kind</string>
+			<key>Sort Artist</key><string>Slipknot</string>
+			<key>Sort Name</key><string>Solway Firth</string>
+			<key>Persistent ID</key><string>21EBB3F9F6497AE2</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8861</key>
+		<dict>
+			<key>Track ID</key><integer>8861</integer>
+			<key>Name</key><string>Rational Gaze</string>
+			<key>Artist</key><string>Meshuggah</string>
+			<key>Album Artist</key><string>Meshuggah</string>
+			<key>Composer</key><string>F.Thordendal</string>
+			<key>Album</key><string>Nothing</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11489175</integer>
+			<key>Total Time</key><integer>304493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2019-07-28T03:37:40Z</date>
+			<key>Date Added</key><date>2019-07-28T03:37:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3678374403</integer>
+			<key>Play Date UTC</key><date>2020-07-23T13:10:03Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-09-25T16:10:00Z</date>
+			<key>Release Date</key><date>2002-08-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nothing</string>
+			<key>Sort Artist</key><string>Meshuggah</string>
+			<key>Sort Name</key><string>Rational Gaze</string>
+			<key>Persistent ID</key><string>9E9BBC7269970467</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8863</key>
+		<dict>
+			<key>Track ID</key><integer>8863</integer>
+			<key>Name</key><string>Demiurge</string>
+			<key>Artist</key><string>Meshuggah</string>
+			<key>Album Artist</key><string>Meshuggah</string>
+			<key>Composer</key><string>Meshuggah &#38; Marten Hagström</string>
+			<key>Album</key><string>Koloss (Exclusive Bonus Version)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12997811</integer>
+			<key>Total Time</key><integer>372867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-07-28T03:38:16Z</date>
+			<key>Date Added</key><date>2019-07-28T03:38:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3726849635</integer>
+			<key>Play Date UTC</key><date>2022-02-04T14:30:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-08-30T11:15:30Z</date>
+			<key>Release Date</key><date>2012-02-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Koloss (Exclusive Bonus Version)</string>
+			<key>Sort Artist</key><string>Meshuggah</string>
+			<key>Sort Name</key><string>Demiurge</string>
+			<key>Persistent ID</key><string>2001BB6D1520D6BF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8867</key>
+		<dict>
+			<key>Track ID</key><integer>8867</integer>
+			<key>Name</key><string>Holy Wars... The Punishment Due</string>
+			<key>Artist</key><string>Megadeth</string>
+			<key>Album Artist</key><string>Megadeth</string>
+			<key>Composer</key><string>Dave Mustaine</string>
+			<key>Album</key><string>Greatest Hits: Back to the Start</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15074191</integer>
+			<key>Total Time</key><integer>392560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1990</integer>
+			<key>Date Modified</key><date>2019-07-28T03:42:40Z</date>
+			<key>Date Added</key><date>2019-07-28T03:42:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3655205627</integer>
+			<key>Play Date UTC</key><date>2019-10-29T09:23:47Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-09-25T16:10:09Z</date>
+			<key>Release Date</key><date>1990-09-24T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Greatest Hits: Back to the Start</string>
+			<key>Sort Artist</key><string>Megadeth</string>
+			<key>Sort Name</key><string>Holy Wars... The Punishment Due</string>
+			<key>Persistent ID</key><string>446E46E9B370C387</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8869</key>
+		<dict>
+			<key>Track ID</key><integer>8869</integer>
+			<key>Name</key><string>The Game (Triple H)</string>
+			<key>Artist</key><string>Motörhead</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Jim Johnston</string>
+			<key>Album</key><string>WWE: Raw Greatest Hits - The Music</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7417065</integer>
+			<key>Total Time</key><integer>208973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2019-07-28T03:46:16Z</date>
+			<key>Date Added</key><date>2019-07-28T03:46:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3700314944</integer>
+			<key>Play Date UTC</key><date>2021-04-03T11:45:44Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-02-04T05:36:12Z</date>
+			<key>Release Date</key><date>2002-04-09T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>WWE: Raw Greatest Hits - The Music</string>
+			<key>Sort Artist</key><string>Motörhead</string>
+			<key>Sort Name</key><string>Game (Triple H)</string>
+			<key>Persistent ID</key><string>89C08DA723D65B21</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8973</key>
+		<dict>
+			<key>Track ID</key><integer>8973</integer>
+			<key>Name</key><string>Antisocial</string>
+			<key>Artist</key><string>Anthrax</string>
+			<key>Album Artist</key><string>Anthrax</string>
+			<key>Composer</key><string>Norbert 'Nono' Albert Krief, Bernard Michel Bonvoidin &#38; James T. Pursey</string>
+			<key>Album</key><string>State of Euphoria</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9905508</integer>
+			<key>Total Time</key><integer>266133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2019-07-28T03:50:28Z</date>
+			<key>Date Added</key><date>2019-07-28T03:50:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-28T03:50:27Z</date>
+			<key>Release Date</key><date>1988-09-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>State of Euphoria</string>
+			<key>Sort Artist</key><string>Anthrax</string>
+			<key>Sort Name</key><string>Antisocial</string>
+			<key>Persistent ID</key><string>5915AE8F0CB3A274</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8979</key>
+		<dict>
+			<key>Track ID</key><integer>8979</integer>
+			<key>Name</key><string>Under and over It</string>
+			<key>Artist</key><string>Five Finger Death Punch</string>
+			<key>Album Artist</key><string>Five Finger Death Punch</string>
+			<key>Composer</key><string>Kevin Churko, Ivan Moody, Zoltan Bathory, Jason Hook &#38; Jeremy Spencer</string>
+			<key>Album</key><string>A Decade of Destruction</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7750026</integer>
+			<key>Total Time</key><integer>218133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-07-28T03:56:18Z</date>
+			<key>Date Added</key><date>2019-07-28T03:56:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3673446318</integer>
+			<key>Play Date UTC</key><date>2020-05-27T12:15:18Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-02-04T14:42:08Z</date>
+			<key>Release Date</key><date>2011-01-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Decade of Destruction</string>
+			<key>Sort Artist</key><string>Five Finger Death Punch</string>
+			<key>Sort Name</key><string>Under and over It</string>
+			<key>Persistent ID</key><string>7313AA16B57C7F4C</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8985</key>
+		<dict>
+			<key>Track ID</key><integer>8985</integer>
+			<key>Name</key><string>Lift Me Up</string>
+			<key>Artist</key><string>Five Finger Death Punch</string>
+			<key>Album Artist</key><string>Five Finger Death Punch</string>
+			<key>Composer</key><string>Kevin Churko, Ivan Lewis Greening, Zoltan Bathory, Jason Hook &#38; Jeremy Spencer Heyde</string>
+			<key>Album</key><string>A Decade of Destruction</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8915564</integer>
+			<key>Total Time</key><integer>246209</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-07-28T03:56:18Z</date>
+			<key>Date Added</key><date>2019-07-28T03:56:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647154218</integer>
+			<key>Play Date UTC</key><date>2019-07-28T04:53:38Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-02-14T05:46:47Z</date>
+			<key>Release Date</key><date>2013-05-02T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Decade of Destruction</string>
+			<key>Sort Artist</key><string>Five Finger Death Punch</string>
+			<key>Sort Name</key><string>Lift Me Up</string>
+			<key>Persistent ID</key><string>3DCB1395D1926005</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9007</key>
+		<dict>
+			<key>Track ID</key><integer>9007</integer>
+			<key>Name</key><string>Trouble</string>
+			<key>Artist</key><string>Five Finger Death Punch</string>
+			<key>Album Artist</key><string>Five Finger Death Punch</string>
+			<key>Composer</key><string>Kevin Churko, Ivan Moody, Jeremy Spencer, Zoltan Bathory &#38; Jason Hook</string>
+			<key>Album</key><string>A Decade of Destruction</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6898994</integer>
+			<key>Total Time</key><integer>192188</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-07-28T03:56:18Z</date>
+			<key>Date Added</key><date>2019-07-28T03:56:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3680875727</integer>
+			<key>Play Date UTC</key><date>2020-08-21T11:58:47Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-02-04T14:45:28Z</date>
+			<key>Release Date</key><date>2017-10-27T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Decade of Destruction</string>
+			<key>Sort Artist</key><string>Five Finger Death Punch</string>
+			<key>Sort Name</key><string>Trouble</string>
+			<key>Persistent ID</key><string>48F81B325FD50677</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9011</key>
+		<dict>
+			<key>Track ID</key><integer>9011</integer>
+			<key>Name</key><string>Outlander</string>
+			<key>Artist</key><string>Jinjer</string>
+			<key>Album Artist</key><string>Jinjer</string>
+			<key>Composer</key><string>Roman Ibramkhalilov &#38; Tatiana Shmailiuk</string>
+			<key>Album</key><string>Cloud Factory (Re-Issue)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8870334</integer>
+			<key>Total Time</key><integer>236027</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2019-07-28T03:56:58Z</date>
+			<key>Date Added</key><date>2019-07-28T03:56:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3664521447</integer>
+			<key>Play Date UTC</key><date>2020-02-14T05:07:27Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-09-16T09:00:43Z</date>
+			<key>Release Date</key><date>2014-05-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Cloud Factory (Re-Issue)</string>
+			<key>Sort Artist</key><string>Jinjer</string>
+			<key>Sort Name</key><string>Outlander</string>
+			<key>Persistent ID</key><string>374155ED74D8E5D1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9035</key>
+		<dict>
+			<key>Track ID</key><integer>9035</integer>
+			<key>Name</key><string>Words of Wisdom</string>
+			<key>Artist</key><string>Jinjer</string>
+			<key>Album Artist</key><string>Jinjer</string>
+			<key>Composer</key><string>0</string>
+			<key>Album</key><string>King of Everything</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8561353</integer>
+			<key>Total Time</key><integer>219000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-07-28T04:02:30Z</date>
+			<key>Date Added</key><date>2019-07-28T04:02:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3647513844</integer>
+			<key>Play Date UTC</key><date>2019-08-01T08:47:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-08-10T06:32:36Z</date>
+			<key>Release Date</key><date>2016-06-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>King of Everything</string>
+			<key>Sort Artist</key><string>Jinjer</string>
+			<key>Sort Name</key><string>Words of Wisdom</string>
+			<key>Persistent ID</key><string>187D563B8CEB5B4A</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9059</key>
+		<dict>
+			<key>Track ID</key><integer>9059</integer>
+			<key>Name</key><string>Not Ready to Die (From "Call of the Dead")</string>
+			<key>Artist</key><string>Avenged Sevenfold</string>
+			<key>Album Artist</key><string>Avenged Sevenfold</string>
+			<key>Composer</key><string>Brian Elwin Haner Jr, Jonathan Seward, Matthew Sanders &#38; Zachary Baker</string>
+			<key>Album</key><string>Black Reign - EP</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15591593</integer>
+			<key>Total Time</key><integer>425280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-07-28T08:58:21Z</date>
+			<key>Date Added</key><date>2019-07-28T08:58:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3673445843</integer>
+			<key>Play Date UTC</key><date>2020-05-27T12:07:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-10-29T09:30:25Z</date>
+			<key>Release Date</key><date>2011-05-02T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Reign - EP</string>
+			<key>Sort Artist</key><string>Avenged Sevenfold</string>
+			<key>Sort Name</key><string>Not Ready to Die (From "Call of the Dead")</string>
+			<key>Persistent ID</key><string>14038FD5AC12E88C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9061</key>
+		<dict>
+			<key>Track ID</key><integer>9061</integer>
+			<key>Name</key><string>Redneck</string>
+			<key>Artist</key><string>Lamb of God</string>
+			<key>Album Artist</key><string>Lamb of God</string>
+			<key>Composer</key><string>David Randall Blythe, Mark Morton, Will Adler, John Campbell &#38; Chris Adler</string>
+			<key>Album</key><string>Sacrament</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7903317</integer>
+			<key>Total Time</key><integer>220880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2019-07-28T08:58:21Z</date>
+			<key>Date Added</key><date>2019-07-28T08:58:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3659068689</integer>
+			<key>Play Date UTC</key><date>2019-12-13T02:28:09Z</date>
+			<key>Release Date</key><date>2006-06-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sacrament</string>
+			<key>Sort Artist</key><string>Lamb of God</string>
+			<key>Sort Name</key><string>Redneck</string>
+			<key>Persistent ID</key><string>9E7F1E0D87A19DE0</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9063</key>
+		<dict>
+			<key>Track ID</key><integer>9063</integer>
+			<key>Name</key><string>512</string>
+			<key>Artist</key><string>Lamb of God</string>
+			<key>Album Artist</key><string>Lamb of God</string>
+			<key>Composer</key><string>Christopher James Adler, William M. Adler, David Randall Blythe &#38; John Steven Campbell</string>
+			<key>Album</key><string>VII: Sturm und Drang</string>
+			<key>Genre</key><string>Death Metal/Black Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10019812</integer>
+			<key>Total Time</key><integer>284837</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2019-07-28T08:58:21Z</date>
+			<key>Date Added</key><date>2019-07-28T08:58:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3714753259</integer>
+			<key>Play Date UTC</key><date>2021-09-17T14:24:19Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-08-26T13:01:52Z</date>
+			<key>Release Date</key><date>2015-06-08T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>VII: Sturm und Drang</string>
+			<key>Sort Artist</key><string>Lamb of God</string>
+			<key>Sort Name</key><string>512</string>
+			<key>Persistent ID</key><string>0B2205591EBC1A13</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9065</key>
+		<dict>
+			<key>Track ID</key><integer>9065</integer>
+			<key>Name</key><string>Welcome to the Family</string>
+			<key>Artist</key><string>Avenged Sevenfold</string>
+			<key>Album Artist</key><string>Avenged Sevenfold</string>
+			<key>Composer</key><string>Brian Elwin Haner Jr, James Sullivan, Jonathan Seward, Matthew Sanders &#38; Zachary Baker</string>
+			<key>Album</key><string>Nightmare</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8946563</integer>
+			<key>Total Time</key><integer>245573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2019-07-28T08:58:21Z</date>
+			<key>Date Added</key><date>2019-07-28T08:58:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3714752663</integer>
+			<key>Play Date UTC</key><date>2021-09-17T14:14:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-08-09T08:42:55Z</date>
+			<key>Release Date</key><date>2010-07-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nightmare</string>
+			<key>Sort Artist</key><string>Avenged Sevenfold</string>
+			<key>Sort Name</key><string>Welcome to the Family</string>
+			<key>Persistent ID</key><string>E2F06F8AB742E9A7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9069</key>
+		<dict>
+			<key>Track ID</key><integer>9069</integer>
+			<key>Name</key><string>Danger Line</string>
+			<key>Artist</key><string>Avenged Sevenfold</string>
+			<key>Album Artist</key><string>Avenged Sevenfold</string>
+			<key>Composer</key><string>Jonathan Seward, Matthew Sanders &#38; Zachary Baker</string>
+			<key>Album</key><string>Nightmare (Deluxe Edition)</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11187224</integer>
+			<key>Total Time</key><integer>328350</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2019-07-28T08:58:21Z</date>
+			<key>Date Added</key><date>2019-07-28T08:58:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3715937383</integer>
+			<key>Play Date UTC</key><date>2021-10-01T07:19:43Z</date>
+			<key>Release Date</key><date>2010-07-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nightmare (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Avenged Sevenfold</string>
+			<key>Sort Name</key><string>Danger Line</string>
+			<key>Persistent ID</key><string>2E43CAE725FB0BB1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9271</key>
+		<dict>
+			<key>Track ID</key><integer>9271</integer>
+			<key>Name</key><string>Walk with Me In Hell</string>
+			<key>Artist</key><string>Lamb of God</string>
+			<key>Album Artist</key><string>Lamb of God</string>
+			<key>Composer</key><string>David Randall Blythe, Mark Morton, Will Adler, John Campbell &#38; Chris Adler</string>
+			<key>Album</key><string>Sacrament</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10960638</integer>
+			<key>Total Time</key><integer>311507</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2019-07-28T08:58:21Z</date>
+			<key>Date Added</key><date>2019-07-28T08:58:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3726849983</integer>
+			<key>Play Date UTC</key><date>2022-02-04T14:36:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-08-01T08:52:19Z</date>
+			<key>Release Date</key><date>2006-08-08T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sacrament</string>
+			<key>Sort Artist</key><string>Lamb of God</string>
+			<key>Sort Name</key><string>Walk with Me In Hell</string>
+			<key>Persistent ID</key><string>A549658D1CDDACB1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9273</key>
+		<dict>
+			<key>Track ID</key><integer>9273</integer>
+			<key>Name</key><string>Shepherd of Fire</string>
+			<key>Artist</key><string>Avenged Sevenfold</string>
+			<key>Album Artist</key><string>Avenged Sevenfold</string>
+			<key>Composer</key><string>Brian Elwin Haner Jr, Jonathan Seward, Matthew Sanders &#38; Zachary Baker</string>
+			<key>Album</key><string>Hail to the King (Deluxe Edition)</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11450655</integer>
+			<key>Total Time</key><integer>322973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-07-28T08:58:21Z</date>
+			<key>Date Added</key><date>2019-07-28T08:58:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3726817568</integer>
+			<key>Play Date UTC</key><date>2022-02-04T05:36:08Z</date>
+			<key>Release Date</key><date>2013-08-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hail to the King (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Avenged Sevenfold</string>
+			<key>Sort Name</key><string>Shepherd of Fire</string>
+			<key>Persistent ID</key><string>890C1ABAA2A9D0A8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9275</key>
+		<dict>
+			<key>Track ID</key><integer>9275</integer>
+			<key>Name</key><string>Unholy Confessions</string>
+			<key>Artist</key><string>Avenged Sevenfold</string>
+			<key>Album Artist</key><string>Avenged Sevenfold</string>
+			<key>Album</key><string>Waking the Fallen: Resurrected (Deluxe Edition)</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10143414</integer>
+			<key>Total Time</key><integer>283846</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-07-28T08:58:21Z</date>
+			<key>Date Added</key><date>2019-07-28T08:58:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3726816743</integer>
+			<key>Play Date UTC</key><date>2022-02-04T05:22:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-08-09T08:42:51Z</date>
+			<key>Release Date</key><date>2003-08-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Waking the Fallen: Resurrected (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Avenged Sevenfold</string>
+			<key>Sort Name</key><string>Unholy Confessions</string>
+			<key>Persistent ID</key><string>668F8EBA427EFE19</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9277</key>
+		<dict>
+			<key>Track ID</key><integer>9277</integer>
+			<key>Name</key><string>Laid to Rest</string>
+			<key>Artist</key><string>Lamb of God</string>
+			<key>Album Artist</key><string>Lamb of God</string>
+			<key>Composer</key><string>David Randall Blythe, Mark Morton, John Campbell, Chris Adler &#38; Will Adler</string>
+			<key>Album</key><string>Ashes of the Wake (15th Anniversary Edition)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8727067</integer>
+			<key>Total Time</key><integer>230127</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2019-07-28T08:58:21Z</date>
+			<key>Date Added</key><date>2019-07-28T08:58:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3662858905</integer>
+			<key>Play Date UTC</key><date>2020-01-25T23:18:25Z</date>
+			<key>Release Date</key><date>2004-08-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ashes of the Wake (15th Anniversary Edition)</string>
+			<key>Sort Artist</key><string>Lamb of God</string>
+			<key>Sort Name</key><string>Laid to Rest</string>
+			<key>Persistent ID</key><string>F21395E402552BA6</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9279</key>
+		<dict>
+			<key>Track ID</key><integer>9279</integer>
+			<key>Name</key><string>Scream</string>
+			<key>Artist</key><string>Avenged Sevenfold</string>
+			<key>Album Artist</key><string>Avenged Sevenfold</string>
+			<key>Composer</key><string>Brian Elwin Haner Jr, Matthew Sanders &#38; Zachary Baker</string>
+			<key>Album</key><string>Avenged Sevenfold</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10656175</integer>
+			<key>Total Time</key><integer>288240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2019-07-28T08:58:21Z</date>
+			<key>Date Added</key><date>2019-07-28T08:58:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3727163862</integer>
+			<key>Play Date UTC</key><date>2022-02-08T05:47:42Z</date>
+			<key>Release Date</key><date>2007-10-30T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Avenged Sevenfold</string>
+			<key>Sort Artist</key><string>Avenged Sevenfold</string>
+			<key>Sort Name</key><string>Scream</string>
+			<key>Persistent ID</key><string>40EECAE3BE9278A4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9311</key>
+		<dict>
+			<key>Track ID</key><integer>9311</integer>
+			<key>Name</key><string>Mouth for War</string>
+			<key>Artist</key><string>Pantera</string>
+			<key>Album Artist</key><string>Pantera</string>
+			<key>Composer</key><string>Dimebag Darrell, Philip H. Anselmo, Rex Brown &#38; Vinnie Paul</string>
+			<key>Album</key><string>The Best of Pantera: Far Beyond the Great Southern Cowboys' Vulgar Hits!</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9177102</integer>
+			<key>Total Time</key><integer>236720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2019-07-28T09:06:50Z</date>
+			<key>Date Added</key><date>2019-07-28T09:06:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-11-30T15:16:20Z</date>
+			<key>Release Date</key><date>1992-02-25T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best of Pantera: Far Beyond the Great Southern Cowboys' Vulgar Hits!</string>
+			<key>Sort Artist</key><string>Pantera</string>
+			<key>Sort Name</key><string>Mouth for War</string>
+			<key>Persistent ID</key><string>8263271F7F045A57</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9313</key>
+		<dict>
+			<key>Track ID</key><integer>9313</integer>
+			<key>Name</key><string>A New Level</string>
+			<key>Artist</key><string>Pantera</string>
+			<key>Album Artist</key><string>Pantera</string>
+			<key>Composer</key><string>Dimebag Darrell, Philip H. Anselmo, Rex Brown &#38; Vinnie Paul</string>
+			<key>Album</key><string>Vulgar Display of Power</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9148373</integer>
+			<key>Total Time</key><integer>237560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2019-07-28T09:08:10Z</date>
+			<key>Date Added</key><date>2019-07-28T09:08:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3664524048</integer>
+			<key>Play Date UTC</key><date>2020-02-14T05:50:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-09-25T16:12:51Z</date>
+			<key>Release Date</key><date>1992-02-25T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Vulgar Display of Power</string>
+			<key>Sort Artist</key><string>Pantera</string>
+			<key>Sort Name</key><string>New Level</string>
+			<key>Persistent ID</key><string>3748D8006A5ED1A9</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9315</key>
+		<dict>
+			<key>Track ID</key><integer>9315</integer>
+			<key>Name</key><string>No Good (Attack the Radical)</string>
+			<key>Artist</key><string>Pantera</string>
+			<key>Album Artist</key><string>Pantera</string>
+			<key>Composer</key><string>Dimebag Darrell, Philip H. Anselmo, Rex Brown &#38; Vinnie Paul</string>
+			<key>Album</key><string>Vulgar Display of Power</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10623032</integer>
+			<key>Total Time</key><integer>288307</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2019-07-28T09:08:44Z</date>
+			<key>Date Added</key><date>2019-07-28T09:08:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3651488592</integer>
+			<key>Play Date UTC</key><date>2019-09-16T08:53:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-08-01T08:47:32Z</date>
+			<key>Release Date</key><date>1992-02-25T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Vulgar Display of Power</string>
+			<key>Sort Artist</key><string>Pantera</string>
+			<key>Sort Name</key><string>No Good (Attack the Radical)</string>
+			<key>Persistent ID</key><string>B52515470F8988E4</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9319</key>
+		<dict>
+			<key>Track ID</key><integer>9319</integer>
+			<key>Name</key><string>Hard Lines, Sunken Cheeks</string>
+			<key>Artist</key><string>Pantera</string>
+			<key>Album Artist</key><string>Pantera</string>
+			<key>Composer</key><string>Dimebag Darrell, Philip H. Anselmo, Rex Brown &#38; Vinnie Paul</string>
+			<key>Album</key><string>Far Beyond Driven</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15072105</integer>
+			<key>Total Time</key><integer>421510</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2019-07-28T09:12:12Z</date>
+			<key>Date Added</key><date>2019-07-28T09:12:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647935507</integer>
+			<key>Play Date UTC</key><date>2019-08-06T05:55:07Z</date>
+			<key>Release Date</key><date>1994-03-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Far Beyond Driven</string>
+			<key>Sort Artist</key><string>Pantera</string>
+			<key>Sort Name</key><string>Hard Lines, Sunken Cheeks</string>
+			<key>Persistent ID</key><string>87E2F07F9FAF2B10</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9321</key>
+		<dict>
+			<key>Track ID</key><integer>9321</integer>
+			<key>Name</key><string>Hereafter</string>
+			<key>Artist</key><string>Architects</string>
+			<key>Album Artist</key><string>Architects</string>
+			<key>Composer</key><string>Josh Middleton, Alex Ali Dean, Dan Searle &#38; Sam Carter</string>
+			<key>Album</key><string>Holy Hell</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8944641</integer>
+			<key>Total Time</key><integer>255587</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-07-31T15:32:59Z</date>
+			<key>Date Added</key><date>2019-07-31T15:32:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3647451764</integer>
+			<key>Play Date UTC</key><date>2019-07-31T15:32:44Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-08-22T05:08:45Z</date>
+			<key>Release Date</key><date>2018-11-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Holy Hell</string>
+			<key>Sort Artist</key><string>Architects</string>
+			<key>Sort Name</key><string>Hereafter</string>
+			<key>Persistent ID</key><string>2C71CDA1822E5A1D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9325</key>
+		<dict>
+			<key>Track ID</key><integer>9325</integer>
+			<key>Name</key><string>Royal Beggars</string>
+			<key>Artist</key><string>Architects</string>
+			<key>Album Artist</key><string>Architects</string>
+			<key>Composer</key><string>Josh Middleton, Alex Ali Dean, Dan Searle &#38; Sam Carter</string>
+			<key>Album</key><string>Holy Hell</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8474110</integer>
+			<key>Total Time</key><integer>241587</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-07-31T15:42:29Z</date>
+			<key>Date Added</key><date>2019-07-31T15:42:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3673442454</integer>
+			<key>Play Date UTC</key><date>2020-05-27T11:10:54Z</date>
+			<key>Release Date</key><date>2018-11-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Holy Hell</string>
+			<key>Sort Artist</key><string>Architects</string>
+			<key>Sort Name</key><string>Royal Beggars</string>
+			<key>Persistent ID</key><string>A78B3FF3AFE55073</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9329</key>
+		<dict>
+			<key>Track ID</key><integer>9329</integer>
+			<key>Name</key><string>Downfall</string>
+			<key>Artist</key><string>Architects</string>
+			<key>Album Artist</key><string>Architects</string>
+			<key>Composer</key><string>Tom Searle, Dan Searle, Sam Carter &#38; Alex Dean</string>
+			<key>Album</key><string>All Our Gods Have Abandoned Us</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8963320</integer>
+			<key>Total Time</key><integer>244615</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-07-31T16:01:58Z</date>
+			<key>Date Added</key><date>2019-07-31T16:01:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-05-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>All Our Gods Have Abandoned Us</string>
+			<key>Sort Artist</key><string>Architects</string>
+			<key>Sort Name</key><string>Downfall</string>
+			<key>Persistent ID</key><string>40D0EF3AAA10BADF</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11127</key>
+		<dict>
+			<key>Track ID</key><integer>11127</integer>
+			<key>Name</key><string>Eye of God</string>
+			<key>Artist</key><string>ERRA</string>
+			<key>Album Artist</key><string>ERRA</string>
+			<key>Composer</key><string>ERRA</string>
+			<key>Album</key><string>Eye of God - Single</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7666306</integer>
+			<key>Total Time</key><integer>212375</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2020-08-31T14:17:30Z</date>
+			<key>Date Added</key><date>2020-08-31T14:17:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2019-08-08T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Eye of God - Single</string>
+			<key>Sort Artist</key><string>ERRA</string>
+			<key>Sort Name</key><string>Eye of God</string>
+			<key>Persistent ID</key><string>336BEDC8866D4FC8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18395</key>
+		<dict>
+			<key>Track ID</key><integer>18395</integer>
+			<key>Name</key><string>As I Am</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Train of Thought</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>17918333</integer>
+			<key>Total Time</key><integer>467827</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:15Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3726849261</integer>
+			<key>Play Date UTC</key><date>2022-02-04T14:24:21Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-01-07T07:52:40Z</date>
+			<key>Release Date</key><date>2003-10-29T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Train of Thought</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>As I Am</string>
+			<key>Persistent ID</key><string>2B9DEAB98D072F60</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22621</key>
+		<dict>
+			<key>Track ID</key><integer>22621</integer>
+			<key>Name</key><string>Killing In the Name</string>
+			<key>Artist</key><string>Rage Against the Machine</string>
+			<key>Album Artist</key><string>Rage Against the Machine</string>
+			<key>Composer</key><string>Rage Against the Machine</string>
+			<key>Album</key><string>Rage Against the Machine</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11973752</integer>
+			<key>Total Time</key><integer>313936</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2018-11-15T18:13:25Z</date>
+			<key>Date Added</key><date>2018-11-15T18:13:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3714751049</integer>
+			<key>Play Date UTC</key><date>2021-09-17T13:47:29Z</date>
+			<key>Release Date</key><date>1992-11-02T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rage Against the Machine</string>
+			<key>Sort Artist</key><string>Rage Against the Machine</string>
+			<key>Sort Name</key><string>Killing In the Name</string>
+			<key>Persistent ID</key><string>509D2441188145A8</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>RAGE.</string>
+			<key>Description</key><string>HSISJWLANXNSKENS SHDHWJLKS SHSAKANSKSLSJSKS SJWKWMW. </string>
+			<key>Playlist ID</key><integer>43082</integer>
+			<key>Playlist Persistent ID</key><string>283AA0102C4FD180</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>8825</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8823</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8783</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8779</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8827</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8815</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8829</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8813</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8781</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8833</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8835</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8837</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8859</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8861</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8863</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8867</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8869</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8973</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9011</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9007</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8985</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8979</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9273</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9059</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9279</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9275</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9069</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9061</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9277</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9271</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9035</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9311</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9313</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9319</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9321</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9329</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22621</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11127</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

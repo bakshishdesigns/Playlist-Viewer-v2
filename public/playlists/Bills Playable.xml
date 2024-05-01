@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:07:29Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6675</key>
+		<dict>
+			<key>Track ID</key><integer>6675</integer>
+			<key>Name</key><string>You Shook Me All Night Long</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Brian Johnson, Angus Young &#38; Malcolm Young</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8197112</integer>
+			<key>Total Time</key><integer>210329</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2017-05-26T19:26:15Z</date>
+			<key>Date Added</key><date>2017-05-26T19:26:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3723356553</integer>
+			<key>Play Date UTC</key><date>2021-12-26T04:12:33Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2018-04-20T13:30:59Z</date>
+			<key>Release Date</key><date>1980-07-25T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Back In Black</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>You Shook Me All Night Long</string>
+			<key>Persistent ID</key><string>84B9E06716E209B8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6699</key>
+		<dict>
+			<key>Track ID</key><integer>6699</integer>
+			<key>Name</key><string>Highway to Hell</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>A. Young, M. Young &#38; B. Scott</string>
+			<key>Album</key><string>Highway to Hell</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8245330</integer>
+			<key>Total Time</key><integer>208111</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2017-05-27T15:16:37Z</date>
+			<key>Date Added</key><date>2017-05-27T15:16:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3746151240</integer>
+			<key>Play Date UTC</key><date>2022-09-16T00:04:00Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2022-10-27T12:54:53Z</date>
+			<key>Release Date</key><date>1979-07-27T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Highway to Hell</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Highway to Hell</string>
+			<key>Persistent ID</key><string>BE24EE75AD80F11F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6705</key>
+		<dict>
+			<key>Track ID</key><integer>6705</integer>
+			<key>Name</key><string>I Want To Break Free</string>
+			<key>Artist</key><string>Queen</string>
+			<key>Album Artist</key><string>Queen</string>
+			<key>Composer</key><string>John Richard Deacon</string>
+			<key>Album</key><string>The Platinum Collection</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9898403</integer>
+			<key>Total Time</key><integer>258680</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2017-05-27T15:17:55Z</date>
+			<key>Date Added</key><date>2017-05-27T15:17:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3749739719</integer>
+			<key>Play Date UTC</key><date>2022-10-27T12:51:59Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-10-26T14:15:15Z</date>
+			<key>Release Date</key><date>1984-02-27T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Platinum Collection</string>
+			<key>Sort Artist</key><string>Queen</string>
+			<key>Sort Name</key><string>I Want To Break Free</string>
+			<key>Persistent ID</key><string>55773FF121BE482D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6735</key>
+		<dict>
+			<key>Track ID</key><integer>6735</integer>
+			<key>Name</key><string>Back In Black</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Brian Johnson, Angus Young &#38; Malcolm Young</string>
+			<key>Album</key><string>Back In Black</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9739806</integer>
+			<key>Total Time</key><integer>256000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2017-06-05T18:27:03Z</date>
+			<key>Date Added</key><date>2017-06-05T18:27:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>84</integer>
+			<key>Play Date</key><integer>3746149606</integer>
+			<key>Play Date UTC</key><date>2022-09-15T23:36:46Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2020-02-21T10:22:26Z</date>
+			<key>Release Date</key><date>1980-07-25T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Back In Black</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>Back In Black</string>
+			<key>Persistent ID</key><string>7360A779FB76B713</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6873</key>
+		<dict>
+			<key>Track ID</key><integer>6873</integer>
+			<key>Name</key><string>Cocaine</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Album Artist</key><string>Eric Clapton</string>
+			<key>Composer</key><string>J.J. Cale</string>
+			<key>Album</key><string>Classic Eric Clapton</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8358579</integer>
+			<key>Total Time</key><integer>218107</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1951</integer>
+			<key>Date Modified</key><date>2017-06-05T18:34:26Z</date>
+			<key>Date Added</key><date>2017-06-05T18:34:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3757591527</integer>
+			<key>Play Date UTC</key><date>2023-01-26T09:55:27Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2018-10-10T12:35:44Z</date>
+			<key>Release Date</key><date>1977-11-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Classic Eric Clapton</string>
+			<key>Sort Artist</key><string>Eric Clapton</string>
+			<key>Sort Name</key><string>Cocaine</string>
+			<key>Persistent ID</key><string>A4B1945F8A0941E6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7117</key>
+		<dict>
+			<key>Track ID</key><integer>7117</integer>
+			<key>Name</key><string>Dark Necessities</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea, Josh Klinghoffer &#38; Brian Burton</string>
+			<key>Album</key><string>The Getaway</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10561108</integer>
+			<key>Total Time</key><integer>302013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-07-13T06:28:55Z</date>
+			<key>Date Added</key><date>2017-07-13T06:28:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>146</integer>
+			<key>Play Date</key><integer>3749886724</integer>
+			<key>Play Date UTC</key><date>2022-10-29T05:42:04Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2021-12-16T06:44:01Z</date>
+			<key>Release Date</key><date>2016-05-05T07:00:00Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Getaway</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Dark Necessities</string>
+			<key>Persistent ID</key><string>71EB5C5EC2E5B55D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7153</key>
+		<dict>
+			<key>Track ID</key><integer>7153</integer>
+			<key>Name</key><string>Wither</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Black Clouds &#38; Silver Linings (Special Edition)</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11557316</integer>
+			<key>Total Time</key><integer>325912</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2017-07-22T06:24:43Z</date>
+			<key>Date Added</key><date>2017-07-22T06:24:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>112</integer>
+			<key>Play Date</key><integer>3757591206</integer>
+			<key>Play Date UTC</key><date>2023-01-26T09:50:06Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2023-01-17T15:24:22Z</date>
+			<key>Release Date</key><date>2009-06-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Clouds &#38; Silver Linings (Special Edition)</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Wither</string>
+			<key>Persistent ID</key><string>7EAA2D728B200761</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7393</key>
+		<dict>
+			<key>Track ID</key><integer>7393</integer>
+			<key>Name</key><string>Smoke On the Water</string>
+			<key>Artist</key><string>Deep Purple</string>
+			<key>Album Artist</key><string>Deep Purple</string>
+			<key>Composer</key><string>Gillan, Paice, Lord, Blackmore, Glover &#38; R. Glover, R. Blackmore, I. Gillian</string>
+			<key>Album</key><string>The Platinum Collection</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13088733</integer>
+			<key>Total Time</key><integer>341080</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1972</integer>
+			<key>Date Modified</key><date>2017-07-23T06:54:13Z</date>
+			<key>Date Added</key><date>2017-07-23T06:54:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3749740792</integer>
+			<key>Play Date UTC</key><date>2022-10-27T13:09:52Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2018-10-10T12:37:32Z</date>
+			<key>Release Date</key><date>1972-03-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Platinum Collection</string>
+			<key>Sort Artist</key><string>Deep Purple</string>
+			<key>Sort Name</key><string>Smoke On the Water</string>
+			<key>Persistent ID</key><string>468FE1A0CF8E692B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>12621</key>
+		<dict>
+			<key>Track ID</key><integer>12621</integer>
+			<key>Name</key><string>The Trooper</string>
+			<key>Artist</key><string>Iron Maden</string>
+			<key>Album Artist</key><string>Iron Maiden</string>
+			<key>Composer</key><string>Steve Harris</string>
+			<key>Album</key><string>A Real Dead One [Limited Edition]</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3769399</integer>
+			<key>Total Time</key><integer>235415</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2013-01-24T20:24:11Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3704506870</integer>
+			<key>Play Date UTC</key><date>2021-05-22T00:11:10Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-10-23T09:26:12Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Real Dead One [Limited Edition]</string>
+			<key>Sort Name</key><string>Trooper</string>
+			<key>Persistent ID</key><string>5D521BBDA4064C78</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>14209</key>
+		<dict>
+			<key>Track ID</key><integer>14209</integer>
+			<key>Name</key><string>Open Car</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Deadwing</string>
+			<key>Genre</key><string>Progressive Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6075307</integer>
+			<key>Total Time</key><integer>226821</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2012-11-08T15:48:40Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>214</integer>
+			<key>Play Count</key><integer>121</integer>
+			<key>Play Date</key><integer>3749740450</integer>
+			<key>Play Date UTC</key><date>2022-10-27T13:04:10Z</date>
+			<key>Skip Count</key><integer>22</integer>
+			<key>Skip Date</key><date>2022-10-26T14:29:48Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>635CA6BE6AFB15B6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>14327</key>
+		<dict>
+			<key>Track ID</key><integer>14327</integer>
+			<key>Name</key><string>The Sound of Muzak</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>In Absentia</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4851313</integer>
+			<key>Total Time</key><integer>299102</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-10-31T15:51:40Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Comments</key><string> 00000000 00000210 000008A0 0000000000C93A50 00000000 0048F8D2 00000000 00000000 00000000 00000000 00000000 00000000</string>
+			<key>Play Count</key><integer>90</integer>
+			<key>Play Date</key><integer>3759910394</integer>
+			<key>Play Date UTC</key><date>2023-02-22T06:03:14Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2022-05-29T08:58:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Sound of Muzak</string>
+			<key>Persistent ID</key><string>7EF434A6AB9778E1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>15229</key>
+		<dict>
+			<key>Track ID</key><integer>15229</integer>
+			<key>Name</key><string>Dani California</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album</key><string>Stadium Arcadium</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5020197</integer>
+			<key>Total Time</key><integer>280163</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-01-26T18:44:03Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>143</integer>
+			<key>Comments</key><string>WEB</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3657198041</integer>
+			<key>Play Date UTC</key><date>2019-11-21T10:50:41Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2019-12-12T18:26:34Z</date>
+			<key>Normalization</key><integer>2236</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>326FE282DAF096D7</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>17983</key>
+		<dict>
+			<key>Track ID</key><integer>17983</integer>
+			<key>Name</key><string>Readymade</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album</key><string>Stadium Arcadium</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9846806</integer>
+			<key>Total Time</key><integer>270667</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>28</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2017-08-15T05:53:37Z</date>
+			<key>Date Added</key><date>2017-08-15T05:53:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>100</integer>
+			<key>Play Date</key><integer>3757590852</integer>
+			<key>Play Date UTC</key><date>2023-01-26T09:44:12Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2022-01-06T08:00:39Z</date>
+			<key>Release Date</key><date>2006-05-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stadium Arcadium</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Readymade</string>
+			<key>Persistent ID</key><string>1066B3570A586FDB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18185</key>
+		<dict>
+			<key>Track ID</key><integer>18185</integer>
+			<key>Name</key><string>Crazy Little Thing Called Love</string>
+			<key>Artist</key><string>Queen</string>
+			<key>Album Artist</key><string>Queen</string>
+			<key>Composer</key><string>Freddie Mercury</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6256231</integer>
+			<key>Total Time</key><integer>164904</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2017-08-28T19:58:27Z</date>
+			<key>Date Added</key><date>2017-08-28T19:58:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3749739884</integer>
+			<key>Play Date UTC</key><date>2022-10-27T12:54:44Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-12-07T13:31:28Z</date>
+			<key>Release Date</key><date>1979-10-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Greatest Hits</string>
+			<key>Sort Artist</key><string>Queen</string>
+			<key>Sort Name</key><string>Crazy Little Thing Called Love</string>
+			<key>Persistent ID</key><string>C61A27053030826F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18193</key>
+		<dict>
+			<key>Track ID</key><integer>18193</integer>
+			<key>Name</key><string>Can't Stop</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>By the Way</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9677603</integer>
+			<key>Total Time</key><integer>268370</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-08-29T19:54:04Z</date>
+			<key>Date Added</key><date>2017-08-29T19:54:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>64</integer>
+			<key>Play Date</key><integer>3742934837</integer>
+			<key>Play Date UTC</key><date>2022-08-09T18:37:17Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2019-10-11T05:28:21Z</date>
+			<key>Release Date</key><date>2002-07-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>By the Way</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Can't Stop</string>
+			<key>Persistent ID</key><string>C799170A4EAF7D33</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18195</key>
+		<dict>
+			<key>Track ID</key><integer>18195</integer>
+			<key>Name</key><string>T.N.T.</string>
+			<key>Artist</key><string>AC/DC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>A. Young, M. Young &#38; B. Scott</string>
+			<key>Album</key><string>High Voltage</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7627649</integer>
+			<key>Total Time</key><integer>215096</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2017-08-29T19:54:07Z</date>
+			<key>Date Added</key><date>2017-08-29T19:54:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3723356768</integer>
+			<key>Play Date UTC</key><date>2021-12-26T04:16:08Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2019-01-29T09:29:43Z</date>
+			<key>Release Date</key><date>1975-12-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>High Voltage</string>
+			<key>Sort Artist</key><string>AC/DC</string>
+			<key>Sort Name</key><string>T.N.T.</string>
+			<key>Persistent ID</key><string>A07BDAEEBEA6B69E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19211</key>
+		<dict>
+			<key>Track ID</key><integer>19211</integer>
+			<key>Name</key><string>Trains</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>In Absentia</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13636212</integer>
+			<key>Total Time</key><integer>358600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-10-07T10:11:27Z</date>
+			<key>Date Added</key><date>2017-10-07T10:11:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>200</integer>
+			<key>Play Date</key><integer>3761240746</integer>
+			<key>Play Date UTC</key><date>2023-03-09T15:35:46Z</date>
+			<key>Skip Count</key><integer>14</integer>
+			<key>Skip Date</key><date>2022-10-14T14:55:37Z</date>
+			<key>Release Date</key><date>2002-09-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In Absentia</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Trains</string>
+			<key>Persistent ID</key><string>D6BEA93446352D41</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19213</key>
+		<dict>
+			<key>Track ID</key><integer>19213</integer>
+			<key>Name</key><string>Arriving Somewhere But Not Here</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Deadwing</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>25199442</integer>
+			<key>Total Time</key><integer>722200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-10-07T10:11:34Z</date>
+			<key>Date Added</key><date>2017-10-07T10:11:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3745277161</integer>
+			<key>Play Date UTC</key><date>2022-09-05T21:16:01Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2019-11-15T17:54:50Z</date>
+			<key>Release Date</key><date>2005-03-28T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Deadwing</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Arriving Somewhere But Not Here</string>
+			<key>Persistent ID</key><string>F046A25E04F69103</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19437</key>
+		<dict>
+			<key>Track ID</key><integer>19437</integer>
+			<key>Name</key><string>Lune</string>
+			<key>Artist</key><string>Periphery</string>
+			<key>Album Artist</key><string>Periphery</string>
+			<key>Composer</key><string>Misha Mansoor, Matt Halpern, Adam Getgood, Mark Holcomb, Jake Bowen &#38; Spencer Sotelo</string>
+			<key>Album</key><string>Periphery III: Select Difficulty</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>16083417</integer>
+			<key>Total Time</key><integer>467013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-11-05T05:36:17Z</date>
+			<key>Date Added</key><date>2017-11-05T05:36:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>175</integer>
+			<key>Play Date</key><integer>3761241908</integer>
+			<key>Play Date UTC</key><date>2023-03-09T15:55:08Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2018-09-17T13:04:47Z</date>
+			<key>Release Date</key><date>2016-07-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Periphery III: Select Difficulty</string>
+			<key>Sort Artist</key><string>Periphery</string>
+			<key>Sort Name</key><string>Lune</string>
+			<key>Persistent ID</key><string>F2878339CC403821</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Bills Playable</string>
+			<key>Description</key><string>Songs to JAM at.</string>
+			<key>Playlist ID</key><integer>38453</integer>
+			<key>Playlist Persistent ID</key><string>8236E66EFBE521C6</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6705</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6735</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6873</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15229</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17983</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6675</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12621</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19437</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

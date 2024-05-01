@@ -1,0 +1,1429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:04:36Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6887</key>
+		<dict>
+			<key>Track ID</key><integer>6887</integer>
+			<key>Name</key><string>Forsaken</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Mike Portnoy, James LaBrie, John Myung &#38; Jordan Rudess</string>
+			<key>Album</key><string>Systematic Chaos</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12082004</integer>
+			<key>Total Time</key><integer>335547</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-06-12T06:05:38Z</date>
+			<key>Date Added</key><date>2017-06-12T06:05:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>74</integer>
+			<key>Play Date</key><integer>3748454202</integer>
+			<key>Play Date UTC</key><date>2022-10-12T15:46:42Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2019-08-29T18:18:50Z</date>
+			<key>Release Date</key><date>2007-06-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Systematic Chaos</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Forsaken</string>
+			<key>Persistent ID</key><string>4AC57F1478063239</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7133</key>
+		<dict>
+			<key>Track ID</key><integer>7133</integer>
+			<key>Name</key><string>Pull Me Under</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Images and Words</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>17964259</integer>
+			<key>Total Time</key><integer>493933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2017-07-20T20:06:18Z</date>
+			<key>Date Added</key><date>2017-07-20T20:06:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3690778237</integer>
+			<key>Play Date UTC</key><date>2020-12-14T02:40:37Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2020-01-21T12:35:49Z</date>
+			<key>Release Date</key><date>1992-07-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Images and Words</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Pull Me Under</string>
+			<key>Persistent ID</key><string>7445D70A00465467</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7137</key>
+		<dict>
+			<key>Track ID</key><integer>7137</integer>
+			<key>Name</key><string>Panic Attack</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Octavarium</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>18227930</integer>
+			<key>Total Time</key><integer>493027</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-07-20T20:06:21Z</date>
+			<key>Date Added</key><date>2017-07-20T20:06:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3723241018</integer>
+			<key>Play Date UTC</key><date>2021-12-24T20:06:58Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2020-10-16T13:40:54Z</date>
+			<key>Release Date</key><date>2005-06-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Octavarium</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Panic Attack</string>
+			<key>Persistent ID</key><string>3FBF6E6E77BB87E8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7141</key>
+		<dict>
+			<key>Track ID</key><integer>7141</integer>
+			<key>Name</key><string>Scene Seven: I. The Dance of Eternity</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Metropolis, Pt. 2: Scenes from a Memory</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14471144</integer>
+			<key>Total Time</key><integer>373693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-07-22T06:21:26Z</date>
+			<key>Date Added</key><date>2017-07-22T06:21:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3695196548</integer>
+			<key>Play Date UTC</key><date>2021-02-03T05:59:08Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2021-04-04T06:19:50Z</date>
+			<key>Release Date</key><date>1999-10-26T07:00:00Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Metropolis, Pt. 2: Scenes from a Memory</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Scene Seven: I. The Dance of Eternity</string>
+			<key>Persistent ID</key><string>879FA8767AE92A8B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7145</key>
+		<dict>
+			<key>Track ID</key><integer>7145</integer>
+			<key>Name</key><string>Another Day</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Images and Words</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9882619</integer>
+			<key>Total Time</key><integer>263120</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2017-07-22T06:24:29Z</date>
+			<key>Date Added</key><date>2017-07-22T06:24:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3747777601</integer>
+			<key>Play Date UTC</key><date>2022-10-04T19:50:01Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2019-08-10T11:20:05Z</date>
+			<key>Release Date</key><date>1992-07-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Images and Words</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Another Day</string>
+			<key>Persistent ID</key><string>2E8848B8843FBD86</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7153</key>
+		<dict>
+			<key>Track ID</key><integer>7153</integer>
+			<key>Name</key><string>Wither</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Black Clouds &#38; Silver Linings (Special Edition)</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11557316</integer>
+			<key>Total Time</key><integer>325912</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2017-07-22T06:24:43Z</date>
+			<key>Date Added</key><date>2017-07-22T06:24:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>112</integer>
+			<key>Play Date</key><integer>3757591206</integer>
+			<key>Play Date UTC</key><date>2023-01-26T09:50:06Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2023-01-17T15:24:22Z</date>
+			<key>Release Date</key><date>2009-06-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Clouds &#38; Silver Linings (Special Edition)</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Wither</string>
+			<key>Persistent ID</key><string>7EAA2D728B200761</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7155</key>
+		<dict>
+			<key>Track ID</key><integer>7155</integer>
+			<key>Name</key><string>I Walk Beside You</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Octavarium</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9694695</integer>
+			<key>Total Time</key><integer>269333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-07-22T06:24:50Z</date>
+			<key>Date Added</key><date>2017-07-22T06:24:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3647787467</integer>
+			<key>Play Date UTC</key><date>2019-08-04T12:47:47Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2022-10-14T15:01:11Z</date>
+			<key>Release Date</key><date>2005-06-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Octavarium</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>I Walk Beside You</string>
+			<key>Persistent ID</key><string>0824AA843B088DD9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7561</key>
+		<dict>
+			<key>Track ID</key><integer>7561</integer>
+			<key>Name</key><string>Barstool Warrior</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>John Petrucci, Jordan Rudess, John Myung &#38; Michael Mangini</string>
+			<key>Album</key><string>Distance Over Time (Bonus Track Version)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14729692</integer>
+			<key>Total Time</key><integer>403424</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-04-08T20:09:20Z</date>
+			<key>Date Added</key><date>2019-04-08T20:09:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3662210974</integer>
+			<key>Play Date UTC</key><date>2020-01-18T11:19:34Z</date>
+			<key>Release Date</key><date>2019-02-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Distance Over Time (Bonus Track Version)</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Barstool Warrior</string>
+			<key>Persistent ID</key><string>9DB7FA55C134AB45</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>17845</key>
+		<dict>
+			<key>Track ID</key><integer>17845</integer>
+			<key>Name</key><string>A Nightmare to Remember</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Mike Portnoy, John Myung, Jordan Rudess &#38; John Petrucci</string>
+			<key>Album</key><string>Black Clouds &#38; Silver Linings (Special Edition)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>34796421</integer>
+			<key>Total Time</key><integer>972080</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2017-08-07T21:47:03Z</date>
+			<key>Date Added</key><date>2017-08-07T21:47:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3704422536</integer>
+			<key>Play Date UTC</key><date>2021-05-21T00:45:36Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-10-24T11:32:43Z</date>
+			<key>Release Date</key><date>2009-06-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Clouds &#38; Silver Linings (Special Edition)</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Nightmare to Remember</string>
+			<key>Persistent ID</key><string>866396209486C815</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18219</key>
+		<dict>
+			<key>Track ID</key><integer>18219</integer>
+			<key>Name</key><string>The Gift of Music</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>John Petrucci &#38; Jordan Rudess</string>
+			<key>Album</key><string>The Astonishing</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9134539</integer>
+			<key>Total Time</key><integer>240222</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-09-03T16:46:41Z</date>
+			<key>Date Added</key><date>2017-09-03T16:46:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3662209252</integer>
+			<key>Play Date UTC</key><date>2020-01-18T10:50:52Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-01-03T07:00:51Z</date>
+			<key>Release Date</key><date>2016-01-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Astonishing</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Gift of Music</string>
+			<key>Persistent ID</key><string>0D65434D78D11A29</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18365</key>
+		<dict>
+			<key>Track ID</key><integer>18365</integer>
+			<key>Name</key><string>Astonishing</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>John Petrucci &#38; Jordan Rudess</string>
+			<key>Album</key><string>The Astonishing</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12666025</integer>
+			<key>Total Time</key><integer>351182</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-09-03T16:46:41Z</date>
+			<key>Date Added</key><date>2017-09-03T16:46:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-01-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Astonishing</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Astonishing</string>
+			<key>Persistent ID</key><string>4271CA5A942D0B5E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18369</key>
+		<dict>
+			<key>Track ID</key><integer>18369</integer>
+			<key>Name</key><string>The Enemy Inside</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>John Petrucci, James LaBrie, John Myung, Jordan Rudess &#38; Mike Mangini</string>
+			<key>Album</key><string>Dream Theater</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14161784</integer>
+			<key>Total Time</key><integer>377375</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2017-09-04T09:37:58Z</date>
+			<key>Date Added</key><date>2017-09-04T09:37:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3674814712</integer>
+			<key>Play Date UTC</key><date>2020-06-12T08:21:52Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-09-19T12:12:24Z</date>
+			<key>Release Date</key><date>2013-08-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dream Theater</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Enemy Inside</string>
+			<key>Persistent ID</key><string>92D5AFBC4E80FC34</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18371</key>
+		<dict>
+			<key>Track ID</key><integer>18371</integer>
+			<key>Name</key><string>The Looking Glass</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>John Petrucci, James LaBrie, John Myung, Jordan Rudess &#38; Mike Mangini</string>
+			<key>Album</key><string>Dream Theater</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10926105</integer>
+			<key>Total Time</key><integer>293063</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2017-09-04T09:37:58Z</date>
+			<key>Date Added</key><date>2017-09-04T09:37:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3656513797</integer>
+			<key>Play Date UTC</key><date>2019-11-13T12:46:37Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-02-13T09:27:52Z</date>
+			<key>Release Date</key><date>2013-09-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dream Theater</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Looking Glass</string>
+			<key>Persistent ID</key><string>5BDC5709CEAEB77A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18373</key>
+		<dict>
+			<key>Track ID</key><integer>18373</integer>
+			<key>Name</key><string>Enigma Machine</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>John Petrucci, John Myung, Jordan Rudess &#38; Mike Mangini</string>
+			<key>Album</key><string>Dream Theater</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13514617</integer>
+			<key>Total Time</key><integer>361780</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2017-09-04T09:37:58Z</date>
+			<key>Date Added</key><date>2017-09-04T09:37:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3662212505</integer>
+			<key>Play Date UTC</key><date>2020-01-18T11:45:05Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2021-10-08T09:08:34Z</date>
+			<key>Release Date</key><date>2013-09-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dream Theater</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Enigma Machine</string>
+			<key>Persistent ID</key><string>EA61F7C1E496581A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18381</key>
+		<dict>
+			<key>Track ID</key><integer>18381</integer>
+			<key>Name</key><string>Along For the Ride</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>John Petrucci &#38; Jordan Rudess</string>
+			<key>Album</key><string>Dream Theater</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10585720</integer>
+			<key>Total Time</key><integer>285111</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2017-09-04T09:37:58Z</date>
+			<key>Date Added</key><date>2017-09-04T09:37:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3663367686</integer>
+			<key>Play Date UTC</key><date>2020-01-31T20:38:06Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-09-19T12:12:14Z</date>
+			<key>Release Date</key><date>2013-09-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dream Theater</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Along For the Ride</string>
+			<key>Persistent ID</key><string>677F9E22FE39A2E9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18383</key>
+		<dict>
+			<key>Track ID</key><integer>18383</integer>
+			<key>Name</key><string>Illumination Theory</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>John Petrucci, James LaBrie, John Myung, Jordan Rudess &#38; Mike Mangini</string>
+			<key>Album</key><string>Dream Theater</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>47327675</integer>
+			<key>Total Time</key><integer>1337914</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2017-09-04T09:37:58Z</date>
+			<key>Date Added</key><date>2017-09-04T09:37:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2013-09-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dream Theater</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Illumination Theory</string>
+			<key>Persistent ID</key><string>6E26A530222BEFDB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18387</key>
+		<dict>
+			<key>Track ID</key><integer>18387</integer>
+			<key>Name</key><string>Metropolis, Pt. 1: The Miracle and the Sleeper</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>James LaBrie, John Myung, John Petrucci, Kevin Moore &#38; Mike Portnoy</string>
+			<key>Album</key><string>Images and Words</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>20726025</integer>
+			<key>Total Time</key><integer>572133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:09Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3699036364</integer>
+			<key>Play Date UTC</key><date>2021-03-19T16:36:04Z</date>
+			<key>Release Date</key><date>1992-07-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Images and Words</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Metropolis, Pt. 1: The Miracle and the Sleeper</string>
+			<key>Persistent ID</key><string>33E4EF51D26C5B46</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18389</key>
+		<dict>
+			<key>Track ID</key><integer>18389</integer>
+			<key>Name</key><string>Under a Glass Moon</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Images and Words</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15585616</integer>
+			<key>Total Time</key><integer>423240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:09Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3705074547</integer>
+			<key>Play Date UTC</key><date>2021-05-28T13:52:27Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2022-12-21T05:50:56Z</date>
+			<key>Release Date</key><date>1992-07-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Images and Words</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Under a Glass Moon</string>
+			<key>Persistent ID</key><string>73E061119FDF146F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18395</key>
+		<dict>
+			<key>Track ID</key><integer>18395</integer>
+			<key>Name</key><string>As I Am</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Train of Thought</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>17918333</integer>
+			<key>Total Time</key><integer>467827</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:15Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3726849261</integer>
+			<key>Play Date UTC</key><date>2022-02-04T14:24:21Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-01-07T07:52:40Z</date>
+			<key>Release Date</key><date>2003-10-29T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Train of Thought</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>As I Am</string>
+			<key>Persistent ID</key><string>2B9DEAB98D072F60</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18401</key>
+		<dict>
+			<key>Track ID</key><integer>18401</integer>
+			<key>Name</key><string>Honor Thy Father</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Train of Thought</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>21765520</integer>
+			<key>Total Time</key><integer>612667</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:15Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3729095239</integer>
+			<key>Play Date UTC</key><date>2022-03-02T14:17:19Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2021-02-21T11:32:11Z</date>
+			<key>Release Date</key><date>2003-11-11T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Train of Thought</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Honor Thy Father</string>
+			<key>Persistent ID</key><string>D8E49A0C07B01214</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18403</key>
+		<dict>
+			<key>Track ID</key><integer>18403</integer>
+			<key>Name</key><string>Vacant</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>James LaBrie, John Myung, John Petrucci, Jordan Rudess &#38; Mike Portnoy</string>
+			<key>Album</key><string>Train of Thought</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6561559</integer>
+			<key>Total Time</key><integer>177373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:15Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3662209012</integer>
+			<key>Play Date UTC</key><date>2020-01-18T10:46:52Z</date>
+			<key>Release Date</key><date>2003-11-11T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Train of Thought</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Vacant</string>
+			<key>Persistent ID</key><string>3884075629C2C1E9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18405</key>
+		<dict>
+			<key>Track ID</key><integer>18405</integer>
+			<key>Name</key><string>Stream of Consciousness</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>James LaBrie, John Myung, John Petrucci, Jordan Rudess &#38; Mike Portnoy</string>
+			<key>Album</key><string>Train of Thought</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>24512552</integer>
+			<key>Total Time</key><integer>676267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:15Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3662210193</integer>
+			<key>Play Date UTC</key><date>2020-01-18T11:06:33Z</date>
+			<key>Release Date</key><date>2003-11-11T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Train of Thought</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Stream of Consciousness</string>
+			<key>Persistent ID</key><string>64656FC1C347AC48</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18417</key>
+		<dict>
+			<key>Track ID</key><integer>18417</integer>
+			<key>Name</key><string>Sacrificed Sons</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>James LaBrie, John Myung, John Petrucci, Jordan Rudess &#38; Mike Portnoy</string>
+			<key>Album</key><string>Octavarium</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>22962574</integer>
+			<key>Total Time</key><integer>642960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:29Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-01-18T10:32:12Z</date>
+			<key>Release Date</key><date>2005-06-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Octavarium</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Sacrificed Sons</string>
+			<key>Persistent ID</key><string>C5D16DC501832955</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18419</key>
+		<dict>
+			<key>Track ID</key><integer>18419</integer>
+			<key>Name</key><string>Octavarium</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>James LaBrie, John Myung, John Petrucci, Jordan Rudess &#38; Mike Portnoy</string>
+			<key>Album</key><string>Octavarium</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>51956448</integer>
+			<key>Total Time</key><integer>1440013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:29Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3747777337</integer>
+			<key>Play Date UTC</key><date>2022-10-04T19:45:37Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-09-27T20:36:30Z</date>
+			<key>Release Date</key><date>2005-06-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Octavarium</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Octavarium</string>
+			<key>Persistent ID</key><string>A5EBB5EE9CC5BCFC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18425</key>
+		<dict>
+			<key>Track ID</key><integer>18425</integer>
+			<key>Name</key><string>Scene Two: II. Strange Deja Vu</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>James LaBrie, John Myung, John Petrucci, Jordan Rudess &#38; Mike Portnoy</string>
+			<key>Album</key><string>Metropolis, Pt. 2: Scenes from a Memory</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11678464</integer>
+			<key>Total Time</key><integer>312360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:43Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3711256671</integer>
+			<key>Play Date UTC</key><date>2021-08-08T03:07:51Z</date>
+			<key>Release Date</key><date>1999-10-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Metropolis, Pt. 2: Scenes from a Memory</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Scene Two: II. Strange Deja Vu</string>
+			<key>Persistent ID</key><string>F96EA0C814CDDC3E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18501</key>
+		<dict>
+			<key>Track ID</key><integer>18501</integer>
+			<key>Name</key><string>Scene Six: Home</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Metropolis, Pt. 2: Scenes from a Memory</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>28575453</integer>
+			<key>Total Time</key><integer>773373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:43Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3730570947</integer>
+			<key>Play Date UTC</key><date>2022-03-19T16:12:27Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-01-21T12:36:05Z</date>
+			<key>Release Date</key><date>1999-10-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Metropolis, Pt. 2: Scenes from a Memory</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Scene Six: Home</string>
+			<key>Persistent ID</key><string>7051D576DCE4DD24</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18505</key>
+		<dict>
+			<key>Track ID</key><integer>18505</integer>
+			<key>Name</key><string>Scene Eight: The Spirit Carries On</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Dream Theater</string>
+			<key>Album</key><string>Metropolis, Pt. 2: Scenes from a Memory</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14652181</integer>
+			<key>Total Time</key><integer>398267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:43Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>47</integer>
+			<key>Play Date</key><integer>3746532642</integer>
+			<key>Play Date UTC</key><date>2022-09-20T10:00:42Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-02-23T12:11:26Z</date>
+			<key>Release Date</key><date>1999-10-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Metropolis, Pt. 2: Scenes from a Memory</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Scene Eight: The Spirit Carries On</string>
+			<key>Persistent ID</key><string>21F984D9F6BE0467</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18513</key>
+		<dict>
+			<key>Track ID</key><integer>18513</integer>
+			<key>Name</key><string>Peruvian Skies</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Dream Theater &#38; John Petrucci</string>
+			<key>Album</key><string>Falling Into Infinity</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14443850</integer>
+			<key>Total Time</key><integer>403067</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:54Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3752340438</integer>
+			<key>Play Date UTC</key><date>2022-11-26T15:17:18Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2020-03-04T05:13:04Z</date>
+			<key>Release Date</key><date>1997-09-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Falling Into Infinity</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Peruvian Skies</string>
+			<key>Persistent ID</key><string>8509586B4524F4D2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18515</key>
+		<dict>
+			<key>Track ID</key><integer>18515</integer>
+			<key>Name</key><string>Hollow Years</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Dream Theater, John Myung, John Petrucci, Labrie &#38; Sherinian</string>
+			<key>Album</key><string>Falling Into Infinity</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13783783</integer>
+			<key>Total Time</key><integer>353867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:54Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>66</integer>
+			<key>Play Date</key><integer>3745282878</integer>
+			<key>Play Date UTC</key><date>2022-09-05T22:51:18Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-10-03T02:42:10Z</date>
+			<key>Release Date</key><date>1997-09-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Falling Into Infinity</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Hollow Years</string>
+			<key>Persistent ID</key><string>8E259287BB77D1E9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18517</key>
+		<dict>
+			<key>Track ID</key><integer>18517</integer>
+			<key>Name</key><string>Hell's Kitchen</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Derek Sherinian, James LaBrie, John Myung, John Petrucci &#38; Mike Portnoy</string>
+			<key>Album</key><string>Falling Into Infinity</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9738785</integer>
+			<key>Total Time</key><integer>256827</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:54Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3704409069</integer>
+			<key>Play Date UTC</key><date>2021-05-20T21:01:09Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-05-20T20:46:04Z</date>
+			<key>Release Date</key><date>1997-09-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Falling Into Infinity</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Hell's Kitchen</string>
+			<key>Persistent ID</key><string>BE64055F66E9FE34</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22707</key>
+		<dict>
+			<key>Track ID</key><integer>22707</integer>
+			<key>Name</key><string>Erotomania</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Dream Theater</string>
+			<key>Album</key><string>Awake</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15446497</integer>
+			<key>Total Time</key><integer>404400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2018-11-15T18:30:39Z</date>
+			<key>Date Added</key><date>2018-11-15T18:30:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3675007264</integer>
+			<key>Play Date UTC</key><date>2020-06-14T13:51:04Z</date>
+			<key>Release Date</key><date>1994-10-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Awake</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Erotomania</string>
+			<key>Persistent ID</key><string>A574AF6C12D08938</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22709</key>
+		<dict>
+			<key>Track ID</key><integer>22709</integer>
+			<key>Name</key><string>Lie</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>James LaBrie, John Myung, John Petrucci, Kevin Moore &#38; Mike Portnoy</string>
+			<key>Album</key><string>Awake</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14396726</integer>
+			<key>Total Time</key><integer>393800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2018-11-15T18:30:44Z</date>
+			<key>Date Added</key><date>2018-11-15T18:30:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3641689546</integer>
+			<key>Play Date UTC</key><date>2019-05-25T22:55:46Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-02-06T12:09:37Z</date>
+			<key>Release Date</key><date>1994-10-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Awake</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Lie</string>
+			<key>Persistent ID</key><string>FE9B002727C313B2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22711</key>
+		<dict>
+			<key>Track ID</key><integer>22711</integer>
+			<key>Name</key><string>The Glass Prison</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>John Myung, John Petrucci, Jordan Rudess &#38; Mike Portnoy</string>
+			<key>Album</key><string>Six Degrees of Inner Turbulence</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>30875157</integer>
+			<key>Total Time</key><integer>832760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2018-11-15T18:32:05Z</date>
+			<key>Date Added</key><date>2018-11-15T18:32:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2002-01-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Six Degrees of Inner Turbulence</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Glass Prison</string>
+			<key>Persistent ID</key><string>C42399C27AAFB08F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22713</key>
+		<dict>
+			<key>Track ID</key><integer>22713</integer>
+			<key>Name</key><string>Blind Faith</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>James LaBrie, John Myung, John Petrucci &#38; Jordan Rudess</string>
+			<key>Album</key><string>Six Degrees of Inner Turbulence</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>23417778</integer>
+			<key>Total Time</key><integer>621240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2018-11-15T18:32:14Z</date>
+			<key>Date Added</key><date>2018-11-15T18:32:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3641687347</integer>
+			<key>Play Date UTC</key><date>2019-05-25T22:19:07Z</date>
+			<key>Release Date</key><date>2002-01-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Six Degrees of Inner Turbulence</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Blind Faith</string>
+			<key>Persistent ID</key><string>AAC4FF506035634B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22715</key>
+		<dict>
+			<key>Track ID</key><integer>22715</integer>
+			<key>Name</key><string>The Dark Eternal Night</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Mike Portnoy, James LaBrie, John Myung, Jordan Rudess &#38; John Petrucci</string>
+			<key>Album</key><string>Systematic Chaos</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>18704042</integer>
+			<key>Total Time</key><integer>533533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-11-15T18:33:19Z</date>
+			<key>Date Added</key><date>2018-11-15T18:33:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3682954619</integer>
+			<key>Play Date UTC</key><date>2020-09-14T13:26:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-02-16T00:51:56Z</date>
+			<key>Release Date</key><date>2007-06-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Systematic Chaos</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Dark Eternal Night</string>
+			<key>Persistent ID</key><string>FA0314EF1BDEABE2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22717</key>
+		<dict>
+			<key>Track ID</key><integer>22717</integer>
+			<key>Name</key><string>The Ministry of Lost Souls</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Mike Portnoy, James LaBrie, John Myung, Jordan Rudess &#38; John Petrucci</string>
+			<key>Album</key><string>Systematic Chaos</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>30467070</integer>
+			<key>Total Time</key><integer>897067</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2018-11-15T18:33:24Z</date>
+			<key>Date Added</key><date>2018-11-15T18:33:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-01-18T12:07:10Z</date>
+			<key>Release Date</key><date>2007-06-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Systematic Chaos</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Ministry of Lost Souls</string>
+			<key>Persistent ID</key><string>BF3A048738546815</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22719</key>
+		<dict>
+			<key>Track ID</key><integer>22719</integer>
+			<key>Name</key><string>Another Day (2007 Remix)</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>James LaBrie, John Myung, John Petrucci, Kevin Moore &#38; Mike Portnoy</string>
+			<key>Album</key><string>Greatest Hit (...and 21 Other Pretty Cool Songs) [Remastered]</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9810348</integer>
+			<key>Total Time</key><integer>265160</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-11-15T18:34:11Z</date>
+			<key>Date Added</key><date>2018-11-15T18:34:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3633105508</integer>
+			<key>Play Date UTC</key><date>2019-02-15T14:28:28Z</date>
+			<key>Release Date</key><date>2008-03-29T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Greatest Hit (...and 21 Other Pretty Cool Songs) [Remastered]</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Another Day (2007 Remix)</string>
+			<key>Persistent ID</key><string>5B0C8F2136DA7205</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22721</key>
+		<dict>
+			<key>Track ID</key><integer>22721</integer>
+			<key>Name</key><string>The Count of Tuscany</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Mike Portnoy, John Myung, Jordan Rudess &#38; John Petrucci</string>
+			<key>Album</key><string>Black Clouds &#38; Silver Linings (Special Edition)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>41276621</integer>
+			<key>Total Time</key><integer>1157546</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2018-11-15T18:34:30Z</date>
+			<key>Date Added</key><date>2018-11-15T18:34:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3714952030</integer>
+			<key>Play Date UTC</key><date>2021-09-19T21:37:10Z</date>
+			<key>Release Date</key><date>2009-06-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Clouds &#38; Silver Linings (Special Edition)</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Count of Tuscany</string>
+			<key>Persistent ID</key><string>4CB6F24F35FD2F80</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>💽 x DREAM THEATER</string>
+			<key>Description</key><string>This is: Dream Theater (for me)</string>
+			<key>Playlist ID</key><integer>44972</integer>
+			<key>Playlist Persistent ID</key><string>414F948EE521265F</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18387</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22707</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18517</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22711</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22713</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18403</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18401</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18405</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6887</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22715</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22717</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17845</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22721</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18369</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18371</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18383</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18373</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7561</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18381</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

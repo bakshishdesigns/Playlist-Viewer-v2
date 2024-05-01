@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:04:47Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6417</key>
+		<dict>
+			<key>Track ID</key><integer>6417</integer>
+			<key>Name</key><string>Brain Damage</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>The Dark Side of the Moon</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8852306</integer>
+			<key>Total Time</key><integer>230493</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2017-05-21T19:24:51Z</date>
+			<key>Date Added</key><date>2017-08-04T07:31:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>107</integer>
+			<key>Play Date</key><integer>3760985765</integer>
+			<key>Play Date UTC</key><date>2023-03-06T16:46:05Z</date>
+			<key>Skip Count</key><integer>15</integer>
+			<key>Skip Date</key><date>2019-08-09T07:11:25Z</date>
+			<key>Release Date</key><date>1973-03-01T08:00:00Z</date>
+			<key>Album Disliked</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dark Side of the Moon</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Brain Damage</string>
+			<key>Persistent ID</key><string>2CE5A2C86BED8611</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6419</key>
+		<dict>
+			<key>Track ID</key><integer>6419</integer>
+			<key>Name</key><string>Hey You</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>A Foot In the Door: The Best of Pink Floyd</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10614081</integer>
+			<key>Total Time</key><integer>278707</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2017-05-21T19:24:51Z</date>
+			<key>Date Added</key><date>2017-06-05T18:28:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>134</integer>
+			<key>Play Date</key><integer>3760987297</integer>
+			<key>Play Date UTC</key><date>2023-03-06T17:11:37Z</date>
+			<key>Skip Count</key><integer>30</integer>
+			<key>Skip Date</key><date>2021-03-24T16:17:55Z</date>
+			<key>Release Date</key><date>1979-11-30T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Foot In the Door: The Best of Pink Floyd</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Hey You</string>
+			<key>Persistent ID</key><string>11EC43140A55C3D2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6421</key>
+		<dict>
+			<key>Track ID</key><integer>6421</integer>
+			<key>Name</key><string>Wish You Were Here</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>David Gilmour &#38; Roger Waters</string>
+			<key>Album</key><string>A Foot In the Door: The Best of Pink Floyd</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10886702</integer>
+			<key>Total Time</key><integer>304200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2017-05-21T19:24:51Z</date>
+			<key>Date Added</key><date>2017-06-05T18:26:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>201</integer>
+			<key>Play Date</key><integer>3760989475</integer>
+			<key>Play Date UTC</key><date>2023-03-06T17:47:55Z</date>
+			<key>Skip Count</key><integer>24</integer>
+			<key>Skip Date</key><date>2022-02-23T13:56:37Z</date>
+			<key>Release Date</key><date>1975-09-12T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Foot In the Door: The Best of Pink Floyd</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Wish You Were Here</string>
+			<key>Persistent ID</key><string>D7332A72454B162F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6425</key>
+		<dict>
+			<key>Track ID</key><integer>6425</integer>
+			<key>Name</key><string>Learning to Fly</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>David Gilmour, Anthony Moore, Bob Ezrin &#38; Jon Carin</string>
+			<key>Album</key><string>A Foot In the Door: The Best of Pink Floyd</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10104268</integer>
+			<key>Total Time</key><integer>290120</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-05-21T19:24:51Z</date>
+			<key>Date Added</key><date>2017-06-08T18:21:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>151</integer>
+			<key>Play Date</key><integer>3760987588</integer>
+			<key>Play Date UTC</key><date>2023-03-06T17:16:28Z</date>
+			<key>Skip Count</key><integer>21</integer>
+			<key>Skip Date</key><date>2022-09-15T20:47:07Z</date>
+			<key>Release Date</key><date>2011-11-07T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Foot In the Door: The Best of Pink Floyd</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Learning to Fly</string>
+			<key>Persistent ID</key><string>DE32E6D183384619</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6677</key>
+		<dict>
+			<key>Track ID</key><integer>6677</integer>
+			<key>Name</key><string>Comfortably Numb</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters &#38; David Gilmour</string>
+			<key>Album</key><string>The Wall</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14171010</integer>
+			<key>Total Time</key><integer>382280</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2017-05-26T19:26:24Z</date>
+			<key>Date Added</key><date>2017-05-26T19:26:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3753064515</integer>
+			<key>Play Date UTC</key><date>2022-12-05T00:25:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-10-28T19:20:37Z</date>
+			<key>Release Date</key><date>1979-11-30T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wall</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Comfortably Numb</string>
+			<key>Persistent ID</key><string>7FA5B9316DE553E7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6769</key>
+		<dict>
+			<key>Track ID</key><integer>6769</integer>
+			<key>Name</key><string>Shine On You Crazy Diamond, Pts. 1-5</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>David Gilmour, Richard Wright &#38; Roger Waters</string>
+			<key>Album</key><string>Wish You Were Here</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>29206017</integer>
+			<key>Total Time</key><integer>812800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2017-06-05T18:33:50Z</date>
+			<key>Date Added</key><date>2017-06-05T18:33:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>119</integer>
+			<key>Play Date</key><integer>3756421142</integer>
+			<key>Play Date UTC</key><date>2023-01-12T20:49:02Z</date>
+			<key>Skip Count</key><integer>26</integer>
+			<key>Skip Date</key><date>2018-11-01T00:57:33Z</date>
+			<key>Release Date</key><date>1975-09-12T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wish You Were Here</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Shine On You Crazy Diamond, Pts. 1-5</string>
+			<key>Persistent ID</key><string>9AB9286CB46E211B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7861</key>
+		<dict>
+			<key>Track ID</key><integer>7861</integer>
+			<key>Name</key><string>Fearless</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album</key><string>Meddle</string>
+			<key>Genre</key><string>Psychedelic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10840388</integer>
+			<key>Total Time</key><integer>369240</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2013-01-26T18:55:48Z</date>
+			<key>Date Added</key><date>2017-07-25T17:36:49Z</date>
+			<key>Bit Rate</key><integer>234</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3753070106</integer>
+			<key>Play Date UTC</key><date>2022-12-05T01:58:26Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-02-09T03:13:37Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F0AF72D80C3185BE</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>7867</key>
+		<dict>
+			<key>Track ID</key><integer>7867</integer>
+			<key>Name</key><string>Echoes</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album</key><string>Meddle</string>
+			<key>Genre</key><string>Psychedelic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>40485942</integer>
+			<key>Total Time</key><integer>1411526</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2013-01-26T18:51:00Z</date>
+			<key>Date Added</key><date>2017-07-25T17:36:49Z</date>
+			<key>Bit Rate</key><integer>229</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3639464742</integer>
+			<key>Play Date UTC</key><date>2019-04-30T04:55:42Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-01-23T06:16:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7E3CF1F48C086FB1</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>8083</key>
+		<dict>
+			<key>Track ID</key><integer>8083</integer>
+			<key>Name</key><string>The Great Gig In The Sky</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album</key><string>The Dark Side Of The Moon</string>
+			<key>Genre</key><string>Psychedelic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7935348</integer>
+			<key>Total Time</key><integer>284081</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2013-01-27T15:02:08Z</date>
+			<key>Date Added</key><date>2017-07-25T17:36:49Z</date>
+			<key>Bit Rate</key><integer>223</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3753067808</integer>
+			<key>Play Date UTC</key><date>2022-12-05T01:20:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-09-09T06:49:09Z</date>
+			<key>Album Disliked</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dark Side Of The Moon</string>
+			<key>Sort Name</key><string>Great Gig In The Sky</string>
+			<key>Persistent ID</key><string>487966A650D93BF2</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>8095</key>
+		<dict>
+			<key>Track ID</key><integer>8095</integer>
+			<key>Name</key><string>Eclipse</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album</key><string>The Dark Side Of The Moon</string>
+			<key>Genre</key><string>Psychedelic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3765248</integer>
+			<key>Total Time</key><integer>124316</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2013-01-24T20:03:08Z</date>
+			<key>Date Added</key><date>2017-07-25T17:36:49Z</date>
+			<key>Bit Rate</key><integer>242</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3753071287</integer>
+			<key>Play Date UTC</key><date>2022-12-05T02:18:07Z</date>
+			<key>Album Disliked</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dark Side Of The Moon</string>
+			<key>Persistent ID</key><string>437104E07ED3333D</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>8123</key>
+		<dict>
+			<key>Track ID</key><integer>8123</integer>
+			<key>Name</key><string>High Hopes</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>David Gilmour/Polly Samson</string>
+			<key>Album</key><string>The Division Bell</string>
+			<key>Genre</key><string>Psychedelic Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8203518</integer>
+			<key>Total Time</key><integer>512365</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2009-04-15T11:53:02Z</date>
+			<key>Date Added</key><date>2017-07-25T17:36:49Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3753065763</integer>
+			<key>Play Date UTC</key><date>2022-12-05T00:46:03Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Division Bell</string>
+			<key>Persistent ID</key><string>4AC362DAA46355D8</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>12349</key>
+		<dict>
+			<key>Track ID</key><integer>12349</integer>
+			<key>Name</key><string>Have a Cigar</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>Wish You Were Here</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10773501</integer>
+			<key>Total Time</key><integer>307400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2022-06-09T19:14:20Z</date>
+			<key>Date Added</key><date>2022-06-09T19:14:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3753067219</integer>
+			<key>Play Date UTC</key><date>2022-12-05T01:10:19Z</date>
+			<key>Release Date</key><date>1975-09-12T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wish You Were Here</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Have a Cigar</string>
+			<key>Persistent ID</key><string>6C010F1CE48CEC26</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>12351</key>
+		<dict>
+			<key>Track ID</key><integer>12351</integer>
+			<key>Name</key><string>Speak to Me</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Nick Mason</string>
+			<key>Album</key><string>The Dark Side of the Moon</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>2949210</integer>
+			<key>Total Time</key><integer>64333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2022-06-09T19:15:21Z</date>
+			<key>Date Added</key><date>2022-06-09T19:15:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3753069736</integer>
+			<key>Play Date UTC</key><date>2022-12-05T01:52:16Z</date>
+			<key>Release Date</key><date>1973-03-01T08:00:00Z</date>
+			<key>Album Disliked</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dark Side of the Moon</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Speak to Me</string>
+			<key>Persistent ID</key><string>9F3CD702A3C86CCD</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>12353</key>
+		<dict>
+			<key>Track ID</key><integer>12353</integer>
+			<key>Name</key><string>Coming Back to Life</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>David Gilmour</string>
+			<key>Album</key><string>The Division Bell</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13904418</integer>
+			<key>Total Time</key><integer>379280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2022-06-09T19:16:46Z</date>
+			<key>Date Added</key><date>2022-06-09T19:16:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3753068188</integer>
+			<key>Play Date UTC</key><date>2022-12-05T01:26:28Z</date>
+			<key>Release Date</key><date>1994-03-28T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Division Bell</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Coming Back to Life</string>
+			<key>Persistent ID</key><string>66C8AAC79F9F0CB0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>12355</key>
+		<dict>
+			<key>Track ID</key><integer>12355</integer>
+			<key>Name</key><string>Welcome to the Machine</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>Wish You Were Here</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>16381695</integer>
+			<key>Total Time</key><integer>450707</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2022-06-09T19:17:39Z</date>
+			<key>Date Added</key><date>2022-06-09T19:17:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3753065250</integer>
+			<key>Play Date UTC</key><date>2022-12-05T00:37:30Z</date>
+			<key>Release Date</key><date>1975-09-12T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wish You Were Here</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Welcome to the Machine</string>
+			<key>Persistent ID</key><string>B59948E9E0E84F3F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>12357</key>
+		<dict>
+			<key>Track ID</key><integer>12357</integer>
+			<key>Name</key><string>Us and Them</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters &#38; Richard Wright</string>
+			<key>Album</key><string>The Dark Side of the Moon</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>16781841</integer>
+			<key>Total Time</key><integer>472627</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2022-06-09T19:18:10Z</date>
+			<key>Date Added</key><date>2022-06-09T19:18:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3753070831</integer>
+			<key>Play Date UTC</key><date>2022-12-05T02:10:31Z</date>
+			<key>Release Date</key><date>1973-03-01T08:00:00Z</date>
+			<key>Album Disliked</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dark Side of the Moon</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Us and Them</string>
+			<key>Persistent ID</key><string>743857DB89C6526D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>12359</key>
+		<dict>
+			<key>Track ID</key><integer>12359</integer>
+			<key>Name</key><string>Learning to Fly (Remix 2019)</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>David Gilmour, Anthony Moore, Bob Ezrin &#38; Jon Carin</string>
+			<key>Album</key><string>A Momentary Lapse of Reason (2019 Remix)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10683903</integer>
+			<key>Total Time</key><integer>292987</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2022-06-09T19:20:23Z</date>
+			<key>Date Added</key><date>2022-06-09T19:20:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3753069381</integer>
+			<key>Play Date UTC</key><date>2022-12-05T01:46:21Z</date>
+			<key>Release Date</key><date>1987-09-08T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Momentary Lapse of Reason (2019 Remix)</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Learning to Fly (Remix 2019)</string>
+			<key>Persistent ID</key><string>DA0B55D35D1D580B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19227</key>
+		<dict>
+			<key>Track ID</key><integer>19227</integer>
+			<key>Name</key><string>Goodbye Blue Sky</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>The Wall</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6445921</integer>
+			<key>Total Time</key><integer>167293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2017-10-10T16:02:03Z</date>
+			<key>Date Added</key><date>2017-10-10T16:02:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>221</integer>
+			<key>Play Date</key><integer>3756434389</integer>
+			<key>Play Date UTC</key><date>2023-01-13T00:29:49Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2022-01-02T19:42:20Z</date>
+			<key>Release Date</key><date>1979-11-30T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wall</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Goodbye Blue Sky</string>
+			<key>Persistent ID</key><string>CEBABDEDFE5B1925</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19991</key>
+		<dict>
+			<key>Track ID</key><integer>19991</integer>
+			<key>Name</key><string>The Fletcher Memorial Home</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>A Foot In the Door: The Best of Pink Floyd</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8956690</integer>
+			<key>Total Time</key><integer>251373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-01-27T19:39:50Z</date>
+			<key>Date Added</key><date>2018-01-27T19:39:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3753070358</integer>
+			<key>Play Date UTC</key><date>2022-12-05T02:02:38Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-08-29T06:33:04Z</date>
+			<key>Release Date</key><date>1983-03-21T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Foot In the Door: The Best of Pink Floyd</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Fletcher Memorial Home</string>
+			<key>Persistent ID</key><string>C3E1D33AFE36E650</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20193</key>
+		<dict>
+			<key>Track ID</key><integer>20193</integer>
+			<key>Name</key><string>Hey You</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>The Wall</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10724164</integer>
+			<key>Total Time</key><integer>279640</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2018-01-27T20:12:29Z</date>
+			<key>Date Added</key><date>2018-01-27T20:12:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3753064132</integer>
+			<key>Play Date UTC</key><date>2022-12-05T00:18:52Z</date>
+			<key>Release Date</key><date>1979-11-30T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wall</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Hey You</string>
+			<key>Persistent ID</key><string>3F2E6A1ABCBAA562</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21393</key>
+		<dict>
+			<key>Track ID</key><integer>21393</integer>
+			<key>Name</key><string>Marooned</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Richard Wright &#38; David Gilmour</string>
+			<key>Album</key><string>The Division Bell</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11500465</integer>
+			<key>Total Time</key><integer>329360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2018-07-07T21:07:36Z</date>
+			<key>Date Added</key><date>2018-07-07T21:07:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>105</integer>
+			<key>Play Date</key><integer>3753071162</integer>
+			<key>Play Date UTC</key><date>2022-12-05T02:16:02Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-10-19T19:00:50Z</date>
+			<key>Release Date</key><date>1994-03-28T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Division Bell</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Marooned</string>
+			<key>Persistent ID</key><string>378E84E5B41020B6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22109</key>
+		<dict>
+			<key>Track ID</key><integer>22109</integer>
+			<key>Name</key><string>Breathe (In the Air)</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters, Richard Wright &#38; David Gilmour</string>
+			<key>Album</key><string>The Dark Side of the Moon</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6875617</integer>
+			<key>Total Time</key><integer>169560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1973</integer>
+			<key>Date Modified</key><date>2018-09-21T23:31:28Z</date>
+			<key>Date Added</key><date>2018-09-21T23:31:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3753081930</integer>
+			<key>Play Date UTC</key><date>2022-12-05T05:15:30Z</date>
+			<key>Release Date</key><date>1973-03-01T08:00:00Z</date>
+			<key>Album Disliked</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dark Side of the Moon</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Breathe (In the Air)</string>
+			<key>Persistent ID</key><string>C09B21ED9DB239D5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22111</key>
+		<dict>
+			<key>Track ID</key><integer>22111</integer>
+			<key>Name</key><string>Mother</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Roger Waters</string>
+			<key>Album</key><string>The Wall</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12018205</integer>
+			<key>Total Time</key><integer>334880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2018-09-21T23:31:38Z</date>
+			<key>Date Added</key><date>2018-09-21T23:31:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3753066099</integer>
+			<key>Play Date UTC</key><date>2022-12-05T00:51:39Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Release Date</key><date>1979-11-30T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wall</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Mother</string>
+			<key>Persistent ID</key><string>CF37AE4D21CEC6AB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>💽 x FLOYD </string>
+			<key>Description</key><string>Your ticket to another dimension. </string>
+			<key>Playlist ID</key><integer>45013</integer>
+			<key>Playlist Persistent ID</key><string>DB3ED3D7019AA974</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6677</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6421</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6769</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22111</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8083</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7867</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7861</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19227</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19991</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22109</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12349</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12351</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12353</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8083</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12355</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12359</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8095</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12357</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

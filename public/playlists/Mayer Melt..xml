@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:13:56Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6393</key>
+		<dict>
+			<key>Track ID</key><integer>6393</integer>
+			<key>Name</key><string>Gravity</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8890741</integer>
+			<key>Total Time</key><integer>245773</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:18Z</date>
+			<key>Date Added</key><date>2017-11-23T11:55:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Demons Eye Rip</string>
+			<key>Play Count</key><integer>186</integer>
+			<key>Play Date</key><integer>3760986298</integer>
+			<key>Play Date UTC</key><date>2023-03-06T16:54:58Z</date>
+			<key>Skip Count</key><integer>18</integer>
+			<key>Skip Date</key><date>2021-03-15T18:13:54Z</date>
+			<key>Release Date</key><date>2006-09-12T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>867A3D79C3446B75</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6487</key>
+		<dict>
+			<key>Track ID</key><integer>6487</integer>
+			<key>Name</key><string>Who Says</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Battle Studies</string>
+			<key>Genre</key><string>Pop-Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6363435</integer>
+			<key>Total Time</key><integer>175417</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:24Z</date>
+			<key>Date Added</key><date>2017-05-22T09:41:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>121</integer>
+			<key>Play Date</key><integer>3756425928</integer>
+			<key>Play Date UTC</key><date>2023-01-12T22:08:48Z</date>
+			<key>Skip Count</key><integer>25</integer>
+			<key>Skip Date</key><date>2019-02-02T01:14:15Z</date>
+			<key>Release Date</key><date>2009-10-13T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>67D7E1B4A45682B4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>12919</key>
+		<dict>
+			<key>Track ID</key><integer>12919</integer>
+			<key>Name</key><string>The Heart Of Life</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8036100</integer>
+			<key>Total Time</key><integer>199235</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:19Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Comments</key><string>Demons Eye Rip</string>
+			<key>Play Count</key><integer>101</integer>
+			<key>Play Date</key><integer>3749980757</integer>
+			<key>Play Date UTC</key><date>2022-10-30T07:49:17Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2021-05-07T01:11:13Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Heart Of Life</string>
+			<key>Persistent ID</key><string>B3D2302D27FAC9CE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>12995</key>
+		<dict>
+			<key>Track ID</key><integer>12995</integer>
+			<key>Name</key><string>Stop This Train</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11471721</integer>
+			<key>Total Time</key><integer>285126</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:15Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Comments</key><string>Demons Eye Rip</string>
+			<key>Play Count</key><integer>170</integer>
+			<key>Play Date</key><integer>3756417900</integer>
+			<key>Play Date UTC</key><date>2023-01-12T19:55:00Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2021-03-14T02:47:42Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2F10F794298AE030</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>12997</key>
+		<dict>
+			<key>Track ID</key><integer>12997</integer>
+			<key>Name</key><string>Slow Dancing In A Burning Room</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Continuum</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9749759</integer>
+			<key>Total Time</key><integer>242076</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:18Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Comments</key><string>Demons Eye Rip</string>
+			<key>Play Count</key><integer>105</integer>
+			<key>Play Date</key><integer>3748301043</integer>
+			<key>Play Date UTC</key><date>2022-10-10T21:14:03Z</date>
+			<key>Skip Count</key><integer>18</integer>
+			<key>Skip Date</key><date>2022-03-19T14:24:44Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>78B7E64062C57F96</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>13019</key>
+		<dict>
+			<key>Track ID</key><integer>13019</integer>
+			<key>Name</key><string>Edge Of Desire</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Battle Studies</string>
+			<key>Genre</key><string>Pop-Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13288179</integer>
+			<key>Total Time</key><integer>332146</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-03-28T21:52:25Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>103</integer>
+			<key>Play Date</key><integer>3746826449</integer>
+			<key>Play Date UTC</key><date>2022-09-23T19:37:29Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2019-08-20T08:56:05Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C7A77FA538D53638</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>19985</key>
+		<dict>
+			<key>Track ID</key><integer>19985</integer>
+			<key>Name</key><string>Daughters</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Daughters - EP</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8382714</integer>
+			<key>Total Time</key><integer>237869</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2018-01-27T19:26:19Z</date>
+			<key>Date Added</key><date>2018-01-27T19:26:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>52</integer>
+			<key>Play Date</key><integer>3748302454</integer>
+			<key>Play Date UTC</key><date>2022-10-10T21:37:34Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2021-10-09T13:30:46Z</date>
+			<key>Release Date</key><date>2003-09-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Daughters - EP</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Daughters</string>
+			<key>Persistent ID</key><string>B011A2328078D128</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20019</key>
+		<dict>
+			<key>Track ID</key><integer>20019</integer>
+			<key>Name</key><string>Wheel</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Heavier Things</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11470557</integer>
+			<key>Total Time</key><integer>332550</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2018-01-27T19:58:49Z</date>
+			<key>Date Added</key><date>2018-01-27T19:58:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3727747061</integer>
+			<key>Play Date UTC</key><date>2022-02-14T23:47:41Z</date>
+			<key>Release Date</key><date>2003-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Heavier Things</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Wheel</string>
+			<key>Persistent ID</key><string>6D59A2FA147487CC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21893</key>
+		<dict>
+			<key>Track ID</key><integer>21893</integer>
+			<key>Name</key><string>Why Georgia</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Room for Squares</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9525945</integer>
+			<key>Total Time</key><integer>268973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2018-09-09T19:32:35Z</date>
+			<key>Date Added</key><date>2018-09-09T19:32:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>137</integer>
+			<key>Play Date</key><integer>3761122295</integer>
+			<key>Play Date UTC</key><date>2023-03-08T06:41:35Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2021-02-04T20:11:12Z</date>
+			<key>Release Date</key><date>2001-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Room for Squares</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Why Georgia</string>
+			<key>Persistent ID</key><string>CEAADBD607E810E1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22477</key>
+		<dict>
+			<key>Track ID</key><integer>22477</integer>
+			<key>Name</key><string>Neon</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer &#38; Clay Cook</string>
+			<key>Album</key><string>Room for Squares</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9526438</integer>
+			<key>Total Time</key><integer>262107</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2018-11-06T19:45:56Z</date>
+			<key>Date Added</key><date>2018-11-06T19:45:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>76</integer>
+			<key>Play Date</key><integer>3752247851</integer>
+			<key>Play Date UTC</key><date>2022-11-25T13:34:11Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2022-02-02T05:05:42Z</date>
+			<key>Release Date</key><date>2001-06-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Room for Squares</string>
+			<key>Sort Artist</key><string>John Mayer</string>
+			<key>Sort Name</key><string>Neon</string>
+			<key>Persistent ID</key><string>089645CEF2C565FD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Mayer Melt. </string>
+			<key>Description</key><string>You are cheese and this is an oven. </string>
+			<key>Playlist ID</key><integer>41190</integer>
+			<key>Playlist Persistent ID</key><string>75EA2BD08EA764CF</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>21893</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12995</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12919</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6487</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12997</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22477</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19985</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

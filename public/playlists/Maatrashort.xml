@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:13:10Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6619</key>
+		<dict>
+			<key>Track ID</key><integer>6619</integer>
+			<key>Name</key><string>Baarishein</string>
+			<key>Artist</key><string>Anuv Jain</string>
+			<key>Album Artist</key><string>Anuv Jain</string>
+			<key>Album</key><string>Baarishein - Single</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7109715</integer>
+			<key>Total Time</key><integer>207310</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-01-15T16:55:32Z</date>
+			<key>Date Added</key><date>2019-01-15T16:55:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3733178311</integer>
+			<key>Play Date UTC</key><date>2022-04-18T20:28:31Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2022-08-18T15:17:20Z</date>
+			<key>Release Date</key><date>2016-06-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Baarishein - Single</string>
+			<key>Sort Artist</key><string>Anuv Jain</string>
+			<key>Sort Name</key><string>Baarishein</string>
+			<key>Persistent ID</key><string>14F1175237F64B7C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6665</key>
+		<dict>
+			<key>Track ID</key><integer>6665</integer>
+			<key>Name</key><string>Raat Raazi</string>
+			<key>Artist</key><string>Prateek Kuhad</string>
+			<key>Album Artist</key><string>Prateek Kuhad</string>
+			<key>Composer</key><string>Prateek Kuhad</string>
+			<key>Album</key><string>Raat Raazi - Single</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10355213</integer>
+			<key>Total Time</key><integer>286957</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-01-20T21:05:50Z</date>
+			<key>Date Added</key><date>2019-01-20T21:05:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3662262406</integer>
+			<key>Play Date UTC</key><date>2020-01-19T01:36:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-12-31T02:24:33Z</date>
+			<key>Release Date</key><date>2013-08-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Raat Raazi - Single</string>
+			<key>Sort Artist</key><string>Prateek Kuhad</string>
+			<key>Sort Name</key><string>Raat Raazi</string>
+			<key>Persistent ID</key><string>2597D069405D83C4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6667</key>
+		<dict>
+			<key>Track ID</key><integer>6667</integer>
+			<key>Name</key><string>Yaaron</string>
+			<key>Artist</key><string>KK</string>
+			<key>Album Artist</key><string>KK</string>
+			<key>Composer</key><string>Leslie Lewis</string>
+			<key>Album</key><string>Pal</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9521871</integer>
+			<key>Total Time</key><integer>268846</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2019-01-20T21:05:50Z</date>
+			<key>Date Added</key><date>2019-01-20T21:05:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3717938597</integer>
+			<key>Play Date UTC</key><date>2021-10-24T11:13:17Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-04-18T18:21:26Z</date>
+			<key>Release Date</key><date>1999-04-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pal</string>
+			<key>Sort Artist</key><string>KK</string>
+			<key>Sort Name</key><string>Yaaron</string>
+			<key>Persistent ID</key><string>86EE35D8C5E69549</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6771</key>
+		<dict>
+			<key>Track ID</key><integer>6771</integer>
+			<key>Name</key><string>Tum Jab Paas</string>
+			<key>Artist</key><string>Prateek Kuhad</string>
+			<key>Album Artist</key><string>Prateek Kuhad</string>
+			<key>Composer</key><string>Prateek Kuhad</string>
+			<key>Album</key><string>Tum Jab Paas - Single</string>
+			<key>Genre</key><string>Indian Folk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8580109</integer>
+			<key>Total Time</key><integer>235932</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-01-20T21:07:21Z</date>
+			<key>Date Added</key><date>2019-01-20T21:07:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3733170933</integer>
+			<key>Play Date UTC</key><date>2022-04-18T18:25:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-09-01T21:02:23Z</date>
+			<key>Release Date</key><date>2017-04-24T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tum Jab Paas - Single</string>
+			<key>Sort Artist</key><string>Prateek Kuhad</string>
+			<key>Sort Name</key><string>Tum Jab Paas</string>
+			<key>Persistent ID</key><string>898AEC1A7B05AD66</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10389</key>
+		<dict>
+			<key>Track ID</key><integer>10389</integer>
+			<key>Name</key><string>Paar Chanaa De, Shilpa Rao &#38; Noori, Episode 4, Coke Studio Season 9</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10794369</integer>
+			<key>Total Time</key><integer>674638</integer>
+			<key>Date Modified</key><date>2016-09-08T18:49:02Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3757818511</integer>
+			<key>Play Date UTC</key><date>2023-01-29T00:58:31Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-11-03T22:59:53Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FFC0054FC65C535C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>10487</key>
+		<dict>
+			<key>Track ID</key><integer>10487</integer>
+			<key>Name</key><string>Khumaar</string>
+			<key>Artist</key><string>Papon</string>
+			<key>Album Artist</key><string>Papon</string>
+			<key>Composer</key><string>Papon</string>
+			<key>Album</key><string>Coke Studio @ MTV Season 3: Episode 5</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14698008</integer>
+			<key>Total Time</key><integer>402267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-12-23T15:05:25Z</date>
+			<key>Date Added</key><date>2019-12-23T15:05:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3757814360</integer>
+			<key>Play Date UTC</key><date>2023-01-28T23:49:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-06-25T04:51:39Z</date>
+			<key>Release Date</key><date>2013-09-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Coke Studio @ MTV Season 3: Episode 5</string>
+			<key>Sort Artist</key><string>Papon</string>
+			<key>Sort Name</key><string>Khumaar</string>
+			<key>Persistent ID</key><string>B5DDBF4FF028539A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>13063</key>
+		<dict>
+			<key>Track ID</key><integer>13063</integer>
+			<key>Name</key><string>pyaar ke pal</string>
+			<key>Artist</key><string>K.K.</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11930133</integer>
+			<key>Total Time</key><integer>362506</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Date Modified</key><date>2009-12-12T09:49:48Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3729723507</integer>
+			<key>Play Date UTC</key><date>2022-03-09T20:48:27Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-10-01T13:52:31Z</date>
+			<key>Normalization</key><integer>1174</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E798A5F139E50D76</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>18883</key>
+		<dict>
+			<key>Track ID</key><integer>18883</integer>
+			<key>Name</key><string>Sham</string>
+			<key>Artist</key><string>Amit Trivedi, Nikhil D'Souza &#38; Neuman Pinto</string>
+			<key>Album Artist</key><string>Amit Trivedi</string>
+			<key>Composer</key><string>Amit Trivedi</string>
+			<key>Album</key><string>Aisha (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Bollywood</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10045162</integer>
+			<key>Total Time</key><integer>284577</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2017-10-01T04:59:33Z</date>
+			<key>Date Added</key><date>2017-10-01T04:59:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>80</integer>
+			<key>Play Date</key><integer>3746658467</integer>
+			<key>Play Date UTC</key><date>2022-09-21T20:57:47Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2022-01-28T13:56:42Z</date>
+			<key>Release Date</key><date>2010-07-02T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Aisha (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Amit Trivedi, Nikhil D'Souza &#38; Neuman Pinto</string>
+			<key>Sort Name</key><string>Sham</string>
+			<key>Persistent ID</key><string>656839A37397AB62</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18885</key>
+		<dict>
+			<key>Track ID</key><integer>18885</integer>
+			<key>Name</key><string>Hoor</string>
+			<key>Artist</key><string>Sachin-Jigar &#38; Atif Aslam</string>
+			<key>Album Artist</key><string>Sachin-Jigar</string>
+			<key>Composer</key><string>Sachin-Jigar</string>
+			<key>Album</key><string>Hindi Medium (Original Motion Picture Soundtrack) - EP</string>
+			<key>Genre</key><string>Bollywood</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8404038</integer>
+			<key>Total Time</key><integer>237360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-10-01T04:59:46Z</date>
+			<key>Date Added</key><date>2017-10-01T04:59:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>51</integer>
+			<key>Play Date</key><integer>3746746569</integer>
+			<key>Play Date UTC</key><date>2022-09-22T21:26:09Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2022-08-30T16:04:51Z</date>
+			<key>Release Date</key><date>2017-04-19T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hindi Medium (Original Motion Picture Soundtrack) - EP</string>
+			<key>Sort Artist</key><string>Sachin-Jigar &#38; Atif Aslam</string>
+			<key>Sort Name</key><string>Hoor</string>
+			<key>Persistent ID</key><string>39FC064DFB25A601</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18891</key>
+		<dict>
+			<key>Track ID</key><integer>18891</integer>
+			<key>Name</key><string>Rehna Tu</string>
+			<key>Artist</key><string>A. R. Rahman</string>
+			<key>Album Artist</key><string>A. R. Rahman &#38; Rajat Dholakia</string>
+			<key>Composer</key><string>A. R. Rahman</string>
+			<key>Album</key><string>Delhi-6 (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Bollywood</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13987318</integer>
+			<key>Total Time</key><integer>409275</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2017-10-01T05:03:15Z</date>
+			<key>Date Added</key><date>2017-10-01T05:03:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3749801465</integer>
+			<key>Play Date UTC</key><date>2022-10-28T06:01:05Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-11-19T11:56:27Z</date>
+			<key>Release Date</key><date>2009-01-14T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Delhi-6 (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>A. R. Rahman</string>
+			<key>Sort Name</key><string>Rehna Tu</string>
+			<key>Persistent ID</key><string>565CAD700B92F720</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18899</key>
+		<dict>
+			<key>Track ID</key><integer>18899</integer>
+			<key>Name</key><string>Khaabon Ke Parinday</string>
+			<key>Artist</key><string>Alyssa Mendonsa &#38; Mohit Chauhan</string>
+			<key>Album Artist</key><string>Shankar-Ehsaan-Loy</string>
+			<key>Composer</key><string>Shankar-Ehsaan-Loy</string>
+			<key>Album</key><string>Zindagi Na Milegi Dobara (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Bollywood</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8949653</integer>
+			<key>Total Time</key><integer>251704</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-10-01T05:04:52Z</date>
+			<key>Date Added</key><date>2017-10-01T05:04:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>63</integer>
+			<key>Play Date</key><integer>3749800265</integer>
+			<key>Play Date UTC</key><date>2022-10-28T05:41:05Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2022-11-05T12:51:17Z</date>
+			<key>Release Date</key><date>2011-06-03T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Zindagi Na Milegi Dobara (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Alyssa Mendonsa &#38; Mohit Chauhan</string>
+			<key>Sort Name</key><string>Khaabon Ke Parinday</string>
+			<key>Persistent ID</key><string>DBAE7B1B4D455FD3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18911</key>
+		<dict>
+			<key>Track ID</key><integer>18911</integer>
+			<key>Name</key><string>Kyon</string>
+			<key>Artist</key><string>Papon, Sunidhi Chauhan &#38; Pritam</string>
+			<key>Album Artist</key><string>Pritam</string>
+			<key>Composer</key><string>Pritam</string>
+			<key>Album</key><string>Barfi! (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Bollywood</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9329179</integer>
+			<key>Total Time</key><integer>266053</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-10-01T05:08:23Z</date>
+			<key>Date Added</key><date>2017-10-01T05:08:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3740843066</integer>
+			<key>Play Date UTC</key><date>2022-07-16T13:34:26Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-01-19T22:41:47Z</date>
+			<key>Release Date</key><date>2012-01-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Barfi! (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Papon, Sunidhi Chauhan &#38; Pritam</string>
+			<key>Sort Name</key><string>Kyon</string>
+			<key>Persistent ID</key><string>ED6FF56A04C7BFA9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18915</key>
+		<dict>
+			<key>Track ID</key><integer>18915</integer>
+			<key>Name</key><string>Kahin To</string>
+			<key>Artist</key><string>Rashid Ali &#38; Vasundhara Das</string>
+			<key>Album Artist</key><string>A. R. Rahman</string>
+			<key>Composer</key><string>A. R. Rahman</string>
+			<key>Album</key><string>Jaane Tu... Ya Jaane Na (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Bollywood</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10629309</integer>
+			<key>Total Time</key><integer>303206</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2017-10-01T05:09:37Z</date>
+			<key>Date Added</key><date>2017-10-01T05:09:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Play Date</key><integer>3743113041</integer>
+			<key>Play Date UTC</key><date>2022-08-11T20:07:21Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2022-03-01T20:26:50Z</date>
+			<key>Release Date</key><date>2008-05-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Jaane Tu... Ya Jaane Na (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Rashid Ali &#38; Vasundhara Das</string>
+			<key>Sort Name</key><string>Kahin To</string>
+			<key>Persistent ID</key><string>CC38A1E051261552</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18919</key>
+		<dict>
+			<key>Track ID</key><integer>18919</integer>
+			<key>Name</key><string>Tu Bole... Main Boloon</string>
+			<key>Artist</key><string>A. R. Rahman</string>
+			<key>Album Artist</key><string>A. R. Rahman</string>
+			<key>Composer</key><string>A. R. Rahman</string>
+			<key>Album</key><string>Jaane Tu... Ya Jaane Na (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Bollywood</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9632126</integer>
+			<key>Total Time</key><integer>273694</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2017-10-01T05:11:16Z</date>
+			<key>Date Added</key><date>2017-10-01T05:11:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3749800803</integer>
+			<key>Play Date UTC</key><date>2022-10-28T05:50:03Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2022-09-15T20:14:02Z</date>
+			<key>Release Date</key><date>2008-05-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Jaane Tu... Ya Jaane Na (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>A. R. Rahman</string>
+			<key>Sort Name</key><string>Tu Bole... Main Boloon</string>
+			<key>Persistent ID</key><string>E9F2329E0E02A003</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18927</key>
+		<dict>
+			<key>Track ID</key><integer>18927</integer>
+			<key>Name</key><string>Tajdar-E-Haram Coke Studio Season 8</string>
+			<key>Artist</key><string>Atif Aslam</string>
+			<key>Album Artist</key><string>Atif Aslam</string>
+			<key>Composer</key><string>Maqbool Ahmad Sabri &#38; Hakim Mirza Madnee</string>
+			<key>Album</key><string>Tajdar-E-Haram Coke Studio Season 8 - EP</string>
+			<key>Genre</key><string>World</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>20950570</integer>
+			<key>Total Time</key><integer>616509</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2017-10-01T05:14:31Z</date>
+			<key>Date Added</key><date>2017-10-01T05:14:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>67</integer>
+			<key>Play Date</key><integer>3757821687</integer>
+			<key>Play Date UTC</key><date>2023-01-29T01:51:27Z</date>
+			<key>Skip Count</key><integer>14</integer>
+			<key>Skip Date</key><date>2022-06-17T15:06:42Z</date>
+			<key>Release Date</key><date>2015-08-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tajdar-E-Haram Coke Studio Season 8 - EP</string>
+			<key>Sort Artist</key><string>Atif Aslam</string>
+			<key>Sort Name</key><string>Tajdar-E-Haram Coke Studio Season 8</string>
+			<key>Persistent ID</key><string>ADC5398A3D714C50</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19025</key>
+		<dict>
+			<key>Track ID</key><integer>19025</integer>
+			<key>Name</key><string>Ye Tumhari Meri Baatein</string>
+			<key>Artist</key><string>Dominique Cerejo</string>
+			<key>Album Artist</key><string>Shankar-Ehsaan-Loy</string>
+			<key>Composer</key><string>Shankar-Ehsaan-Loy</string>
+			<key>Album</key><string>Rock On (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Bollywood</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11267986</integer>
+			<key>Total Time</key><integer>324058</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2017-10-01T05:23:43Z</date>
+			<key>Date Added</key><date>2017-10-01T05:23:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3753672307</integer>
+			<key>Play Date UTC</key><date>2022-12-12T01:15:07Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2019-11-27T13:25:01Z</date>
+			<key>Release Date</key><date>2010-02-16T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rock On (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Dominique Cerejo</string>
+			<key>Sort Name</key><string>Ye Tumhari Meri Baatein</string>
+			<key>Persistent ID</key><string>B8EAE15B202EC618</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19029</key>
+		<dict>
+			<key>Track ID</key><integer>19029</integer>
+			<key>Name</key><string>Phir Dekhiye</string>
+			<key>Artist</key><string>Caralisa Monteiro</string>
+			<key>Album Artist</key><string>Shankar-Ehsaan-Loy</string>
+			<key>Composer</key><string>Shankar-Ehsaan-Loy</string>
+			<key>Album</key><string>Rock On (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Bollywood</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7263237</integer>
+			<key>Total Time</key><integer>204661</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2017-10-01T05:24:04Z</date>
+			<key>Date Added</key><date>2017-10-01T05:24:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3743115061</integer>
+			<key>Play Date UTC</key><date>2022-08-11T20:41:01Z</date>
+			<key>Release Date</key><date>2010-02-16T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rock On (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Caralisa Monteiro</string>
+			<key>Sort Name</key><string>Phir Dekhiye</string>
+			<key>Persistent ID</key><string>447371C9EA4FF18C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19031</key>
+		<dict>
+			<key>Track ID</key><integer>19031</integer>
+			<key>Name</key><string>Kholo Kholo</string>
+			<key>Artist</key><string>Raman Mahadevan</string>
+			<key>Album Artist</key><string>Shankar-Ehsaan-Loy</string>
+			<key>Composer</key><string>Shankar-Ehsaan-Loy</string>
+			<key>Album</key><string>Taare Zameen Par (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Bollywood</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11311167</integer>
+			<key>Total Time</key><integer>311986</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-10-01T05:24:41Z</date>
+			<key>Date Added</key><date>2017-10-01T05:24:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3740850615</integer>
+			<key>Play Date UTC</key><date>2022-07-16T15:40:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-10-12T17:55:40Z</date>
+			<key>Release Date</key><date>2005-03-02T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Taare Zameen Par (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Raman Mahadevan</string>
+			<key>Sort Name</key><string>Kholo Kholo</string>
+			<key>Persistent ID</key><string>CBC74A42A70DEC98</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19035</key>
+		<dict>
+			<key>Track ID</key><integer>19035</integer>
+			<key>Name</key><string>Maa</string>
+			<key>Artist</key><string>Shankar Mahadevan</string>
+			<key>Album Artist</key><string>Shankar-Ehsaan-Loy</string>
+			<key>Composer</key><string>Shankar-Ehsaan-Loy</string>
+			<key>Album</key><string>Taare Zameen Par (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Bollywood</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11043896</integer>
+			<key>Total Time</key><integer>310665</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-10-01T05:24:57Z</date>
+			<key>Date Added</key><date>2017-10-01T05:24:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3696869510</integer>
+			<key>Play Date UTC</key><date>2021-02-22T14:41:50Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-08-18T14:51:53Z</date>
+			<key>Release Date</key><date>2007-03-11T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Taare Zameen Par (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Shankar Mahadevan</string>
+			<key>Sort Name</key><string>Maa</string>
+			<key>Persistent ID</key><string>23E175D83BEEB20A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19237</key>
+		<dict>
+			<key>Track ID</key><integer>19237</integer>
+			<key>Name</key><string>Ikk Kudi (Reprised Version)</string>
+			<key>Artist</key><string>Diljit Dosanjh</string>
+			<key>Album Artist</key><string>Amit Trivedi</string>
+			<key>Composer</key><string>Amit Trivedi &#38; Late Shri Shiv Kumar Batalvi</string>
+			<key>Album</key><string>Udta Punjab (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Bollywood</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8643310</integer>
+			<key>Total Time</key><integer>247290</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-10-16T11:18:12Z</date>
+			<key>Date Added</key><date>2017-10-16T11:18:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>57</integer>
+			<key>Play Date</key><integer>3746745745</integer>
+			<key>Play Date UTC</key><date>2022-09-22T21:12:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-12-19T18:10:58Z</date>
+			<key>Release Date</key><date>2016-05-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Udta Punjab (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Diljit Dosanjh</string>
+			<key>Sort Name</key><string>Ikk Kudi (Reprised Version)</string>
+			<key>Persistent ID</key><string>AF2905E97E46DD55</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22347</key>
+		<dict>
+			<key>Track ID</key><integer>22347</integer>
+			<key>Name</key><string>Saware</string>
+			<key>Artist</key><string>Pritam &#38; Arijit Singh</string>
+			<key>Album Artist</key><string>Pritam</string>
+			<key>Composer</key><string>Pritam</string>
+			<key>Album</key><string>Phantom (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Bollywood</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11354785</integer>
+			<key>Total Time</key><integer>321613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-10-18T19:17:32Z</date>
+			<key>Date Added</key><date>2018-10-18T19:17:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3743111765</integer>
+			<key>Play Date UTC</key><date>2022-08-11T19:46:05Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-12-31T01:47:26Z</date>
+			<key>Release Date</key><date>2015-08-10T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Phantom (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Pritam &#38; Arijit Singh</string>
+			<key>Sort Name</key><string>Saware</string>
+			<key>Persistent ID</key><string>FDC1C457EAADF5F9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Maatrashort</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>40940</integer>
+			<key>Playlist Persistent ID</key><string>7B4B916CB79B51DA</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>18883</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18885</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18911</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18899</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18915</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18891</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18919</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19025</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19029</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19031</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19035</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22347</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6665</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6667</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6619</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6771</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18927</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10487</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

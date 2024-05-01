@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:06:03Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6693</key>
+		<dict>
+			<key>Track ID</key><integer>6693</integer>
+			<key>Name</key><string>Stairway to Heaven</string>
+			<key>Artist</key><string>Led Zeppelin</string>
+			<key>Album Artist</key><string>Led Zeppelin</string>
+			<key>Composer</key><string>Jimmy Page &#38; Robert Plant</string>
+			<key>Album</key><string>Led Zeppelin IV (Remastered)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>18806984</integer>
+			<key>Total Time</key><integer>482830</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2017-05-27T15:15:53Z</date>
+			<key>Date Added</key><date>2017-05-27T15:15:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>46</integer>
+			<key>Play Date</key><integer>3738300054</integer>
+			<key>Play Date UTC</key><date>2022-06-17T03:10:54Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2021-03-19T19:04:11Z</date>
+			<key>Release Date</key><date>1971-11-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Led Zeppelin IV (Remastered)</string>
+			<key>Sort Artist</key><string>Led Zeppelin</string>
+			<key>Sort Name</key><string>Stairway to Heaven</string>
+			<key>Persistent ID</key><string>C97E5AB584F5E0E8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8407</key>
+		<dict>
+			<key>Track ID</key><integer>8407</integer>
+			<key>Name</key><string>The Pot (feat. Sophia Urista)</string>
+			<key>Artist</key><string>Brass Against</string>
+			<key>Album Artist</key><string>Brass Against</string>
+			<key>Composer</key><string>Maynard James Keenan</string>
+			<key>Album</key><string>The Pot (feat. Sophia Urista) - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13881610</integer>
+			<key>Total Time</key><integer>381398</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-07-04T16:20:20Z</date>
+			<key>Date Added</key><date>2019-07-04T16:20:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3759903517</integer>
+			<key>Play Date UTC</key><date>2023-02-22T04:08:37Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-02-22T04:53:43Z</date>
+			<key>Release Date</key><date>2018-07-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pot (feat. Sophia Urista) - Single</string>
+			<key>Sort Artist</key><string>Brass Against</string>
+			<key>Sort Name</key><string>Pot (feat. Sophia Urista)</string>
+			<key>Persistent ID</key><string>1803722744C3436E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10969</key>
+		<dict>
+			<key>Track ID</key><integer>10969</integer>
+			<key>Name</key><string>Keep On</string>
+			<key>Artist</key><string>Alfa Mist</string>
+			<key>Album Artist</key><string>Alfa Mist</string>
+			<key>Composer</key><string>Alfa Sekitoleko, James Rudi Creswick, Jamie Houghton, Jamie Leeming, Johnny Woodham &#38; Maria Medvedeva</string>
+			<key>Album</key><string>Antiphon</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>24059521</integer>
+			<key>Total Time</key><integer>647000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-05-19T19:58:52Z</date>
+			<key>Date Added</key><date>2020-05-19T19:58:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3675954606</integer>
+			<key>Play Date UTC</key><date>2020-06-25T13:00:06Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-08-22T23:33:52Z</date>
+			<key>Release Date</key><date>2017-03-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Antiphon</string>
+			<key>Sort Artist</key><string>Alfa Mist</string>
+			<key>Sort Name</key><string>Keep On</string>
+			<key>Persistent ID</key><string>FF9B202A54730C24</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>12625</key>
+		<dict>
+			<key>Track ID</key><integer>12625</integer>
+			<key>Name</key><string>Fear Of The Dark [Live]</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Composer</key><string>Steve Harris</string>
+			<key>Album</key><string>Flight 666 -The Original Soundtrack- [Live] [Disc 2]</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>15334678</integer>
+			<key>Total Time</key><integer>452613</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2009-09-18T19:06:40Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Play Count</key><integer>55</integer>
+			<key>Play Date</key><integer>3725299795</integer>
+			<key>Play Date UTC</key><date>2022-01-17T15:59:55Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2021-03-24T15:29:19Z</date>
+			<key>Normalization</key><integer>6152</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>76BCE9416D382B72</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>15757</key>
+		<dict>
+			<key>Track ID</key><integer>15757</integer>
+			<key>Name</key><string>Harmony Korine</string>
+			<key>Artist</key><string>Steve Wilson</string>
+			<key>Album Artist</key><string>Steven Wilson</string>
+			<key>Composer</key><string>Steve Wilson</string>
+			<key>Album</key><string>Insurgentes Disc 1</string>
+			<key>Work</key><string>Steven Wilson</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10383001</integer>
+			<key>Total Time</key><integer>307774</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2024-10-15T13:58:48Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>268</integer>
+			<key>Comments</key><string>Apoya a tu artista... si te gusta lo que descargaste Compra el Cd original en tu discotienda mas cercana---------------------------------http://fan-from-hell.blogspot.comhttp://kittyshare.blogspot.com</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3759905645</integer>
+			<key>Play Date UTC</key><date>2023-02-22T04:44:05Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-03-12T08:01:46Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>90AEC8767F9D48F9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>18535</key>
+		<dict>
+			<key>Track ID</key><integer>18535</integer>
+			<key>Name</key><string>Black Dog</string>
+			<key>Artist</key><string>Led Zeppelin</string>
+			<key>Album Artist</key><string>Led Zeppelin</string>
+			<key>Composer</key><string>Jimmy Page, John Paul Jones, Robert Plant &#38; Jimmy Page, Robert Plant &#38; John Paul Jones</string>
+			<key>Album</key><string>Led Zeppelin IV (Remastered)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11235072</integer>
+			<key>Total Time</key><integer>295387</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2017-09-05T08:50:19Z</date>
+			<key>Date Added</key><date>2017-09-05T08:50:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>34</integer>
+			<key>Play Date</key><integer>3696580414</integer>
+			<key>Play Date UTC</key><date>2021-02-19T06:23:34Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2019-02-21T09:07:17Z</date>
+			<key>Release Date</key><date>1971-11-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Led Zeppelin IV (Remastered)</string>
+			<key>Sort Artist</key><string>Led Zeppelin</string>
+			<key>Sort Name</key><string>Black Dog</string>
+			<key>Persistent ID</key><string>210BA966607A67E1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19447</key>
+		<dict>
+			<key>Track ID</key><integer>19447</integer>
+			<key>Name</key><string>Tom Sawyer</string>
+			<key>Artist</key><string>Rush</string>
+			<key>Album Artist</key><string>Rush</string>
+			<key>Composer</key><string>Geddy Lee, Pye Dubois, Alex Lifeson &#38; Neil Peart</string>
+			<key>Album</key><string>Chronicles</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9989723</integer>
+			<key>Total Time</key><integer>274640</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1981</integer>
+			<key>Date Modified</key><date>2017-11-23T19:47:33Z</date>
+			<key>Date Added</key><date>2017-11-23T19:47:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3759904309</integer>
+			<key>Play Date UTC</key><date>2023-02-22T04:21:49Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2019-08-26T12:53:16Z</date>
+			<key>Release Date</key><date>1981-02-12T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Chronicles</string>
+			<key>Sort Artist</key><string>Rush</string>
+			<key>Sort Name</key><string>Tom Sawyer</string>
+			<key>Persistent ID</key><string>280481DDE742DD8A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19657</key>
+		<dict>
+			<key>Track ID</key><integer>19657</integer>
+			<key>Name</key><string>Electric Sunrise</string>
+			<key>Artist</key><string>Plini</string>
+			<key>Album Artist</key><string>Plini</string>
+			<key>Album</key><string>Handmade Cities</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11665999</integer>
+			<key>Total Time</key><integer>305000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-12-31T07:59:40Z</date>
+			<key>Date Added</key><date>2017-12-31T07:59:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>233</integer>
+			<key>Play Date</key><integer>3761243066</integer>
+			<key>Play Date UTC</key><date>2023-03-09T16:14:26Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2019-04-07T16:02:27Z</date>
+			<key>Release Date</key><date>2016-08-26T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Handmade Cities</string>
+			<key>Sort Artist</key><string>Plini</string>
+			<key>Sort Name</key><string>Electric Sunrise</string>
+			<key>Persistent ID</key><string>84916057DC1BC9F4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19663</key>
+		<dict>
+			<key>Track ID</key><integer>19663</integer>
+			<key>Name</key><string>The Way the News Goes...</string>
+			<key>Artist</key><string>Periphery</string>
+			<key>Album Artist</key><string>Periphery</string>
+			<key>Composer</key><string>Misha Mansoor, Matt Halpern, Adam Getgood, Mark Holcomb, Jake Bowen &#38; Spencer Sotelo</string>
+			<key>Album</key><string>Periphery III: Select Difficulty</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10611323</integer>
+			<key>Total Time</key><integer>303693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-01-06T06:39:43Z</date>
+			<key>Date Added</key><date>2018-01-06T06:39:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>166</integer>
+			<key>Play Date</key><integer>3761241051</integer>
+			<key>Play Date UTC</key><date>2023-03-09T15:40:51Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2018-11-17T14:32:09Z</date>
+			<key>Release Date</key><date>2016-07-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Periphery III: Select Difficulty</string>
+			<key>Sort Artist</key><string>Periphery</string>
+			<key>Sort Name</key><string>Way the News Goes...</string>
+			<key>Persistent ID</key><string>91423DF5EB986BB8</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21701</key>
+		<dict>
+			<key>Track ID</key><integer>21701</integer>
+			<key>Name</key><string>Flâneur (feat. Anomalie)</string>
+			<key>Artist</key><string>Plini</string>
+			<key>Album Artist</key><string>Plini</string>
+			<key>Album</key><string>Sunhead - EP</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13110643</integer>
+			<key>Total Time</key><integer>360000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-07-29T12:16:35Z</date>
+			<key>Date Added</key><date>2018-07-29T12:16:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>120</integer>
+			<key>Play Date</key><integer>3759910955</integer>
+			<key>Play Date UTC</key><date>2023-02-22T06:12:35Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2019-10-25T11:08:12Z</date>
+			<key>Release Date</key><date>2018-07-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sunhead - EP</string>
+			<key>Sort Artist</key><string>Plini</string>
+			<key>Sort Name</key><string>Flâneur (feat. Anomalie)</string>
+			<key>Persistent ID</key><string>6EDD948DC6217FF0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22793</key>
+		<dict>
+			<key>Track ID</key><integer>22793</integer>
+			<key>Name</key><string>Satch Boogie</string>
+			<key>Artist</key><string>Joe Satriani</string>
+			<key>Album Artist</key><string>Joe Satriani</string>
+			<key>Composer</key><string>Joe Satriani</string>
+			<key>Album</key><string>Surfing with the Alien</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7176239</integer>
+			<key>Total Time</key><integer>193585</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2018-11-22T03:55:15Z</date>
+			<key>Date Added</key><date>2018-11-22T03:55:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3759905331</integer>
+			<key>Play Date UTC</key><date>2023-02-22T04:38:51Z</date>
+			<key>Release Date</key><date>1987-10-15T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Surfing with the Alien</string>
+			<key>Sort Artist</key><string>Joe Satriani</string>
+			<key>Sort Name</key><string>Satch Boogie</string>
+			<key>Persistent ID</key><string>A5FA030B0F54C050</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>🥁 GOALS.</string>
+			<key>Description</key><string>4/4 is a time signature? lol.</string>
+			<key>Playlist ID</key><integer>45186</integer>
+			<key>Playlist Persistent ID</key><string>C490993BE11D7D58</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>21701</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19663</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19657</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6693</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12625</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18535</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22793</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10969</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15757</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

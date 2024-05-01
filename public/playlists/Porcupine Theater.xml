@@ -1,0 +1,1579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:17:31Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6887</key>
+		<dict>
+			<key>Track ID</key><integer>6887</integer>
+			<key>Name</key><string>Forsaken</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Mike Portnoy, James LaBrie, John Myung &#38; Jordan Rudess</string>
+			<key>Album</key><string>Systematic Chaos</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12082004</integer>
+			<key>Total Time</key><integer>335547</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-06-12T06:05:38Z</date>
+			<key>Date Added</key><date>2017-06-12T06:05:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>74</integer>
+			<key>Play Date</key><integer>3748454202</integer>
+			<key>Play Date UTC</key><date>2022-10-12T15:46:42Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2019-08-29T18:18:50Z</date>
+			<key>Release Date</key><date>2007-06-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Systematic Chaos</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Forsaken</string>
+			<key>Persistent ID</key><string>4AC57F1478063239</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7133</key>
+		<dict>
+			<key>Track ID</key><integer>7133</integer>
+			<key>Name</key><string>Pull Me Under</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Images and Words</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>17964259</integer>
+			<key>Total Time</key><integer>493933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2017-07-20T20:06:18Z</date>
+			<key>Date Added</key><date>2017-07-20T20:06:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3690778237</integer>
+			<key>Play Date UTC</key><date>2020-12-14T02:40:37Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2020-01-21T12:35:49Z</date>
+			<key>Release Date</key><date>1992-07-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Images and Words</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Pull Me Under</string>
+			<key>Persistent ID</key><string>7445D70A00465467</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7135</key>
+		<dict>
+			<key>Track ID</key><integer>7135</integer>
+			<key>Name</key><string>As I Am</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Greatest Hit (...and 21 Other Pretty Cool Songs) [Remastered]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15947172</integer>
+			<key>Total Time</key><integer>434933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2017-07-20T20:06:19Z</date>
+			<key>Date Added</key><date>2017-07-20T20:06:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3748456301</integer>
+			<key>Play Date UTC</key><date>2022-10-12T16:21:41Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2019-07-24T09:04:17Z</date>
+			<key>Release Date</key><date>2002-01-29T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Greatest Hit (...and 21 Other Pretty Cool Songs) [Remastered]</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>As I Am</string>
+			<key>Persistent ID</key><string>E65F10EC6325A1EF</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7137</key>
+		<dict>
+			<key>Track ID</key><integer>7137</integer>
+			<key>Name</key><string>Panic Attack</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Octavarium</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>18227930</integer>
+			<key>Total Time</key><integer>493027</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-07-20T20:06:21Z</date>
+			<key>Date Added</key><date>2017-07-20T20:06:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3723241018</integer>
+			<key>Play Date UTC</key><date>2021-12-24T20:06:58Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2020-10-16T13:40:54Z</date>
+			<key>Release Date</key><date>2005-06-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Octavarium</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Panic Attack</string>
+			<key>Persistent ID</key><string>3FBF6E6E77BB87E8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7141</key>
+		<dict>
+			<key>Track ID</key><integer>7141</integer>
+			<key>Name</key><string>Scene Seven: I. The Dance of Eternity</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Metropolis, Pt. 2: Scenes from a Memory</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14471144</integer>
+			<key>Total Time</key><integer>373693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-07-22T06:21:26Z</date>
+			<key>Date Added</key><date>2017-07-22T06:21:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3695196548</integer>
+			<key>Play Date UTC</key><date>2021-02-03T05:59:08Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2021-04-04T06:19:50Z</date>
+			<key>Release Date</key><date>1999-10-26T07:00:00Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Metropolis, Pt. 2: Scenes from a Memory</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Scene Seven: I. The Dance of Eternity</string>
+			<key>Persistent ID</key><string>879FA8767AE92A8B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7143</key>
+		<dict>
+			<key>Track ID</key><integer>7143</integer>
+			<key>Name</key><string>Take the Time</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Images and Words</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>18324293</integer>
+			<key>Total Time</key><integer>500933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2017-07-22T06:24:27Z</date>
+			<key>Date Added</key><date>2017-07-22T06:24:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3696158660</integer>
+			<key>Play Date UTC</key><date>2021-02-14T09:14:20Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-11-05T14:25:47Z</date>
+			<key>Release Date</key><date>1992-07-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Images and Words</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Take the Time</string>
+			<key>Persistent ID</key><string>5C716211A514B626</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7145</key>
+		<dict>
+			<key>Track ID</key><integer>7145</integer>
+			<key>Name</key><string>Another Day</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Images and Words</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9882619</integer>
+			<key>Total Time</key><integer>263120</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2017-07-22T06:24:29Z</date>
+			<key>Date Added</key><date>2017-07-22T06:24:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3747777601</integer>
+			<key>Play Date UTC</key><date>2022-10-04T19:50:01Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2019-08-10T11:20:05Z</date>
+			<key>Release Date</key><date>1992-07-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Images and Words</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Another Day</string>
+			<key>Persistent ID</key><string>2E8848B8843FBD86</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7147</key>
+		<dict>
+			<key>Track ID</key><integer>7147</integer>
+			<key>Name</key><string>On the Backs of Angels</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>On the Backs of Angels - Single</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>18469868</integer>
+			<key>Total Time</key><integer>522520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2017-07-22T06:24:31Z</date>
+			<key>Date Added</key><date>2017-07-22T06:24:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>49</integer>
+			<key>Play Date</key><integer>3704412369</integer>
+			<key>Play Date UTC</key><date>2021-05-20T21:56:09Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-10-13T09:32:09Z</date>
+			<key>Release Date</key><date>2011-07-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>On the Backs of Angels - Single</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>On the Backs of Angels</string>
+			<key>Persistent ID</key><string>A2ED72478B9CD95F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7149</key>
+		<dict>
+			<key>Track ID</key><integer>7149</integer>
+			<key>Name</key><string>Lie (Edited Version)</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Greatest Hit (...and 21 Other Pretty Cool Songs) [Remastered]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11297607</integer>
+			<key>Total Time</key><integer>301800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2017-07-22T06:24:33Z</date>
+			<key>Date Added</key><date>2017-07-22T06:24:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3656922616</integer>
+			<key>Play Date UTC</key><date>2019-11-18T06:20:16Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2019-10-31T14:08:57Z</date>
+			<key>Release Date</key><date>1994-09-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Greatest Hit (...and 21 Other Pretty Cool Songs) [Remastered]</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Lie (Edited Version)</string>
+			<key>Persistent ID</key><string>FAB9D8F2B01EDD63</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7151</key>
+		<dict>
+			<key>Track ID</key><integer>7151</integer>
+			<key>Name</key><string>Burning My Soul</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Dream Theater &#38; Mike Portnoy</string>
+			<key>Album</key><string>Falling Into Infinity</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12632628</integer>
+			<key>Total Time</key><integer>329173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2017-07-22T06:24:39Z</date>
+			<key>Date Added</key><date>2017-07-22T06:24:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3675179562</integer>
+			<key>Play Date UTC</key><date>2020-06-16T13:42:42Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2022-10-04T19:50:15Z</date>
+			<key>Release Date</key><date>1997-09-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Falling Into Infinity</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Burning My Soul</string>
+			<key>Persistent ID</key><string>A84F91E4D148B3E6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7153</key>
+		<dict>
+			<key>Track ID</key><integer>7153</integer>
+			<key>Name</key><string>Wither</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Black Clouds &#38; Silver Linings (Special Edition)</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11557316</integer>
+			<key>Total Time</key><integer>325912</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2017-07-22T06:24:43Z</date>
+			<key>Date Added</key><date>2017-07-22T06:24:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>112</integer>
+			<key>Play Date</key><integer>3757591206</integer>
+			<key>Play Date UTC</key><date>2023-01-26T09:50:06Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2023-01-17T15:24:22Z</date>
+			<key>Release Date</key><date>2009-06-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Clouds &#38; Silver Linings (Special Edition)</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Wither</string>
+			<key>Persistent ID</key><string>7EAA2D728B200761</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7155</key>
+		<dict>
+			<key>Track ID</key><integer>7155</integer>
+			<key>Name</key><string>I Walk Beside You</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Octavarium</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9694695</integer>
+			<key>Total Time</key><integer>269333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-07-22T06:24:50Z</date>
+			<key>Date Added</key><date>2017-07-22T06:24:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3647787467</integer>
+			<key>Play Date UTC</key><date>2019-08-04T12:47:47Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2022-10-14T15:01:11Z</date>
+			<key>Release Date</key><date>2005-06-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Octavarium</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>I Walk Beside You</string>
+			<key>Persistent ID</key><string>0824AA843B088DD9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7241</key>
+		<dict>
+			<key>Track ID</key><integer>7241</integer>
+			<key>Name</key><string>Blackest Eyes</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven John Wilson, Richard Barbieri, Colin Edwin Balch &#38; Gavin Richard Harrison</string>
+			<key>Album</key><string>In Absentia</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9984492</integer>
+			<key>Total Time</key><integer>263547</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2019-02-15T14:36:51Z</date>
+			<key>Date Added</key><date>2019-02-15T14:36:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>51</integer>
+			<key>Play Date</key><integer>3744077076</integer>
+			<key>Play Date UTC</key><date>2022-08-22T23:54:36Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2020-10-16T13:40:59Z</date>
+			<key>Release Date</key><date>2002-09-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In Absentia</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Blackest Eyes</string>
+			<key>Persistent ID</key><string>49D6E8F630ECFB38</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9569</key>
+		<dict>
+			<key>Track ID</key><integer>9569</integer>
+			<key>Name</key><string>Lightbulb Sun</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven John Wilson, Richard Barbieri, Christopher James Maitland &#38; Colin Edwin Balch</string>
+			<key>Album</key><string>Lightbulb Sun</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11642744</integer>
+			<key>Total Time</key><integer>331600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2019-09-12T22:33:07Z</date>
+			<key>Date Added</key><date>2019-09-12T22:33:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3699909687</integer>
+			<key>Play Date UTC</key><date>2021-03-29T19:11:27Z</date>
+			<key>Release Date</key><date>2000-03-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lightbulb Sun</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Lightbulb Sun</string>
+			<key>Persistent ID</key><string>FA02B275B298005F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9679</key>
+		<dict>
+			<key>Track ID</key><integer>9679</integer>
+			<key>Name</key><string>Last Chance To Evacuate Planet Earth Before It Is Recycled</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven John Wilson, Richard Barbieri, Christopher James Maitland &#38; Colin Edwin Balch</string>
+			<key>Album</key><string>Lightbulb Sun</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10055590</integer>
+			<key>Total Time</key><integer>289773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2019-09-13T07:44:39Z</date>
+			<key>Date Added</key><date>2019-09-13T07:44:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3699910724</integer>
+			<key>Play Date UTC</key><date>2021-03-29T19:28:44Z</date>
+			<key>Release Date</key><date>2000-03-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lightbulb Sun</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Last Chance To Evacuate Planet Earth Before It Is Recycled</string>
+			<key>Persistent ID</key><string>9F143538170607F8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9683</key>
+		<dict>
+			<key>Track ID</key><integer>9683</integer>
+			<key>Name</key><string>Shesmovedon</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven John Wilson, Richard Barbieri, Christopher James Maitland &#38; Colin Edwin Balch</string>
+			<key>Album</key><string>Lightbulb Sun</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11118258</integer>
+			<key>Total Time</key><integer>314400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2019-09-13T07:44:39Z</date>
+			<key>Date Added</key><date>2019-09-13T07:44:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3699910246</integer>
+			<key>Play Date UTC</key><date>2021-03-29T19:20:46Z</date>
+			<key>Release Date</key><date>2000-03-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lightbulb Sun</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Shesmovedon</string>
+			<key>Persistent ID</key><string>62F52C686CDEF899</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10095</key>
+		<dict>
+			<key>Track ID</key><integer>10095</integer>
+			<key>Name</key><string>The Start of Something Beautiful</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven John Wilson, Richard Barbieri, Colin Edwin Balch &#38; Gavin Richard Harrison</string>
+			<key>Album</key><string>Deadwing</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>16007992</integer>
+			<key>Total Time</key><integer>459947</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2019-11-15T14:38:59Z</date>
+			<key>Date Added</key><date>2019-11-15T14:38:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3747778077</integer>
+			<key>Play Date UTC</key><date>2022-10-04T19:57:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-02-01T14:18:46Z</date>
+			<key>Release Date</key><date>2005-03-28T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Deadwing</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Start of Something Beautiful</string>
+			<key>Persistent ID</key><string>89EFBE8184123ECE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>14197</key>
+		<dict>
+			<key>Track ID</key><integer>14197</integer>
+			<key>Name</key><string>02 Shallow</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7705522</integer>
+			<key>Total Time</key><integer>257306</integer>
+			<key>Date Modified</key><date>2013-01-26T18:09:26Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3744078669</integer>
+			<key>Play Date UTC</key><date>2022-08-23T00:21:09Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2022-03-22T19:18:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E45B2767C5437965</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>14209</key>
+		<dict>
+			<key>Track ID</key><integer>14209</integer>
+			<key>Name</key><string>Open Car</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Deadwing</string>
+			<key>Genre</key><string>Progressive Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6075307</integer>
+			<key>Total Time</key><integer>226821</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2012-11-08T15:48:40Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>214</integer>
+			<key>Play Count</key><integer>121</integer>
+			<key>Play Date</key><integer>3749740450</integer>
+			<key>Play Date UTC</key><date>2022-10-27T13:04:10Z</date>
+			<key>Skip Count</key><integer>22</integer>
+			<key>Skip Date</key><date>2022-10-26T14:29:48Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>635CA6BE6AFB15B6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>14331</key>
+		<dict>
+			<key>Track ID</key><integer>14331</integer>
+			<key>Name</key><string>Gravity Eyelids</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>In Absentia</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7696704</integer>
+			<key>Total Time</key><integer>476786</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-10-31T15:51:46Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Comments</key><string> 00000000 00000210 0000072C 000000000140CCC4 00000000 00745A20 00000000 00000000 00000000 00000000 00000000 00000000</string>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3748308856</integer>
+			<key>Play Date UTC</key><date>2022-10-10T23:24:16Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2022-09-06T13:58:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3855CD26B5075EA5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>14339</key>
+		<dict>
+			<key>Track ID</key><integer>14339</integer>
+			<key>Name</key><string>Wedding Nails</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Richard Barbieri/Steven Wilson</string>
+			<key>Album</key><string>In Absentia</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6371489</integer>
+			<key>Total Time</key><integer>393822</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-10-31T15:51:46Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Comments</key><string> 00000000 00000210 000008A0 000000000108F750 00000000 006018D2 00000000 00000000 00000000 00000000 00000000 00000000</string>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3730562316</integer>
+			<key>Play Date UTC</key><date>2022-03-19T13:48:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-07-24T07:54:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>73286AE1090F0363</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>14361</key>
+		<dict>
+			<key>Track ID</key><integer>14361</integer>
+			<key>Name</key><string>Strip the Soul</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>In Absentia</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10615657</integer>
+			<key>Total Time</key><integer>441913</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Date Modified</key><date>2013-01-24T20:25:48Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CA0A46A6317FCB0A</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>14733</key>
+		<dict>
+			<key>Track ID</key><integer>14733</integer>
+			<key>Name</key><string>Stranger by The Minute</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Stupid Dream</string>
+			<key>Genre</key><string>Progressive Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7249576</integer>
+			<key>Total Time</key><integer>270654</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-01-24T20:32:00Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>214</integer>
+			<key>Comments</key><string>please support small labels</string>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3757603165</integer>
+			<key>Play Date UTC</key><date>2023-01-26T13:09:25Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D694FBF08B5EF310</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>17837</key>
+		<dict>
+			<key>Track ID</key><integer>17837</integer>
+			<key>Name</key><string>Normal</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Rock/Prog</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15436038</integer>
+			<key>Total Time</key><integer>427747</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-08-06T17:49:41Z</date>
+			<key>Date Added</key><date>2017-08-06T17:49:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3744076262</integer>
+			<key>Play Date UTC</key><date>2022-08-22T23:41:02Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2021-01-30T11:35:15Z</date>
+			<key>Release Date</key><date>2007-08-19T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rock/Prog</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Normal</string>
+			<key>Persistent ID</key><string>D12C0E4D38C84901</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>17839</key>
+		<dict>
+			<key>Track ID</key><integer>17839</integer>
+			<key>Name</key><string>Time Flies</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>The Incident</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>25104423</integer>
+			<key>Total Time</key><integer>700533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2017-08-06T17:49:42Z</date>
+			<key>Date Added</key><date>2017-08-06T17:49:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3689089568</integer>
+			<key>Play Date UTC</key><date>2020-11-24T13:36:08Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-11-07T04:27:39Z</date>
+			<key>Release Date</key><date>2009-08-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Time Flies</string>
+			<key>Persistent ID</key><string>31FC4F8FF8518A54</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18045</key>
+		<dict>
+			<key>Track ID</key><integer>18045</integer>
+			<key>Name</key><string>Anesthetize (Live)</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>Anesthetize (Live)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>36749800</integer>
+			<key>Total Time</key><integer>1040147</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2017-08-18T09:36:40Z</date>
+			<key>Date Added</key><date>2017-08-18T09:36:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3759977909</integer>
+			<key>Play Date UTC</key><date>2023-02-23T00:48:29Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-08-27T04:38:38Z</date>
+			<key>Release Date</key><date>2010-05-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Anesthetize (Live)</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Anesthetize (Live)</string>
+			<key>Persistent ID</key><string>1ABA16E7C16DB18B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18049</key>
+		<dict>
+			<key>Track ID</key><integer>18049</integer>
+			<key>Name</key><string>Way Out of Here (Live)</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Richard Barbieri, Colin Edwin, Gavin Harrison &#38; Steven Wilson</string>
+			<key>Album</key><string>Anesthetize (Live)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>16602383</integer>
+			<key>Total Time</key><integer>467800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2017-08-18T09:36:56Z</date>
+			<key>Date Added</key><date>2017-08-18T09:36:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3759978697</integer>
+			<key>Play Date UTC</key><date>2023-02-23T01:01:37Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-01-31T13:09:10Z</date>
+			<key>Release Date</key><date>2010-05-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Anesthetize (Live)</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Way Out of Here (Live)</string>
+			<key>Persistent ID</key><string>71C14483D9AC442E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18053</key>
+		<dict>
+			<key>Track ID</key><integer>18053</integer>
+			<key>Name</key><string>Fear of a Blank Planet (Live)</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>Anesthetize (Live)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>16958498</integer>
+			<key>Total Time</key><integer>454880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2017-08-18T09:37:07Z</date>
+			<key>Date Added</key><date>2017-08-18T09:37:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3759976581</integer>
+			<key>Play Date UTC</key><date>2023-02-23T00:26:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-11-28T04:48:34Z</date>
+			<key>Release Date</key><date>2010-05-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Anesthetize (Live)</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Fear of a Blank Planet (Live)</string>
+			<key>Persistent ID</key><string>794D8B4891FB1869</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18389</key>
+		<dict>
+			<key>Track ID</key><integer>18389</integer>
+			<key>Name</key><string>Under a Glass Moon</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Images and Words</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15585616</integer>
+			<key>Total Time</key><integer>423240</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:09Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>42</integer>
+			<key>Play Date</key><integer>3705074547</integer>
+			<key>Play Date UTC</key><date>2021-05-28T13:52:27Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2022-12-21T05:50:56Z</date>
+			<key>Release Date</key><date>1992-07-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Images and Words</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Under a Glass Moon</string>
+			<key>Persistent ID</key><string>73E061119FDF146F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18395</key>
+		<dict>
+			<key>Track ID</key><integer>18395</integer>
+			<key>Name</key><string>As I Am</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Train of Thought</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>17918333</integer>
+			<key>Total Time</key><integer>467827</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:15Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3726849261</integer>
+			<key>Play Date UTC</key><date>2022-02-04T14:24:21Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-01-07T07:52:40Z</date>
+			<key>Release Date</key><date>2003-10-29T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Train of Thought</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>As I Am</string>
+			<key>Persistent ID</key><string>2B9DEAB98D072F60</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18401</key>
+		<dict>
+			<key>Track ID</key><integer>18401</integer>
+			<key>Name</key><string>Honor Thy Father</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Train of Thought</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>21765520</integer>
+			<key>Total Time</key><integer>612667</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:15Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3729095239</integer>
+			<key>Play Date UTC</key><date>2022-03-02T14:17:19Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2021-02-21T11:32:11Z</date>
+			<key>Release Date</key><date>2003-11-11T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Train of Thought</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Honor Thy Father</string>
+			<key>Persistent ID</key><string>D8E49A0C07B01214</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18419</key>
+		<dict>
+			<key>Track ID</key><integer>18419</integer>
+			<key>Name</key><string>Octavarium</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>James LaBrie, John Myung, John Petrucci, Jordan Rudess &#38; Mike Portnoy</string>
+			<key>Album</key><string>Octavarium</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>51956448</integer>
+			<key>Total Time</key><integer>1440013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:29Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>44</integer>
+			<key>Play Date</key><integer>3747777337</integer>
+			<key>Play Date UTC</key><date>2022-10-04T19:45:37Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-09-27T20:36:30Z</date>
+			<key>Release Date</key><date>2005-06-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Octavarium</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Octavarium</string>
+			<key>Persistent ID</key><string>A5EBB5EE9CC5BCFC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18501</key>
+		<dict>
+			<key>Track ID</key><integer>18501</integer>
+			<key>Name</key><string>Scene Six: Home</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Album</key><string>Metropolis, Pt. 2: Scenes from a Memory</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>28575453</integer>
+			<key>Total Time</key><integer>773373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:43Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3730570947</integer>
+			<key>Play Date UTC</key><date>2022-03-19T16:12:27Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-01-21T12:36:05Z</date>
+			<key>Release Date</key><date>1999-10-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Metropolis, Pt. 2: Scenes from a Memory</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Scene Six: Home</string>
+			<key>Persistent ID</key><string>7051D576DCE4DD24</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18505</key>
+		<dict>
+			<key>Track ID</key><integer>18505</integer>
+			<key>Name</key><string>Scene Eight: The Spirit Carries On</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Dream Theater</string>
+			<key>Album</key><string>Metropolis, Pt. 2: Scenes from a Memory</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14652181</integer>
+			<key>Total Time</key><integer>398267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:43Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>47</integer>
+			<key>Play Date</key><integer>3746532642</integer>
+			<key>Play Date UTC</key><date>2022-09-20T10:00:42Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-02-23T12:11:26Z</date>
+			<key>Release Date</key><date>1999-10-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Metropolis, Pt. 2: Scenes from a Memory</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Scene Eight: The Spirit Carries On</string>
+			<key>Persistent ID</key><string>21F984D9F6BE0467</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18513</key>
+		<dict>
+			<key>Track ID</key><integer>18513</integer>
+			<key>Name</key><string>Peruvian Skies</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Dream Theater &#38; John Petrucci</string>
+			<key>Album</key><string>Falling Into Infinity</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14443850</integer>
+			<key>Total Time</key><integer>403067</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:54Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3752340438</integer>
+			<key>Play Date UTC</key><date>2022-11-26T15:17:18Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2020-03-04T05:13:04Z</date>
+			<key>Release Date</key><date>1997-09-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Falling Into Infinity</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Peruvian Skies</string>
+			<key>Persistent ID</key><string>8509586B4524F4D2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18515</key>
+		<dict>
+			<key>Track ID</key><integer>18515</integer>
+			<key>Name</key><string>Hollow Years</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Dream Theater, John Myung, John Petrucci, Labrie &#38; Sherinian</string>
+			<key>Album</key><string>Falling Into Infinity</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13783783</integer>
+			<key>Total Time</key><integer>353867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:54Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>66</integer>
+			<key>Play Date</key><integer>3745282878</integer>
+			<key>Play Date UTC</key><date>2022-09-05T22:51:18Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-10-03T02:42:10Z</date>
+			<key>Release Date</key><date>1997-09-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Falling Into Infinity</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Hollow Years</string>
+			<key>Persistent ID</key><string>8E259287BB77D1E9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19209</key>
+		<dict>
+			<key>Track ID</key><integer>19209</integer>
+			<key>Name</key><string>Dislocated Day (Live)</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>Octane Twisted - Live</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15038723</integer>
+			<key>Total Time</key><integer>425813</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-10-07T10:05:38Z</date>
+			<key>Date Added</key><date>2017-10-07T10:05:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3683075327</integer>
+			<key>Play Date UTC</key><date>2020-09-15T22:58:47Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-02-13T08:46:13Z</date>
+			<key>Release Date</key><date>2012-11-19T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Octane Twisted - Live</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Dislocated Day (Live)</string>
+			<key>Persistent ID</key><string>949ED62AC7C79F82</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19211</key>
+		<dict>
+			<key>Track ID</key><integer>19211</integer>
+			<key>Name</key><string>Trains</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>In Absentia</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13636212</integer>
+			<key>Total Time</key><integer>358600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-10-07T10:11:27Z</date>
+			<key>Date Added</key><date>2017-10-07T10:11:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>200</integer>
+			<key>Play Date</key><integer>3761240746</integer>
+			<key>Play Date UTC</key><date>2023-03-09T15:35:46Z</date>
+			<key>Skip Count</key><integer>14</integer>
+			<key>Skip Date</key><date>2022-10-14T14:55:37Z</date>
+			<key>Release Date</key><date>2002-09-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In Absentia</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Trains</string>
+			<key>Persistent ID</key><string>D6BEA93446352D41</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19213</key>
+		<dict>
+			<key>Track ID</key><integer>19213</integer>
+			<key>Name</key><string>Arriving Somewhere But Not Here</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Deadwing</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>25199442</integer>
+			<key>Total Time</key><integer>722200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-10-07T10:11:34Z</date>
+			<key>Date Added</key><date>2017-10-07T10:11:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3745277161</integer>
+			<key>Play Date UTC</key><date>2022-09-05T21:16:01Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2019-11-15T17:54:50Z</date>
+			<key>Release Date</key><date>2005-03-28T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Deadwing</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Arriving Somewhere But Not Here</string>
+			<key>Persistent ID</key><string>F046A25E04F69103</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21389</key>
+		<dict>
+			<key>Track ID</key><integer>21389</integer>
+			<key>Name</key><string>I Drive the Hearse</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>The Incident</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14275622</integer>
+			<key>Total Time</key><integer>403340</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2018-06-27T08:11:42Z</date>
+			<key>Date Added</key><date>2018-06-27T08:11:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3700386872</integer>
+			<key>Play Date UTC</key><date>2021-04-04T07:44:32Z</date>
+			<key>Release Date</key><date>2009-09-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incident</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>I Drive the Hearse</string>
+			<key>Persistent ID</key><string>F54B6CC5305F5397</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22721</key>
+		<dict>
+			<key>Track ID</key><integer>22721</integer>
+			<key>Name</key><string>The Count of Tuscany</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Mike Portnoy, John Myung, Jordan Rudess &#38; John Petrucci</string>
+			<key>Album</key><string>Black Clouds &#38; Silver Linings (Special Edition)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>41276621</integer>
+			<key>Total Time</key><integer>1157546</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2018-11-15T18:34:30Z</date>
+			<key>Date Added</key><date>2018-11-15T18:34:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3714952030</integer>
+			<key>Play Date UTC</key><date>2021-09-19T21:37:10Z</date>
+			<key>Release Date</key><date>2009-06-23T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Clouds &#38; Silver Linings (Special Edition)</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Count of Tuscany</string>
+			<key>Persistent ID</key><string>4CB6F24F35FD2F80</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22801</key>
+		<dict>
+			<key>Track ID</key><integer>22801</integer>
+			<key>Name</key><string>Every Home Is Wired</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Wilson</string>
+			<key>Album</key><string>Stars Die: The Delerium Years 1991-1997 (Remastered)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11470182</integer>
+			<key>Total Time</key><integer>314613</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2018-11-22T15:14:47Z</date>
+			<key>Date Added</key><date>2018-11-22T15:14:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3683071438</integer>
+			<key>Play Date UTC</key><date>2020-09-15T21:53:58Z</date>
+			<key>Release Date</key><date>1996-01-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stars Die: The Delerium Years 1991-1997 (Remastered)</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Every Home Is Wired</string>
+			<key>Persistent ID</key><string>DB759F8993459DC2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22851</key>
+		<dict>
+			<key>Track ID</key><integer>22851</integer>
+			<key>Name</key><string>Time Flies</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>Time Flies - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>11967336</integer>
+			<key>Total Time</key><integer>323216</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2018-12-01T04:34:29Z</date>
+			<key>Date Added</key><date>2018-12-01T04:34:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3690017213</integer>
+			<key>Play Date UTC</key><date>2020-12-05T07:16:53Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-11-15T17:54:36Z</date>
+			<key>Release Date</key><date>2009-08-11T12:00:00Z</date>
+			<key>Sort Album</key><string>Time Flies - Single</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Time Flies</string>
+			<key>Persistent ID</key><string>FA2DC233E85603DC</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Porcupine Theater</string>
+			<key>Description</key><string>How?!</string>
+			<key>Playlist ID</key><integer>42574</integer>
+			<key>Playlist Persistent ID</key><string>201D39215DADB9F8</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6887</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17839</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17837</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18501</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18401</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18045</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22721</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14339</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7241</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9683</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10095</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22851</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14331</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18049</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18053</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9679</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14361</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14733</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22801</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6887</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

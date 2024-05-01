@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:06:47Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>11681</key>
+		<dict>
+			<key>Track ID</key><integer>11681</integer>
+			<key>Name</key><string>Manhattan</string>
+			<key>Artist</key><string>Kings of Leon</string>
+			<key>Album Artist</key><string>Kings of Leon</string>
+			<key>Composer</key><string>Caleb Followill, Nathan Followill, Jared Followill &#38; Matthew Followill</string>
+			<key>Album</key><string>Only By the Night</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7320770</integer>
+			<key>Total Time</key><integer>204211</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2021-02-01T04:14:38Z</date>
+			<key>Date Added</key><date>2021-02-01T04:14:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3720178720</integer>
+			<key>Play Date UTC</key><date>2021-11-19T09:28:40Z</date>
+			<key>Release Date</key><date>2008-09-19T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Only By the Night</string>
+			<key>Sort Artist</key><string>Kings of Leon</string>
+			<key>Sort Name</key><string>Manhattan</string>
+			<key>Persistent ID</key><string>589352881DF8B761</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11685</key>
+		<dict>
+			<key>Track ID</key><integer>11685</integer>
+			<key>Name</key><string>Closer (Live from the Artists Den)</string>
+			<key>Artist</key><string>Corinne Bailey Rae</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Album</key><string>Live from the Artists Den: Season 2</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9713204</integer>
+			<key>Total Time</key><integer>268820</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2021-02-01T04:35:39Z</date>
+			<key>Date Added</key><date>2021-02-01T04:35:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-06-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Live from the Artists Den: Season 2</string>
+			<key>Sort Artist</key><string>Corinne Bailey Rae</string>
+			<key>Sort Name</key><string>Closer (Live from the Artists Den)</string>
+			<key>Persistent ID</key><string>420B6904AA7AF144</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11689</key>
+		<dict>
+			<key>Track ID</key><integer>11689</integer>
+			<key>Name</key><string>Freddy Crabs</string>
+			<key>Artist</key><string>Sticky Fingers</string>
+			<key>Album Artist</key><string>Sticky Fingers</string>
+			<key>Composer</key><string>Neal Hunt</string>
+			<key>Album</key><string>Caress Your Soul</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10698366</integer>
+			<key>Total Time</key><integer>307600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2021-02-01T04:46:12Z</date>
+			<key>Date Added</key><date>2021-02-01T04:46:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3696469046</integer>
+			<key>Play Date UTC</key><date>2021-02-17T23:27:26Z</date>
+			<key>Release Date</key><date>2013-03-08T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Caress Your Soul</string>
+			<key>Sort Artist</key><string>Sticky Fingers</string>
+			<key>Sort Name</key><string>Freddy Crabs</string>
+			<key>Persistent ID</key><string>EEA32E65C1352813</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11691</key>
+		<dict>
+			<key>Track ID</key><integer>11691</integer>
+			<key>Name</key><string>Porcelain</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Californication (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6071693</integer>
+			<key>Total Time</key><integer>163839</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2021-02-01T04:53:21Z</date>
+			<key>Date Added</key><date>2021-02-01T04:53:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3730488283</integer>
+			<key>Play Date UTC</key><date>2022-03-18T17:14:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-03-13T15:33:10Z</date>
+			<key>Release Date</key><date>1999-06-08T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Californication (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Porcelain</string>
+			<key>Persistent ID</key><string>7822DFFCDE33282F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11693</key>
+		<dict>
+			<key>Track ID</key><integer>11693</integer>
+			<key>Name</key><string>Lift Off (feat. Rocco Palladino)</string>
+			<key>Artist</key><string>Tom Misch &#38; Yussef Dayes</string>
+			<key>Album Artist</key><string>Tom Misch &#38; Yussef Dayes</string>
+			<key>Composer</key><string>Tom Misch, Yussef Dayes &#38; Rocco Palladino</string>
+			<key>Album</key><string>What Kinda Music</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11437442</integer>
+			<key>Total Time</key><integer>318939</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-02-01T04:55:22Z</date>
+			<key>Date Added</key><date>2021-02-01T04:55:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3698984622</integer>
+			<key>Play Date UTC</key><date>2021-03-19T02:13:42Z</date>
+			<key>Release Date</key><date>2020-04-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>What Kinda Music</string>
+			<key>Sort Artist</key><string>Tom Misch &#38; Yussef Dayes</string>
+			<key>Sort Name</key><string>Lift Off (feat. Rocco Palladino)</string>
+			<key>Persistent ID</key><string>1BF7A68E53D2FEBF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11695</key>
+		<dict>
+			<key>Track ID</key><integer>11695</integer>
+			<key>Name</key><string>Intentions (feat. Dan Caplen)</string>
+			<key>Artist</key><string>Macklemore</string>
+			<key>Album Artist</key><string>Macklemore</string>
+			<key>Composer</key><string>Ben Haggerty, Dan Caplen, Jared Borkowski, Joshua Karp &#38; Tyler Dopps</string>
+			<key>Album</key><string>GEMINI</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8025221</integer>
+			<key>Total Time</key><integer>230507</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2021-02-01T05:02:43Z</date>
+			<key>Date Added</key><date>2021-02-01T05:02:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3715184254</integer>
+			<key>Play Date UTC</key><date>2021-09-22T14:07:34Z</date>
+			<key>Release Date</key><date>2017-09-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>GEMINI</string>
+			<key>Sort Artist</key><string>Macklemore</string>
+			<key>Sort Name</key><string>Intentions (feat. Dan Caplen)</string>
+			<key>Persistent ID</key><string>2B79AFD75BECB897</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11697</key>
+		<dict>
+			<key>Track ID</key><integer>11697</integer>
+			<key>Name</key><string>Is Magic Gone</string>
+			<key>Artist</key><string>FKJ</string>
+			<key>Album Artist</key><string>FKJ</string>
+			<key>Composer</key><string>Vincent Fenton</string>
+			<key>Album</key><string>Is Magic Gone - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8869909</integer>
+			<key>Total Time</key><integer>244742</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2021-02-01T05:21:48Z</date>
+			<key>Date Added</key><date>2021-02-01T05:21:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3761041194</integer>
+			<key>Play Date UTC</key><date>2023-03-07T08:09:54Z</date>
+			<key>Release Date</key><date>2018-11-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Is Magic Gone - Single</string>
+			<key>Sort Artist</key><string>FKJ</string>
+			<key>Sort Name</key><string>Is Magic Gone</string>
+			<key>Persistent ID</key><string>A82E2839F350BA7B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11699</key>
+		<dict>
+			<key>Track ID</key><integer>11699</integer>
+			<key>Name</key><string>Turn up the Radio</string>
+			<key>Artist</key><string>OK Go</string>
+			<key>Album Artist</key><string>OK Go</string>
+			<key>Composer</key><string>Damian Kulash</string>
+			<key>Album</key><string>Hungry Ghosts</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6443687</integer>
+			<key>Total Time</key><integer>177360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2021-02-01T05:37:19Z</date>
+			<key>Date Added</key><date>2021-02-01T05:37:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3696468739</integer>
+			<key>Play Date UTC</key><date>2021-02-17T23:22:19Z</date>
+			<key>Release Date</key><date>2014-06-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hungry Ghosts</string>
+			<key>Sort Artist</key><string>OK Go</string>
+			<key>Sort Name</key><string>Turn up the Radio</string>
+			<key>Persistent ID</key><string>00D3E0DA434877B0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11701</key>
+		<dict>
+			<key>Track ID</key><integer>11701</integer>
+			<key>Name</key><string>Won't Let You</string>
+			<key>Artist</key><string>MorMor</string>
+			<key>Album Artist</key><string>MorMor</string>
+			<key>Composer</key><string>Dave Bayley &#38; Seth Nyquist</string>
+			<key>Album</key><string>Won't Let You - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7267329</integer>
+			<key>Total Time</key><integer>205889</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2021-02-01T05:46:45Z</date>
+			<key>Date Added</key><date>2021-02-01T05:46:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3696467760</integer>
+			<key>Play Date UTC</key><date>2021-02-17T23:06:00Z</date>
+			<key>Release Date</key><date>2019-10-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Won't Let You - Single</string>
+			<key>Sort Artist</key><string>MorMor</string>
+			<key>Sort Name</key><string>Won't Let You</string>
+			<key>Persistent ID</key><string>B132E5995711C0A8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11707</key>
+		<dict>
+			<key>Track ID</key><integer>11707</integer>
+			<key>Name</key><string>Cry to Me (Acoustic)</string>
+			<key>Artist</key><string>Marc Broussard</string>
+			<key>Album Artist</key><string>Marc Broussard</string>
+			<key>Album</key><string>S.O.S. 2: Save Our Soul: Soul on a Mission</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8448062</integer>
+			<key>Total Time</key><integer>243693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2021-02-03T06:38:09Z</date>
+			<key>Date Added</key><date>2021-02-03T06:38:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-09-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>S.O.S. 2: Save Our Soul: Soul on a Mission</string>
+			<key>Sort Artist</key><string>Marc Broussard</string>
+			<key>Sort Name</key><string>Cry to Me (Acoustic)</string>
+			<key>Persistent ID</key><string>D6D969D07139A8C2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11711</key>
+		<dict>
+			<key>Track ID</key><integer>11711</integer>
+			<key>Name</key><string>Coffee Breath</string>
+			<key>Artist</key><string>Sofia Mills</string>
+			<key>Album Artist</key><string>Sofia Mills</string>
+			<key>Composer</key><string>Sofia Moulton</string>
+			<key>Album</key><string>All My Pals - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5902408</integer>
+			<key>Total Time</key><integer>163902</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2021-02-08T15:17:19Z</date>
+			<key>Date Added</key><date>2021-02-08T15:17:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3699473122</integer>
+			<key>Play Date UTC</key><date>2021-03-24T17:55:22Z</date>
+			<key>Release Date</key><date>2018-03-08T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>All My Pals - EP</string>
+			<key>Sort Artist</key><string>Sofia Mills</string>
+			<key>Sort Name</key><string>Coffee Breath</string>
+			<key>Persistent ID</key><string>63E889FC26538BB2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11713</key>
+		<dict>
+			<key>Track ID</key><integer>11713</integer>
+			<key>Name</key><string>Sunflower</string>
+			<key>Artist</key><string>Rex Orange County</string>
+			<key>Album Artist</key><string>Rex Orange County</string>
+			<key>Composer</key><string>Ben Ash &#38; Alex O'Connor</string>
+			<key>Album</key><string>Sunflower - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8915734</integer>
+			<key>Total Time</key><integer>252231</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2021-02-08T15:31:47Z</date>
+			<key>Date Added</key><date>2021-02-08T15:31:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3699574704</integer>
+			<key>Play Date UTC</key><date>2021-03-25T22:08:24Z</date>
+			<key>Release Date</key><date>2017-03-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sunflower - Single</string>
+			<key>Sort Artist</key><string>Rex Orange County</string>
+			<key>Sort Name</key><string>Sunflower</string>
+			<key>Persistent ID</key><string>77B8D763EC008C63</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11715</key>
+		<dict>
+			<key>Track ID</key><integer>11715</integer>
+			<key>Name</key><string>Kalmia Kid</string>
+			<key>Artist</key><string>chloe moriondo</string>
+			<key>Album Artist</key><string>chloe moriondo</string>
+			<key>Album</key><string>Kalmia Kid - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8604934</integer>
+			<key>Total Time</key><integer>239738</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2021-02-08T15:37:46Z</date>
+			<key>Date Added</key><date>2021-02-08T15:37:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3695836647</integer>
+			<key>Play Date UTC</key><date>2021-02-10T15:47:27Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-03-05T21:40:59Z</date>
+			<key>Release Date</key><date>2019-04-19T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kalmia Kid - Single</string>
+			<key>Sort Artist</key><string>chloe moriondo</string>
+			<key>Sort Name</key><string>Kalmia Kid</string>
+			<key>Persistent ID</key><string>21DEBFC1E3E980B5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11719</key>
+		<dict>
+			<key>Track ID</key><integer>11719</integer>
+			<key>Name</key><string>Tkm</string>
+			<key>Artist</key><string>boy pablo</string>
+			<key>Album Artist</key><string>boy pablo</string>
+			<key>Composer</key><string>Nicolas Pablo Muñoz, Benjamin Schandy, Esteban Munoz &#38; Erik Torsheim</string>
+			<key>Album</key><string>Soy Pablo - EP</string>
+			<key>Genre</key><string>Indie Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11614497</integer>
+			<key>Total Time</key><integer>338000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2021-02-09T07:47:11Z</date>
+			<key>Date Added</key><date>2021-02-09T07:47:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-10-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Soy Pablo - EP</string>
+			<key>Sort Artist</key><string>boy pablo</string>
+			<key>Sort Name</key><string>Tkm</string>
+			<key>Persistent ID</key><string>91A9A71B15D199EF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>12133</key>
+		<dict>
+			<key>Track ID</key><integer>12133</integer>
+			<key>Name</key><string>Death &#38; Taxes</string>
+			<key>Artist</key><string>Daniel Caesar</string>
+			<key>Album Artist</key><string>Daniel Caesar</string>
+			<key>Album</key><string>Pilgrim's Paradise - EP</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10623882</integer>
+			<key>Total Time</key><integer>305081</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2021-07-30T00:46:06Z</date>
+			<key>Date Added</key><date>2021-07-30T00:46:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3728137783</integer>
+			<key>Play Date UTC</key><date>2022-02-19T12:19:43Z</date>
+			<key>Release Date</key><date>2015-10-11T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pilgrim's Paradise - EP</string>
+			<key>Sort Artist</key><string>Daniel Caesar</string>
+			<key>Sort Name</key><string>Death &#38; Taxes</string>
+			<key>Persistent ID</key><string>C6F645EEB2D91EE5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21759</key>
+		<dict>
+			<key>Track ID</key><integer>21759</integer>
+			<key>Name</key><string>Creep</string>
+			<key>Artist</key><string>Radiohead</string>
+			<key>Album Artist</key><string>Radiohead</string>
+			<key>Composer</key><string>Albert Hammond, Colin Greenwood, Ed O'Brien, Jonny Greenwood, Mike Hazlewood, Phil Selway &#38; Thom Yorke</string>
+			<key>Album</key><string>Creep - EP</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8993568</integer>
+			<key>Total Time</key><integer>238640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2018-08-18T14:33:14Z</date>
+			<key>Date Added</key><date>2018-08-18T14:33:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3695018286</integer>
+			<key>Play Date UTC</key><date>2021-02-01T04:28:06Z</date>
+			<key>Release Date</key><date>1992-09-21T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Creep - EP</string>
+			<key>Sort Artist</key><string>Radiohead</string>
+			<key>Sort Name</key><string>Creep</string>
+			<key>Persistent ID</key><string>63F176CAD6098910</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>ascension.</string>
+			<key>Description</key><string>jabardast scene baithai, ekdum chill. kya bolta re bhidu?</string>
+			<key>Playlist ID</key><integer>38075</integer>
+			<key>Playlist Persistent ID</key><string>573EA0C223FF949B</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>11681</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21759</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11685</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11693</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11695</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11697</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11701</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11707</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11711</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11713</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11715</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12133</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

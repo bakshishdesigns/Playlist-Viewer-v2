@@ -1,0 +1,1561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:14:47Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>8013</key>
+		<dict>
+			<key>Track ID</key><integer>8013</integer>
+			<key>Name</key><string>So High</string>
+			<key>Artist</key><string>Sidhu Moose Wala</string>
+			<key>Album Artist</key><string>Sidhu Moose Wala</string>
+			<key>Composer</key><string>Byg Byrd &#38; Sidhu Moose Wala</string>
+			<key>Album</key><string>So High - Single</string>
+			<key>Genre</key><string>Punjabi</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8431176</integer>
+			<key>Total Time</key><integer>233767</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-05-10T11:47:33Z</date>
+			<key>Date Added</key><date>2019-05-10T11:47:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3702856824</integer>
+			<key>Play Date UTC</key><date>2021-05-02T21:50:24Z</date>
+			<key>Release Date</key><date>2017-08-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>So High - Single</string>
+			<key>Sort Artist</key><string>Sidhu Moose Wala</string>
+			<key>Sort Name</key><string>So High</string>
+			<key>Persistent ID</key><string>CFA569E8A2395D60</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8839</key>
+		<dict>
+			<key>Track ID</key><integer>8839</integer>
+			<key>Name</key><string>Badfella</string>
+			<key>Artist</key><string>Sidhu Moose Wala</string>
+			<key>Album Artist</key><string>Sidhu Moose Wala</string>
+			<key>Composer</key><string>Harj Nagra</string>
+			<key>Album</key><string>PBX 1</string>
+			<key>Genre</key><string>Punjabi Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8039764</integer>
+			<key>Total Time</key><integer>217532</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-07-27T01:21:50Z</date>
+			<key>Date Added</key><date>2019-07-27T01:21:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3690765701</integer>
+			<key>Play Date UTC</key><date>2020-12-13T23:11:41Z</date>
+			<key>Release Date</key><date>2018-10-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>PBX 1</string>
+			<key>Sort Artist</key><string>Sidhu Moose Wala</string>
+			<key>Sort Name</key><string>Badfella</string>
+			<key>Persistent ID</key><string>5F3A66045A55E747</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8841</key>
+		<dict>
+			<key>Track ID</key><integer>8841</integer>
+			<key>Name</key><string>Jaat Da Muqabala</string>
+			<key>Artist</key><string>Sidhu Moose Wala</string>
+			<key>Album Artist</key><string>Sidhu Moose Wala</string>
+			<key>Composer</key><string>Snappy</string>
+			<key>Album</key><string>PBX 1</string>
+			<key>Genre</key><string>Punjabi Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7293883</integer>
+			<key>Total Time</key><integer>204360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-07-27T01:22:40Z</date>
+			<key>Date Added</key><date>2019-07-27T01:22:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3690766749</integer>
+			<key>Play Date UTC</key><date>2020-12-13T23:29:09Z</date>
+			<key>Release Date</key><date>2018-10-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>PBX 1</string>
+			<key>Sort Artist</key><string>Sidhu Moose Wala</string>
+			<key>Sort Name</key><string>Jaat Da Muqabala</string>
+			<key>Persistent ID</key><string>ED29ADAC86D23F68</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8843</key>
+		<dict>
+			<key>Track ID</key><integer>8843</integer>
+			<key>Name</key><string>East Side Flow</string>
+			<key>Artist</key><string>Sidhu Moose Wala</string>
+			<key>Album Artist</key><string>Sidhu Moose Wala</string>
+			<key>Composer</key><string>Byg Byrd &#38; Sidhu Moose Wala</string>
+			<key>Album</key><string>East Side Flow - Single</string>
+			<key>Genre</key><string>Punjabi Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7950062</integer>
+			<key>Total Time</key><integer>224211</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-27T01:23:02Z</date>
+			<key>Date Added</key><date>2019-07-27T01:23:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3690766545</integer>
+			<key>Play Date UTC</key><date>2020-12-13T23:25:45Z</date>
+			<key>Release Date</key><date>2019-03-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>East Side Flow - Single</string>
+			<key>Sort Artist</key><string>Sidhu Moose Wala</string>
+			<key>Sort Name</key><string>East Side Flow</string>
+			<key>Persistent ID</key><string>04DBEF8266935E86</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8845</key>
+		<dict>
+			<key>Track ID</key><integer>8845</integer>
+			<key>Name</key><string>Tochan</string>
+			<key>Artist</key><string>Sidhu Moose Wala &#38; Byg Byrd</string>
+			<key>Album Artist</key><string>Sidhu Moose Wala &#38; Byg Byrd</string>
+			<key>Composer</key><string>Sidhu Moose Wala</string>
+			<key>Album</key><string>Tochan - Single</string>
+			<key>Genre</key><string>Punjabi Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7912866</integer>
+			<key>Total Time</key><integer>221609</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-07-27T01:23:12Z</date>
+			<key>Date Added</key><date>2019-07-27T01:23:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3690766141</integer>
+			<key>Play Date UTC</key><date>2020-12-13T23:19:01Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-12-07T18:08:04Z</date>
+			<key>Release Date</key><date>2018-05-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tochan - Single</string>
+			<key>Sort Artist</key><string>Sidhu Moose Wala &#38; Byg Byrd</string>
+			<key>Sort Name</key><string>Tochan</string>
+			<key>Persistent ID</key><string>C82961FFAF1684E4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8847</key>
+		<dict>
+			<key>Track ID</key><integer>8847</integer>
+			<key>Name</key><string>Outlaw (feat. Byg Bird)</string>
+			<key>Artist</key><string>Sidhu Moose Wala</string>
+			<key>Album Artist</key><string>Sidhu Moose Wala</string>
+			<key>Composer</key><string>Byg Byrd &#38; Sidhu Moose Wala</string>
+			<key>Album</key><string>Outlaw (feat. Byg Bird) - Single</string>
+			<key>Genre</key><string>Punjabi Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6386207</integer>
+			<key>Total Time</key><integer>179375</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-27T01:23:20Z</date>
+			<key>Date Added</key><date>2019-07-27T01:23:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3690766320</integer>
+			<key>Play Date UTC</key><date>2020-12-13T23:22:00Z</date>
+			<key>Release Date</key><date>2019-01-17T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Outlaw (feat. Byg Bird) - Single</string>
+			<key>Sort Artist</key><string>Sidhu Moose Wala</string>
+			<key>Sort Name</key><string>Outlaw (feat. Byg Bird)</string>
+			<key>Persistent ID</key><string>51DA5D616698F25B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8849</key>
+		<dict>
+			<key>Track ID</key><integer>8849</integer>
+			<key>Name</key><string>Famous (feat. Intense)</string>
+			<key>Artist</key><string>Sidhu Moose Wala</string>
+			<key>Album Artist</key><string>Sidhu Moose Wala</string>
+			<key>Album</key><string>Famous (feat. Intense) - Single</string>
+			<key>Genre</key><string>Worldwide</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8813243</integer>
+			<key>Total Time</key><integer>249783</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-07-27T01:23:59Z</date>
+			<key>Date Added</key><date>2019-07-27T01:23:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3717668210</integer>
+			<key>Play Date UTC</key><date>2021-10-21T08:06:50Z</date>
+			<key>Release Date</key><date>2018-06-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Famous (feat. Intense) - Single</string>
+			<key>Sort Artist</key><string>Sidhu Moose Wala</string>
+			<key>Sort Name</key><string>Famous (feat. Intense)</string>
+			<key>Persistent ID</key><string>BB01A67AFC53913A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8851</key>
+		<dict>
+			<key>Track ID</key><integer>8851</integer>
+			<key>Name</key><string>Death Route</string>
+			<key>Artist</key><string>Sidhu Moose Wala</string>
+			<key>Album Artist</key><string>Sidhu Moose Wala</string>
+			<key>Composer</key><string>Intense</string>
+			<key>Album</key><string>PBX 1</string>
+			<key>Genre</key><string>Punjabi Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7741461</integer>
+			<key>Total Time</key><integer>217521</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-07-27T02:00:53Z</date>
+			<key>Date Added</key><date>2019-07-27T02:00:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3690765484</integer>
+			<key>Play Date UTC</key><date>2020-12-13T23:08:04Z</date>
+			<key>Release Date</key><date>2018-10-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>PBX 1</string>
+			<key>Sort Artist</key><string>Sidhu Moose Wala</string>
+			<key>Sort Name</key><string>Death Route</string>
+			<key>Persistent ID</key><string>F980523BBC38FAB1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8853</key>
+		<dict>
+			<key>Track ID</key><integer>8853</integer>
+			<key>Name</key><string>Snake (feat. Karan Aujla &#38; Parma Music)</string>
+			<key>Artist</key><string>Deep Jandu</string>
+			<key>Album Artist</key><string>Deep Jandu</string>
+			<key>Composer</key><string>Deep Jandu</string>
+			<key>Album</key><string>Snake (feat. Karan Aujla &#38; Parma Music) - Single</string>
+			<key>Genre</key><string>Worldwide</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7441318</integer>
+			<key>Total Time</key><integer>206954</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-07-27T02:06:09Z</date>
+			<key>Date Added</key><date>2019-07-27T02:06:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3663624076</integer>
+			<key>Play Date UTC</key><date>2020-02-03T19:51:16Z</date>
+			<key>Release Date</key><date>2019-03-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Snake (feat. Karan Aujla &#38; Parma Music) - Single</string>
+			<key>Sort Artist</key><string>Deep Jandu</string>
+			<key>Sort Name</key><string>Snake (feat. Karan Aujla &#38; Parma Music)</string>
+			<key>Persistent ID</key><string>6538DB998A5177E0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10363</key>
+		<dict>
+			<key>Track ID</key><integer>10363</integer>
+			<key>Name</key><string>Phone</string>
+			<key>Artist</key><string>Mickey Singh &#38; UpsideDown</string>
+			<key>Album Artist</key><string>Mickey Singh &#38; UpsideDown</string>
+			<key>Composer</key><string>Ankit Malik</string>
+			<key>Album</key><string>Phone - Single</string>
+			<key>Genre</key><string>Regional Indian</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7583573</integer>
+			<key>Total Time</key><integer>211801</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-12-21T08:18:01Z</date>
+			<key>Date Added</key><date>2019-12-21T08:18:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3684010632</integer>
+			<key>Play Date UTC</key><date>2020-09-26T18:47:12Z</date>
+			<key>Release Date</key><date>2016-10-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Phone - Single</string>
+			<key>Sort Artist</key><string>Mickey Singh &#38; UpsideDown</string>
+			<key>Sort Name</key><string>Phone</string>
+			<key>Persistent ID</key><string>3E2B4BB1AA8D877D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10367</key>
+		<dict>
+			<key>Track ID</key><integer>10367</integer>
+			<key>Name</key><string>Aukaat (feat. Karan Aujla)</string>
+			<key>Artist</key><string>Jassie Gill</string>
+			<key>Album Artist</key><string>Jassie Gill</string>
+			<key>Composer</key><string>Karan Aujla</string>
+			<key>Album</key><string>Aukaat (feat. Karan Aujla) - Single</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5928010</integer>
+			<key>Total Time</key><integer>163492</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-12-21T08:29:04Z</date>
+			<key>Date Added</key><date>2019-12-21T08:29:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3659781645</integer>
+			<key>Play Date UTC</key><date>2019-12-21T08:30:45Z</date>
+			<key>Release Date</key><date>2019-10-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Aukaat (feat. Karan Aujla) - Single</string>
+			<key>Sort Artist</key><string>Jassie Gill</string>
+			<key>Sort Name</key><string>Aukaat (feat. Karan Aujla)</string>
+			<key>Persistent ID</key><string>7415F89A4B630DFC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10521</key>
+		<dict>
+			<key>Track ID</key><integer>10521</integer>
+			<key>Name</key><string>Same Beef</string>
+			<key>Artist</key><string>Bohemia &#38; Sidhu Moose Wala</string>
+			<key>Album Artist</key><string>Bohemia &#38; Sidhu Moose Wala</string>
+			<key>Composer</key><string>Byg Byrd</string>
+			<key>Album</key><string>Same Beef - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9966152</integer>
+			<key>Total Time</key><integer>290360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-12-30T13:24:03Z</date>
+			<key>Date Added</key><date>2019-12-30T13:24:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3684011614</integer>
+			<key>Play Date UTC</key><date>2020-09-26T19:03:34Z</date>
+			<key>Release Date</key><date>2019-08-19T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Same Beef - Single</string>
+			<key>Sort Artist</key><string>Bohemia &#38; Sidhu Moose Wala</string>
+			<key>Sort Name</key><string>Same Beef</string>
+			<key>Persistent ID</key><string>6F985CAEEC321244</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10525</key>
+		<dict>
+			<key>Track ID</key><integer>10525</integer>
+			<key>Name</key><string>Gaal Ni Kadni</string>
+			<key>Artist</key><string>Parmish Verma</string>
+			<key>Album Artist</key><string>Parmish Verma</string>
+			<key>Composer</key><string>Vicky Singh</string>
+			<key>Album</key><string>Parmish Verma - Top Hits - EP</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8694911</integer>
+			<key>Total Time</key><integer>248516</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-12-30T13:38:34Z</date>
+			<key>Date Added</key><date>2019-12-30T13:38:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-11-07T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Parmish Verma - Top Hits - EP</string>
+			<key>Sort Artist</key><string>Parmish Verma</string>
+			<key>Sort Name</key><string>Gaal Ni Kadni</string>
+			<key>Persistent ID</key><string>0A6C3ADA9E394DFB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11955</key>
+		<dict>
+			<key>Track ID</key><integer>11955</integer>
+			<key>Name</key><string>Bamb Jatt (feat. Jasmine Sandlas)</string>
+			<key>Artist</key><string>Amrit Maan</string>
+			<key>Album Artist</key><string>Amrit Maan</string>
+			<key>Composer</key><string>DJ Flow &#38; Amrit Maan</string>
+			<key>Album</key><string>Bamb Jatt (feat. Jasmine Sandlas) - Single</string>
+			<key>Genre</key><string>Indian</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8383784</integer>
+			<key>Total Time</key><integer>234668</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2021-05-01T10:23:26Z</date>
+			<key>Date Added</key><date>2021-05-01T10:23:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-03-21T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bamb Jatt (feat. Jasmine Sandlas) - Single</string>
+			<key>Sort Artist</key><string>Amrit Maan</string>
+			<key>Sort Name</key><string>Bamb Jatt (feat. Jasmine Sandlas)</string>
+			<key>Persistent ID</key><string>89420532BB54C2EC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11957</key>
+		<dict>
+			<key>Track ID</key><integer>11957</integer>
+			<key>Name</key><string>Clash</string>
+			<key>Artist</key><string>Diljit Dosanjh</string>
+			<key>Album Artist</key><string>Diljit Dosanjh</string>
+			<key>Composer</key><string>Raj Ranjodh</string>
+			<key>Album</key><string>G.O.A.T.</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6316910</integer>
+			<key>Total Time</key><integer>176386</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-05-01T10:37:46Z</date>
+			<key>Date Added</key><date>2021-05-01T10:37:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>G.O.A.T.</string>
+			<key>Sort Artist</key><string>Diljit Dosanjh</string>
+			<key>Sort Name</key><string>Clash</string>
+			<key>Persistent ID</key><string>25D17C0FDF8AFE7E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11961</key>
+		<dict>
+			<key>Track ID</key><integer>11961</integer>
+			<key>Name</key><string>Born to Shine</string>
+			<key>Artist</key><string>Diljit Dosanjh</string>
+			<key>Album Artist</key><string>Diljit Dosanjh</string>
+			<key>Composer</key><string>Amrit Maan</string>
+			<key>Album</key><string>G.O.A.T.</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7639528</integer>
+			<key>Total Time</key><integer>213333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-05-01T10:37:54Z</date>
+			<key>Date Added</key><date>2021-05-01T10:37:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>G.O.A.T.</string>
+			<key>Sort Artist</key><string>Diljit Dosanjh</string>
+			<key>Sort Name</key><string>Born to Shine</string>
+			<key>Persistent ID</key><string>4D5BC5A07DB9E670</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11963</key>
+		<dict>
+			<key>Track ID</key><integer>11963</integer>
+			<key>Name</key><string>Putt Jatt Da</string>
+			<key>Artist</key><string>Rajvir Jawanda</string>
+			<key>Album Artist</key><string>Rajvir Jawanda</string>
+			<key>Composer</key><string>J Statik &#38; Vicky Dhaliwal</string>
+			<key>Album</key><string>Putt Jatt Da - Single</string>
+			<key>Genre</key><string>Regional Indian</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7745671</integer>
+			<key>Total Time</key><integer>215388</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2021-05-01T10:38:25Z</date>
+			<key>Date Added</key><date>2021-05-01T10:38:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2019-10-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Putt Jatt Da - Single</string>
+			<key>Sort Artist</key><string>Rajvir Jawanda</string>
+			<key>Sort Name</key><string>Putt Jatt Da</string>
+			<key>Persistent ID</key><string>0695A1D58F090597</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19285</key>
+		<dict>
+			<key>Track ID</key><integer>19285</integer>
+			<key>Name</key><string>High Rated Gabru</string>
+			<key>Artist</key><string>Guru Randhawa &#38; Manj Musik</string>
+			<key>Album Artist</key><string>Guru Randhawa &#38; Manj Musik</string>
+			<key>Composer</key><string>Manj Musik</string>
+			<key>Album</key><string>High Rated Gabru - Single</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7680341</integer>
+			<key>Total Time</key><integer>213933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-10-19T16:25:02Z</date>
+			<key>Date Added</key><date>2017-10-19T16:25:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-12-23T14:42:15Z</date>
+			<key>Release Date</key><date>2017-07-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>High Rated Gabru - Single</string>
+			<key>Sort Artist</key><string>Guru Randhawa &#38; Manj Musik</string>
+			<key>Sort Name</key><string>High Rated Gabru</string>
+			<key>Persistent ID</key><string>1C5E6AAC649F4350</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19287</key>
+		<dict>
+			<key>Track ID</key><integer>19287</integer>
+			<key>Name</key><string>Mercy</string>
+			<key>Artist</key><string>Badshah</string>
+			<key>Album Artist</key><string>Badshah</string>
+			<key>Composer</key><string>Badshah</string>
+			<key>Album</key><string>Mercy - Single</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5927401</integer>
+			<key>Total Time</key><integer>162405</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-10-19T16:25:13Z</date>
+			<key>Date Added</key><date>2017-10-19T16:25:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3690228947</integer>
+			<key>Play Date UTC</key><date>2020-12-07T18:05:47Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2017-11-04T14:41:17Z</date>
+			<key>Release Date</key><date>2017-04-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mercy - Single</string>
+			<key>Sort Artist</key><string>Badshah</string>
+			<key>Sort Name</key><string>Mercy</string>
+			<key>Persistent ID</key><string>0353188964A0A6A3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19289</key>
+		<dict>
+			<key>Track ID</key><integer>19289</integer>
+			<key>Name</key><string>Na Ja</string>
+			<key>Artist</key><string>Pav Dharia</string>
+			<key>Album Artist</key><string>Pav Dharia</string>
+			<key>Composer</key><string>Pav Dharia</string>
+			<key>Album</key><string>Na Ja - Single</string>
+			<key>Genre</key><string>Indian</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7988192</integer>
+			<key>Total Time</key><integer>208000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-10-19T16:25:27Z</date>
+			<key>Date Added</key><date>2017-10-19T16:25:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-05-06T17:06:34Z</date>
+			<key>Release Date</key><date>2017-02-20T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Na Ja - Single</string>
+			<key>Sort Artist</key><string>Pav Dharia</string>
+			<key>Sort Name</key><string>Na Ja</string>
+			<key>Persistent ID</key><string>19439170D1CF160F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19291</key>
+		<dict>
+			<key>Track ID</key><integer>19291</integer>
+			<key>Name</key><string>3 Peg</string>
+			<key>Artist</key><string>Sharry Maan &#38; Mista Baaz</string>
+			<key>Album Artist</key><string>Sharry Maan &#38; Mista Baaz</string>
+			<key>Composer</key><string>Mista Baaz</string>
+			<key>Album</key><string>3 Peg - Single</string>
+			<key>Genre</key><string>Punjabi Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7428103</integer>
+			<key>Total Time</key><integer>204396</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-10-19T16:25:39Z</date>
+			<key>Date Added</key><date>2017-10-19T16:25:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3619812178</integer>
+			<key>Play Date UTC</key><date>2018-09-14T17:52:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-02-11T04:57:18Z</date>
+			<key>Release Date</key><date>2016-12-16T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>3 Peg - Single</string>
+			<key>Sort Artist</key><string>Sharry Maan &#38; Mista Baaz</string>
+			<key>Sort Name</key><string>3 Peg</string>
+			<key>Persistent ID</key><string>1D8C2D971B069789</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19293</key>
+		<dict>
+			<key>Track ID</key><integer>19293</integer>
+			<key>Name</key><string>Oscar (feat. Badshah)</string>
+			<key>Artist</key><string>Gippy Grewal</string>
+			<key>Album Artist</key><string>DJ Flow, Prateek Bachan &#38; Jaidev Kumar</string>
+			<key>Composer</key><string>Prateek Bachan</string>
+			<key>Album</key><string>Kaptaan (OST) - EP</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8034888</integer>
+			<key>Total Time</key><integer>218824</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-10-19T16:25:50Z</date>
+			<key>Date Added</key><date>2017-10-19T16:25:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619359506</integer>
+			<key>Play Date UTC</key><date>2018-09-09T12:08:26Z</date>
+			<key>Release Date</key><date>2016-05-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kaptaan (OST) - EP</string>
+			<key>Sort Artist</key><string>Gippy Grewal</string>
+			<key>Sort Name</key><string>Oscar (feat. Badshah)</string>
+			<key>Persistent ID</key><string>65A67FBE5DB68BDD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19295</key>
+		<dict>
+			<key>Track ID</key><integer>19295</integer>
+			<key>Name</key><string>Suit (From "Suit")</string>
+			<key>Artist</key><string>Guru Randhawa &#38; Arjun</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Intense</string>
+			<key>Album</key><string>Best Punjabi Songs Of 2016</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7232475</integer>
+			<key>Total Time</key><integer>200752</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-10-19T16:26:40Z</date>
+			<key>Date Added</key><date>2017-10-19T16:26:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3684011300</integer>
+			<key>Play Date UTC</key><date>2020-09-26T18:58:20Z</date>
+			<key>Release Date</key><date>2016-06-24T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best Punjabi Songs Of 2016</string>
+			<key>Sort Artist</key><string>Guru Randhawa &#38; Arjun</string>
+			<key>Sort Name</key><string>Suit (From "Suit")</string>
+			<key>Persistent ID</key><string>072A0805DF2CAAD5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19297</key>
+		<dict>
+			<key>Track ID</key><integer>19297</integer>
+			<key>Name</key><string>Gangland (feat. Deep Kahlon)</string>
+			<key>Artist</key><string>Mankirt Aulakh</string>
+			<key>Album Artist</key><string>Mankirt Aulakh</string>
+			<key>Composer</key><string>Pretty Bhullar</string>
+			<key>Album</key><string>Gangland - Single (feat. Deep Kahlon) - Single</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6108256</integer>
+			<key>Total Time</key><integer>168046</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-10-19T16:27:05Z</date>
+			<key>Date Added</key><date>2017-10-19T16:27:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3656868404</integer>
+			<key>Play Date UTC</key><date>2019-11-17T15:16:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-11-04T13:49:17Z</date>
+			<key>Release Date</key><date>2017-05-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gangland - Single (feat. Deep Kahlon) - Single</string>
+			<key>Sort Artist</key><string>Mankirt Aulakh</string>
+			<key>Sort Name</key><string>Gangland (feat. Deep Kahlon)</string>
+			<key>Persistent ID</key><string>EFF09F77BAC7E840</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19383</key>
+		<dict>
+			<key>Track ID</key><integer>19383</integer>
+			<key>Name</key><string>Half Window Down</string>
+			<key>Artist</key><string>Ikka</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Ikka</string>
+			<key>Album</key><string>Laembadgini &#38; Other Gaddi Hits</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8056834</integer>
+			<key>Total Time</key><integer>215278</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-10-19T16:28:31Z</date>
+			<key>Date Added</key><date>2017-10-19T16:28:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3684010920</integer>
+			<key>Play Date UTC</key><date>2020-09-26T18:52:00Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-03-11T13:58:02Z</date>
+			<key>Release Date</key><date>2016-01-13T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Laembadgini &#38; Other Gaddi Hits</string>
+			<key>Sort Artist</key><string>Ikka</string>
+			<key>Sort Name</key><string>Half Window Down</string>
+			<key>Persistent ID</key><string>FF461F75BB4D17F7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19385</key>
+		<dict>
+			<key>Track ID</key><integer>19385</integer>
+			<key>Name</key><string>5 Taara</string>
+			<key>Artist</key><string>Diljit Dosanjh</string>
+			<key>Album Artist</key><string>Diljit Dosanjh &#38; Akhil</string>
+			<key>Composer</key><string>Ranbir Singh</string>
+			<key>Album</key><string>Do Gabru - Diljit Dosanjh &#38; Akhil</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6452046</integer>
+			<key>Total Time</key><integer>178421</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2017-10-19T16:30:39Z</date>
+			<key>Date Added</key><date>2017-10-19T16:30:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3683407721</integer>
+			<key>Play Date UTC</key><date>2020-09-19T19:18:41Z</date>
+			<key>Release Date</key><date>2015-01-12T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Do Gabru - Diljit Dosanjh &#38; Akhil</string>
+			<key>Sort Artist</key><string>Diljit Dosanjh</string>
+			<key>Sort Name</key><string>5 Taara</string>
+			<key>Persistent ID</key><string>EB465AA150E868DA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19387</key>
+		<dict>
+			<key>Track ID</key><integer>19387</integer>
+			<key>Name</key><string>Laembadgini</string>
+			<key>Artist</key><string>Diljit Dosanjh</string>
+			<key>Album Artist</key><string>Diljit Dosanjh &#38; Akhil</string>
+			<key>Composer</key><string>Veet Baljit</string>
+			<key>Album</key><string>Do Gabru - Diljit Dosanjh &#38; Akhil</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6666026</integer>
+			<key>Total Time</key><integer>186313</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-10-19T16:31:10Z</date>
+			<key>Date Added</key><date>2017-10-19T16:31:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619809525</integer>
+			<key>Play Date UTC</key><date>2018-09-14T17:08:45Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-01-03T06:42:04Z</date>
+			<key>Release Date</key><date>2016-12-20T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Do Gabru - Diljit Dosanjh &#38; Akhil</string>
+			<key>Sort Artist</key><string>Diljit Dosanjh</string>
+			<key>Sort Name</key><string>Laembadgini</string>
+			<key>Persistent ID</key><string>40D3363ADDAEEC87</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19389</key>
+		<dict>
+			<key>Track ID</key><integer>19389</integer>
+			<key>Name</key><string>Do You Know</string>
+			<key>Artist</key><string>Diljit Dosanjh</string>
+			<key>Album Artist</key><string>Diljit Dosanjh</string>
+			<key>Album</key><string>Do You Know - Single</string>
+			<key>Genre</key><string>Indian</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7533674</integer>
+			<key>Total Time</key><integer>211765</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-10-19T16:32:07Z</date>
+			<key>Date Added</key><date>2017-10-19T16:32:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3597831039</integer>
+			<key>Play Date UTC</key><date>2018-01-03T08:00:39Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-04-26T15:19:19Z</date>
+			<key>Release Date</key><date>2016-09-24T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Do You Know - Single</string>
+			<key>Sort Artist</key><string>Diljit Dosanjh</string>
+			<key>Sort Name</key><string>Do You Know</string>
+			<key>Persistent ID</key><string>9A0DFD6811B70BC3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19391</key>
+		<dict>
+			<key>Track ID</key><integer>19391</integer>
+			<key>Name</key><string>Suit Suit (feat. Arjun)</string>
+			<key>Artist</key><string>Guru Randhawa, Rajat Nagpal &#38; Intense</string>
+			<key>Album Artist</key><string>Sachin-Jigar</string>
+			<key>Composer</key><string>Guru Randhawa, Rajat Nagpal &#38; Intense</string>
+			<key>Album</key><string>Hindi Medium (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Bollywood</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6851071</integer>
+			<key>Total Time</key><integer>190132</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-10-19T16:32:55Z</date>
+			<key>Date Added</key><date>2017-10-19T16:32:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-04-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hindi Medium (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Guru Randhawa, Rajat Nagpal &#38; Intense</string>
+			<key>Sort Name</key><string>Suit Suit (feat. Arjun)</string>
+			<key>Persistent ID</key><string>CB2B14F83766D76F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19393</key>
+		<dict>
+			<key>Track ID</key><integer>19393</integer>
+			<key>Name</key><string>Udeek (with The PropheC)</string>
+			<key>Artist</key><string>Raashi Sood</string>
+			<key>Album Artist</key><string>Raashi Sood</string>
+			<key>Composer</key><string>The PropheC</string>
+			<key>Album</key><string>Udeek (with The PropheC) - Single</string>
+			<key>Genre</key><string>Asia</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8882033</integer>
+			<key>Total Time</key><integer>252194</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2017-10-19T16:34:37Z</date>
+			<key>Date Added</key><date>2017-10-19T16:34:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-10-01T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Udeek (with The PropheC) - Single</string>
+			<key>Sort Artist</key><string>Raashi Sood</string>
+			<key>Sort Composer</key><string>PropheC</string>
+			<key>Sort Name</key><string>Udeek (with The PropheC)</string>
+			<key>Persistent ID</key><string>3C5565903FEEEFDC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19395</key>
+		<dict>
+			<key>Track ID</key><integer>19395</integer>
+			<key>Name</key><string>Wakhra Swag (feat. Badshah)</string>
+			<key>Artist</key><string>Navv Inder</string>
+			<key>Album Artist</key><string>Navv Inder</string>
+			<key>Composer</key><string>Navi Kamboz</string>
+			<key>Album</key><string>Wakhra Swag (feat. Badshah) - Single</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6817053</integer>
+			<key>Total Time</key><integer>190500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2017-10-19T16:36:04Z</date>
+			<key>Date Added</key><date>2017-10-19T16:36:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-11-17T15:24:22Z</date>
+			<key>Release Date</key><date>2015-09-10T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wakhra Swag (feat. Badshah) - Single</string>
+			<key>Sort Artist</key><string>Navv Inder</string>
+			<key>Sort Name</key><string>Wakhra Swag (feat. Badshah)</string>
+			<key>Persistent ID</key><string>6A1F552BC77245D1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19397</key>
+		<dict>
+			<key>Track ID</key><integer>19397</integer>
+			<key>Name</key><string>Jine Mera Dil Luteya</string>
+			<key>Artist</key><string>Jazzy B</string>
+			<key>Album Artist</key><string>Jazzy B</string>
+			<key>Composer</key><string>Sukshinder Shinda &#38; Jazzy B</string>
+			<key>Album</key><string>Jine Mera Dil Luteya - Single</string>
+			<key>Genre</key><string>Indian Folk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9113472</integer>
+			<key>Total Time</key><integer>261867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2017-10-19T16:36:42Z</date>
+			<key>Date Added</key><date>2017-10-19T16:36:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619807402</integer>
+			<key>Play Date UTC</key><date>2018-09-14T16:33:22Z</date>
+			<key>Release Date</key><date>2004-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Jine Mera Dil Luteya - Single</string>
+			<key>Sort Artist</key><string>Jazzy B</string>
+			<key>Sort Name</key><string>Jine Mera Dil Luteya</string>
+			<key>Persistent ID</key><string>18EC85AAEDAC2D88</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19399</key>
+		<dict>
+			<key>Track ID</key><integer>19399</integer>
+			<key>Name</key><string>Backbone</string>
+			<key>Artist</key><string>Harrdy Sandhu</string>
+			<key>Album Artist</key><string>Harrdy Sandhu</string>
+			<key>Composer</key><string>B. Praak</string>
+			<key>Album</key><string>Backbone - Single</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6335811</integer>
+			<key>Total Time</key><integer>175059</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-10-19T16:37:27Z</date>
+			<key>Date Added</key><date>2017-10-19T16:37:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3619811809</integer>
+			<key>Play Date UTC</key><date>2018-09-14T17:46:49Z</date>
+			<key>Release Date</key><date>2017-01-06T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Backbone - Single</string>
+			<key>Sort Artist</key><string>Harrdy Sandhu</string>
+			<key>Sort Name</key><string>Backbone</string>
+			<key>Persistent ID</key><string>0373667A32E71971</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19403</key>
+		<dict>
+			<key>Track ID</key><integer>19403</integer>
+			<key>Name</key><string>Gal Ban Gayi</string>
+			<key>Artist</key><string>Meet Bros, Sukhbir, Neha Kakkar &#38; Yo Yo Honey Singh</string>
+			<key>Album Artist</key><string>Meet Bros, Sukhbir, Neha Kakkar &#38; Yo Yo Honey Singh</string>
+			<key>Composer</key><string>Meet Bros</string>
+			<key>Album</key><string>Gal Ban Gayi - Single</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9178692</integer>
+			<key>Total Time</key><integer>254789</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2017-10-19T16:39:55Z</date>
+			<key>Date Added</key><date>2017-10-19T16:39:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3619807838</integer>
+			<key>Play Date UTC</key><date>2018-09-14T16:40:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-08-07T10:58:17Z</date>
+			<key>Release Date</key><date>2000-07-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gal Ban Gayi - Single</string>
+			<key>Sort Artist</key><string>Meet Bros, Sukhbir, Neha Kakkar &#38; Yo Yo Honey Singh</string>
+			<key>Sort Name</key><string>Gal Ban Gayi</string>
+			<key>Persistent ID</key><string>0A549EE1E43459A7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19407</key>
+		<dict>
+			<key>Track ID</key><integer>19407</integer>
+			<key>Name</key><string>Patola</string>
+			<key>Artist</key><string>Guru Randhawa &#38; Bohemia</string>
+			<key>Album Artist</key><string>Guru Randhawa &#38; Bohemia</string>
+			<key>Composer</key><string>Preet Hundal</string>
+			<key>Album</key><string>Patola - Single</string>
+			<key>Genre</key><string>Punjabi Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7861350</integer>
+			<key>Total Time</key><integer>208208</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2017-10-19T16:41:27Z</date>
+			<key>Date Added</key><date>2017-10-19T16:41:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2015-04-03T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Patola - Single</string>
+			<key>Sort Artist</key><string>Guru Randhawa &#38; Bohemia</string>
+			<key>Sort Name</key><string>Patola</string>
+			<key>Persistent ID</key><string>AB32501B02BE51B2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19409</key>
+		<dict>
+			<key>Track ID</key><integer>19409</integer>
+			<key>Name</key><string>Desi Kalakaar</string>
+			<key>Artist</key><string>Yo Yo Honey Singh</string>
+			<key>Album Artist</key><string>Yo Yo Honey Singh</string>
+			<key>Composer</key><string>Yo Yo Honey Singh</string>
+			<key>Album</key><string>Desi Kalakaar</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8933198</integer>
+			<key>Total Time</key><integer>253353</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2017-10-19T16:41:46Z</date>
+			<key>Date Added</key><date>2017-10-19T16:41:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3634126112</integer>
+			<key>Play Date UTC</key><date>2019-02-27T09:58:32Z</date>
+			<key>Release Date</key><date>2014-08-26T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Desi Kalakaar</string>
+			<key>Sort Artist</key><string>Yo Yo Honey Singh</string>
+			<key>Sort Name</key><string>Desi Kalakaar</string>
+			<key>Persistent ID</key><string>506B7E24F2C90F5A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19411</key>
+		<dict>
+			<key>Track ID</key><integer>19411</integer>
+			<key>Name</key><string>High Heels (feat. Yo Yo Honey Singh)</string>
+			<key>Artist</key><string>Jaz Dhami</string>
+			<key>Album Artist</key><string>Jaz Dhami</string>
+			<key>Composer</key><string>Jaz Dhami &#38; Yo Yo Honey Singh</string>
+			<key>Album</key><string>High Heels (feat. Yo Yo Honey Singh) - Single</string>
+			<key>Genre</key><string>Worldwide</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11033501</integer>
+			<key>Total Time</key><integer>297771</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2017-10-19T16:43:04Z</date>
+			<key>Date Added</key><date>2017-10-19T16:43:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2017-11-04T13:57:26Z</date>
+			<key>Release Date</key><date>2012-08-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>High Heels (feat. Yo Yo Honey Singh) - Single</string>
+			<key>Sort Artist</key><string>Jaz Dhami</string>
+			<key>Sort Name</key><string>High Heels (feat. Yo Yo Honey Singh)</string>
+			<key>Persistent ID</key><string>0E495BC54E427168</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19413</key>
+		<dict>
+			<key>Track ID</key><integer>19413</integer>
+			<key>Name</key><string>Fashion</string>
+			<key>Artist</key><string>Guru Randhawa &#38; Rajat Nagpal</string>
+			<key>Album Artist</key><string>Guru Randhawa &#38; Rajat Nagpal</string>
+			<key>Composer</key><string>Rajat Nagpal</string>
+			<key>Album</key><string>Fashion - Single</string>
+			<key>Genre</key><string>Indian Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6019602</integer>
+			<key>Total Time</key><integer>160558</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-10-19T16:43:34Z</date>
+			<key>Date Added</key><date>2017-10-19T16:43:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3656868236</integer>
+			<key>Play Date UTC</key><date>2019-11-17T15:13:56Z</date>
+			<key>Release Date</key><date>2016-09-20T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fashion - Single</string>
+			<key>Sort Artist</key><string>Guru Randhawa &#38; Rajat Nagpal</string>
+			<key>Sort Name</key><string>Fashion</string>
+			<key>Persistent ID</key><string>52462B4BADACEC80</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19417</key>
+		<dict>
+			<key>Track ID</key><integer>19417</integer>
+			<key>Name</key><string>Amplifier</string>
+			<key>Artist</key><string>Imran Khan</string>
+			<key>Album Artist</key><string>Imran Khan</string>
+			<key>Composer</key><string>Eren. E</string>
+			<key>Album</key><string>Unforgettable</string>
+			<key>Genre</key><string>Worldwide</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8211861</integer>
+			<key>Total Time</key><integer>232907</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2017-10-19T16:47:59Z</date>
+			<key>Date Added</key><date>2017-10-19T16:47:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2009-07-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Unforgettable</string>
+			<key>Sort Artist</key><string>Imran Khan</string>
+			<key>Sort Name</key><string>Amplifier</string>
+			<key>Persistent ID</key><string>7BBEC34A5173D844</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19419</key>
+		<dict>
+			<key>Track ID</key><integer>19419</integer>
+			<key>Name</key><string>Bewafa</string>
+			<key>Artist</key><string>Imran Khan</string>
+			<key>Album Artist</key><string>Imran Khan</string>
+			<key>Composer</key><string>Hakan Ozan</string>
+			<key>Album</key><string>Unforgettable</string>
+			<key>Genre</key><string>Worldwide</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8168242</integer>
+			<key>Total Time</key><integer>224853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2017-10-19T16:50:01Z</date>
+			<key>Date Added</key><date>2017-10-19T16:50:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3662777471</integer>
+			<key>Play Date UTC</key><date>2020-01-25T00:41:11Z</date>
+			<key>Release Date</key><date>2009-07-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Unforgettable</string>
+			<key>Sort Artist</key><string>Imran Khan</string>
+			<key>Sort Name</key><string>Bewafa</string>
+			<key>Persistent ID</key><string>BD41DDD41912774C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19421</key>
+		<dict>
+			<key>Track ID</key><integer>19421</integer>
+			<key>Name</key><string>Kangna</string>
+			<key>Artist</key><string>Dr Zeus, Master Rakesh, Shortie &#38; Deepti</string>
+			<key>Album Artist</key><string>Dr Zeus</string>
+			<key>Composer</key><string>Dr Zeus</string>
+			<key>Album</key><string>Unda Da Influence</string>
+			<key>Genre</key><string>Worldwide</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7444384</integer>
+			<key>Total Time</key><integer>210680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2017-10-19T16:50:56Z</date>
+			<key>Date Added</key><date>2017-10-19T16:50:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3683409091</integer>
+			<key>Play Date UTC</key><date>2020-09-19T19:41:31Z</date>
+			<key>Release Date</key><date>2003-05-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Unda Da Influence</string>
+			<key>Sort Artist</key><string>Dr Zeus, Master Rakesh, Shortie &#38; Deepti</string>
+			<key>Sort Name</key><string>Kangna</string>
+			<key>Persistent ID</key><string>5A3A44C8166D6055</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19423</key>
+		<dict>
+			<key>Track ID</key><integer>19423</integer>
+			<key>Name</key><string>Oh Ho Ho Ho (Remix)</string>
+			<key>Artist</key><string>Sukhbir, Ikka &#38; Abhijit Vaghani</string>
+			<key>Album Artist</key><string>Sachin-Jigar</string>
+			<key>Composer</key><string>Sukhbir &#38; Abhijit Vaghani</string>
+			<key>Album</key><string>Hindi Medium (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Bollywood</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8734468</integer>
+			<key>Total Time</key><integer>244417</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2017-10-19T16:51:38Z</date>
+			<key>Date Added</key><date>2017-10-19T16:51:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2017-04-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hindi Medium (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Sukhbir, Ikka &#38; Abhijit Vaghani</string>
+			<key>Sort Name</key><string>Oh Ho Ho Ho (Remix)</string>
+			<key>Persistent ID</key><string>10FCFB98BC6A5318</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19425</key>
+		<dict>
+			<key>Track ID</key><integer>19425</integer>
+			<key>Name</key><string>Ainvayi Ainvayi</string>
+			<key>Artist</key><string>Salim Merchant &#38; Sunidhi Chauhan</string>
+			<key>Album Artist</key><string>Salim-Sulaiman</string>
+			<key>Composer</key><string>Salim-Sulaiman</string>
+			<key>Album</key><string>Band Baaja Baaraat (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Bollywood</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9449881</integer>
+			<key>Total Time</key><integer>269000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2017-10-19T16:52:08Z</date>
+			<key>Date Added</key><date>2017-10-19T16:52:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2010-11-03T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Band Baaja Baaraat (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Salim Merchant &#38; Sunidhi Chauhan</string>
+			<key>Sort Name</key><string>Ainvayi Ainvayi</string>
+			<key>Persistent ID</key><string>3A8CFCA779818451</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>NOPE.</string>
+			<key>Description</key><string>NOP NOP NOPITY NOP NOP.</string>
+			<key>Playlist ID</key><integer>41632</integer>
+			<key>Playlist Persistent ID</key><string>CA1FCC728D05C2DC</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>19285</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19287</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19289</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19291</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19293</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19295</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19297</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19383</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19385</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19387</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19389</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19391</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19395</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19397</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19399</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19403</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19409</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19411</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19413</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19417</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19419</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19421</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19423</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19425</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8013</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8839</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8841</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8843</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8845</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8847</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8849</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8851</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8853</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10363</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10367</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10521</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11955</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11957</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11961</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11963</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

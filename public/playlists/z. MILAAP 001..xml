@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:24:03Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6603</key>
+		<dict>
+			<key>Track ID</key><integer>6603</integer>
+			<key>Name</key><string>IV</string>
+			<key>Artist</key><string>BADBADNOTGOOD</string>
+			<key>Album Artist</key><string>BADBADNOTGOOD</string>
+			<key>Album</key><string>IV</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15292371</integer>
+			<key>Total Time</key><integer>419248</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-01-13T17:26:35Z</date>
+			<key>Date Added</key><date>2019-01-13T17:26:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3630531593</integer>
+			<key>Play Date UTC</key><date>2019-01-16T19:29:53Z</date>
+			<key>Release Date</key><date>2016-07-08T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>IV</string>
+			<key>Sort Artist</key><string>BADBADNOTGOOD</string>
+			<key>Sort Name</key><string>IV</string>
+			<key>Persistent ID</key><string>3CD593081AE7D44A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6605</key>
+		<dict>
+			<key>Track ID</key><integer>6605</integer>
+			<key>Name</key><string>Baby Boy</string>
+			<key>Artist</key><string>Childish Gambino</string>
+			<key>Album Artist</key><string>Childish Gambino</string>
+			<key>Composer</key><string>Donald Glover &#38; Ludwig Göransson</string>
+			<key>Album</key><string>"Awaken, My Love!"</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13226773</integer>
+			<key>Total Time</key><integer>382587</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-01-13T17:28:17Z</date>
+			<key>Date Added</key><date>2019-01-13T17:28:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3630533960</integer>
+			<key>Play Date UTC</key><date>2019-01-16T20:09:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-07-30T08:33:32Z</date>
+			<key>Release Date</key><date>2016-12-02T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>"Awaken, My Love!"</string>
+			<key>Sort Artist</key><string>Childish Gambino</string>
+			<key>Sort Name</key><string>Baby Boy</string>
+			<key>Persistent ID</key><string>4F7DB649EAC338DB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6607</key>
+		<dict>
+			<key>Track ID</key><integer>6607</integer>
+			<key>Name</key><string>Brighter Than Sunshine</string>
+			<key>Artist</key><string>Aqualung</string>
+			<key>Album Artist</key><string>Aqualung</string>
+			<key>Composer</key><string>Matthew Hales, Kim Oliver &#38; Benjamin Hales</string>
+			<key>Album</key><string>Still Life</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8495951</integer>
+			<key>Total Time</key><integer>242439</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-01-13T17:49:30Z</date>
+			<key>Date Added</key><date>2019-01-13T17:49:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3748984146</integer>
+			<key>Play Date UTC</key><date>2022-10-18T18:59:06Z</date>
+			<key>Release Date</key><date>2003-10-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Still Life</string>
+			<key>Sort Artist</key><string>Aqualung</string>
+			<key>Sort Name</key><string>Brighter Than Sunshine</string>
+			<key>Persistent ID</key><string>569FD08D5B83C6A0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6609</key>
+		<dict>
+			<key>Track ID</key><integer>6609</integer>
+			<key>Name</key><string>cold/mess</string>
+			<key>Artist</key><string>Prateek Kuhad</string>
+			<key>Album Artist</key><string>Prateek Kuhad</string>
+			<key>Composer</key><string>Prateek Kuhad</string>
+			<key>Album</key><string>cold/mess</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9927665</integer>
+			<key>Total Time</key><integer>281219</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-01-13T17:53:19Z</date>
+			<key>Date Added</key><date>2019-01-13T17:53:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>51</integer>
+			<key>Play Date</key><integer>3756416199</integer>
+			<key>Play Date UTC</key><date>2023-01-12T19:26:39Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-02-10T18:25:00Z</date>
+			<key>Release Date</key><date>2018-07-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>cold/mess</string>
+			<key>Sort Artist</key><string>Prateek Kuhad</string>
+			<key>Sort Name</key><string>cold/mess</string>
+			<key>Persistent ID</key><string>BFE8E282A201E24A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6611</key>
+		<dict>
+			<key>Track ID</key><integer>6611</integer>
+			<key>Name</key><string>La Edad del Futuro</string>
+			<key>Artist</key><string>Glue Trip</string>
+			<key>Album Artist</key><string>Glue Trip</string>
+			<key>Composer</key><string>Glue Trip</string>
+			<key>Album</key><string>Glue Trip</string>
+			<key>Genre</key><string>Psychedelic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10569713</integer>
+			<key>Total Time</key><integer>302069</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-01-13T18:16:32Z</date>
+			<key>Date Added</key><date>2019-01-13T18:16:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3630530981</integer>
+			<key>Play Date UTC</key><date>2019-01-16T19:19:41Z</date>
+			<key>Release Date</key><date>2013-11-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Glue Trip</string>
+			<key>Sort Artist</key><string>Glue Trip</string>
+			<key>Sort Name</key><string>La Edad del Futuro</string>
+			<key>Persistent ID</key><string>39E6FBFEF2CB0B25</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6613</key>
+		<dict>
+			<key>Track ID</key><integer>6613</integer>
+			<key>Name</key><string>Better For Me</string>
+			<key>Artist</key><string>Fake Laugh</string>
+			<key>Album Artist</key><string>Fake Laugh</string>
+			<key>Composer</key><string>Kamran Khan</string>
+			<key>Album</key><string>Better For Me - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8949535</integer>
+			<key>Total Time</key><integer>255907</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-01-13T18:34:11Z</date>
+			<key>Date Added</key><date>2019-01-13T18:34:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3630532229</integer>
+			<key>Play Date UTC</key><date>2019-01-16T19:40:29Z</date>
+			<key>Release Date</key><date>2018-03-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Better For Me - Single</string>
+			<key>Sort Artist</key><string>Fake Laugh</string>
+			<key>Sort Name</key><string>Better For Me</string>
+			<key>Persistent ID</key><string>775229C05B97F84C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6693</key>
+		<dict>
+			<key>Track ID</key><integer>6693</integer>
+			<key>Name</key><string>Stairway to Heaven</string>
+			<key>Artist</key><string>Led Zeppelin</string>
+			<key>Album Artist</key><string>Led Zeppelin</string>
+			<key>Composer</key><string>Jimmy Page &#38; Robert Plant</string>
+			<key>Album</key><string>Led Zeppelin IV (Remastered)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>18806984</integer>
+			<key>Total Time</key><integer>482830</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2017-05-27T15:15:53Z</date>
+			<key>Date Added</key><date>2017-05-27T15:15:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>46</integer>
+			<key>Play Date</key><integer>3738300054</integer>
+			<key>Play Date UTC</key><date>2022-06-17T03:10:54Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2021-03-19T19:04:11Z</date>
+			<key>Release Date</key><date>1971-11-08T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Led Zeppelin IV (Remastered)</string>
+			<key>Sort Artist</key><string>Led Zeppelin</string>
+			<key>Sort Name</key><string>Stairway to Heaven</string>
+			<key>Persistent ID</key><string>C97E5AB584F5E0E8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10865</key>
+		<dict>
+			<key>Track ID</key><integer>10865</integer>
+			<key>Name</key><string>Don't Panic</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Album Artist</key><string>Coldplay</string>
+			<key>Composer</key><string>Chris Martin, Guy Berryman, Will Champion &#38; Jonny Buckland</string>
+			<key>Album</key><string>Don't Panic - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>5666756</integer>
+			<key>Total Time</key><integer>140540</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-06-25T07:32:26Z</date>
+			<key>Date Added</key><date>2010-01-19T08:49:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Play Count</key><integer>88</integer>
+			<key>Play Date</key><integer>3748303433</integer>
+			<key>Play Date UTC</key><date>2022-10-10T21:53:53Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2022-07-03T12:39:06Z</date>
+			<key>Normalization</key><integer>3729</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B19045E2D993D56A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>14327</key>
+		<dict>
+			<key>Track ID</key><integer>14327</integer>
+			<key>Name</key><string>The Sound of Muzak</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven Wilson</string>
+			<key>Album</key><string>In Absentia</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4851313</integer>
+			<key>Total Time</key><integer>299102</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2012-10-31T15:51:40Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Comments</key><string> 00000000 00000210 000008A0 0000000000C93A50 00000000 0048F8D2 00000000 00000000 00000000 00000000 00000000 00000000</string>
+			<key>Play Count</key><integer>90</integer>
+			<key>Play Date</key><integer>3759910394</integer>
+			<key>Play Date UTC</key><date>2023-02-22T06:03:14Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2022-05-29T08:58:59Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Sound of Muzak</string>
+			<key>Persistent ID</key><string>7EF434A6AB9778E1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>14729</key>
+		<dict>
+			<key>Track ID</key><integer>14729</integer>
+			<key>Name</key><string>Baby Dream is Cellophane</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Stupid Dream</string>
+			<key>Genre</key><string>Progressive Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5345373</integer>
+			<key>Total Time</key><integer>193253</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-01-24T21:27:02Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>221</integer>
+			<key>Comments</key><string>please support small labels</string>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3745336723</integer>
+			<key>Play Date UTC</key><date>2022-09-06T13:48:43Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-01-28T05:27:04Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>55EDE30B960A7F16</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>19457</key>
+		<dict>
+			<key>Track ID</key><integer>19457</integer>
+			<key>Name</key><string>Lazarus</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Composer</key><string>Steven John Wilson, Richard Barbieri, Colin Edwin Balch &#38; Gavin Richard Harrison</string>
+			<key>Album</key><string>Deadwing</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9358233</integer>
+			<key>Total Time</key><integer>258587</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-12-07T11:16:16Z</date>
+			<key>Date Added</key><date>2017-12-07T11:16:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>67</integer>
+			<key>Play Date</key><integer>3756423874</integer>
+			<key>Play Date UTC</key><date>2023-01-12T21:34:34Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-02-01T05:03:46Z</date>
+			<key>Release Date</key><date>2005-03-28T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Deadwing</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Lazarus</string>
+			<key>Persistent ID</key><string>EC2DB9CE788FFA5B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20883</key>
+		<dict>
+			<key>Track ID</key><integer>20883</integer>
+			<key>Name</key><string>Take a Leaf</string>
+			<key>Artist</key><string>The Revisit Project</string>
+			<key>Album Artist</key><string>The Revisit Project</string>
+			<key>Album</key><string>Take a Leaf - Single</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12998389</integer>
+			<key>Total Time</key><integer>379355</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-03-16T02:37:17Z</date>
+			<key>Date Added</key><date>2018-03-16T02:37:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3730489223</integer>
+			<key>Play Date UTC</key><date>2022-03-18T17:30:23Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-11-10T19:34:56Z</date>
+			<key>Release Date</key><date>2017-09-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Take a Leaf - Single</string>
+			<key>Sort Album Artist</key><string>Revisit Project</string>
+			<key>Sort Artist</key><string>Revisit Project</string>
+			<key>Sort Name</key><string>Take a Leaf</string>
+			<key>Persistent ID</key><string>43F3DDC35E7FCA0A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21041</key>
+		<dict>
+			<key>Track ID</key><integer>21041</integer>
+			<key>Name</key><string>Innocence in Harlem</string>
+			<key>Artist</key><string>Sameer Gupta</string>
+			<key>Album Artist</key><string>Sameer Gupta</string>
+			<key>Composer</key><string>Sameer Gupta</string>
+			<key>Album</key><string>A Circle Has No Beginning</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14353858</integer>
+			<key>Total Time</key><integer>408573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-05-08T13:09:28Z</date>
+			<key>Date Added</key><date>2018-05-08T13:09:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3737861747</integer>
+			<key>Play Date UTC</key><date>2022-06-12T01:25:47Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-01-16T00:55:23Z</date>
+			<key>Release Date</key><date>2018-02-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Circle Has No Beginning</string>
+			<key>Sort Artist</key><string>Sameer Gupta</string>
+			<key>Sort Name</key><string>Innocence in Harlem</string>
+			<key>Persistent ID</key><string>791B20413B2FF209</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21735</key>
+		<dict>
+			<key>Track ID</key><integer>21735</integer>
+			<key>Name</key><string>My Jinji</string>
+			<key>Artist</key><string>Sunset Rollercoaster</string>
+			<key>Album Artist</key><string>Sunset Rollercoaster</string>
+			<key>Composer</key><string>Tseng Kuo Hung</string>
+			<key>Album</key><string>Jinji Kikko - Single</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14425193</integer>
+			<key>Total Time</key><integer>400560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-08-10T08:46:50Z</date>
+			<key>Date Added</key><date>2018-08-10T08:46:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>49</integer>
+			<key>Play Date</key><integer>3743808178</integer>
+			<key>Play Date UTC</key><date>2022-08-19T21:12:58Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2022-12-06T07:38:01Z</date>
+			<key>Release Date</key><date>2016-03-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Jinji Kikko - Single</string>
+			<key>Sort Artist</key><string>Sunset Rollercoaster</string>
+			<key>Sort Name</key><string>My Jinji</string>
+			<key>Persistent ID</key><string>00D6F59DD45E2BDD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22517</key>
+		<dict>
+			<key>Track ID</key><integer>22517</integer>
+			<key>Name</key><string>Waiting So Long</string>
+			<key>Artist</key><string>Deborah Bonham</string>
+			<key>Album Artist</key><string>Deborah Bonham</string>
+			<key>Album</key><string>Duchess</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8804663</integer>
+			<key>Total Time</key><integer>254146</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2018-11-08T13:48:06Z</date>
+			<key>Date Added</key><date>2018-11-08T13:48:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3675559414</integer>
+			<key>Play Date UTC</key><date>2020-06-20T23:13:34Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-09-23T14:16:40Z</date>
+			<key>Release Date</key><date>2008-06-20T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Duchess</string>
+			<key>Sort Artist</key><string>Deborah Bonham</string>
+			<key>Sort Name</key><string>Waiting So Long</string>
+			<key>Persistent ID</key><string>274E9D797E3B8CB3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22559</key>
+		<dict>
+			<key>Track ID</key><integer>22559</integer>
+			<key>Name</key><string>Feel It Still</string>
+			<key>Artist</key><string>Portugal. The Man</string>
+			<key>Album Artist</key><string>Portugal. The Man</string>
+			<key>Composer</key><string>Asa Taccone, Brian Holland, Frederick Gorman, John Hill, Portugal. The Man, Robert Bateman &#38; Zoe English</string>
+			<key>Album</key><string>Feel It Still - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6003006</integer>
+			<key>Total Time</key><integer>163269</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-11-15T18:04:42Z</date>
+			<key>Date Added</key><date>2018-11-15T18:04:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3630530437</integer>
+			<key>Play Date UTC</key><date>2019-01-16T19:10:37Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-01-20T20:17:04Z</date>
+			<key>Release Date</key><date>2017-03-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Feel It Still - Single</string>
+			<key>Sort Artist</key><string>Portugal. The Man</string>
+			<key>Sort Name</key><string>Feel It Still</string>
+			<key>Persistent ID</key><string>368BA077ADA05745</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>z. MILAAP 001. </string>
+			<key>Description</key><string>A series of Baku-Tushar playlists. 
+No Vibe // Just Pure Music. 
+Hopefully more updates soon. </string>
+			<key>Playlist ID</key><integer>44731</integer>
+			<key>Playlist Persistent ID</key><string>0AE876659F6292AE</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>19457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10865</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6603</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6693</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14327</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6607</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22559</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6609</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6611</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14729</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20883</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6613</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21735</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21041</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22517</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

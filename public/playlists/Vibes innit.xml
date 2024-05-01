@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:23:31Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6605</key>
+		<dict>
+			<key>Track ID</key><integer>6605</integer>
+			<key>Name</key><string>Baby Boy</string>
+			<key>Artist</key><string>Childish Gambino</string>
+			<key>Album Artist</key><string>Childish Gambino</string>
+			<key>Composer</key><string>Donald Glover &#38; Ludwig Göransson</string>
+			<key>Album</key><string>"Awaken, My Love!"</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>13226773</integer>
+			<key>Total Time</key><integer>382587</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-01-13T17:28:17Z</date>
+			<key>Date Added</key><date>2019-01-13T17:28:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3630533960</integer>
+			<key>Play Date UTC</key><date>2019-01-16T20:09:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-07-30T08:33:32Z</date>
+			<key>Release Date</key><date>2016-12-02T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>"Awaken, My Love!"</string>
+			<key>Sort Artist</key><string>Childish Gambino</string>
+			<key>Sort Name</key><string>Baby Boy</string>
+			<key>Persistent ID</key><string>4F7DB649EAC338DB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7131</key>
+		<dict>
+			<key>Track ID</key><integer>7131</integer>
+			<key>Name</key><string>The Spirit Carries On</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>James LaBrie, John Myung, John Petrucci, Jordan Rudess &#38; Mike Portnoy</string>
+			<key>Album</key><string>Greatest Hit (...and 21 Other Pretty Cool Songs) [Remastered]</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14751671</integer>
+			<key>Total Time</key><integer>399960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-07-20T20:05:54Z</date>
+			<key>Date Added</key><date>2017-07-20T20:05:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3745288034</integer>
+			<key>Play Date UTC</key><date>2022-09-06T00:17:14Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-12-08T13:29:17Z</date>
+			<key>Release Date</key><date>1999-10-26T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Greatest Hit (...and 21 Other Pretty Cool Songs) [Remastered]</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Spirit Carries On</string>
+			<key>Persistent ID</key><string>172D4A907BE54F40</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8239</key>
+		<dict>
+			<key>Track ID</key><integer>8239</integer>
+			<key>Name</key><string>Jekyll</string>
+			<key>Artist</key><string>Hiatus Kaiyote</string>
+			<key>Album Artist</key><string>Hiatus Kaiyote</string>
+			<key>Composer</key><string>Naomi Saalfield, Paul Bender, Simon Mavin &#38; Perrin Moss</string>
+			<key>Album</key><string>Choose Your Weapon</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12175201</integer>
+			<key>Total Time</key><integer>333343</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2019-06-12T18:21:02Z</date>
+			<key>Date Added</key><date>2019-06-12T18:21:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3702881513</integer>
+			<key>Play Date UTC</key><date>2021-05-03T04:41:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-10-01T15:53:22Z</date>
+			<key>Release Date</key><date>2015-05-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Choose Your Weapon</string>
+			<key>Sort Artist</key><string>Hiatus Kaiyote</string>
+			<key>Sort Name</key><string>Jekyll</string>
+			<key>Persistent ID</key><string>C5DAEFDB26768A67</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9559</key>
+		<dict>
+			<key>Track ID</key><integer>9559</integer>
+			<key>Name</key><string>SLOW DANCING IN THE DARK</string>
+			<key>Artist</key><string>Joji</string>
+			<key>Album Artist</key><string>Joji</string>
+			<key>Composer</key><string>George Miller &#38; Jonathan Patrick Wimberly</string>
+			<key>Album</key><string>BALLADS 1</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7406381</integer>
+			<key>Total Time</key><integer>209274</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-09-03T18:48:17Z</date>
+			<key>Date Added</key><date>2019-09-03T18:48:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3725987126</integer>
+			<key>Play Date UTC</key><date>2022-01-25T14:55:26Z</date>
+			<key>Release Date</key><date>2018-09-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>BALLADS 1</string>
+			<key>Sort Artist</key><string>Joji</string>
+			<key>Sort Name</key><string>SLOW DANCING IN THE DARK</string>
+			<key>Persistent ID</key><string>E7C1FEDA4F52EE4E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11471</key>
+		<dict>
+			<key>Track ID</key><integer>11471</integer>
+			<key>Name</key><string>Hand Me Downs</string>
+			<key>Artist</key><string>Mac Miller</string>
+			<key>Album Artist</key><string>Mac Miller</string>
+			<key>Composer</key><string>B. Sarka, G. Stevenson &#38; M. McCormick</string>
+			<key>Album</key><string>Circles</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10365434</integer>
+			<key>Total Time</key><integer>298440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-11-02T00:42:28Z</date>
+			<key>Date Added</key><date>2020-11-02T00:42:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3756423427</integer>
+			<key>Play Date UTC</key><date>2023-01-12T21:27:07Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-12-07T14:06:42Z</date>
+			<key>Release Date</key><date>2020-01-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Circles</string>
+			<key>Sort Artist</key><string>Mac Miller</string>
+			<key>Sort Name</key><string>Hand Me Downs</string>
+			<key>Persistent ID</key><string>44607F9DA3E961A1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11713</key>
+		<dict>
+			<key>Track ID</key><integer>11713</integer>
+			<key>Name</key><string>Sunflower</string>
+			<key>Artist</key><string>Rex Orange County</string>
+			<key>Album Artist</key><string>Rex Orange County</string>
+			<key>Composer</key><string>Ben Ash &#38; Alex O'Connor</string>
+			<key>Album</key><string>Sunflower - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8915734</integer>
+			<key>Total Time</key><integer>252231</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2021-02-08T15:31:47Z</date>
+			<key>Date Added</key><date>2021-02-08T15:31:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3699574704</integer>
+			<key>Play Date UTC</key><date>2021-03-25T22:08:24Z</date>
+			<key>Release Date</key><date>2017-03-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sunflower - Single</string>
+			<key>Sort Artist</key><string>Rex Orange County</string>
+			<key>Sort Name</key><string>Sunflower</string>
+			<key>Persistent ID</key><string>77B8D763EC008C63</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19433</key>
+		<dict>
+			<key>Track ID</key><integer>19433</integer>
+			<key>Name</key><string>Lights Down Low (feat. gnash)</string>
+			<key>Artist</key><string>MAX</string>
+			<key>Album Artist</key><string>MAX</string>
+			<key>Composer</key><string>MAX, Nathaniel Motte &#38; Liam O'Donnell</string>
+			<key>Album</key><string>Lights Down Low - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8016737</integer>
+			<key>Total Time</key><integer>225013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-11-03T11:07:54Z</date>
+			<key>Date Added</key><date>2017-11-03T11:07:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>113</integer>
+			<key>Play Date</key><integer>3756419801</integer>
+			<key>Play Date UTC</key><date>2023-01-12T20:26:41Z</date>
+			<key>Skip Count</key><integer>11</integer>
+			<key>Skip Date</key><date>2023-03-07T05:05:40Z</date>
+			<key>Release Date</key><date>2016-10-14T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lights Down Low - Single</string>
+			<key>Sort Artist</key><string>MAX</string>
+			<key>Sort Name</key><string>Lights Down Low (feat. gnash)</string>
+			<key>Persistent ID</key><string>5291931CE3D8A452</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19655</key>
+		<dict>
+			<key>Track ID</key><integer>19655</integer>
+			<key>Name</key><string>The Brain Dance</string>
+			<key>Artist</key><string>Animals As Leaders</string>
+			<key>Album Artist</key><string>Animals As Leaders</string>
+			<key>Album</key><string>The Madness of Many</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>15321561</integer>
+			<key>Total Time</key><integer>420747</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-12-29T13:40:42Z</date>
+			<key>Date Added</key><date>2017-12-29T13:40:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>338</integer>
+			<key>Play Date</key><integer>3761242629</integer>
+			<key>Play Date UTC</key><date>2023-03-09T16:07:09Z</date>
+			<key>Skip Count</key><integer>22</integer>
+			<key>Skip Date</key><date>2022-03-16T02:29:49Z</date>
+			<key>Release Date</key><date>2016-11-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Madness of Many</string>
+			<key>Sort Artist</key><string>Animals As Leaders</string>
+			<key>Sort Name</key><string>Brain Dance</string>
+			<key>Persistent ID</key><string>B6E7E6E7D2BE8FBC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21217</key>
+		<dict>
+			<key>Track ID</key><integer>21217</integer>
+			<key>Name</key><string>Cherry Hill</string>
+			<key>Artist</key><string>Russ</string>
+			<key>Album Artist</key><string>Russ</string>
+			<key>Composer</key><string>Russ</string>
+			<key>Album</key><string>There's Really A Wolf</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7841506</integer>
+			<key>Total Time</key><integer>222453</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-06-04T15:51:02Z</date>
+			<key>Date Added</key><date>2018-06-04T15:51:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>75</integer>
+			<key>Play Date</key><integer>3743811180</integer>
+			<key>Play Date UTC</key><date>2022-08-19T22:03:00Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-11-07T07:16:20Z</date>
+			<key>Release Date</key><date>2017-05-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>There's Really A Wolf</string>
+			<key>Sort Artist</key><string>Russ</string>
+			<key>Sort Name</key><string>Cherry Hill</string>
+			<key>Persistent ID</key><string>EAC123067BAAB71E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22141</key>
+		<dict>
+			<key>Track ID</key><integer>22141</integer>
+			<key>Name</key><string>Vibin' Out with (((O)))</string>
+			<key>Artist</key><string>FKJ</string>
+			<key>Album Artist</key><string>FKJ</string>
+			<key>Composer</key><string>Vincent Fenton</string>
+			<key>Album</key><string>French Kiwi Juice</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10926682</integer>
+			<key>Total Time</key><integer>311837</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-09-26T14:26:21Z</date>
+			<key>Date Added</key><date>2018-09-26T14:26:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>91</integer>
+			<key>Play Date</key><integer>3759756997</integer>
+			<key>Play Date UTC</key><date>2023-02-20T11:26:37Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-02-16T06:47:12Z</date>
+			<key>Release Date</key><date>2017-03-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>French Kiwi Juice</string>
+			<key>Sort Artist</key><string>FKJ</string>
+			<key>Sort Name</key><string>Vibin' Out with (((O)))</string>
+			<key>Persistent ID</key><string>EC2C4A0409781FFA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22181</key>
+		<dict>
+			<key>Track ID</key><integer>22181</integer>
+			<key>Name</key><string>Flirting in Space</string>
+			<key>Artist</key><string>Brad stank</string>
+			<key>Album Artist</key><string>Brad stank</string>
+			<key>Album</key><string>Flirting in Space - Single</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9154698</integer>
+			<key>Total Time</key><integer>257764</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-09-29T20:58:47Z</date>
+			<key>Date Added</key><date>2018-09-29T20:58:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3753674879</integer>
+			<key>Play Date UTC</key><date>2022-12-12T01:57:59Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-11-17T09:54:31Z</date>
+			<key>Release Date</key><date>2017-06-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Flirting in Space - Single</string>
+			<key>Sort Artist</key><string>Brad stank</string>
+			<key>Sort Name</key><string>Flirting in Space</string>
+			<key>Persistent ID</key><string>83DD7C42ACAC4028</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Vibes innit</string>
+			<key>Description</key><string>Vibes innit</string>
+			<key>Playlist ID</key><integer>44616</integer>
+			<key>Playlist Persistent ID</key><string>2487C5741BBC4833</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>11713</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19655</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8239</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11471</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9559</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6605</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19433</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

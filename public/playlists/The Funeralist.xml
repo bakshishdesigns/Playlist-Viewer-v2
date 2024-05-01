@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:20:53Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6421</key>
+		<dict>
+			<key>Track ID</key><integer>6421</integer>
+			<key>Name</key><string>Wish You Were Here</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>David Gilmour &#38; Roger Waters</string>
+			<key>Album</key><string>A Foot In the Door: The Best of Pink Floyd</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10886702</integer>
+			<key>Total Time</key><integer>304200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1975</integer>
+			<key>Date Modified</key><date>2017-05-21T19:24:51Z</date>
+			<key>Date Added</key><date>2017-06-05T18:26:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>201</integer>
+			<key>Play Date</key><integer>3760989475</integer>
+			<key>Play Date UTC</key><date>2023-03-06T17:47:55Z</date>
+			<key>Skip Count</key><integer>24</integer>
+			<key>Skip Date</key><date>2022-02-23T13:56:37Z</date>
+			<key>Release Date</key><date>1975-09-12T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Foot In the Door: The Best of Pink Floyd</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Wish You Were Here</string>
+			<key>Persistent ID</key><string>D7332A72454B162F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6697</key>
+		<dict>
+			<key>Track ID</key><integer>6697</integer>
+			<key>Name</key><string>Coming Back to Life</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>David Gilmour</string>
+			<key>Album</key><string>The Division Bell</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2017-05-27T15:16:23Z</date>
+			<key>Date Added</key><date>2017-05-27T15:16:23Z</date>
+			<key>Play Count</key><integer>178</integer>
+			<key>Play Date</key><integer>3759767357</integer>
+			<key>Play Date UTC</key><date>2023-02-20T14:19:17Z</date>
+			<key>Skip Count</key><integer>13</integer>
+			<key>Skip Date</key><date>2019-04-11T22:16:04Z</date>
+			<key>Sort Album</key><string>Division Bell</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Coming Back to Life</string>
+			<key>Persistent ID</key><string>C886ED4F7CD57222</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>8915</key>
+		<dict>
+			<key>Track ID</key><integer>8915</integer>
+			<key>Name</key><string>Highway to Hell</string>
+			<key>Artist</key><string>ACDC</string>
+			<key>Album Artist</key><string>AC/DC</string>
+			<key>Composer</key><string>Angus Young/Bon Scott/Malcolm Young</string>
+			<key>Album</key><string>Highway to Hell</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3381623</integer>
+			<key>Total Time</key><integer>208169</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1979</integer>
+			<key>Date Modified</key><date>2015-01-22T11:46:54Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3711554752</integer>
+			<key>Play Date UTC</key><date>2021-08-11T13:55:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>55BE40ECBD603E38</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>15189</key>
+		<dict>
+			<key>Track ID</key><integer>15189</integer>
+			<key>Name</key><string>Bohemian Rhapsody</string>
+			<key>Artist</key><string>Queen</string>
+			<key>Album</key><string>Absolute Greatest</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10741281</integer>
+			<key>Total Time</key><integer>356675</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2011-12-24T13:03:22Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>240</integer>
+			<key>Comments</key><string>Track 20</string>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3700148010</integer>
+			<key>Play Date UTC</key><date>2021-04-01T13:23:30Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2021-03-24T15:57:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B90338C63BE62516</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>18505</key>
+		<dict>
+			<key>Track ID</key><integer>18505</integer>
+			<key>Name</key><string>Scene Eight: The Spirit Carries On</string>
+			<key>Artist</key><string>Dream Theater</string>
+			<key>Album Artist</key><string>Dream Theater</string>
+			<key>Composer</key><string>Dream Theater</string>
+			<key>Album</key><string>Metropolis, Pt. 2: Scenes from a Memory</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>14652181</integer>
+			<key>Total Time</key><integer>398267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2017-09-04T09:38:43Z</date>
+			<key>Date Added</key><date>2017-09-04T09:38:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>47</integer>
+			<key>Play Date</key><integer>3746532642</integer>
+			<key>Play Date UTC</key><date>2022-09-20T10:00:42Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-02-23T12:11:26Z</date>
+			<key>Release Date</key><date>1999-10-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Metropolis, Pt. 2: Scenes from a Memory</string>
+			<key>Sort Artist</key><string>Dream Theater</string>
+			<key>Sort Name</key><string>Scene Eight: The Spirit Carries On</string>
+			<key>Persistent ID</key><string>21F984D9F6BE0467</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>19213</key>
+		<dict>
+			<key>Track ID</key><integer>19213</integer>
+			<key>Name</key><string>Arriving Somewhere But Not Here</string>
+			<key>Artist</key><string>Porcupine Tree</string>
+			<key>Album Artist</key><string>Porcupine Tree</string>
+			<key>Album</key><string>Deadwing</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>25199442</integer>
+			<key>Total Time</key><integer>722200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2017-10-07T10:11:34Z</date>
+			<key>Date Added</key><date>2017-10-07T10:11:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>45</integer>
+			<key>Play Date</key><integer>3745277161</integer>
+			<key>Play Date UTC</key><date>2022-09-05T21:16:01Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2019-11-15T17:54:50Z</date>
+			<key>Release Date</key><date>2005-03-28T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Deadwing</string>
+			<key>Sort Artist</key><string>Porcupine Tree</string>
+			<key>Sort Name</key><string>Arriving Somewhere But Not Here</string>
+			<key>Persistent ID</key><string>F046A25E04F69103</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20013</key>
+		<dict>
+			<key>Track ID</key><integer>20013</integer>
+			<key>Name</key><string>Tears In Heaven (Acoustic Live)</string>
+			<key>Artist</key><string>Eric Clapton</string>
+			<key>Album Artist</key><string>Eric Clapton</string>
+			<key>Composer</key><string>Eric Clapton &#38; Will Jennings</string>
+			<key>Album</key><string>Unplugged (Deluxe Edition) [Live]</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10539059</integer>
+			<key>Total Time</key><integer>280000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2018-01-27T19:50:42Z</date>
+			<key>Date Added</key><date>2018-01-27T19:50:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3748313591</integer>
+			<key>Play Date UTC</key><date>2022-10-11T00:43:11Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2019-08-29T06:33:21Z</date>
+			<key>Release Date</key><date>1992-08-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Unplugged (Deluxe Edition) [Live]</string>
+			<key>Sort Artist</key><string>Eric Clapton</string>
+			<key>Sort Name</key><string>Tears In Heaven (Acoustic Live)</string>
+			<key>Persistent ID</key><string>3C9AAF1181C95DDD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20181</key>
+		<dict>
+			<key>Track ID</key><integer>20181</integer>
+			<key>Name</key><string>Hump de Bump</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Stadium Arcadium</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7907215</integer>
+			<key>Total Time</key><integer>213093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>28</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-01-27T20:11:22Z</date>
+			<key>Date Added</key><date>2018-01-27T20:11:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3748454431</integer>
+			<key>Play Date UTC</key><date>2022-10-12T15:50:31Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2019-12-13T05:19:40Z</date>
+			<key>Release Date</key><date>2006-05-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stadium Arcadium</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Hump de Bump</string>
+			<key>Persistent ID</key><string>B3CC005FBDC1528F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20695</key>
+		<dict>
+			<key>Track ID</key><integer>20695</integer>
+			<key>Name</key><string>Freddie Freeloader</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Composer</key><string>Miles Davis</string>
+			<key>Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>22212196</integer>
+			<key>Total Time</key><integer>586400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>1959</integer>
+			<key>Date Modified</key><date>2018-03-04T17:24:05Z</date>
+			<key>Date Added</key><date>2018-03-04T17:24:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3716621923</integer>
+			<key>Play Date UTC</key><date>2021-10-09T05:28:43Z</date>
+			<key>Release Date</key><date>1959-08-17T07:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kind of Blue (Legacy Edition)</string>
+			<key>Sort Artist</key><string>Miles Davis</string>
+			<key>Sort Name</key><string>Freddie Freeloader</string>
+			<key>Persistent ID</key><string>E223B1FD761F21CC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21891</key>
+		<dict>
+			<key>Track ID</key><integer>21891</integer>
+			<key>Name</key><string>The Great Gig in the Sky</string>
+			<key>Artist</key><string>Pink Floyd</string>
+			<key>Album Artist</key><string>Pink Floyd</string>
+			<key>Composer</key><string>Richard Wright &#38; Clare Torry</string>
+			<key>Album</key><string>A Foot In the Door: The Best of Pink Floyd</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9929572</integer>
+			<key>Total Time</key><integer>284027</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-09-09T06:54:59Z</date>
+			<key>Date Added</key><date>2018-09-09T06:54:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>137</integer>
+			<key>Play Date</key><integer>3759757282</integer>
+			<key>Play Date UTC</key><date>2023-02-20T11:31:22Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-05-17T22:52:49Z</date>
+			<key>Release Date</key><date>1973-03-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Foot In the Door: The Best of Pink Floyd</string>
+			<key>Sort Artist</key><string>Pink Floyd</string>
+			<key>Sort Name</key><string>Great Gig in the Sky</string>
+			<key>Persistent ID</key><string>89EB42EF3A8DF6D7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>The Funeralist </string>
+			<key>Description</key><string>tunes for goodbye o'clock
+[ORDERED PLAYLIST]</string>
+			<key>Playlist ID</key><integer>44158</integer>
+			<key>Playlist Persistent ID</key><string>29327E001B109E71</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>20181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20695</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8915</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18505</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20013</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6697</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6421</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21891</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

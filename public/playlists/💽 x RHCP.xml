@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:05:11Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7117</key>
+		<dict>
+			<key>Track ID</key><integer>7117</integer>
+			<key>Name</key><string>Dark Necessities</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea, Josh Klinghoffer &#38; Brian Burton</string>
+			<key>Album</key><string>The Getaway</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10561108</integer>
+			<key>Total Time</key><integer>302013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2017-07-13T06:28:55Z</date>
+			<key>Date Added</key><date>2017-07-13T06:28:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>146</integer>
+			<key>Play Date</key><integer>3749886724</integer>
+			<key>Play Date UTC</key><date>2022-10-29T05:42:04Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2021-12-16T06:44:01Z</date>
+			<key>Release Date</key><date>2016-05-05T07:00:00Z</date>
+			<key>Loved</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Getaway</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Dark Necessities</string>
+			<key>Persistent ID</key><string>71EB5C5EC2E5B55D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8233</key>
+		<dict>
+			<key>Track ID</key><integer>8233</integer>
+			<key>Name</key><string>Go Robot</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>The Getaway</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9220535</integer>
+			<key>Total Time</key><integer>263813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-06-11T11:11:01Z</date>
+			<key>Date Added</key><date>2019-06-11T11:11:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3662699883</integer>
+			<key>Play Date UTC</key><date>2020-01-24T03:08:03Z</date>
+			<key>Release Date</key><date>2016-06-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Getaway</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Go Robot</string>
+			<key>Persistent ID</key><string>3C9C1633623756F4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8437</key>
+		<dict>
+			<key>Track ID</key><integer>8437</integer>
+			<key>Name</key><string>Tell Me Baby</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Stadium Arcadium</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9078510</integer>
+			<key>Total Time</key><integer>247663</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>28</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2019-07-18T06:11:59Z</date>
+			<key>Date Added</key><date>2019-07-18T06:11:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3742544272</integer>
+			<key>Play Date UTC</key><date>2022-08-05T06:07:52Z</date>
+			<key>Release Date</key><date>2006-05-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stadium Arcadium</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Tell Me Baby</string>
+			<key>Persistent ID</key><string>014CB468E2AA21E5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8439</key>
+		<dict>
+			<key>Track ID</key><integer>8439</integer>
+			<key>Name</key><string>Happiness Loves Company</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>I'm with You</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7561921</integer>
+			<key>Total Time</key><integer>213013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-07-18T06:26:21Z</date>
+			<key>Date Added</key><date>2019-07-18T06:26:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3658081765</integer>
+			<key>Play Date UTC</key><date>2019-12-01T16:19:25Z</date>
+			<key>Release Date</key><date>2011-08-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I'm with You</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Happiness Loves Company</string>
+			<key>Persistent ID</key><string>56BFB1650E81F233</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8441</key>
+		<dict>
+			<key>Track ID</key><integer>8441</integer>
+			<key>Name</key><string>Police Station</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>I'm with You</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12873198</integer>
+			<key>Total Time</key><integer>335894</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-07-18T06:29:53Z</date>
+			<key>Date Added</key><date>2019-07-18T06:29:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3745280071</integer>
+			<key>Play Date UTC</key><date>2022-09-05T22:04:31Z</date>
+			<key>Release Date</key><date>2011-08-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I'm with You</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Police Station</string>
+			<key>Persistent ID</key><string>866756A3FF5AFA85</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8443</key>
+		<dict>
+			<key>Track ID</key><integer>8443</integer>
+			<key>Name</key><string>Scar Tissue</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Californication (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7770358</integer>
+			<key>Total Time</key><integer>217360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2019-07-18T06:31:31Z</date>
+			<key>Date Added</key><date>2019-07-18T06:31:31Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>53</integer>
+			<key>Play Date</key><integer>3756481609</integer>
+			<key>Play Date UTC</key><date>2023-01-13T13:36:49Z</date>
+			<key>Release Date</key><date>1999-05-25T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Californication (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Scar Tissue</string>
+			<key>Persistent ID</key><string>1B414009C0BB9ACA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8445</key>
+		<dict>
+			<key>Track ID</key><integer>8445</integer>
+			<key>Name</key><string>Higher Ground</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Stevie Wonder</string>
+			<key>Album</key><string>Mother's Milk (Remastered)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8080438</integer>
+			<key>Total Time</key><integer>201587</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2019-07-18T06:31:38Z</date>
+			<key>Date Added</key><date>2019-07-18T06:31:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3725723874</integer>
+			<key>Play Date UTC</key><date>2022-01-22T13:47:54Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-09-20T04:37:08Z</date>
+			<key>Release Date</key><date>1989-04-08T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mother's Milk (Remastered)</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Higher Ground</string>
+			<key>Persistent ID</key><string>49441B7CEA0087D4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8447</key>
+		<dict>
+			<key>Track ID</key><integer>8447</integer>
+			<key>Name</key><string>By the Way</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>By the Way</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7873475</integer>
+			<key>Total Time</key><integer>217308</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2019-07-18T06:31:58Z</date>
+			<key>Date Added</key><date>2019-07-18T06:31:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3695051581</integer>
+			<key>Play Date UTC</key><date>2021-02-01T13:43:01Z</date>
+			<key>Release Date</key><date>2002-06-24T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>By the Way</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>By the Way</string>
+			<key>Persistent ID</key><string>8DF3B266A22BFEEE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8449</key>
+		<dict>
+			<key>Track ID</key><integer>8449</integer>
+			<key>Name</key><string>Californication</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Californication (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11090290</integer>
+			<key>Total Time</key><integer>321366</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2019-07-18T06:32:03Z</date>
+			<key>Date Added</key><date>2019-07-18T06:32:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3736682841</integer>
+			<key>Play Date UTC</key><date>2022-05-29T09:57:21Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-12-24T15:56:56Z</date>
+			<key>Release Date</key><date>1999-06-08T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Californication (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Californication</string>
+			<key>Persistent ID</key><string>2C00A8BDF900A884</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8453</key>
+		<dict>
+			<key>Track ID</key><integer>8453</integer>
+			<key>Name</key><string>Encore</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>The Getaway</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8815913</integer>
+			<key>Total Time</key><integer>254880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-07-18T06:32:24Z</date>
+			<key>Date Added</key><date>2019-07-18T06:32:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3726524700</integer>
+			<key>Play Date UTC</key><date>2022-01-31T20:15:00Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-06-13T21:47:05Z</date>
+			<key>Release Date</key><date>2016-06-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Getaway</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Encore</string>
+			<key>Persistent ID</key><string>E032D9FFB496CD64</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8455</key>
+		<dict>
+			<key>Track ID</key><integer>8455</integer>
+			<key>Name</key><string>Otherside</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Californication (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9021846</integer>
+			<key>Total Time</key><integer>255951</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2019-07-18T06:32:44Z</date>
+			<key>Date Added</key><date>2019-07-18T06:32:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3756831909</integer>
+			<key>Play Date UTC</key><date>2023-01-17T14:55:09Z</date>
+			<key>Release Date</key><date>1999-06-08T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Californication (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Otherside</string>
+			<key>Persistent ID</key><string>054FF242FEF577D0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8457</key>
+		<dict>
+			<key>Track ID</key><integer>8457</integer>
+			<key>Name</key><string>Around the World</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Californication (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8429109</integer>
+			<key>Total Time</key><integer>238765</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2019-07-18T06:32:58Z</date>
+			<key>Date Added</key><date>2019-07-18T06:32:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3676131993</integer>
+			<key>Play Date UTC</key><date>2020-06-27T14:16:33Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-11-11T19:52:40Z</date>
+			<key>Release Date</key><date>1999-06-08T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Californication (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Around the World</string>
+			<key>Persistent ID</key><string>EE5F486369046D82</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8459</key>
+		<dict>
+			<key>Track ID</key><integer>8459</integer>
+			<key>Name</key><string>Suck My Kiss</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Blood Sugar Sex Magik (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8415063</integer>
+			<key>Total Time</key><integer>216933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2019-07-18T06:33:27Z</date>
+			<key>Date Added</key><date>2019-07-18T06:33:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3676132428</integer>
+			<key>Play Date UTC</key><date>2020-06-27T14:23:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-09-20T04:37:04Z</date>
+			<key>Release Date</key><date>1991-09-24T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blood Sugar Sex Magik (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Suck My Kiss</string>
+			<key>Persistent ID</key><string>E9776DEE3D256550</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8461</key>
+		<dict>
+			<key>Track ID</key><integer>8461</integer>
+			<key>Name</key><string>Goodbye Angels</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>The Getaway</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9595725</integer>
+			<key>Total Time</key><integer>268747</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-07-18T06:33:40Z</date>
+			<key>Date Added</key><date>2019-07-18T06:33:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3761036305</integer>
+			<key>Play Date UTC</key><date>2023-03-07T06:48:25Z</date>
+			<key>Release Date</key><date>2016-06-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Getaway</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Goodbye Angels</string>
+			<key>Persistent ID</key><string>AAE393A60E9CC98F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8463</key>
+		<dict>
+			<key>Track ID</key><integer>8463</integer>
+			<key>Name</key><string>Tearjerker</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Dave Navarro &#38; Flea</string>
+			<key>Album</key><string>One Hot Minute (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9266227</integer>
+			<key>Total Time</key><integer>259098</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2019-07-18T06:33:51Z</date>
+			<key>Date Added</key><date>2019-07-18T06:33:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>90</integer>
+			<key>Play Date</key><integer>3756833929</integer>
+			<key>Play Date UTC</key><date>2023-01-17T15:28:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-11-02T22:43:59Z</date>
+			<key>Release Date</key><date>1995-09-12T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>One Hot Minute (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Tearjerker</string>
+			<key>Persistent ID</key><string>51A3E3D1C413EF20</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8465</key>
+		<dict>
+			<key>Track ID</key><integer>8465</integer>
+			<key>Name</key><string>The Getaway</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Brian Burton, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>The Getaway</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8793815</integer>
+			<key>Total Time</key><integer>250413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-07-18T06:34:03Z</date>
+			<key>Date Added</key><date>2019-07-18T06:34:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3666370664</integer>
+			<key>Play Date UTC</key><date>2020-03-06T14:47:44Z</date>
+			<key>Release Date</key><date>2016-06-17T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Getaway</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Getaway</string>
+			<key>Persistent ID</key><string>06096DE56019503A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8467</key>
+		<dict>
+			<key>Track ID</key><integer>8467</integer>
+			<key>Name</key><string>Funky Monks</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Blood Sugar Sex Magik (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11638657</integer>
+			<key>Total Time</key><integer>322968</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2019-07-18T06:34:12Z</date>
+			<key>Date Added</key><date>2019-07-18T06:34:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3744076585</integer>
+			<key>Play Date UTC</key><date>2022-08-22T23:46:25Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-03-22T19:18:54Z</date>
+			<key>Release Date</key><date>1991-09-24T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blood Sugar Sex Magik (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Funky Monks</string>
+			<key>Persistent ID</key><string>F4009F219E420354</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8469</key>
+		<dict>
+			<key>Track ID</key><integer>8469</integer>
+			<key>Name</key><string>Road Trippin'</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Californication (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7342815</integer>
+			<key>Total Time</key><integer>205533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2019-07-18T06:34:21Z</date>
+			<key>Date Added</key><date>2019-07-18T06:34:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3695050735</integer>
+			<key>Play Date UTC</key><date>2021-02-01T13:28:55Z</date>
+			<key>Release Date</key><date>1999-06-08T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Californication (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Road Trippin'</string>
+			<key>Persistent ID</key><string>9555B74C102DCC6D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8571</key>
+		<dict>
+			<key>Track ID</key><integer>8571</integer>
+			<key>Name</key><string>Mellowship Slinky In B Major</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Blood Sugar Sex Magik (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8916103</integer>
+			<key>Total Time</key><integer>239827</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2019-07-18T06:34:40Z</date>
+			<key>Date Added</key><date>2019-07-18T06:34:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3715960101</integer>
+			<key>Play Date UTC</key><date>2021-10-01T13:38:21Z</date>
+			<key>Release Date</key><date>1991-09-24T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blood Sugar Sex Magik (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Mellowship Slinky In B Major</string>
+			<key>Persistent ID</key><string>C49591FA10850E36</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8573</key>
+		<dict>
+			<key>Track ID</key><integer>8573</integer>
+			<key>Name</key><string>Give It Away</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Blood Sugar Sex Magik (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11253756</integer>
+			<key>Total Time</key><integer>282671</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2019-07-18T06:34:49Z</date>
+			<key>Date Added</key><date>2019-07-18T06:34:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3761039971</integer>
+			<key>Play Date UTC</key><date>2023-03-07T07:49:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-09-20T04:55:45Z</date>
+			<key>Release Date</key><date>1991-09-24T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blood Sugar Sex Magik (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Give It Away</string>
+			<key>Persistent ID</key><string>00024BB1C645FABB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8575</key>
+		<dict>
+			<key>Track ID</key><integer>8575</integer>
+			<key>Name</key><string>She's Only 18</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Stadium Arcadium</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7630347</integer>
+			<key>Total Time</key><integer>205400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>28</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2019-07-18T08:02:11Z</date>
+			<key>Date Added</key><date>2019-07-18T08:02:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3693564466</integer>
+			<key>Play Date UTC</key><date>2021-01-15T08:37:46Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-02-21T13:53:38Z</date>
+			<key>Release Date</key><date>2006-05-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stadium Arcadium</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>She's Only 18</string>
+			<key>Persistent ID</key><string>176B26B6CAC8EF8D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8577</key>
+		<dict>
+			<key>Track ID</key><integer>8577</integer>
+			<key>Name</key><string>Midnight</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>By the Way</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10548806</integer>
+			<key>Total Time</key><integer>294499</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2019-07-18T08:03:55Z</date>
+			<key>Date Added</key><date>2019-07-18T08:03:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3714960561</integer>
+			<key>Play Date UTC</key><date>2021-09-19T23:59:21Z</date>
+			<key>Release Date</key><date>2002-07-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>By the Way</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Midnight</string>
+			<key>Persistent ID</key><string>7D3D0D96D7CBC7A5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9731</key>
+		<dict>
+			<key>Track ID</key><integer>9731</integer>
+			<key>Name</key><string>Pea</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Dave Navarro &#38; Flea</string>
+			<key>Album</key><string>One Hot Minute (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4066650</integer>
+			<key>Total Time</key><integer>106443</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2019-10-12T10:21:49Z</date>
+			<key>Date Added</key><date>2019-10-12T10:21:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3659950053</integer>
+			<key>Play Date UTC</key><date>2019-12-23T07:17:33Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-11-15T13:41:34Z</date>
+			<key>Release Date</key><date>1995-09-12T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>One Hot Minute (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Pea</string>
+			<key>Persistent ID</key><string>3A5A89C71EFE32A8</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11691</key>
+		<dict>
+			<key>Track ID</key><integer>11691</integer>
+			<key>Name</key><string>Porcelain</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Californication (Deluxe Edition)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6071693</integer>
+			<key>Total Time</key><integer>163839</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2021-02-01T04:53:21Z</date>
+			<key>Date Added</key><date>2021-02-01T04:53:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3730488283</integer>
+			<key>Play Date UTC</key><date>2022-03-18T17:14:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-03-13T15:33:10Z</date>
+			<key>Release Date</key><date>1999-06-08T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Californication (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Porcelain</string>
+			<key>Persistent ID</key><string>7822DFFCDE33282F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>15229</key>
+		<dict>
+			<key>Track ID</key><integer>15229</integer>
+			<key>Name</key><string>Dani California</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album</key><string>Stadium Arcadium</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5020197</integer>
+			<key>Total Time</key><integer>280163</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-01-26T18:44:03Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>143</integer>
+			<key>Comments</key><string>WEB</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3657198041</integer>
+			<key>Play Date UTC</key><date>2019-11-21T10:50:41Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2019-12-12T18:26:34Z</date>
+			<key>Normalization</key><integer>2236</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>326FE282DAF096D7</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>15231</key>
+		<dict>
+			<key>Track ID</key><integer>15231</integer>
+			<key>Name</key><string>Snow (Hey Oh)</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album</key><string>Stadium Arcadium</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8101403</integer>
+			<key>Total Time</key><integer>334759</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-01-27T14:48:07Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Comments</key><string>Ripped By WiGGELS!</string>
+			<key>Play Count</key><integer>77</integer>
+			<key>Play Date</key><integer>3748297381</integer>
+			<key>Play Date UTC</key><date>2022-10-10T20:13:01Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2022-01-26T05:17:36Z</date>
+			<key>Normalization</key><integer>6261</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1FAC6145F0CD1556</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Matched</key><true/>
+		</dict>
+		<key>17983</key>
+		<dict>
+			<key>Track ID</key><integer>17983</integer>
+			<key>Name</key><string>Readymade</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album</key><string>Stadium Arcadium</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9846806</integer>
+			<key>Total Time</key><integer>270667</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>28</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2017-08-15T05:53:37Z</date>
+			<key>Date Added</key><date>2017-08-15T05:53:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>100</integer>
+			<key>Play Date</key><integer>3757590852</integer>
+			<key>Play Date UTC</key><date>2023-01-26T09:44:12Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2022-01-06T08:00:39Z</date>
+			<key>Release Date</key><date>2006-05-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stadium Arcadium</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Readymade</string>
+			<key>Persistent ID</key><string>1066B3570A586FDB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>18193</key>
+		<dict>
+			<key>Track ID</key><integer>18193</integer>
+			<key>Name</key><string>Can't Stop</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>By the Way</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9677603</integer>
+			<key>Total Time</key><integer>268370</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2017-08-29T19:54:04Z</date>
+			<key>Date Added</key><date>2017-08-29T19:54:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>64</integer>
+			<key>Play Date</key><integer>3742934837</integer>
+			<key>Play Date UTC</key><date>2022-08-09T18:37:17Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2019-10-11T05:28:21Z</date>
+			<key>Release Date</key><date>2002-07-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>By the Way</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Can't Stop</string>
+			<key>Persistent ID</key><string>C799170A4EAF7D33</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20017</key>
+		<dict>
+			<key>Track ID</key><integer>20017</integer>
+			<key>Name</key><string>Slow Cheetah</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Stadium Arcadium</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11987534</integer>
+			<key>Total Time</key><integer>319933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>28</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-01-27T19:53:51Z</date>
+			<key>Date Added</key><date>2018-01-27T19:53:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3745284593</integer>
+			<key>Play Date UTC</key><date>2022-09-05T23:19:53Z</date>
+			<key>Release Date</key><date>2006-05-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stadium Arcadium</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Slow Cheetah</string>
+			<key>Persistent ID</key><string>F91A86094A263FA7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>20181</key>
+		<dict>
+			<key>Track ID</key><integer>20181</integer>
+			<key>Name</key><string>Hump de Bump</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Stadium Arcadium</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7907215</integer>
+			<key>Total Time</key><integer>213093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>28</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-01-27T20:11:22Z</date>
+			<key>Date Added</key><date>2018-01-27T20:11:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3748454431</integer>
+			<key>Play Date UTC</key><date>2022-10-12T15:50:31Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2019-12-13T05:19:40Z</date>
+			<key>Release Date</key><date>2006-05-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stadium Arcadium</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Hump de Bump</string>
+			<key>Persistent ID</key><string>B3CC005FBDC1528F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21739</key>
+		<dict>
+			<key>Track ID</key><integer>21739</integer>
+			<key>Name</key><string>Even You Brutus?</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>I'm with You</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8514589</integer>
+			<key>Total Time</key><integer>240804</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-08-13T07:04:09Z</date>
+			<key>Date Added</key><date>2018-08-13T07:04:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3695051822</integer>
+			<key>Play Date UTC</key><date>2021-02-01T13:47:02Z</date>
+			<key>Release Date</key><date>2011-08-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I'm with You</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Even You Brutus?</string>
+			<key>Persistent ID</key><string>B665EEA0A9B47746</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21741</key>
+		<dict>
+			<key>Track ID</key><integer>21741</integer>
+			<key>Name</key><string>Goodbye Hooray</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>I'm with You</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8861008</integer>
+			<key>Total Time</key><integer>232422</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-08-13T08:43:29Z</date>
+			<key>Date Added</key><date>2018-08-13T08:43:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3706544447</integer>
+			<key>Play Date UTC</key><date>2021-06-14T14:10:47Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-10-21T15:15:58Z</date>
+			<key>Release Date</key><date>2011-08-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I'm with You</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Goodbye Hooray</string>
+			<key>Persistent ID</key><string>25D340DEBDEDE730</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21743</key>
+		<dict>
+			<key>Track ID</key><integer>21743</integer>
+			<key>Name</key><string>Stadium Arcadium</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Stadium Arcadium</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11337692</integer>
+			<key>Total Time</key><integer>315674</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>28</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-08-13T09:08:43Z</date>
+			<key>Date Added</key><date>2018-08-13T09:08:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>53</integer>
+			<key>Play Date</key><integer>3752247263</integer>
+			<key>Play Date UTC</key><date>2022-11-25T13:24:23Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-12-18T12:37:52Z</date>
+			<key>Release Date</key><date>2006-05-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stadium Arcadium</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Stadium Arcadium</string>
+			<key>Persistent ID</key><string>6BCA8E2754C18A82</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21753</key>
+		<dict>
+			<key>Track ID</key><integer>21753</integer>
+			<key>Name</key><string>Animal Bar</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>Stadium Arcadium</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11860524</integer>
+			<key>Total Time</key><integer>324937</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Track Count</key><integer>28</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2018-08-18T10:57:29Z</date>
+			<key>Date Added</key><date>2018-08-18T10:57:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3693566296</integer>
+			<key>Play Date UTC</key><date>2021-01-15T09:08:16Z</date>
+			<key>Release Date</key><date>2006-05-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Stadium Arcadium</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Animal Bar</string>
+			<key>Persistent ID</key><string>39F99BB8F31913CE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22863</key>
+		<dict>
+			<key>Track ID</key><integer>22863</integer>
+			<key>Name</key><string>The Adventures of Rain Dance Maggie</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Composer</key><string>Anthony Kiedis, Chad Smith, Flea &#38; John Frusciante</string>
+			<key>Album</key><string>I'm with You</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10028433</integer>
+			<key>Total Time</key><integer>282505</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2018-12-06T20:49:27Z</date>
+			<key>Date Added</key><date>2018-12-06T20:49:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3716620230</integer>
+			<key>Play Date UTC</key><date>2021-10-09T05:00:30Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-12-09T04:54:07Z</date>
+			<key>Release Date</key><date>2011-07-15T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I'm with You</string>
+			<key>Sort Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Sort Name</key><string>Adventures of Rain Dance Maggie</string>
+			<key>Persistent ID</key><string>A94857FB99032033</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>💽 x RHCP</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>45122</integer>
+			<key>Playlist Persistent ID</key><string>30A99E35AFD39D19</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7117</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8445</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22863</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15229</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8447</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8449</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15231</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8453</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8233</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8455</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21741</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8457</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21739</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8459</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8439</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8461</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8463</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8465</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21743</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8571</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8573</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17983</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8437</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21753</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8575</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8577</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9731</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11691</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

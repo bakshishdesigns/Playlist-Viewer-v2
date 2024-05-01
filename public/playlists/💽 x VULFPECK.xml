@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:05:36Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>8785</key>
+		<dict>
+			<key>Track ID</key><integer>8785</integer>
+			<key>Name</key><string>The Cup Stacker</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Jack Stratton</string>
+			<key>Album</key><string>Hill Climber</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7982788</integer>
+			<key>Total Time</key><integer>221425</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-07-23T12:40:27Z</date>
+			<key>Date Added</key><date>2019-07-23T12:40:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3650218833</integer>
+			<key>Play Date UTC</key><date>2019-09-01T16:10:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-23T13:02:28Z</date>
+			<key>Release Date</key><date>2018-12-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hill Climber</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>Cup Stacker</string>
+			<key>Persistent ID</key><string>ADACC3051C93782D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8787</key>
+		<dict>
+			<key>Track ID</key><integer>8787</integer>
+			<key>Name</key><string>Love Is a Beautiful Thing (feat. Theo Katzman &#38; Monica Martin)</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Theo Katzman</string>
+			<key>Album</key><string>Hill Climber</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8372295</integer>
+			<key>Total Time</key><integer>233314</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-07-23T12:40:27Z</date>
+			<key>Date Added</key><date>2019-07-23T12:40:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3761039428</integer>
+			<key>Play Date UTC</key><date>2023-03-07T07:40:28Z</date>
+			<key>Release Date</key><date>2018-12-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hill Climber</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>Love Is a Beautiful Thing (feat. Theo Katzman &#38; Monica Martin)</string>
+			<key>Persistent ID</key><string>A29EA6D566400C2F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8789</key>
+		<dict>
+			<key>Track ID</key><integer>8789</integer>
+			<key>Name</key><string>For Survival (feat. Mike Viola)</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Mike Viola &#38; Woody Goss</string>
+			<key>Album</key><string>Hill Climber</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8041182</integer>
+			<key>Total Time</key><integer>221425</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-07-23T12:40:27Z</date>
+			<key>Date Added</key><date>2019-07-23T12:40:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-12-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hill Climber</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>For Survival (feat. Mike Viola)</string>
+			<key>Persistent ID</key><string>4045CAFCA160DA33</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8795</key>
+		<dict>
+			<key>Track ID</key><integer>8795</integer>
+			<key>Name</key><string>Lonely Town (feat. Theo Katzman)</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Theo Katzman</string>
+			<key>Album</key><string>Hill Climber</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6606241</integer>
+			<key>Total Time</key><integer>174614</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-07-23T12:40:27Z</date>
+			<key>Date Added</key><date>2019-07-23T12:40:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-12-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hill Climber</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>Lonely Town (feat. Theo Katzman)</string>
+			<key>Persistent ID</key><string>3E28A72E2783DE88</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8797</key>
+		<dict>
+			<key>Track ID</key><integer>8797</integer>
+			<key>Name</key><string>Darwin Derby (feat. Theo Katzman &#38; Antwaun Stanley)</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Theo Katzman &#38; Jack Stratton</string>
+			<key>Album</key><string>Hill Climber</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7126601</integer>
+			<key>Total Time</key><integer>195419</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-07-23T12:40:27Z</date>
+			<key>Date Added</key><date>2019-07-23T12:40:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3650217981</integer>
+			<key>Play Date UTC</key><date>2019-09-01T15:56:21Z</date>
+			<key>Release Date</key><date>2018-12-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hill Climber</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>Darwin Derby (feat. Theo Katzman &#38; Antwaun Stanley)</string>
+			<key>Persistent ID</key><string>A377DE216FDC0562</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8799</key>
+		<dict>
+			<key>Track ID</key><integer>8799</integer>
+			<key>Name</key><string>Disco Ulysses (Instrumental)</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Jack Stratton</string>
+			<key>Album</key><string>Hill Climber</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8278186</integer>
+			<key>Total Time</key><integer>231085</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-07-23T12:40:27Z</date>
+			<key>Date Added</key><date>2019-07-23T12:40:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-07-23T12:53:03Z</date>
+			<key>Release Date</key><date>2018-12-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hill Climber</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>Disco Ulysses (Instrumental)</string>
+			<key>Persistent ID</key><string>67AF4E67243E22E5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8801</key>
+		<dict>
+			<key>Track ID</key><integer>8801</integer>
+			<key>Name</key><string>Soft Parade</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Jack Stratton</string>
+			<key>Album</key><string>Hill Climber</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5812522</integer>
+			<key>Total Time</key><integer>156781</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-07-23T12:40:27Z</date>
+			<key>Date Added</key><date>2019-07-23T12:40:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3650218612</integer>
+			<key>Play Date UTC</key><date>2019-09-01T16:06:52Z</date>
+			<key>Release Date</key><date>2018-09-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hill Climber</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>Soft Parade</string>
+			<key>Persistent ID</key><string>16499DF78B926353</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21045</key>
+		<dict>
+			<key>Track ID</key><integer>21045</integer>
+			<key>Name</key><string>Cory Wong</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Album</key><string>The Beautiful Game</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8822559</integer>
+			<key>Total Time</key><integer>246910</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-05-10T19:00:30Z</date>
+			<key>Date Added</key><date>2018-05-10T19:00:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3702049666</integer>
+			<key>Play Date UTC</key><date>2021-04-23T13:37:46Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-07-18T09:28:24Z</date>
+			<key>Release Date</key><date>2016-10-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Beautiful Game</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>Cory Wong</string>
+			<key>Persistent ID</key><string>A6B2F905796FDC8F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21063</key>
+		<dict>
+			<key>Track ID</key><integer>21063</integer>
+			<key>Name</key><string>Back Pocket</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Theo Katzman &#38; Christine Hucal</string>
+			<key>Album</key><string>Thrill of the Arts</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6620812</integer>
+			<key>Total Time</key><integer>181260</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-05-31T10:38:03Z</date>
+			<key>Date Added</key><date>2018-05-31T10:38:03Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3752078200</integer>
+			<key>Play Date UTC</key><date>2022-11-23T14:26:40Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-09-09T07:33:14Z</date>
+			<key>Release Date</key><date>2015-10-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Thrill of the Arts</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>Back Pocket</string>
+			<key>Persistent ID</key><string>30419B68403C8343</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21065</key>
+		<dict>
+			<key>Track ID</key><integer>21065</integer>
+			<key>Name</key><string>1612</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Jack Stratton &#38; Antwaun Stanley</string>
+			<key>Album</key><string>Fugue State - EP</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7388096</integer>
+			<key>Total Time</key><integer>199640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-05-31T10:38:15Z</date>
+			<key>Date Added</key><date>2018-05-31T10:38:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3719759371</integer>
+			<key>Play Date UTC</key><date>2021-11-14T12:59:31Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-05-11T21:12:06Z</date>
+			<key>Release Date</key><date>2014-08-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fugue State - EP</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>1612</string>
+			<key>Persistent ID</key><string>2F891C5B99787E1F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21067</key>
+		<dict>
+			<key>Track ID</key><integer>21067</integer>
+			<key>Name</key><string>Wait for the Moment</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Jack Stratton &#38; Antwaun Stanley</string>
+			<key>Album</key><string>My First Car - EP</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8339252</integer>
+			<key>Total Time</key><integer>230677</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-05-31T10:38:24Z</date>
+			<key>Date Added</key><date>2018-05-31T10:38:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>110</integer>
+			<key>Play Date</key><integer>3756831001</integer>
+			<key>Play Date UTC</key><date>2023-01-17T14:40:01Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2021-09-22T13:37:56Z</date>
+			<key>Release Date</key><date>2013-08-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My First Car - EP</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>Wait for the Moment</string>
+			<key>Persistent ID</key><string>8B1D644CB6E6DF19</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21069</key>
+		<dict>
+			<key>Track ID</key><integer>21069</integer>
+			<key>Name</key><string>Baby I Don’t Know Oh Oh (feat. Charles Jones)</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Ryan Lerman</string>
+			<key>Album</key><string>Mr Finish Line</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7563936</integer>
+			<key>Total Time</key><integer>208955</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-05-31T10:38:33Z</date>
+			<key>Date Added</key><date>2018-05-31T10:38:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3702030466</integer>
+			<key>Play Date UTC</key><date>2021-04-23T08:17:46Z</date>
+			<key>Release Date</key><date>2017-11-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mr Finish Line</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>Baby I Don’t Know Oh Oh (feat. Charles Jones)</string>
+			<key>Persistent ID</key><string>2CB7C9312750FB50</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21071</key>
+		<dict>
+			<key>Track ID</key><integer>21071</integer>
+			<key>Name</key><string>Funky Duck</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Jack Stratton &#38; Antwaun Stanley</string>
+			<key>Album</key><string>Thrill of the Arts</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4896234</integer>
+			<key>Total Time</key><integer>130770</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-05-31T10:38:43Z</date>
+			<key>Date Added</key><date>2018-05-31T10:38:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3702048739</integer>
+			<key>Play Date UTC</key><date>2021-04-23T13:22:19Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-11-17T14:08:55Z</date>
+			<key>Release Date</key><date>2015-10-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Thrill of the Arts</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>Funky Duck</string>
+			<key>Persistent ID</key><string>DD48ADA07F6BA83E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21073</key>
+		<dict>
+			<key>Track ID</key><integer>21073</integer>
+			<key>Name</key><string>Birds of a Feather, We Rock Together (feat. Antwaun Stanley)</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Dominic Salole</string>
+			<key>Album</key><string>Mr Finish Line</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10114639</integer>
+			<key>Total Time</key><integer>285349</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-05-31T10:38:57Z</date>
+			<key>Date Added</key><date>2018-05-31T10:38:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3740837287</integer>
+			<key>Play Date UTC</key><date>2022-07-16T11:58:07Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-08-21T08:56:00Z</date>
+			<key>Release Date</key><date>2017-11-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mr Finish Line</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>Birds of a Feather, We Rock Together (feat. Antwaun Stanley)</string>
+			<key>Persistent ID</key><string>0F80E6242A74E95E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21075</key>
+		<dict>
+			<key>Track ID</key><integer>21075</integer>
+			<key>Name</key><string>Mr. Finish Line (feat. Christine Hucal &#38; Theo Katzman)</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Theo Katzman &#38; Jack Stratton</string>
+			<key>Album</key><string>Mr Finish Line</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7021632</integer>
+			<key>Total Time</key><integer>193192</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-05-31T11:05:17Z</date>
+			<key>Date Added</key><date>2018-05-31T11:05:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3636810663</integer>
+			<key>Play Date UTC</key><date>2019-03-30T11:41:03Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-05-11T20:36:09Z</date>
+			<key>Release Date</key><date>2017-11-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mr Finish Line</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>Mr. Finish Line (feat. Christine Hucal &#38; Theo Katzman)</string>
+			<key>Persistent ID</key><string>0C4540B3FDB6968A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21151</key>
+		<dict>
+			<key>Track ID</key><integer>21151</integer>
+			<key>Name</key><string>Game Winner</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Joey Dosik</string>
+			<key>Album</key><string>Thrill of the Arts</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7676624</integer>
+			<key>Total Time</key><integer>212549</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-05-31T11:08:28Z</date>
+			<key>Date Added</key><date>2018-05-31T11:08:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3702281159</integer>
+			<key>Play Date UTC</key><date>2021-04-26T05:55:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-07-18T09:00:02Z</date>
+			<key>Release Date</key><date>2015-10-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Thrill of the Arts</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>Game Winner</string>
+			<key>Persistent ID</key><string>DE565C4AF5FC5B4A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21153</key>
+		<dict>
+			<key>Track ID</key><integer>21153</integer>
+			<key>Name</key><string>Running Away (feat. Joey Dosik, David T. Walker &#38; James Gadson)</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Joey Dosik</string>
+			<key>Album</key><string>Mr Finish Line</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9627575</integer>
+			<key>Total Time</key><integer>272251</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-05-31T11:29:22Z</date>
+			<key>Date Added</key><date>2018-05-31T11:29:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3702049940</integer>
+			<key>Play Date UTC</key><date>2021-04-23T13:42:20Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-07-25T03:57:22Z</date>
+			<key>Release Date</key><date>2017-11-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mr Finish Line</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>Running Away (feat. Joey Dosik, David T. Walker &#38; James Gadson)</string>
+			<key>Persistent ID</key><string>EAF5A115D2243684</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21155</key>
+		<dict>
+			<key>Track ID</key><integer>21155</integer>
+			<key>Name</key><string>Smile Meditation</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Woody Goss</string>
+			<key>Album</key><string>Thrill of the Arts</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9678870</integer>
+			<key>Total Time</key><integer>269335</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2018-05-31T11:30:13Z</date>
+			<key>Date Added</key><date>2018-05-31T11:30:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3703597922</integer>
+			<key>Play Date UTC</key><date>2021-05-11T11:42:02Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-08-27T04:16:16Z</date>
+			<key>Release Date</key><date>2015-10-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Thrill of the Arts</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>Smile Meditation</string>
+			<key>Persistent ID</key><string>02E4ECB857E5242B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21157</key>
+		<dict>
+			<key>Track ID</key><integer>21157</integer>
+			<key>Name</key><string>El Chepe</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Jack Stratton</string>
+			<key>Album</key><string>The Beautiful Game</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11334612</integer>
+			<key>Total Time</key><integer>288147</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-05-31T11:50:11Z</date>
+			<key>Date Added</key><date>2018-05-31T11:50:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3702032285</integer>
+			<key>Play Date UTC</key><date>2021-04-23T08:48:05Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-04-23T13:46:28Z</date>
+			<key>Release Date</key><date>2016-10-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Beautiful Game</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>El Chepe</string>
+			<key>Persistent ID</key><string>617856D2C98D7B56</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21159</key>
+		<dict>
+			<key>Track ID</key><integer>21159</integer>
+			<key>Name</key><string>Fugue State</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Woody Goss</string>
+			<key>Album</key><string>Fugue State - EP</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5960040</integer>
+			<key>Total Time</key><integer>161853</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-05-31T11:50:34Z</date>
+			<key>Date Added</key><date>2018-05-31T11:50:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3702050351</integer>
+			<key>Play Date UTC</key><date>2021-04-23T13:49:11Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-08-13T07:02:13Z</date>
+			<key>Release Date</key><date>2014-08-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fugue State - EP</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>Fugue State</string>
+			<key>Persistent ID</key><string>76B5A83ED8A53C3D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21163</key>
+		<dict>
+			<key>Track ID</key><integer>21163</integer>
+			<key>Name</key><string>Daddy, He Got a Tesla</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Jack Stratton</string>
+			<key>Album</key><string>The Beautiful Game</string>
+			<key>Genre</key><string>Funk</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8238639</integer>
+			<key>Total Time</key><integer>205323</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2018-05-31T11:54:09Z</date>
+			<key>Date Added</key><date>2018-05-31T11:54:09Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3702050556</integer>
+			<key>Play Date UTC</key><date>2021-04-23T13:52:36Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-10-21T14:29:24Z</date>
+			<key>Release Date</key><date>2016-10-17T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Beautiful Game</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>Daddy, He Got a Tesla</string>
+			<key>Persistent ID</key><string>87ACF1C761231951</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21165</key>
+		<dict>
+			<key>Track ID</key><integer>21165</integer>
+			<key>Name</key><string>First Place</string>
+			<key>Artist</key><string>Vulfpeck</string>
+			<key>Album Artist</key><string>Vulfpeck</string>
+			<key>Composer</key><string>Jack Stratton</string>
+			<key>Album</key><string>Fugue State - EP</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7265444</integer>
+			<key>Total Time</key><integer>197957</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2018-05-31T12:10:20Z</date>
+			<key>Date Added</key><date>2018-05-31T12:10:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3655119326</integer>
+			<key>Play Date UTC</key><date>2019-10-28T09:25:26Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2018-11-16T13:32:43Z</date>
+			<key>Release Date</key><date>2014-08-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fugue State - EP</string>
+			<key>Sort Artist</key><string>Vulfpeck</string>
+			<key>Sort Name</key><string>First Place</string>
+			<key>Persistent ID</key><string>1F5774ED22E6B14C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21167</key>
+		<dict>
+			<key>Track ID</key><integer>21167</integer>
+			<key>Name</key><string>Outro</string>
+			<key>Artist</key><string>Vulfpeck &#38; Vulf</string>
+			<key>Album Artist</key><string>Vulfpeck &#38; Vulf</string>
+			<key>Composer</key><string>Jack Stratton</string>
+			<key>Album</key><string>Vollmilch - EP</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9771674</integer>
+			<key>Total Time</key><integer>275849</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2018-05-31T12:40:50Z</date>
+			<key>Date Added</key><date>2018-05-31T12:40:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3662868476</integer>
+			<key>Play Date UTC</key><date>2020-01-26T01:57:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-07-21T19:29:20Z</date>
+			<key>Release Date</key><date>2012-12-20T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Vollmilch - EP</string>
+			<key>Sort Artist</key><string>Vulfpeck &#38; Vulf</string>
+			<key>Sort Name</key><string>Outro</string>
+			<key>Persistent ID</key><string>104D48940789F49D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>💽 x VULFPECK</string>
+			<key>Description</key><string>Funking Beautiful.</string>
+			<key>Playlist ID</key><integer>45160</integer>
+			<key>Playlist Persistent ID</key><string>97D8171D2E95CDC0</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>21063</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21067</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21069</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21071</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21073</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21075</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21045</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8797</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8799</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8789</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8787</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8801</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8785</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8795</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,2160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2024-03-15T08:11:24Z</date>
+	<key>Application Version</key><string>12.12.2.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/user/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>EFF950355EFCE185</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6289</key>
+		<dict>
+			<key>Track ID</key><integer>6289</integer>
+			<key>Name</key><string>All Mine</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Composer</key><string>Kanye West, MIKE DEAN, Francis Starlite, Cydel Young, Dexter Mills, Jeremy Felton, Danielle Balbuena, Anthony Clemons, Uforo Ebong, Tyrone Griffin, Malik Yusef, Kenneth Pershon, Terrence Boykin &#38; Jorden Thorpe</string>
+			<key>Album</key><string>ye</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5356420</integer>
+			<key>Total Time</key><integer>145509</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-12-29T09:31:43Z</date>
+			<key>Date Added</key><date>2018-12-29T09:31:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3725294614</integer>
+			<key>Play Date UTC</key><date>2022-01-17T14:33:34Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2020-01-19T14:38:50Z</date>
+			<key>Release Date</key><date>2018-06-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>ye</string>
+			<key>Sort Artist</key><string>Kanye West</string>
+			<key>Sort Name</key><string>All Mine</string>
+			<key>Persistent ID</key><string>9EEADC7F8E0D0EBC</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6361</key>
+		<dict>
+			<key>Track ID</key><integer>6361</integer>
+			<key>Name</key><string>I Love It</string>
+			<key>Artist</key><string>Kanye West &#38; Lil Pump</string>
+			<key>Album Artist</key><string>Kanye West &#38; Lil Pump</string>
+			<key>Composer</key><string>Kanye West, Gazzy Garcia, Omar Pineiro, Rodolfo Antonio Franklin, Chris Barnett, James Samuel Harris III &#38; Terry Lewis</string>
+			<key>Album</key><string>I Love It - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4780826</integer>
+			<key>Total Time</key><integer>127947</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-12-29T10:06:13Z</date>
+			<key>Date Added</key><date>2018-12-29T10:06:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3703949742</integer>
+			<key>Play Date UTC</key><date>2021-05-15T13:25:42Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2019-11-26T09:30:55Z</date>
+			<key>Release Date</key><date>2018-09-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I Love It - Single</string>
+			<key>Sort Artist</key><string>Kanye West &#38; Lil Pump</string>
+			<key>Sort Name</key><string>I Love It</string>
+			<key>Persistent ID</key><string>5BA311638734197A</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>6365</key>
+		<dict>
+			<key>Track ID</key><integer>6365</integer>
+			<key>Name</key><string>a lot</string>
+			<key>Artist</key><string>21 Savage</string>
+			<key>Album Artist</key><string>21 Savage</string>
+			<key>Composer</key><string>21 Savage, J. Cole, Dacoury Natche, Anthony White &#38; Shelia Young</string>
+			<key>Album</key><string>i am &#62; i was</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10074889</integer>
+			<key>Total Time</key><integer>288624</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-12-29T10:15:23Z</date>
+			<key>Date Added</key><date>2018-12-29T10:15:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3749919831</integer>
+			<key>Play Date UTC</key><date>2022-10-29T14:53:51Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-10-09T12:58:24Z</date>
+			<key>Release Date</key><date>2018-12-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>i am &#62; i was</string>
+			<key>Sort Artist</key><string>21 Savage</string>
+			<key>Sort Name</key><string>lot</string>
+			<key>Persistent ID</key><string>F12F28C02F9E318C</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7515</key>
+		<dict>
+			<key>Track ID</key><integer>7515</integer>
+			<key>Name</key><string>Father Stretch My Hands, Pt. 1</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Composer</key><string>Kanye West, Scott Mescudi, Rick Rubin, MIKE DEAN, Noah Goldstein, Leland Wayne, Cydel Young, Allen Ritter, Jerome Potter, Samuel Griesemer, Chancelor Bennett &#38; T. L. Barrett</string>
+			<key>Album</key><string>The Life of Pablo</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5081118</integer>
+			<key>Total Time</key><integer>135920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-03-31T05:46:56Z</date>
+			<key>Date Added</key><date>2019-03-31T05:46:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3713956210</integer>
+			<key>Play Date UTC</key><date>2021-09-08T09:00:10Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-01-19T14:38:38Z</date>
+			<key>Release Date</key><date>2016-02-14T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Life of Pablo</string>
+			<key>Sort Artist</key><string>Kanye West</string>
+			<key>Sort Name</key><string>Father Stretch My Hands, Pt. 1</string>
+			<key>Persistent ID</key><string>75F2B69C55304948</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9525</key>
+		<dict>
+			<key>Track ID</key><integer>9525</integer>
+			<key>Name</key><string>Empire State of Mind (feat. Alicia Keys)</string>
+			<key>Artist</key><string>JAY-Z &#38; Alicia Keys</string>
+			<key>Album Artist</key><string>JAY-Z</string>
+			<key>Composer</key><string>Alicia Keys, Shawn Carter, Alexander Shuckburgh, A. Hunte, Sylvia Robinson, Bert Keyes &#38; Janent Sewell-Ulepic</string>
+			<key>Album</key><string>The Hits Collection, Vol. 1 (Deluxe Edition)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9710953</integer>
+			<key>Total Time</key><integer>277107</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2019-08-22T21:04:43Z</date>
+			<key>Date Added</key><date>2019-08-22T21:04:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3714913300</integer>
+			<key>Play Date UTC</key><date>2021-09-19T10:51:40Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-06-13T12:46:44Z</date>
+			<key>Release Date</key><date>2009-09-08T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hits Collection, Vol. 1 (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>JAY-Z &#38; Alicia Keys</string>
+			<key>Sort Name</key><string>Empire State of Mind (feat. Alicia Keys)</string>
+			<key>Persistent ID</key><string>CCCC6E01BDDC6923</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9719</key>
+		<dict>
+			<key>Track ID</key><integer>9719</integer>
+			<key>Name</key><string>Jumpman</string>
+			<key>Artist</key><string>Drake &#38; Future</string>
+			<key>Album Artist</key><string>Drake &#38; Future</string>
+			<key>Composer</key><string>Nayvadius Wilburn, Leland Wayne &#38; Aubrey Drake Graham</string>
+			<key>Album</key><string>What a Time To Be Alive</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7421946</integer>
+			<key>Total Time</key><integer>205879</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2019-10-10T18:24:10Z</date>
+			<key>Date Added</key><date>2019-10-10T18:24:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3703939412</integer>
+			<key>Play Date UTC</key><date>2021-05-15T10:33:32Z</date>
+			<key>Release Date</key><date>2015-09-20T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>What a Time To Be Alive</string>
+			<key>Sort Artist</key><string>Drake &#38; Future</string>
+			<key>Sort Name</key><string>Jumpman</string>
+			<key>Persistent ID</key><string>FDCD96DF70D1F035</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9947</key>
+		<dict>
+			<key>Track ID</key><integer>9947</integer>
+			<key>Name</key><string>U Don't Know</string>
+			<key>Artist</key><string>JAY-Z</string>
+			<key>Album Artist</key><string>JAY-Z</string>
+			<key>Composer</key><string>Bobby Byrd, Shawn Carter &#38; J. Smith</string>
+			<key>Album</key><string>The Blueprint</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7137820</integer>
+			<key>Total Time</key><integer>199440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2019-11-01T07:42:16Z</date>
+			<key>Date Added</key><date>2019-11-01T07:42:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3703940398</integer>
+			<key>Play Date UTC</key><date>2021-05-15T10:49:58Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-01-19T14:36:36Z</date>
+			<key>Release Date</key><date>2001-09-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blueprint</string>
+			<key>Sort Artist</key><string>JAY-Z</string>
+			<key>Sort Name</key><string>U Don't Know</string>
+			<key>Persistent ID</key><string>2890B1AF9E5B1B59</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9949</key>
+		<dict>
+			<key>Track ID</key><integer>9949</integer>
+			<key>Name</key><string>Encore</string>
+			<key>Artist</key><string>JAY-Z</string>
+			<key>Album Artist</key><string>JAY-Z</string>
+			<key>Composer</key><string>Shawn Carter, Kanye West, John Lennon &#38; Paul McCartney</string>
+			<key>Album</key><string>The Hits Collection, Vol. 1 (Deluxe Edition)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8783551</integer>
+			<key>Total Time</key><integer>249920</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-11-01T07:42:45Z</date>
+			<key>Date Added</key><date>2019-11-01T07:42:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3703950321</integer>
+			<key>Play Date UTC</key><date>2021-05-15T13:35:21Z</date>
+			<key>Release Date</key><date>2003-11-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hits Collection, Vol. 1 (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>JAY-Z</string>
+			<key>Sort Name</key><string>Encore</string>
+			<key>Persistent ID</key><string>D57A1A1A672F5282</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9951</key>
+		<dict>
+			<key>Track ID</key><integer>9951</integer>
+			<key>Name</key><string>Otis (feat. Otis Redding)</string>
+			<key>Artist</key><string>JAY-Z &#38; Kanye West</string>
+			<key>Album Artist</key><string>JAY-Z &#38; Kanye West</string>
+			<key>Composer</key><string>Kanye West, Shawn Carter, Harry M. Woods, Jimmy Campbell, Reg Connelly, Kirk Robinson, James Brown, Joseph Roach &#38; Roy C Hammond</string>
+			<key>Album</key><string>Watch the Throne (Deluxe)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6684880</integer>
+			<key>Total Time</key><integer>178224</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-11-01T07:50:13Z</date>
+			<key>Date Added</key><date>2019-11-01T07:50:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3703946784</integer>
+			<key>Play Date UTC</key><date>2021-05-15T12:36:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-11-15T15:51:50Z</date>
+			<key>Release Date</key><date>2011-07-20T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Watch the Throne (Deluxe)</string>
+			<key>Sort Artist</key><string>JAY-Z &#38; Kanye West</string>
+			<key>Sort Name</key><string>Otis (feat. Otis Redding)</string>
+			<key>Persistent ID</key><string>FDB90058E22C1318</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9953</key>
+		<dict>
+			<key>Track ID</key><integer>9953</integer>
+			<key>Name</key><string>Holy Grail (feat. Justin Timberlake)</string>
+			<key>Artist</key><string>JAY-Z</string>
+			<key>Album Artist</key><string>JAY-Z</string>
+			<key>Composer</key><string>Justin Timberlake, Shawn Carter, Terius "The-Dream" Nash, Timothy Mosley, J. Harmon, E. Wilson, Kurt Cobain, Dave Grohl &#38; Krist Novoselic</string>
+			<key>Album</key><string>Magna Carta... Holy Grail</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11817501</integer>
+			<key>Total Time</key><integer>338370</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-11-01T08:02:08Z</date>
+			<key>Date Added</key><date>2019-11-01T08:02:08Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3703941398</integer>
+			<key>Play Date UTC</key><date>2021-05-15T11:06:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-11-02T21:35:32Z</date>
+			<key>Release Date</key><date>2013-07-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Magna Carta... Holy Grail</string>
+			<key>Sort Artist</key><string>JAY-Z</string>
+			<key>Sort Name</key><string>Holy Grail (feat. Justin Timberlake)</string>
+			<key>Persistent ID</key><string>F1C3DFF1BE530706</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9957</key>
+		<dict>
+			<key>Track ID</key><integer>9957</integer>
+			<key>Name</key><string>Renegade (feat. Eminem)</string>
+			<key>Artist</key><string>JAY-Z</string>
+			<key>Album Artist</key><string>JAY-Z</string>
+			<key>Composer</key><string>Marshall Mathers, Luis Resto &#38; Shawn Carter</string>
+			<key>Album</key><string>The Blueprint</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11628166</integer>
+			<key>Total Time</key><integer>337760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2019-11-01T08:48:35Z</date>
+			<key>Date Added</key><date>2019-11-01T08:48:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3703949003</integer>
+			<key>Play Date UTC</key><date>2021-05-15T13:13:23Z</date>
+			<key>Release Date</key><date>2001-09-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blueprint</string>
+			<key>Sort Artist</key><string>JAY-Z</string>
+			<key>Sort Name</key><string>Renegade (feat. Eminem)</string>
+			<key>Persistent ID</key><string>F7AC435E38838C7B</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9959</key>
+		<dict>
+			<key>Track ID</key><integer>9959</integer>
+			<key>Name</key><string>99 Problems</string>
+			<key>Artist</key><string>JAY-Z</string>
+			<key>Album Artist</key><string>JAY-Z</string>
+			<key>Composer</key><string>Shawn Carter, Rick Rubin, Norman Landsberg, Felix Pappalardi, Leslie Weinstein, John Ventura, William Squier, Tracy Marrow &#38; Alphonso Henderson</string>
+			<key>Album</key><string>The Hits Collection, Vol. 1 (Deluxe Edition)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8974432</integer>
+			<key>Total Time</key><integer>235467</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-11-01T11:32:43Z</date>
+			<key>Date Added</key><date>2019-11-01T11:32:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3703948438</integer>
+			<key>Play Date UTC</key><date>2021-05-15T13:03:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-11-01T11:46:17Z</date>
+			<key>Release Date</key><date>2003-11-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hits Collection, Vol. 1 (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>JAY-Z</string>
+			<key>Sort Name</key><string>99 Problems</string>
+			<key>Persistent ID</key><string>2528074452F77560</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9961</key>
+		<dict>
+			<key>Track ID</key><integer>9961</integer>
+			<key>Name</key><string>Song Cry</string>
+			<key>Artist</key><string>JAY-Z</string>
+			<key>Album Artist</key><string>JAY-Z</string>
+			<key>Composer</key><string>Douglas Gibbs, Ralph Johnson, Shawn Carter &#38; J. Smith</string>
+			<key>Album</key><string>The Blueprint</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10561894</integer>
+			<key>Total Time</key><integer>302360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2019-11-01T11:45:40Z</date>
+			<key>Date Added</key><date>2019-11-01T11:45:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3703943792</integer>
+			<key>Play Date UTC</key><date>2021-05-15T11:46:32Z</date>
+			<key>Release Date</key><date>2001-09-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blueprint</string>
+			<key>Sort Artist</key><string>JAY-Z</string>
+			<key>Sort Name</key><string>Song Cry</string>
+			<key>Persistent ID</key><string>10BCB4FDD9365D45</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9963</key>
+		<dict>
+			<key>Track ID</key><integer>9963</integer>
+			<key>Name</key><string>Public Service Announcement (Interlude)</string>
+			<key>Artist</key><string>JAY-Z</string>
+			<key>Album Artist</key><string>JAY-Z</string>
+			<key>Composer</key><string>Shawn Carter, Justin Smith &#38; Raymond Levin</string>
+			<key>Album</key><string>The Hits Collection, Vol. 1 (Deluxe Edition)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5940909</integer>
+			<key>Total Time</key><integer>166000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-11-01T12:57:18Z</date>
+			<key>Date Added</key><date>2019-11-01T12:57:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3703862223</integer>
+			<key>Play Date UTC</key><date>2021-05-14T13:07:03Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-01-19T14:38:29Z</date>
+			<key>Release Date</key><date>2003-11-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Hits Collection, Vol. 1 (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>JAY-Z</string>
+			<key>Sort Name</key><string>Public Service Announcement (Interlude)</string>
+			<key>Persistent ID</key><string>46205703DB359BE3</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9965</key>
+		<dict>
+			<key>Track ID</key><integer>9965</integer>
+			<key>Name</key><string>Smile (feat. Gloria Carter)</string>
+			<key>Artist</key><string>JAY-Z</string>
+			<key>Album Artist</key><string>JAY-Z</string>
+			<key>Composer</key><string>Shawn Carter, Stevie Wonder &#38; NO I.D.</string>
+			<key>Album</key><string>4:44</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10169317</integer>
+			<key>Total Time</key><integer>289849</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-11-02T11:06:14Z</date>
+			<key>Date Added</key><date>2019-11-02T11:06:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3703947735</integer>
+			<key>Play Date UTC</key><date>2021-05-15T12:52:15Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-12-12T13:56:57Z</date>
+			<key>Release Date</key><date>2017-06-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>4:44</string>
+			<key>Sort Artist</key><string>JAY-Z</string>
+			<key>Sort Name</key><string>Smile (feat. Gloria Carter)</string>
+			<key>Persistent ID</key><string>1CDA872D10758769</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>9969</key>
+		<dict>
+			<key>Track ID</key><integer>9969</integer>
+			<key>Name</key><string>Love Lockdown</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Composer</key><string>Kanye West, Jeff Bhasker, Jenny-Bea Englishman, Malik Yusef El Shabazz Jones &#38; LaNeah</string>
+			<key>Album</key><string>808s &#38; Heartbreak</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9746429</integer>
+			<key>Total Time</key><integer>270307</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-11-02T20:23:24Z</date>
+			<key>Date Added</key><date>2019-11-02T20:23:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3703950592</integer>
+			<key>Play Date UTC</key><date>2021-05-15T13:39:52Z</date>
+			<key>Release Date</key><date>2008-09-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>808s &#38; Heartbreak</string>
+			<key>Sort Artist</key><string>Kanye West</string>
+			<key>Sort Name</key><string>Love Lockdown</string>
+			<key>Persistent ID</key><string>AAE71B78E2EB1A4B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10071</key>
+		<dict>
+			<key>Track ID</key><integer>10071</integer>
+			<key>Name</key><string>Yikes</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Composer</key><string>Kanye West, MIKE DEAN, James Mbarack Achieng, Ayub Ogada, Aubrey Drake Graham, Cydel Young, Dexter Mills, Danielle Balbuena, Jordan Jenks, Asten Harris, Malik Yusef, Kenneth Pershon, Terrence Boykin &#38; Jorden Thorpe</string>
+			<key>Album</key><string>ye</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6797950</integer>
+			<key>Total Time</key><integer>188771</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-11-02T20:34:02Z</date>
+			<key>Date Added</key><date>2019-11-02T20:34:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3720541229</integer>
+			<key>Play Date UTC</key><date>2021-11-23T14:10:29Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-11-04T03:29:24Z</date>
+			<key>Release Date</key><date>2018-06-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>ye</string>
+			<key>Sort Artist</key><string>Kanye West</string>
+			<key>Sort Name</key><string>Yikes</string>
+			<key>Persistent ID</key><string>034886AF4FB2D646</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10073</key>
+		<dict>
+			<key>Track ID</key><integer>10073</integer>
+			<key>Name</key><string>Fade</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Composer</key><string>Kanye West, Austin Post, Anthony Kilhoffer, MIKE DEAN, Ryan Vojtesak, Noah Goldstein, Jerome Potter, Cornelius Grant, Eddie Holland, Norman Whitfield, Larry Heard, Robert Owens, Louie Vega, Ronald Carroll, Barbara Tucker, Harold Matthews, Stephen Garrett,</string>
+			<key>Album</key><string>The Life of Pablo</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6901651</integer>
+			<key>Total Time</key><integer>193748</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-11-02T20:49:35Z</date>
+			<key>Date Added</key><date>2019-11-02T20:49:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3716548249</integer>
+			<key>Play Date UTC</key><date>2021-10-08T09:00:49Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-10-09T05:15:19Z</date>
+			<key>Release Date</key><date>2016-02-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Life of Pablo</string>
+			<key>Sort Artist</key><string>Kanye West</string>
+			<key>Sort Name</key><string>Fade</string>
+			<key>Persistent ID</key><string>949FF9861E0B4425</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10075</key>
+		<dict>
+			<key>Track ID</key><integer>10075</integer>
+			<key>Name</key><string>Good Life (feat. T-Pain)</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Composer</key><string>Kanye West, John Stephens, A. Davis, Faheem Najm, Quincy Jones &#38; James Ingram</string>
+			<key>Album</key><string>Graduation</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7521656</integer>
+			<key>Total Time</key><integer>207000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2019-11-02T23:11:45Z</date>
+			<key>Date Added</key><date>2019-11-02T23:11:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3720544380</integer>
+			<key>Play Date UTC</key><date>2021-11-23T15:03:00Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2022-01-23T09:19:03Z</date>
+			<key>Release Date</key><date>2007-09-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Graduation</string>
+			<key>Sort Artist</key><string>Kanye West</string>
+			<key>Sort Name</key><string>Good Life (feat. T-Pain)</string>
+			<key>Persistent ID</key><string>5AF91C1636642658</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10077</key>
+		<dict>
+			<key>Track ID</key><integer>10077</integer>
+			<key>Name</key><string>Gold Digger (feat. Jamie Foxx)</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Composer</key><string>Kanye West, Ray Charles &#38; Renald Richard</string>
+			<key>Album</key><string>Late Registration</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7418571</integer>
+			<key>Total Time</key><integer>207627</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2019-11-02T23:11:45Z</date>
+			<key>Date Added</key><date>2019-11-02T23:11:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3703945678</integer>
+			<key>Play Date UTC</key><date>2021-05-15T12:17:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-02-20T05:55:53Z</date>
+			<key>Release Date</key><date>2005-07-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Late Registration</string>
+			<key>Sort Artist</key><string>Kanye West</string>
+			<key>Sort Name</key><string>Gold Digger (feat. Jamie Foxx)</string>
+			<key>Persistent ID</key><string>037F49B614A917F2</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10079</key>
+		<dict>
+			<key>Track ID</key><integer>10079</integer>
+			<key>Name</key><string>Heartless</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Composer</key><string>Kanye West, NO I.D., Scott Mescudi &#38; Malik Yusef El Shabazz Jones</string>
+			<key>Album</key><string>808s &#38; Heartbreak</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7523360</integer>
+			<key>Total Time</key><integer>211000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2019-11-02T23:11:46Z</date>
+			<key>Date Added</key><date>2019-11-02T23:11:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3703944424</integer>
+			<key>Play Date UTC</key><date>2021-05-15T11:57:04Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-12-11T12:49:19Z</date>
+			<key>Release Date</key><date>2008-11-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>808s &#38; Heartbreak</string>
+			<key>Sort Artist</key><string>Kanye West</string>
+			<key>Sort Name</key><string>Heartless</string>
+			<key>Persistent ID</key><string>7904E67D1FB21EF3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10081</key>
+		<dict>
+			<key>Track ID</key><integer>10081</integer>
+			<key>Name</key><string>Mercy (feat. Big Sean, Pusha T &#38; 2 Chainz)</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Composer</key><string>Kanye West, Stephan Taft, Sean Anderson, Terrence Thornton, Tauheed Epps, James Thomas, Denzie Beagle, Winston Riley, Reggie Williams, MIKE DEAN, Anthony Khan, Willie Hansbro &#38; Herbert Turner</string>
+			<key>Album</key><string>Mercy (feat. Big Sean, Pusha T &#38; 2 Chainz) - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11429521</integer>
+			<key>Total Time</key><integer>329320</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-11-02T23:11:47Z</date>
+			<key>Date Added</key><date>2019-11-02T23:11:47Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3703950071</integer>
+			<key>Play Date UTC</key><date>2021-05-15T13:31:11Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-03-05T20:47:39Z</date>
+			<key>Release Date</key><date>2012-04-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mercy (feat. Big Sean, Pusha T &#38; 2 Chainz) - Single</string>
+			<key>Sort Artist</key><string>Kanye West</string>
+			<key>Sort Name</key><string>Mercy (feat. Big Sean, Pusha T &#38; 2 Chainz)</string>
+			<key>Persistent ID</key><string>2E426ABE86D83D96</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10083</key>
+		<dict>
+			<key>Track ID</key><integer>10083</integer>
+			<key>Name</key><string>Jesus Walks</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Composer</key><string>Kanye West, Miri Ben-Ari, Curtis Lundy &#38; C. Smith</string>
+			<key>Album</key><string>The College Dropout</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6955039</integer>
+			<key>Total Time</key><integer>193733</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2019-11-03T00:01:25Z</date>
+			<key>Date Added</key><date>2019-11-03T00:01:25Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3703942831</integer>
+			<key>Play Date UTC</key><date>2021-05-15T11:30:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-12-20T07:24:57Z</date>
+			<key>Release Date</key><date>2004-02-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>College Dropout</string>
+			<key>Sort Artist</key><string>Kanye West</string>
+			<key>Sort Name</key><string>Jesus Walks</string>
+			<key>Persistent ID</key><string>77496D3C3C5E69DA</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10085</key>
+		<dict>
+			<key>Track ID</key><integer>10085</integer>
+			<key>Name</key><string>Power</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Composer</key><string>Kanye West, Francois Bernheim, Jean Pierre Lang, MIKE DEAN, Jeff Bhasker, Robert Fripp, Michael Giles, Greg Lake, Peter Sinfield, Malik Yusef, N. Perez, Larry Griffin Jr., Ian Richard McDonald &#38; B. Bergman</string>
+			<key>Album</key><string>My Beautiful Dark Twisted Fantasy (Deluxe Edition)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10410836</integer>
+			<key>Total Time</key><integer>292093</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2019-11-03T00:04:22Z</date>
+			<key>Date Added</key><date>2019-11-03T00:04:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3702852701</integer>
+			<key>Play Date UTC</key><date>2021-05-02T20:41:41Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-11-20T08:40:22Z</date>
+			<key>Release Date</key><date>2010-05-28T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Beautiful Dark Twisted Fantasy (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Kanye West</string>
+			<key>Sort Name</key><string>Power</string>
+			<key>Persistent ID</key><string>382A5FC70090478C</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10089</key>
+		<dict>
+			<key>Track ID</key><integer>10089</integer>
+			<key>Name</key><string>Famous</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Composer</key><string>Kanye West, Cydel Young, Kejuan Waliek Muchita, Noah Goldstein, Andrew Dawson, MIKE DEAN, Chancelor Bennett, Kasseem Dean, Ernest Brown, Ross Birchard, Patrick Reynolds, Jimmy Webb, Winston Riley, Luis Bacalov, Enzo Vita, Sergio Bardotti &#38; Giampiero Scala</string>
+			<key>Album</key><string>The Life of Pablo</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7034720</integer>
+			<key>Total Time</key><integer>196040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>20</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-11-03T00:16:27Z</date>
+			<key>Date Added</key><date>2019-11-03T00:16:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3703944886</integer>
+			<key>Play Date UTC</key><date>2021-05-15T12:04:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-11-21T10:06:20Z</date>
+			<key>Release Date</key><date>2016-02-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Life of Pablo</string>
+			<key>Sort Artist</key><string>Kanye West</string>
+			<key>Sort Name</key><string>Famous</string>
+			<key>Persistent ID</key><string>880DFCF1D0ED45DA</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10139</key>
+		<dict>
+			<key>Track ID</key><integer>10139</integer>
+			<key>Name</key><string>King Sh*t (feat. T.I.)</string>
+			<key>Artist</key><string>Yo Gotti</string>
+			<key>Album Artist</key><string>Yo Gotti</string>
+			<key>Composer</key><string>Mario Mims, Clifford Harris, Traditional, Asha Bhosle &#38; Mahenra Kakpoor</string>
+			<key>Album</key><string>I Am</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7508742</integer>
+			<key>Total Time</key><integer>211187</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-11-21T15:55:38Z</date>
+			<key>Date Added</key><date>2019-11-21T15:55:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3703939923</integer>
+			<key>Play Date UTC</key><date>2021-05-15T10:42:03Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-12-01T16:39:52Z</date>
+			<key>Release Date</key><date>2013-10-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I Am</string>
+			<key>Sort Artist</key><string>Yo Gotti</string>
+			<key>Sort Name</key><string>King Sh*t (feat. T.I.)</string>
+			<key>Persistent ID</key><string>3F7CED3EDBD39072</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10313</key>
+		<dict>
+			<key>Track ID</key><integer>10313</integer>
+			<key>Name</key><string>Swimming Pools (Drank)</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>Kendrick Lamar, Tyler Williams &#38; Nikhil Seetharam</string>
+			<key>Album</key><string>good kid, m.A.A.d city (Deluxe)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8766684</integer>
+			<key>Total Time</key><integer>247960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-12-06T06:49:26Z</date>
+			<key>Date Added</key><date>2019-12-06T06:49:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3703949453</integer>
+			<key>Play Date UTC</key><date>2021-05-15T13:20:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-02-08T04:20:31Z</date>
+			<key>Release Date</key><date>2012-07-31T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>good kid, m.A.A.d city (Deluxe)</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Name</key><string>Swimming Pools (Drank)</string>
+			<key>Persistent ID</key><string>214833104D5A94D6</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10315</key>
+		<dict>
+			<key>Track ID</key><integer>10315</integer>
+			<key>Name</key><string>Alright</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>Kendrick Lamar, P. Williams &#38; M. Spears</string>
+			<key>Album</key><string>To Pimp a Butterfly</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7809204</integer>
+			<key>Total Time</key><integer>219337</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2019-12-06T06:56:24Z</date>
+			<key>Date Added</key><date>2019-12-06T06:56:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3700814835</integer>
+			<key>Play Date UTC</key><date>2021-04-09T06:37:15Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-04-09T06:39:35Z</date>
+			<key>Release Date</key><date>2015-03-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>To Pimp a Butterfly</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Name</key><string>Alright</string>
+			<key>Persistent ID</key><string>B14049A9BA3F3798</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10317</key>
+		<dict>
+			<key>Track ID</key><integer>10317</integer>
+			<key>Name</key><string>i</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>Kendrick Lamar, Ronald Isley, O'Kelly Isley Jr., Marvin Isley, Rudolph Isley, Christopher Jasper, Ernest Isley &#38; C. Smith</string>
+			<key>Album</key><string>i - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8453020</integer>
+			<key>Total Time</key><integer>231924</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2019-12-06T07:02:11Z</date>
+			<key>Date Added</key><date>2019-12-06T07:02:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3713955899</integer>
+			<key>Play Date UTC</key><date>2021-09-08T08:54:59Z</date>
+			<key>Release Date</key><date>2014-09-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>i - Single</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Name</key><string>i</string>
+			<key>Persistent ID</key><string>AE849083C786F2C7</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10321</key>
+		<dict>
+			<key>Track ID</key><integer>10321</integer>
+			<key>Name</key><string>Michael Jordan (feat. ScHoolboy Q)</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Album</key><string>Overly Dedicated</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12399737</integer>
+			<key>Total Time</key><integer>350699</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2019-12-06T07:26:18Z</date>
+			<key>Date Added</key><date>2019-12-06T07:26:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3703947445</integer>
+			<key>Play Date UTC</key><date>2021-05-15T12:47:25Z</date>
+			<key>Release Date</key><date>2010-09-14T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Overly Dedicated</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Name</key><string>Michael Jordan (feat. ScHoolboy Q)</string>
+			<key>Persistent ID</key><string>36610FDFDAE825C1</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10323</key>
+		<dict>
+			<key>Track ID</key><integer>10323</integer>
+			<key>Name</key><string>DNA.</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>Kendrick Lamar &#38; Michael L. Williams II</string>
+			<key>Album</key><string>DAMN.</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6737296</integer>
+			<key>Total Time</key><integer>185947</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-12-06T07:26:26Z</date>
+			<key>Date Added</key><date>2019-12-06T07:26:26Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3720508299</integer>
+			<key>Play Date UTC</key><date>2021-11-23T05:01:39Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-12-06T07:26:26Z</date>
+			<key>Release Date</key><date>2017-04-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DAMN.</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Name</key><string>DNA.</string>
+			<key>Persistent ID</key><string>4681142B24C3D01C</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10325</key>
+		<dict>
+			<key>Track ID</key><integer>10325</integer>
+			<key>Name</key><string>Bitch, Don’t Kill My Vibe</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>Kendrick Lamar, M. Spears, Robin Hannibal, Ronni Vindahl &#38; Liv Lykke</string>
+			<key>Album</key><string>good kid, m.A.A.d city (Deluxe)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11024560</integer>
+			<key>Total Time</key><integer>310758</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-12-06T07:28:41Z</date>
+			<key>Date Added</key><date>2019-12-06T07:28:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3761314536</integer>
+			<key>Play Date UTC</key><date>2023-03-10T12:05:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-07-30T01:28:14Z</date>
+			<key>Release Date</key><date>2012-01-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>good kid, m.A.A.d city (Deluxe)</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Name</key><string>Bitch, Don’t Kill My Vibe</string>
+			<key>Persistent ID</key><string>E44135D4D3DA5541</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10329</key>
+		<dict>
+			<key>Track ID</key><integer>10329</integer>
+			<key>Name</key><string>Institutionalized (feat. Bilal, Anna Wise &#38; Snoop Dogg)</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>Kendrick Lamar, C. Smith &#38; F. Halldin</string>
+			<key>Album</key><string>To Pimp a Butterfly</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9522565</integer>
+			<key>Total Time</key><integer>271774</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2019-12-06T07:38:43Z</date>
+			<key>Date Added</key><date>2019-12-06T07:38:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3703945471</integer>
+			<key>Play Date UTC</key><date>2021-05-15T12:14:31Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-03-01T02:48:12Z</date>
+			<key>Release Date</key><date>2015-03-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>To Pimp a Butterfly</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Name</key><string>Institutionalized (feat. Bilal, Anna Wise &#38; Snoop Dogg)</string>
+			<key>Persistent ID</key><string>4A3288C878DE95FC</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10333</key>
+		<dict>
+			<key>Track ID</key><integer>10333</integer>
+			<key>Name</key><string>The Art of Peer Pressure</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>Kendrick Lamar, R. Rask &#38; J. Vestergaard</string>
+			<key>Album</key><string>good kid, m.A.A.d city (Deluxe)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11434648</integer>
+			<key>Total Time</key><integer>324619</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-12-06T08:41:33Z</date>
+			<key>Date Added</key><date>2019-12-06T08:41:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3703946360</integer>
+			<key>Play Date UTC</key><date>2021-05-15T12:29:20Z</date>
+			<key>Release Date</key><date>2012-10-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>good kid, m.A.A.d city (Deluxe)</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Name</key><string>Art of Peer Pressure</string>
+			<key>Persistent ID</key><string>82AAC9694287EECF</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10337</key>
+		<dict>
+			<key>Track ID</key><integer>10337</integer>
+			<key>Name</key><string>03’ Adolescence</string>
+			<key>Artist</key><string>J. Cole</string>
+			<key>Album Artist</key><string>J. Cole</string>
+			<key>Composer</key><string>J. Cole, William "Willie B." Brown, Johnny Burke &#38; James Van Heusen</string>
+			<key>Album</key><string>2014 Forest Hills Drive</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9353634</integer>
+			<key>Total Time</key><integer>264213</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2019-12-08T06:29:49Z</date>
+			<key>Date Added</key><date>2019-12-08T06:29:49Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3703941663</integer>
+			<key>Play Date UTC</key><date>2021-05-15T11:11:03Z</date>
+			<key>Release Date</key><date>2014-12-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>2014 Forest Hills Drive</string>
+			<key>Sort Artist</key><string>J. Cole</string>
+			<key>Sort Name</key><string>03’ Adolescence</string>
+			<key>Persistent ID</key><string>DA9BCC9C3A91C55A</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10339</key>
+		<dict>
+			<key>Track ID</key><integer>10339</integer>
+			<key>Name</key><string>Foldin Clothes</string>
+			<key>Artist</key><string>J. Cole</string>
+			<key>Album Artist</key><string>J. Cole</string>
+			<key>Composer</key><string>Jermaine Cole</string>
+			<key>Album</key><string>4 Your Eyez Only</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>11113735</integer>
+			<key>Total Time</key><integer>316930</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-12-08T06:33:44Z</date>
+			<key>Date Added</key><date>2019-12-08T06:33:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3720508113</integer>
+			<key>Play Date UTC</key><date>2021-11-23T04:58:33Z</date>
+			<key>Release Date</key><date>2016-12-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>4 Your Eyez Only</string>
+			<key>Sort Artist</key><string>J. Cole</string>
+			<key>Sort Name</key><string>Foldin Clothes</string>
+			<key>Persistent ID</key><string>7104D8707C70873E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10341</key>
+		<dict>
+			<key>Track ID</key><integer>10341</integer>
+			<key>Name</key><string>MIDDLE CHILD</string>
+			<key>Artist</key><string>J. Cole</string>
+			<key>Album Artist</key><string>J. Cole</string>
+			<key>Composer</key><string>J. Cole</string>
+			<key>Album</key><string>MIDDLE CHILD - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7606325</integer>
+			<key>Total Time</key><integer>213594</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-12-08T06:35:19Z</date>
+			<key>Date Added</key><date>2019-12-08T06:35:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3716651216</integer>
+			<key>Play Date UTC</key><date>2021-10-09T13:36:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-12-09T08:26:57Z</date>
+			<key>Release Date</key><date>2019-01-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>MIDDLE CHILD - Single</string>
+			<key>Sort Artist</key><string>J. Cole</string>
+			<key>Sort Name</key><string>MIDDLE CHILD</string>
+			<key>Persistent ID</key><string>73ED94202060E492</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10343</key>
+		<dict>
+			<key>Track ID</key><integer>10343</integer>
+			<key>Name</key><string>ATM</string>
+			<key>Artist</key><string>J. Cole</string>
+			<key>Album Artist</key><string>J. Cole</string>
+			<key>Composer</key><string>J. Cole, Sammy Cahn &#38; Nicholas Brodszky</string>
+			<key>Album</key><string>KOD</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7869492</integer>
+			<key>Total Time</key><integer>216720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-12-08T06:38:38Z</date>
+			<key>Date Added</key><date>2019-12-08T06:38:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3703941880</integer>
+			<key>Play Date UTC</key><date>2021-05-15T11:14:40Z</date>
+			<key>Release Date</key><date>2018-04-20T00:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>KOD</string>
+			<key>Sort Artist</key><string>J. Cole</string>
+			<key>Sort Name</key><string>ATM</string>
+			<key>Persistent ID</key><string>AA7CA3B93C0F20D2</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10345</key>
+		<dict>
+			<key>Track ID</key><integer>10345</integer>
+			<key>Name</key><string>Deja Vu</string>
+			<key>Artist</key><string>J. Cole</string>
+			<key>Album Artist</key><string>J. Cole</string>
+			<key>Composer</key><string>J. Cole, Matthew Samuels, Tyler Bryant, ANDERSON HERNANDEZ, MICHAEL O. JOHNSON JR. &#38; Javalyn N. Hall</string>
+			<key>Album</key><string>4 Your Eyez Only</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9270365</integer>
+			<key>Total Time</key><integer>266406</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-12-08T06:43:34Z</date>
+			<key>Date Added</key><date>2019-12-08T06:43:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3703944690</integer>
+			<key>Play Date UTC</key><date>2021-05-15T12:01:30Z</date>
+			<key>Release Date</key><date>2016-12-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>4 Your Eyez Only</string>
+			<key>Sort Artist</key><string>J. Cole</string>
+			<key>Sort Name</key><string>Deja Vu</string>
+			<key>Persistent ID</key><string>E483050E4AEF9524</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10347</key>
+		<dict>
+			<key>Track ID</key><integer>10347</integer>
+			<key>Name</key><string>King Kunta</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>Kendrick Lamar, M. Spears, Johnny Burns, D. Blake, M. Jackson, A. Lewis &#38; S. Gordy</string>
+			<key>Album</key><string>To Pimp a Butterfly</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8290200</integer>
+			<key>Total Time</key><integer>234690</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2019-12-10T06:20:24Z</date>
+			<key>Date Added</key><date>2019-12-10T06:20:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3714956933</integer>
+			<key>Play Date UTC</key><date>2021-09-19T22:58:53Z</date>
+			<key>Release Date</key><date>2015-03-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>To Pimp a Butterfly</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Name</key><string>King Kunta</string>
+			<key>Persistent ID</key><string>84DFF5C2DC803441</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10349</key>
+		<dict>
+			<key>Track ID</key><integer>10349</integer>
+			<key>Name</key><string>Immortal</string>
+			<key>Artist</key><string>J. Cole</string>
+			<key>Album Artist</key><string>J. Cole</string>
+			<key>Composer</key><string>J. Cole, Carl McCormick, Jasmin Charles &#38; Margaux Whitney</string>
+			<key>Album</key><string>4 Your Eyez Only</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7200982</integer>
+			<key>Total Time</key><integer>200011</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-12-10T06:26:00Z</date>
+			<key>Date Added</key><date>2019-12-10T06:26:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3714959157</integer>
+			<key>Play Date UTC</key><date>2021-09-19T23:35:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-02-26T14:00:00Z</date>
+			<key>Release Date</key><date>2016-12-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>4 Your Eyez Only</string>
+			<key>Sort Artist</key><string>J. Cole</string>
+			<key>Sort Name</key><string>Immortal</string>
+			<key>Persistent ID</key><string>C26517413B5439E3</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10351</key>
+		<dict>
+			<key>Track ID</key><integer>10351</integer>
+			<key>Name</key><string>Wet Dreamz</string>
+			<key>Artist</key><string>J. Cole</string>
+			<key>Album Artist</key><string>J. Cole</string>
+			<key>Composer</key><string>J. Cole, Charles Simmons &#38; Roy Hammond</string>
+			<key>Album</key><string>2014 Forest Hills Drive</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8516728</integer>
+			<key>Total Time</key><integer>239267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2019-12-10T06:26:23Z</date>
+			<key>Date Added</key><date>2019-12-10T06:26:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3703940639</integer>
+			<key>Play Date UTC</key><date>2021-05-15T10:53:59Z</date>
+			<key>Release Date</key><date>2014-12-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>2014 Forest Hills Drive</string>
+			<key>Sort Artist</key><string>J. Cole</string>
+			<key>Sort Name</key><string>Wet Dreamz</string>
+			<key>Persistent ID</key><string>2E506B961F62F0D6</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10355</key>
+		<dict>
+			<key>Track ID</key><integer>10355</integer>
+			<key>Name</key><string>Opps</string>
+			<key>Artist</key><string>Vince Staples, Yugen Blakrok</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>Vince Staples, M. Spears, Kendrick Lamar, Ludwig Göransson &#38; Anthony Tiffith</string>
+			<key>Album</key><string>Black Panther: The Album</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6519866</integer>
+			<key>Total Time</key><integer>180896</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-12-10T07:19:27Z</date>
+			<key>Date Added</key><date>2019-12-10T07:19:27Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3703946035</integer>
+			<key>Play Date UTC</key><date>2021-05-15T12:23:55Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-12-31T15:36:00Z</date>
+			<key>Release Date</key><date>2018-02-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Black Panther: The Album</string>
+			<key>Sort Artist</key><string>Vince Staples, Yugen Blakrok</string>
+			<key>Sort Name</key><string>Opps</string>
+			<key>Persistent ID</key><string>67541CF48459B2CC</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10527</key>
+		<dict>
+			<key>Track ID</key><integer>10527</integer>
+			<key>Name</key><string>HIGHEST IN THE ROOM</string>
+			<key>Artist</key><string>Travis Scott</string>
+			<key>Album Artist</key><string>Travis Scott</string>
+			<key>Composer</key><string>Jacques Webster, Ozan Yildirim, Nik Frascona &#38; MIKE DEAN</string>
+			<key>Album</key><string>HIGHEST IN THE ROOM - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6729322</integer>
+			<key>Total Time</key><integer>175721</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-12-31T15:05:14Z</date>
+			<key>Date Added</key><date>2019-12-31T15:05:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3703945854</integer>
+			<key>Play Date UTC</key><date>2021-05-15T12:20:54Z</date>
+			<key>Release Date</key><date>2019-10-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>HIGHEST IN THE ROOM - Single</string>
+			<key>Sort Artist</key><string>Travis Scott</string>
+			<key>Sort Name</key><string>HIGHEST IN THE ROOM</string>
+			<key>Persistent ID</key><string>B4E9A8A9D34CB171</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10531</key>
+		<dict>
+			<key>Track ID</key><integer>10531</integer>
+			<key>Name</key><string>Money In The Grave (feat. Rick Ross)</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Album Artist</key><string>Drake</string>
+			<key>Composer</key><string>Aubrey Drake Graham, W. Roberts, L. Currie, Cydney Christine Dade, A. Joergensen &#38; Delorean Black</string>
+			<key>Album</key><string>The Best In The World Pack - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7278315</integer>
+			<key>Total Time</key><integer>205369</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-12-31T15:05:56Z</date>
+			<key>Date Added</key><date>2019-12-31T15:05:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3738359946</integer>
+			<key>Play Date UTC</key><date>2022-06-17T19:49:06Z</date>
+			<key>Release Date</key><date>2019-06-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best In The World Pack - Single</string>
+			<key>Sort Artist</key><string>Drake</string>
+			<key>Sort Name</key><string>Money In The Grave (feat. Rick Ross)</string>
+			<key>Persistent ID</key><string>D56FC6F57476CAEE</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10741</key>
+		<dict>
+			<key>Track ID</key><integer>10741</integer>
+			<key>Name</key><string>I Do It (feat. Big Sean &#38; Lil Baby)</string>
+			<key>Artist</key><string>Lil Wayne</string>
+			<key>Album Artist</key><string>Lil Wayne</string>
+			<key>Composer</key><string>Dwayne Carter, Sean Anderson, Dominique Jones, Ryan Vojtesak &#38; Rex Kudo</string>
+			<key>Album</key><string>Funeral</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6633018</integer>
+			<key>Total Time</key><integer>184440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-02-04T13:03:22Z</date>
+			<key>Date Added</key><date>2020-02-04T13:03:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3720540910</integer>
+			<key>Play Date UTC</key><date>2021-11-23T14:05:10Z</date>
+			<key>Release Date</key><date>2020-01-31T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Funeral</string>
+			<key>Sort Artist</key><string>Lil Wayne</string>
+			<key>Sort Name</key><string>I Do It (feat. Big Sean &#38; Lil Baby)</string>
+			<key>Persistent ID</key><string>07A492933C5F26CA</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>10895</key>
+		<dict>
+			<key>Track ID</key><integer>10895</integer>
+			<key>Name</key><string>Know Yourself</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Album Artist</key><string>Drake</string>
+			<key>Composer</key><string>Aubrey Drake Graham, Quentin Miller, M. Samuels, A. Hernandez &#38; J. Scruggs</string>
+			<key>Album</key><string>If You're Reading This It's Too Late</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9522960</integer>
+			<key>Total Time</key><integer>275841</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2020-03-09T13:56:52Z</date>
+			<key>Date Added</key><date>2020-03-09T13:56:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3703940199</integer>
+			<key>Play Date UTC</key><date>2021-05-15T10:46:39Z</date>
+			<key>Release Date</key><date>2015-02-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>If You're Reading This It's Too Late</string>
+			<key>Sort Artist</key><string>Drake</string>
+			<key>Sort Name</key><string>Know Yourself</string>
+			<key>Persistent ID</key><string>1BE321CF86263FB9</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>11495</key>
+		<dict>
+			<key>Track ID</key><integer>11495</integer>
+			<key>Name</key><string>Light Speed (feat. Hittman)</string>
+			<key>Artist</key><string>Dr. Dre</string>
+			<key>Album Artist</key><string>Dr. Dre</string>
+			<key>Composer</key><string>Dr. Dre, Andre R. Young &#38; Brian Bailey</string>
+			<key>Album</key><string>2001</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5900980</integer>
+			<key>Total Time</key><integer>160973</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2020-11-20T11:40:04Z</date>
+			<key>Date Added</key><date>2020-11-20T11:40:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3703949614</integer>
+			<key>Play Date UTC</key><date>2021-05-15T13:23:34Z</date>
+			<key>Release Date</key><date>1999-11-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>2001</string>
+			<key>Sort Artist</key><string>Dr. Dre</string>
+			<key>Sort Name</key><string>Light Speed (feat. Hittman)</string>
+			<key>Persistent ID</key><string>74D672858A2B3BBF</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>13075</key>
+		<dict>
+			<key>Track ID</key><integer>13075</integer>
+			<key>Name</key><string>Stronger</string>
+			<key>Artist</key><string>Kanye West</string>
+			<key>Album Artist</key><string>Kanye West</string>
+			<key>Album</key><string>Graduation</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7590671</integer>
+			<key>Total Time</key><integer>314723</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2013-01-27T14:52:43Z</date>
+			<key>Date Added</key><date>2017-07-26T06:48:48Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Comments</key><string>[maced]</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3658692309</integer>
+			<key>Play Date UTC</key><date>2019-12-08T17:55:09Z</date>
+			<key>Normalization</key><integer>1885</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7039F6C7D5CD84A5</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>20051</key>
+		<dict>
+			<key>Track ID</key><integer>20051</integer>
+			<key>Name</key><string>LOYALTY. (FEAT. RIHANNA.)</string>
+			<key>Artist</key><string>Kendrick Lamar</string>
+			<key>Album Artist</key><string>Kendrick Lamar</string>
+			<key>Composer</key><string>K. Duckworth, D. Natche, M. Spears, T. Martin &#38; Anthony Tiffith</string>
+			<key>Album</key><string>DAMN.</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8074602</integer>
+			<key>Total Time</key><integer>227360</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-01-27T20:06:34Z</date>
+			<key>Date Added</key><date>2018-01-27T20:06:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3703948666</integer>
+			<key>Play Date UTC</key><date>2021-05-15T13:07:46Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2018-10-28T18:14:48Z</date>
+			<key>Release Date</key><date>2017-04-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DAMN.</string>
+			<key>Sort Artist</key><string>Kendrick Lamar</string>
+			<key>Sort Name</key><string>LOYALTY. (FEAT. RIHANNA.)</string>
+			<key>Persistent ID</key><string>2A1502B982C063AC</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21333</key>
+		<dict>
+			<key>Track ID</key><integer>21333</integer>
+			<key>Name</key><string>KOD</string>
+			<key>Artist</key><string>J. Cole</string>
+			<key>Album Artist</key><string>J. Cole</string>
+			<key>Composer</key><string>J. Cole</string>
+			<key>Album</key><string>KOD</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6919707</integer>
+			<key>Total Time</key><integer>191437</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-06-04T16:35:44Z</date>
+			<key>Date Added</key><date>2018-06-04T16:35:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3716303958</integer>
+			<key>Play Date UTC</key><date>2021-10-05T13:09:18Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-12-08T06:36:45Z</date>
+			<key>Release Date</key><date>2018-04-20T00:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>KOD</string>
+			<key>Sort Artist</key><string>J. Cole</string>
+			<key>Sort Name</key><string>KOD</string>
+			<key>Persistent ID</key><string>F5463523433DC824</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21379</key>
+		<dict>
+			<key>Track ID</key><integer>21379</integer>
+			<key>Name</key><string>Started from the Bottom</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Album Artist</key><string>Drake</string>
+			<key>Composer</key><string>Aubrey Drake Graham, W. Coleman &#38; Noah Shebib</string>
+			<key>Album</key><string>Nothing Was the Same</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6237914</integer>
+			<key>Total Time</key><integer>173922</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2018-06-04T16:35:44Z</date>
+			<key>Date Added</key><date>2018-06-04T16:35:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3703862721</integer>
+			<key>Play Date UTC</key><date>2021-05-14T13:15:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2018-12-29T12:55:34Z</date>
+			<key>Release Date</key><date>2013-02-06T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nothing Was the Same</string>
+			<key>Sort Artist</key><string>Drake</string>
+			<key>Sort Name</key><string>Started from the Bottom</string>
+			<key>Persistent ID</key><string>31EE2177A2690677</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>21999</key>
+		<dict>
+			<key>Track ID</key><integer>21999</integer>
+			<key>Name</key><string>STARGAZING</string>
+			<key>Artist</key><string>Travis Scott</string>
+			<key>Album Artist</key><string>Travis Scott</string>
+			<key>Composer</key><string>Jacques Webster, Sonny Uwaezuoke, Brandon Korn, Brandon Whitfield, Samuel Gloade, Jamie Lepe, MIKE DEAN &#38; Lamont Porter</string>
+			<key>Album</key><string>ASTROWORLD</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9535373</integer>
+			<key>Total Time</key><integer>270715</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-09-15T08:55:10Z</date>
+			<key>Date Added</key><date>2018-09-15T08:55:10Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3703950862</integer>
+			<key>Play Date UTC</key><date>2021-05-15T13:44:22Z</date>
+			<key>Release Date</key><date>2018-08-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>ASTROWORLD</string>
+			<key>Sort Artist</key><string>Travis Scott</string>
+			<key>Sort Name</key><string>STARGAZING</string>
+			<key>Persistent ID</key><string>E3F5CE319255431E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>23077</key>
+		<dict>
+			<key>Track ID</key><integer>23077</integer>
+			<key>Name</key><string>SICKO MODE</string>
+			<key>Artist</key><string>John Scofield and Mayer</string>
+			<key>Album Artist</key><string>Travis Scott</string>
+			<key>Composer</key><string>Jacques Webster, Mirsad Dervic, Aubrey Drake Graham, Khalif Brown, John Edward Hawkins, Chauncey Hollis, Ozan Yildirim, Roget Chahayed, Cydel Young, Tim Gomringer, Kevin Gomringer, Brytavious Chambers, MIKE DEAN, Luther Campbell, Harry Wayne Casey, Richar</string>
+			<key>Album</key><string>ASTROWORLD</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10908819</integer>
+			<key>Total Time</key><integer>312820</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-12-13T13:14:46Z</date>
+			<key>Date Added</key><date>2018-12-13T13:14:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>64</integer>
+			<key>Play Date</key><integer>3761126164</integer>
+			<key>Play Date UTC</key><date>2023-03-08T07:46:04Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-02-08T02:02:27Z</date>
+			<key>Release Date</key><date>2018-08-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>ASTROWORLD</string>
+			<key>Sort Artist</key><string>Travis Scott</string>
+			<key>Sort Name</key><string>SICKO MODE</string>
+			<key>Persistent ID</key><string>69A04FDEC18B428A</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>23225</key>
+		<dict>
+			<key>Track ID</key><integer>23225</integer>
+			<key>Name</key><string>Ric Flair Drip</string>
+			<key>Artist</key><string>Offset &#38; Metro Boomin</string>
+			<key>Album Artist</key><string>21 Savage, Offset &#38; Metro Boomin</string>
+			<key>Composer</key><string>Kiari Cephus, Leland Wayne &#38; Bijan Amir</string>
+			<key>Album</key><string>Without Warning</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6219925</integer>
+			<key>Total Time</key><integer>172800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-12-29T09:25:46Z</date>
+			<key>Date Added</key><date>2018-12-29T09:25:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3703948203</integer>
+			<key>Play Date UTC</key><date>2021-05-15T13:00:03Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-02-18T13:26:50Z</date>
+			<key>Release Date</key><date>2017-10-31T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Without Warning</string>
+			<key>Sort Artist</key><string>Offset &#38; Metro Boomin</string>
+			<key>Sort Name</key><string>Ric Flair Drip</string>
+			<key>Persistent ID</key><string>62323E59C4ADD66E</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>23245</key>
+		<dict>
+			<key>Track ID</key><integer>23245</integer>
+			<key>Name</key><string>I'm Upset</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Album Artist</key><string>Drake</string>
+			<key>Composer</key><string>Aubrey Drake Graham &#38; Jordan Ortiz</string>
+			<key>Album</key><string>Scorpion</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7603884</integer>
+			<key>Total Time</key><integer>214467</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-12-29T09:28:05Z</date>
+			<key>Date Added</key><date>2018-12-29T09:28:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3714912237</integer>
+			<key>Play Date UTC</key><date>2021-09-19T10:33:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-12-30T15:57:53Z</date>
+			<key>Release Date</key><date>2018-05-26T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Scorpion</string>
+			<key>Sort Artist</key><string>Drake</string>
+			<key>Sort Name</key><string>I'm Upset</string>
+			<key>Persistent ID</key><string>B374651D39144AD0</string>
+			<key>Explicit</key><true/>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>H?</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>39764</integer>
+			<key>Playlist Persistent ID</key><string>255349F3B2C39840</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>9947</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9949</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9525</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9951</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9953</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9957</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9961</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9959</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9963</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9965</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9969</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13075</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10071</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7515</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6289</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10073</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6361</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10075</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10077</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10079</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10081</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10083</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10085</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10089</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10313</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20051</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10315</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10317</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10321</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10325</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10329</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10333</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10337</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10339</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10341</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21333</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10343</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10345</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10347</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10323</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10349</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10351</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10355</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10527</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10531</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10741</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21379</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23077</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23225</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23245</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6365</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21999</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10895</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11495</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
